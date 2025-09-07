@@ -4225,11 +4225,11 @@
     "screenName": "Cinema 5",
     "operator": "BOT",
     "total": 128,
-    "sold": 0,
-    "available": 128,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 126,
+    "occupancy": 1.56,
     "max_gross": 3328.0,
-    "total_gross": 0.0,
+    "total_gross": 52.0,
     "price": 26.0,
     "error": false
   },
@@ -4650,11 +4650,11 @@
     "screenName": "Xtremescreen 1",
     "operator": "BOT",
     "total": 312,
-    "sold": 2,
-    "available": 310,
-    "occupancy": 0.64,
+    "sold": 3,
+    "available": 309,
+    "occupancy": 0.96,
     "max_gross": 9516.0,
-    "total_gross": 61.0,
+    "total_gross": 91.5,
     "price": 30.5,
     "error": false
   },
@@ -5761,7 +5761,8 @@
     "max_gross": 1785.0,
     "total_gross": 0.0,
     "price": 25.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 468896,
@@ -5911,9 +5912,9 @@
     "sold": 0,
     "available": 221,
     "occupancy": 0.0,
-    "max_gross": 5746.0,
+    "max_gross": 5967.0,
     "total_gross": 0.0,
-    "price": 26.0,
+    "price": 27.0,
     "error": false
   },
   {
