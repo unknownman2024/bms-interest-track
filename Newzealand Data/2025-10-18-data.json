@@ -1,0 +1,53 @@
+[
+  {
+    "id": 275665,
+    "cinemaId": "1004",
+    "movieId": "HO00008074",
+    "date": "2025-10-18T14:30:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 1",
+    "operator": "NTH",
+    "total": 50,
+    "sold": 2,
+    "available": 48,
+    "occupancy": 4.0,
+    "max_gross": 1350.0,
+    "total_gross": 54.0,
+    "price": 27.0,
+    "error": false
+  },
+  {
+    "id": 326696,
+    "cinemaId": "1014",
+    "movieId": "HO00008074",
+    "date": "2025-10-18T14:30:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 6",
+    "operator": "TER",
+    "total": 264,
+    "sold": 0,
+    "available": 264,
+    "occupancy": 0.0,
+    "max_gross": 6468.0,
+    "total_gross": 0.0,
+    "price": 24.5,
+    "error": false
+  },
+  {
+    "id": 399108,
+    "cinemaId": "1012",
+    "movieId": "HO00008074",
+    "date": "2025-10-18T14:30:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 6",
+    "operator": "BOT",
+    "total": 153,
+    "sold": 0,
+    "available": 153,
+    "occupancy": 0.0,
+    "max_gross": 3978.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
+  }
+]

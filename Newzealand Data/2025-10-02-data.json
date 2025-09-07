@@ -1,0 +1,53 @@
+[
+  {
+    "id": 78809,
+    "cinemaId": "CHCCIN",
+    "movieId": "HO00008077",
+    "date": "2025-10-02T18:30:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 02",
+    "operator": "CHC",
+    "total": 78,
+    "sold": 6,
+    "available": 72,
+    "occupancy": 7.69,
+    "max_gross": 1443.0,
+    "total_gross": 111.0,
+    "price": 18.5,
+    "error": false
+  },
+  {
+    "id": 468072,
+    "cinemaId": "1002",
+    "movieId": "HO00008077",
+    "date": "2025-10-02T18:30:00",
+    "typeId": "LUX",
+    "screenName": "HOYTS LUX 14",
+    "operator": "SYLDS",
+    "total": 51,
+    "sold": 2,
+    "available": 49,
+    "occupancy": 3.92,
+    "max_gross": 1377.0,
+    "total_gross": 54.0,
+    "price": 27.0,
+    "error": false
+  },
+  {
+    "id": 468071,
+    "cinemaId": "1002",
+    "movieId": "HO00008077",
+    "date": "2025-10-02T18:30:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 4",
+    "operator": "SYL",
+    "total": 550,
+    "sold": 3,
+    "available": 547,
+    "occupancy": 0.55,
+    "max_gross": 14025.0,
+    "total_gross": 76.5,
+    "price": 25.5,
+    "error": false
+  }
+]

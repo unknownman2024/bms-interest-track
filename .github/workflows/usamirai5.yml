@@ -1,0 +1,55 @@
+name: USA Mirai Scraper
+
+on:
+  workflow_dispatch:   # manual run
+  schedule:
+    - cron: "0 */1 * * *"    # every hour at :00 UTC (6:30 PM, 7:30 PM IST...)
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0   # full history so rebase works
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run scraper
+        env:
+          AUTHORIZATION_TOKEN: ${{ secrets.AUTHORIZATION_TOKEN }}
+          SESSION_ID: ${{ secrets.SESSION_ID }}
+        run: |
+          python usa5.py
+
+      - name: Commit & Push results
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Stage & commit changes first
+          git add "USA Data/*.json"
+          git commit -m "Update USA Data ($(date -u +'%Y-%m-%d %H:%M:%S UTC'))" || echo "No changes to commit"
+
+          # Fetch latest remote
+          git fetch origin main || true
+
+          # Try safe rebase + push
+          if git rebase origin/main; then
+            git push origin HEAD:main
+          else
+            echo "⚠️ Rebase failed, force pushing instead..."
+            git rebase --abort || true
+            git push origin HEAD:main --force
+          fi

@@ -1,0 +1,59 @@
+name: BookMyShow Movie Interest Scraper
+
+on:
+  # Run every hour starting from 1:00 PM IST (7:30 AM UTC)
+  schedule:
+    - cron: '30 * * * *'  # Runs at 30 minutes past every hour
+  
+  # Allow manual trigger
+  workflow_dispatch:
+
+# Add permissions for the GITHUB_TOKEN
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: npm install
+      
+    - name: Install Puppeteer dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y \
+          libnss3-dev \
+          libatk-bridge2.0-dev \
+          libdrm-dev \
+          libxcomposite-dev \
+          libxdamage-dev \
+          libxrandr-dev \
+          libgbm-dev \
+          libxss-dev \
+          libasound2-dev
+          
+    - name: Run BookMyShow scraper
+      run: npm run browser
+      
+    - name: Commit and push results
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add bms-interest-log.json
+        git diff --staged --quiet || git commit -m "📊 Daily BMS interest data update - $(date +'%Y-%m-%d %H:%M')"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

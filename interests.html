@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Movie Interest Dashboard</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  body {
+    font-family: 'Inter', sans-serif;
+    background: linear-gradient(135deg, #f0f4ff, #ffffff);
+    margin: 0;
+    padding: 20px;
+    color: #1f2937;
+  }
+  h1 {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 15px;
+  }
+  .container {
+    max-width: 1200px;
+    margin: auto;
+  }
+  .card {
+    background: white;
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+    margin-bottom: 20px;
+  }
+  input, button, select {
+    padding: 10px 14px;
+    border-radius: 8px;
+    border: 1px solid #d1d5db;
+    font-size: 14px;
+  }
+  button {
+    background: #2563eb;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background 0.2s;
+  }
+  button:hover {
+    background: #1e4ed8;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+    font-size: 14px;
+  }
+  th, td {
+    padding: 10px;
+    border-bottom: 1px solid #e5e7eb;
+  }
+  th {
+    background: #f9fafb;
+    text-align: left;
+    font-weight: 600;
+  }
+  tr:hover {
+    background: #f3f4f6;
+  }
+  .clickable {
+    cursor: pointer;
+    color: #2563eb;
+    font-weight: 600;
+  }
+  .details {
+    margin-top: 10px;
+    font-size: 13px;
+    background: #f9fafb;
+    padding: 10px;
+    border-radius: 8px;
+    display: none;
+  }
+  canvas {
+    max-width: 100%;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>🎬 Movie Interest Dashboard</h1>
+  <div class="card">
+    <button id="fetchBtn">Fetch Data</button>
+    <input type="file" id="fileInput" accept="application/json">
+    <input type="text" id="dateFilter" placeholder="YYYY-MM-DD">
+    <input type="text" id="movieSearch" placeholder="Search movie">
+    <button id="resetBtn">Reset</button>
+  </div>
+  <div class="card">
+    <canvas id="trendChart"></canvas>
+  </div>
+  <div class="card">
+    <table>
+      <thead>
+        <tr>
+          <th>Movie</th>
+          <th>Latest Interest</th>
+          <th>Growth %</th>
+        </tr>
+      </thead>
+      <tbody id="movieTableBody"></tbody>
+    </table>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+let logData = [];
+let movieSeries = {};
+let currentMovie = '';
+
+function parseInterest(s) {
+  if (!s || s === '—') return null;
+  const m = String(s).match(/^([0-9]*\.?[0-9]+)\s*([KMkm]?)$/);
+  if (!m) return Number(s) || null;
+  let val = parseFloat(m[1]);
+  const unit = m[2].toUpperCase();
+  if (unit === 'K') val *= 1_000;
+  if (unit === 'M') val *= 1_000_000;
+  return val;
+}
+
+async function fetchData() {
+  try {
+    const res = await fetch('https://x.com/log.json'); // change to your actual log.json URL
+    if (!res.ok) throw new Error('Network response was not ok');
+    logData = await res.json();
+    buildMovieSeries();
+    renderTable();
+    renderChart();
+  } catch (e) {
+    alert('Failed to fetch: ' + e.message);
+  }
+}
+
+document.getElementById('fetchBtn').addEventListener('click', fetchData);
+
+document.getElementById('fileInput').addEventListener('change', async e => {
+  const file = e.target.files[0];
+  if (!file) return;
+  const text = await file.text();
+  logData = JSON.parse(text);
+  buildMovieSeries();
+  renderTable();
+  renderChart();
+});
+
+document.getElementById('resetBtn').addEventListener('click', () => {
+  document.getElementById('dateFilter').value = '';
+  document.getElementById('movieSearch').value = '';
+  currentMovie = '';
+  renderTable();
+  renderChart();
+});
+
+document.getElementById('movieSearch').addEventListener('input', renderTable);
+document.getElementById('dateFilter').addEventListener('input', renderTable);
+
+function buildMovieSeries() {
+  movieSeries = {};
+  for (const entry of logData) {
+    for (const m of entry.data) {
+      if (!movieSeries[m.Movie]) movieSeries[m.Movie] = [];
+      movieSeries[m.Movie].push({
+        date: entry.date,
+        timestamp: entry.timestamp,
+        value: parseInterest(m.Interests)
+      });
+    }
+  }
+}
+
+function computeGrowth(series) {
+  const sorted = [...series].sort((a,b) => a.date.localeCompare(b.date));
+  const first = sorted.find(p => p.value != null);
+  const last = [...sorted].reverse().find(p => p.value != null);
+  if (!first || !last || first.value === 0) return null;
+  return ((last.value - first.value) / first.value) * 100;
+}
+
+function renderTable() {
+  const tbody = document.getElementById('movieTableBody');
+  tbody.innerHTML = '';
+  const query = document.getElementById('movieSearch').value.toLowerCase();
+  Object.keys(movieSeries)
+    .filter(name => query ? name.toLowerCase().includes(query) : true)
+    .forEach(name => {
+      const s = movieSeries[name];
+      const latest = [...s].sort((a,b) => a.timestamp.localeCompare(b.timestamp)).reverse().find(p => p.value != null);
+      const growth = computeGrowth(s);
+      const tr = document.createElement('tr');
+      tr.innerHTML = `<td class="clickable">${name}</td><td>${latest ? latest.value.toLocaleString() : '—'}</td><td>${growth != null ? growth.toFixed(1)+'%' : '—'}</td>`;
+      tr.querySelector('td').addEventListener('click', () => toggleDetails(name));
+      tbody.appendChild(tr);
+
+      const detailsRow = document.createElement('tr');
+      const detailsCell = document.createElement('td');
+      detailsCell.colSpan = 3;
+      const detailsDiv = document.createElement('div');
+      detailsDiv.className = 'details';
+      detailsDiv.id = `details-${name}`;
+      detailsRow.appendChild(detailsCell);
+      detailsCell.appendChild(detailsDiv);
+      tbody.appendChild(detailsRow);
+    });
+}
+
+function toggleDetails(name) {
+  const detailsDiv = document.getElementById(`details-${name}`);
+  if (!detailsDiv) return;
+  const visible = detailsDiv.style.display === 'block';
+  document.querySelectorAll('.details').forEach(el => el.style.display = 'none');
+  if (!visible) {
+    detailsDiv.style.display = 'block';
+    detailsDiv.innerHTML = renderMovieDetails(name);
+  }
+}
+
+function renderMovieDetails(name) {
+  const entries = movieSeries[name].filter(e => e.value != null);
+  const grouped = {};
+  entries.forEach(e => {
+    if (!grouped[e.date]) grouped[e.date] = [];
+    grouped[e.date].push(e);
+  });
+  const dates = Object.keys(grouped).sort();
+  const latestDate = dates[dates.length - 1];
+
+  let html = `<strong>${name}</strong><br>
+              <label>Select date:</label>
+              <select id="dateSelect-${name}">
+                ${dates.map(d => `<option value="${d}" ${d===latestDate?'selected':''}>${d}</option>`).join('')}
+              </select>
+              <canvas id="hourlyChart-${name}" height="200"></canvas>
+              <br><strong>Daily Summary</strong><ul>`;
+  dates.forEach(d => {
+    const avg = grouped[d].reduce((a,b) => a + b.value, 0) / grouped[d].length;
+    html += `<li>${d}: Avg Interest ${Math.round(avg).toLocaleString()}</li>`;
+  });
+  html += '</ul>';
+
+  setTimeout(() => {
+    const select = document.getElementById(`dateSelect-${name}`);
+    const ctx = document.getElementById(`hourlyChart-${name}`).getContext('2d');
+    let chart;
+
+    function renderHourlyChart(day) {
+      const dataForDay = grouped[day].sort((a,b) => a.timestamp.localeCompare(b.timestamp));
+      const labels = dataForDay.map(e => new Date(e.timestamp).getHours().toString().padStart(2,'0') + ':00');
+      const values = dataForDay.map(e => e.value);
+      if (chart) chart.destroy();
+      chart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels,
+          datasets: [{
+            label: `Hourly Interest (${day})`,
+            data: values,
+            backgroundColor: 'rgba(37,99,235,0.7)',
+            borderRadius: 6
+          }]
+        },
+        options: {
+          responsive: true,
+          plugins: { legend: { display: false } },
+          scales: { y: { beginAtZero: true } }
+        }
+      });
+    }
+
+    renderHourlyChart(latestDate);
+    select.addEventListener('change', e => renderHourlyChart(e.target.value));
+  }, 0);
+
+  return html;
+}
+
+let chartInstance;
+function renderChart() {
+  const ctx = document.getElementById('trendChart').getContext('2d');
+  if (chartInstance) chartInstance.destroy();
+  let labels = [...new Set(logData.map(l => l.date))].sort();
+  let data;
+  if (currentMovie) {
+    const series = movieSeries[currentMovie] || [];
+    data = labels.map(d => {
+      const p = series.find(x => x.date === d);
+      return p ? p.value || 0 : 0;
+    });
+  } else {
+    data = labels.map(d => {
+      const entry = logData.find(l => l.date === d);
+      return entry ? entry.data.reduce((acc,m) => acc + (parseInterest(m.Interests) || 0),0) : 0;
+    });
+  }
+  chartInstance = new Chart(ctx, {
+    type: 'line',
+    data: { labels, datasets: [{ label: currentMovie || 'Total Interest', data, borderColor: '#2563eb', backgroundColor: 'rgba(37,99,235,0.15)', fill: true, tension: 0.3 }] },
+    options: { responsive: true, plugins: { legend: { display: true } }, scales: { y: { beginAtZero: true } } }
+  });
+}
+</script>
+</body>
+</html>

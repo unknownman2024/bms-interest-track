@@ -1,0 +1,31 @@
+name: Run aiobms.py
+
+on:
+  workflow_dispatch:   # Manual trigger
+  push:                # Jab bhi push hoga
+    branches: [ "main" ]
+  schedule:            # Daily schedule (optional)
+    - cron: "0 5 * * *"   # 5:00 AM UTC = 10:30 AM IST
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.11"
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install cloudscraper pandas
+
+    - name: Run aiobms.py
+      run: |
+        echo "⚡ Starting aiobms.py run..."
+        python aiobms.py

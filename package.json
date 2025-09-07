@@ -1,0 +1,19 @@
+{
+  "name": "bookmyshow-scraper",
+  "version": "1.0.0",
+  "description": "Scraper to extract interested count from BookMyShow movie pages",
+  "main": "scraper.js",
+  "type": "module",
+  "scripts": {
+    "start": "node scraper.js",
+    "fetch": "node scraper.js",
+    "browser": "node scraper-puppeteer.js",
+    "test": "node scraper-puppeteer.js"
+  },
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "jsdom": "^22.1.0",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.16.0"
+  }
+}
