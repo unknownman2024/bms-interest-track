@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-08 01:38:54 AM",
+  "last_updated": "2025-09-08 02:37:27 AM",
   "errors": [
     {
       "state": "MA",
@@ -9803,21 +9803,6 @@
       "theater_name": "El Paso Premiere LUX Cine 17 IMAX",
       "chainName": "Premiere Cinemas",
       "chainCode": "PRCM",
-      "showtime_id": 512254181,
-      "date": "2025-09-11+16:00",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79925",
-      "theater_name": "El Paso Premiere LUX Cine 17 IMAX",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
       "showtime_id": 512254182,
       "date": "2025-09-11+19:25",
       "format": "IMAX",
@@ -9835,21 +9820,6 @@
       "chainCode": "PRCM",
       "showtime_id": 512222563,
       "date": "2025-09-11+17:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79925",
-      "theater_name": "El Paso Premiere LUX Cine 17 IMAX",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 515063897,
-      "date": "2025-09-11+18:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -11642,51 +11612,6 @@
       }
     },
     {
-      "state": "OR",
-      "city": "Bend",
-      "zip": "97702",
-      "theater_name": "Regal Old Mill ScreenX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 512150135,
-      "date": "2025-09-11+18:50",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "OR",
-      "city": "Bend",
-      "zip": "97702",
-      "theater_name": "Regal Old Mill ScreenX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 512150136,
-      "date": "2025-09-11+22:15",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "OR",
-      "city": "Bend",
-      "zip": "97702",
-      "theater_name": "Regal Old Mill ScreenX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 512150138,
-      "date": "2025-09-11+16:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
       "state": "NJ",
       "city": "New Brunswick",
       "zip": "08901",
@@ -11708,39 +11633,9 @@
       "theater_name": "AMC New Brunswick 18",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 512005216,
-      "date": "2025-09-11+19:45",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "New Brunswick",
-      "zip": "08901",
-      "theater_name": "AMC New Brunswick 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 512276593,
       "date": "2025-09-11+23:15",
       "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "New Brunswick",
-      "zip": "08901",
-      "theater_name": "AMC New Brunswick 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512005214,
-      "date": "2025-09-11+17:00",
-      "format": "Standard",
       "language": "English",
       "error": {
         "status": 403
@@ -12062,36 +11957,6 @@
       }
     },
     {
-      "state": "NJ",
-      "city": "Brick Township",
-      "zip": "08723",
-      "theater_name": "AMC Brick Plaza 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512128630,
-      "date": "2025-09-11+19:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Brick Township",
-      "zip": "08723",
-      "theater_name": "AMC Brick Plaza 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512276238,
-      "date": "2025-09-11+21:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
       "state": "PA",
       "city": "Homestead",
       "zip": "15120",
@@ -12116,51 +11981,6 @@
       "showtime_id": 515218897,
       "date": "2025-09-11+21:45",
       "format": "Dolby Cinema",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NC",
-      "city": "High Point",
-      "zip": "27265",
-      "theater_name": "AMC High Point 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512314756,
-      "date": "2025-09-11+16:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NC",
-      "city": "High Point",
-      "zip": "27265",
-      "theater_name": "AMC High Point 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512314757,
-      "date": "2025-09-11+19:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NC",
-      "city": "High Point",
-      "zip": "27265",
-      "theater_name": "AMC High Point 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 513298839,
-      "date": "2025-09-11+21:00",
-      "format": "Standard",
       "language": "English",
       "error": {
         "status": 403
@@ -12505,6 +12325,501 @@
       "chainCode": "AMC",
       "showtime_id": 513259312,
       "date": "2025-09-11+21:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Stamford",
+      "zip": "06901",
+      "theater_name": "AMC Majestic 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 511494081,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Stamford",
+      "zip": "06901",
+      "theater_name": "AMC Majestic 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 513274218,
+      "date": "2025-09-11+21:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Bensalem",
+      "zip": "19020",
+      "theater_name": "AMC Woodhaven 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515233486,
+      "date": "2025-09-11+20:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lakeland",
+      "zip": "33803",
+      "theater_name": "CMX Lakeside Village 18 & IMAX",
+      "chainName": "CMX Cinemas",
+      "chainCode": "COBB",
+      "showtime_id": 512261264,
+      "date": "2025-09-11+19:00",
+      "format": "IMAX",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lakeland",
+      "zip": "33803",
+      "theater_name": "CMX Lakeside Village 18 & IMAX",
+      "chainName": "CMX Cinemas",
+      "chainCode": "COBB",
+      "showtime_id": 512261265,
+      "date": "2025-09-11+22:30",
+      "format": "IMAX",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lakeland",
+      "zip": "33803",
+      "theater_name": "CMX Lakeside Village 18 & IMAX",
+      "chainName": "CMX Cinemas",
+      "chainCode": "COBB",
+      "showtime_id": 515246644,
+      "date": "2025-09-11+21:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lakeland",
+      "zip": "33803",
+      "theater_name": "CMX Lakeside Village 18 & IMAX",
+      "chainName": "CMX Cinemas",
+      "chainCode": "COBB",
+      "showtime_id": 512427542,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lakeland",
+      "zip": "33803",
+      "theater_name": "CMX Lakeside Village 18 & IMAX",
+      "chainName": "CMX Cinemas",
+      "chainCode": "COBB",
+      "showtime_id": 515246637,
+      "date": "2025-09-11+20:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Muncie",
+      "zip": "47303",
+      "theater_name": "AMC Showplace Muncie 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 512144797,
+      "date": "2025-09-11+16:00",
+      "format": "IMAX",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Muncie",
+      "zip": "47303",
+      "theater_name": "AMC Showplace Muncie 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 512144798,
+      "date": "2025-09-11+19:30",
+      "format": "IMAX",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Schaumburg",
+      "zip": "60173",
+      "theater_name": "AMC Loews Streets Of Woodfield 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515162265,
+      "date": "2025-09-11+20:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Schaumburg",
+      "zip": "60173",
+      "theater_name": "AMC Loews Streets Of Woodfield 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 514480476,
+      "date": "2025-09-11+18:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Schaumburg",
+      "zip": "60173",
+      "theater_name": "AMC Loews Streets Of Woodfield 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 512144705,
+      "date": "2025-09-11+19:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Schaumburg",
+      "zip": "60173",
+      "theater_name": "AMC Loews Streets Of Woodfield 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 512409342,
+      "date": "2025-09-11+20:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Schaumburg",
+      "zip": "60173",
+      "theater_name": "AMC Loews Streets Of Woodfield 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 513227243,
+      "date": "2025-09-11+21:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema AMC at CityWalk Hollywood",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 512147733,
+      "date": "2025-09-11+18:00",
+      "format": "IMAX",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema AMC at CityWalk Hollywood",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 512147734,
+      "date": "2025-09-11+21:45",
+      "format": "IMAX",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema AMC at CityWalk Hollywood",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 512147730,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema AMC at CityWalk Hollywood",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 512147731,
+      "date": "2025-09-11+22:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema AMC at CityWalk Hollywood",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515246808,
+      "date": "2025-09-11+16:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema AMC at CityWalk Hollywood",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515246815,
+      "date": "2025-09-11+17:05",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema AMC at CityWalk Hollywood",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 514338692,
+      "date": "2025-09-11+18:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema AMC at CityWalk Hollywood",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 512147732,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema AMC at CityWalk Hollywood",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515246809,
+      "date": "2025-09-11+20:05",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema AMC at CityWalk Hollywood",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515246816,
+      "date": "2025-09-11+20:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema AMC at CityWalk Hollywood",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 514338693,
+      "date": "2025-09-11+22:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema AMC at CityWalk Hollywood",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 512315116,
+      "date": "2025-09-11+19:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Universal City",
+      "zip": "91608",
+      "theater_name": "Universal Cinema AMC at CityWalk Hollywood",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 512315117,
+      "date": "2025-09-11+23:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Tustin",
+      "zip": "92782",
+      "theater_name": "AMC Tustin 14 @ The District",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515246604,
+      "date": "2025-09-11+16:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Tustin",
+      "zip": "92782",
+      "theater_name": "AMC Tustin 14 @ The District",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515246603,
+      "date": "2025-09-11+20:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Bakersfield",
+      "zip": "93309",
+      "theater_name": "AMC Bakersfield 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515246806,
+      "date": "2025-09-11+18:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Bakersfield",
+      "zip": "93309",
+      "theater_name": "AMC Bakersfield 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515246804,
+      "date": "2025-09-11+17:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Bakersfield",
+      "zip": "93309",
+      "theater_name": "AMC Bakersfield 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515246803,
+      "date": "2025-09-11+22:45",
       "format": "Standard",
       "language": "English",
       "error": {
