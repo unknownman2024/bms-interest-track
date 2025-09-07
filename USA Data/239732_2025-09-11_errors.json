@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-08 12:33:37 AM",
+  "last_updated": "2025-09-08 12:45:21 AM",
   "errors": [
     {
       "state": "MA",
@@ -11609,6 +11609,396 @@
       "language": "English",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Brookings",
+      "zip": "57006",
+      "theater_name": "Brookings Cinema 8",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 514563519,
+      "date": "2025-09-11+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Brookings",
+      "zip": "57006",
+      "theater_name": "Brookings Cinema 8",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 514563520,
+      "date": "2025-09-11+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Rapid City",
+      "zip": "57701",
+      "theater_name": "Golden Ticket Cinemas Rushmore 7",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 512342599,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Rapid City",
+      "zip": "57701",
+      "theater_name": "Golden Ticket Cinemas Rushmore 7",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 512342600,
+      "date": "2025-09-11+19:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Rapid City",
+      "zip": "57701",
+      "theater_name": "Golden Ticket Cinemas Rushmore 7",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 514157817,
+      "date": "2025-09-11+21:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Rapid City",
+      "zip": "57701",
+      "theater_name": "Golden Ticket Cinemas Rushmore 7",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 514157815,
+      "date": "2025-09-11+16:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Rapid City",
+      "zip": "57701",
+      "theater_name": "Golden Ticket Cinemas Rushmore 7",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 514157816,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Rapid City",
+      "zip": "57701",
+      "theater_name": "Golden Ticket Cinemas Rushmore 7",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 514157818,
+      "date": "2025-09-11+21:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Rapid City",
+      "zip": "57701",
+      "theater_name": "Golden Ticket Cinemas Rushmore 7",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 512342601,
+      "date": "2025-09-11+22:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Rapid City",
+      "zip": "57701",
+      "theater_name": "AMC CLASSIC Rapid City 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 512236913,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Rapid City",
+      "zip": "57701",
+      "theater_name": "AMC CLASSIC Rapid City 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 512236914,
+      "date": "2025-09-11+18:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Lawton",
+      "zip": "73505",
+      "theater_name": "AMC Patriot 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 511922977,
+      "date": "2025-09-11+16:00",
+      "format": "IMAX",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Lawton",
+      "zip": "73505",
+      "theater_name": "AMC Patriot 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 511922978,
+      "date": "2025-09-11+19:30",
+      "format": "IMAX",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Lawton",
+      "zip": "73505",
+      "theater_name": "AMC Patriot 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 511922971,
+      "date": "2025-09-11+17:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Lawton",
+      "zip": "73505",
+      "theater_name": "AMC Patriot 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 511922979,
+      "date": "2025-09-11+18:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Lawton",
+      "zip": "73505",
+      "theater_name": "AMC Patriot 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 511922981,
+      "date": "2025-09-11+20:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Lawton",
+      "zip": "73505",
+      "theater_name": "AMC Patriot 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 513238466,
+      "date": "2025-09-11+21:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Lawton",
+      "zip": "73505",
+      "theater_name": "AMC Patriot 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 514422175,
+      "date": "2025-09-11+21:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Grand Junction",
+      "zip": "81505",
+      "theater_name": "Regal Canyon View",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 511315351,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Grand Junction",
+      "zip": "81505",
+      "theater_name": "Regal Canyon View",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 511315352,
+      "date": "2025-09-11+19:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Grand Junction",
+      "zip": "81505",
+      "theater_name": "Picture Show at Grand Junction",
+      "chainName": "Picture Show Entertainment, LLC",
+      "chainCode": "PSE",
+      "showtime_id": 513564200,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Grand Junction",
+      "zip": "81505",
+      "theater_name": "Picture Show at Grand Junction",
+      "chainName": "Picture Show Entertainment, LLC",
+      "chainCode": "PSE",
+      "showtime_id": 513564201,
+      "date": "2025-09-11+19:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Bend",
+      "zip": "97702",
+      "theater_name": "Regal Old Mill ScreenX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 512150135,
+      "date": "2025-09-11+18:50",
+      "format": "IMAX",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Bend",
+      "zip": "97702",
+      "theater_name": "Regal Old Mill ScreenX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 512150136,
+      "date": "2025-09-11+22:15",
+      "format": "IMAX",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Bend",
+      "zip": "97702",
+      "theater_name": "Regal Old Mill ScreenX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 512150137,
+      "date": "2025-09-11+19:25",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Bend",
+      "zip": "97702",
+      "theater_name": "Regal Old Mill ScreenX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 512150138,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
       }
     }
   ]
