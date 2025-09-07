@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-08 02:37:27 AM",
+  "last_updated": "2025-09-08 03:40:06 AM",
   "errors": [
     {
       "state": "MA",
@@ -509,36 +509,6 @@
       "language": "English",
       "error": {
         "status": 500
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Yonkers",
-      "zip": "10710",
-      "theater_name": "Alamo Drafthouse Yonkers",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 511353494,
-      "date": "2025-09-11+16:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Yonkers",
-      "zip": "10710",
-      "theater_name": "Alamo Drafthouse Yonkers",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 511353495,
-      "date": "2025-09-11+19:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -2819,186 +2789,6 @@
       "language": "English",
       "error": {
         "status": 500
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Pooler",
-      "zip": "31322",
-      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 512253448,
-      "date": "2025-09-11+16:00",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Pooler",
-      "zip": "31322",
-      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 512253449,
-      "date": "2025-09-11+19:25",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Pooler",
-      "zip": "31322",
-      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 513391646,
-      "date": "2025-09-11+16:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Pooler",
-      "zip": "31322",
-      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 512253450,
-      "date": "2025-09-11+17:05",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Pooler",
-      "zip": "31322",
-      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 513391648,
-      "date": "2025-09-11+18:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Pooler",
-      "zip": "31322",
-      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 513391647,
-      "date": "2025-09-11+19:50",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Pooler",
-      "zip": "31322",
-      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 512253451,
-      "date": "2025-09-11+20:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Pooler",
-      "zip": "31322",
-      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 513391649,
-      "date": "2025-09-11+22:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Pooler",
-      "zip": "31322",
-      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 512253452,
-      "date": "2025-09-11+18:10",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Pooler",
-      "zip": "31322",
-      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 512253453,
-      "date": "2025-09-11+21:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Pooler",
-      "zip": "31322",
-      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 513391644,
-      "date": "2025-09-11+17:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Pooler",
-      "zip": "31322",
-      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 513391645,
-      "date": "2025-09-11+21:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -11513,36 +11303,6 @@
       "theater_name": "AMC Patriot 13",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 511922977,
-      "date": "2025-09-11+16:00",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "OK",
-      "city": "Lawton",
-      "zip": "73505",
-      "theater_name": "AMC Patriot 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 511922978,
-      "date": "2025-09-11+19:30",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "OK",
-      "city": "Lawton",
-      "zip": "73505",
-      "theater_name": "AMC Patriot 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 511922971,
       "date": "2025-09-11+17:00",
       "format": "Standard",
@@ -11612,381 +11372,6 @@
       }
     },
     {
-      "state": "NJ",
-      "city": "New Brunswick",
-      "zip": "08901",
-      "theater_name": "AMC New Brunswick 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512005215,
-      "date": "2025-09-11+16:00",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "New Brunswick",
-      "zip": "08901",
-      "theater_name": "AMC New Brunswick 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512276593,
-      "date": "2025-09-11+23:15",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "New Brunswick",
-      "zip": "08901",
-      "theater_name": "AMC New Brunswick 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512005213,
-      "date": "2025-09-11+20:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "New Brunswick",
-      "zip": "08901",
-      "theater_name": "AMC New Brunswick 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512276592,
-      "date": "2025-09-11+22:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "New Brunswick",
-      "zip": "08901",
-      "theater_name": "AMC New Brunswick 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 514092418,
-      "date": "2025-09-11+18:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "New Brunswick",
-      "zip": "08901",
-      "theater_name": "AMC New Brunswick 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515177123,
-      "date": "2025-09-11+19:00",
-      "format": "Dolby Cinema",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "New Brunswick",
-      "zip": "08901",
-      "theater_name": "AMC New Brunswick 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515177124,
-      "date": "2025-09-11+22:45",
-      "format": "Dolby Cinema",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Hackensack",
-      "zip": "07601",
-      "theater_name": "AMC DINE-IN Shops at Riverside 9",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512251821,
-      "date": "2025-09-11+16:00",
-      "format": "Dolby Cinema",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Hackensack",
-      "zip": "07601",
-      "theater_name": "AMC DINE-IN Shops at Riverside 9",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512251822,
-      "date": "2025-09-11+19:30",
-      "format": "Dolby Cinema",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Hackensack",
-      "zip": "07601",
-      "theater_name": "AMC DINE-IN Shops at Riverside 9",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515198426,
-      "date": "2025-09-11+23:00",
-      "format": "Dolby Cinema",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Hackensack",
-      "zip": "07601",
-      "theater_name": "AMC DINE-IN Shops at Riverside 9",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 513011951,
-      "date": "2025-09-11+17:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Hackensack",
-      "zip": "07601",
-      "theater_name": "AMC DINE-IN Shops at Riverside 9",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512356741,
-      "date": "2025-09-11+21:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Hackensack",
-      "zip": "07601",
-      "theater_name": "AMC DINE-IN Shops at Riverside 9",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515198432,
-      "date": "2025-09-11+22:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Hackensack",
-      "zip": "07601",
-      "theater_name": "AMC DINE-IN Shops at Riverside 9",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515198431,
-      "date": "2025-09-11+18:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Hackensack",
-      "zip": "07601",
-      "theater_name": "AMC DINE-IN Shops at Riverside 9",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 513342467,
-      "date": "2025-09-11+20:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Eatontown",
-      "zip": "07724",
-      "theater_name": "AMC Monmouth Mall 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512163649,
-      "date": "2025-09-11+21:00",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Eatontown",
-      "zip": "07724",
-      "theater_name": "AMC Monmouth Mall 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512163638,
-      "date": "2025-09-11+18:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Eatontown",
-      "zip": "07724",
-      "theater_name": "AMC Monmouth Mall 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512163642,
-      "date": "2025-09-11+20:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Eatontown",
-      "zip": "07724",
-      "theater_name": "AMC Monmouth Mall 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512163643,
-      "date": "2025-09-11+17:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Eatontown",
-      "zip": "07724",
-      "theater_name": "AMC Monmouth Mall 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512163639,
-      "date": "2025-09-11+21:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Eatontown",
-      "zip": "07724",
-      "theater_name": "AMC Monmouth Mall 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515047214,
-      "date": "2025-09-11+22:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Eatontown",
-      "zip": "07724",
-      "theater_name": "AMC Monmouth Mall 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512163640,
-      "date": "2025-09-11+16:00",
-      "format": "Dolby Cinema",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Eatontown",
-      "zip": "07724",
-      "theater_name": "AMC Monmouth Mall 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512163641,
-      "date": "2025-09-11+19:30",
-      "format": "Dolby Cinema",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Homestead",
-      "zip": "15120",
-      "theater_name": "AMC Waterfront 22",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512295358,
-      "date": "2025-09-11+19:35",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Homestead",
-      "zip": "15120",
-      "theater_name": "AMC Waterfront 22",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515218897,
-      "date": "2025-09-11+21:45",
-      "format": "Dolby Cinema",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
       "state": "GA",
       "city": "Savannah",
       "zip": "31420",
@@ -12048,141 +11433,6 @@
     },
     {
       "state": "GA",
-      "city": "Cumming",
-      "zip": "30041",
-      "theater_name": "AMC Avenue Forsyth 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512071914,
-      "date": "2025-09-11+16:00",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Cumming",
-      "zip": "30041",
-      "theater_name": "AMC Avenue Forsyth 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512071915,
-      "date": "2025-09-11+19:45",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Cumming",
-      "zip": "30041",
-      "theater_name": "AMC Avenue Forsyth 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512285756,
-      "date": "2025-09-11+17:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Cumming",
-      "zip": "30041",
-      "theater_name": "AMC Avenue Forsyth 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512285757,
-      "date": "2025-09-11+20:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Cumming",
-      "zip": "30041",
-      "theater_name": "AMC Avenue Forsyth 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 513293586,
-      "date": "2025-09-11+21:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Chattanooga",
-      "zip": "37412",
-      "theater_name": "AMC Chattanooga 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 511753117,
-      "date": "2025-09-11+19:30",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Chattanooga",
-      "zip": "37412",
-      "theater_name": "AMC Chattanooga 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 513330817,
-      "date": "2025-09-11+23:10",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Chattanooga",
-      "zip": "37412",
-      "theater_name": "AMC Chattanooga 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 511753118,
-      "date": "2025-09-11+17:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Chattanooga",
-      "zip": "37412",
-      "theater_name": "AMC Chattanooga 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 513330816,
-      "date": "2025-09-11+21:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "GA",
       "city": "Albany",
       "zip": "31707",
       "theater_name": "AMC CLASSIC Albany 16",
@@ -12233,147 +11483,12 @@
       "theater_name": "AMC South Barrington 24",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 512163319,
-      "date": "2025-09-11+23:00",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "IL",
-      "city": "South Barrington",
-      "zip": "60010",
-      "theater_name": "AMC South Barrington 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 513345825,
       "date": "2025-09-11+18:00",
       "format": "Standard",
       "language": "English",
       "error": {
         "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Torrance",
-      "zip": "90505",
-      "theater_name": "AMC Rolling Hills 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512200801,
-      "date": "2025-09-11+16:00",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Torrance",
-      "zip": "90505",
-      "theater_name": "AMC Rolling Hills 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512083355,
-      "date": "2025-09-11+20:10",
-      "format": "Dolby Cinema",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Torrance",
-      "zip": "90505",
-      "theater_name": "AMC Rolling Hills 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512270837,
-      "date": "2025-09-11+20:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Torrance",
-      "zip": "90505",
-      "theater_name": "AMC Rolling Hills 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 513259310,
-      "date": "2025-09-11+22:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Torrance",
-      "zip": "90505",
-      "theater_name": "AMC Rolling Hills 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 513259312,
-      "date": "2025-09-11+21:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CT",
-      "city": "Stamford",
-      "zip": "06901",
-      "theater_name": "AMC Majestic 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 511494081,
-      "date": "2025-09-11+16:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CT",
-      "city": "Stamford",
-      "zip": "06901",
-      "theater_name": "AMC Majestic 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 513274218,
-      "date": "2025-09-11+21:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Bensalem",
-      "zip": "19020",
-      "theater_name": "AMC Woodhaven 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515233486,
-      "date": "2025-09-11+20:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
       }
     },
     {
@@ -12449,36 +11564,6 @@
       "language": "English",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Muncie",
-      "zip": "47303",
-      "theater_name": "AMC Showplace Muncie 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512144797,
-      "date": "2025-09-11+16:00",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Muncie",
-      "zip": "47303",
-      "theater_name": "AMC Showplace Muncie 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512144798,
-      "date": "2025-09-11+19:30",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 403
       }
     },
     {
@@ -12752,78 +11837,63 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Tustin",
-      "zip": "92782",
-      "theater_name": "AMC Tustin 14 @ The District",
+      "state": "GA",
+      "city": "Columbus",
+      "zip": "31904",
+      "theater_name": "AMC Ritz 13",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 515246604,
-      "date": "2025-09-11+16:45",
+      "showtime_id": 512034699,
+      "date": "2025-09-11+16:00",
       "format": "Standard",
       "language": "English",
       "error": {
-        "status": 403
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Columbus",
+      "zip": "31904",
+      "theater_name": "AMC Ritz 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 512034700,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Belleville",
+      "zip": "62220",
+      "theater_name": "Lincoln Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515247302,
+      "date": "2025-09-11+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
       }
     },
     {
       "state": "CA",
-      "city": "Tustin",
-      "zip": "92782",
-      "theater_name": "AMC Tustin 14 @ The District",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515246603,
-      "date": "2025-09-11+20:30",
+      "city": "Calabasas",
+      "zip": "91302",
+      "theater_name": "Regency Calabasas Commons",
+      "chainName": "Regency Theatres",
+      "chainCode": "RGCY",
+      "showtime_id": 515247196,
+      "date": "2025-09-11+19:20",
       "format": "Standard",
       "language": "English",
       "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Bakersfield",
-      "zip": "93309",
-      "theater_name": "AMC Bakersfield 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515246806,
-      "date": "2025-09-11+18:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Bakersfield",
-      "zip": "93309",
-      "theater_name": "AMC Bakersfield 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515246804,
-      "date": "2025-09-11+17:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Bakersfield",
-      "zip": "93309",
-      "theater_name": "AMC Bakersfield 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515246803,
-      "date": "2025-09-11+22:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
+        "status": 404
       }
     }
   ]
