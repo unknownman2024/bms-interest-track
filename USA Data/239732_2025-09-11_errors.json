@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-08 09:00:40 AM",
+  "last_updated": "2025-09-08 09:39:10 AM",
   "errors": [
     {
       "state": "MA",
@@ -10098,66 +10098,6 @@
     },
     {
       "state": "CA",
-      "city": "City Of Commerce",
-      "zip": "90022",
-      "theater_name": "Regency Commerce 14",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 512184075,
-      "date": "2025-09-11+16:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "City Of Commerce",
-      "zip": "90022",
-      "theater_name": "Regency Commerce 14",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 512184076,
-      "date": "2025-09-11+19:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "City Of Commerce",
-      "zip": "90022",
-      "theater_name": "Regency Commerce 14",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515239647,
-      "date": "2025-09-11+17:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "City Of Commerce",
-      "zip": "90022",
-      "theater_name": "Regency Commerce 14",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515239648,
-      "date": "2025-09-11+20:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
       "city": "Downey",
       "zip": "90242",
       "theater_name": "Cinemark Downey and XD",
@@ -11802,6 +11742,36 @@
       "date": "2025-09-11+19:15",
       "format": "Standard",
       "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Hamilton",
+      "zip": "13346",
+      "theater_name": "Hamilton Theater",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515253080,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Maysville",
+      "zip": "41056",
+      "theater_name": "Lucas Cinemas 4 ",
+      "chainName": "Lucas Cinemas",
+      "chainCode": "LUCA",
+      "showtime_id": 515253014,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "English",
       "error": {
         "status": 400
       }
