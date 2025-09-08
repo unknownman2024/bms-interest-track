@@ -399,11 +399,11 @@
     "screenName": "Cinema 4",
     "operator": "SYL",
     "total": 550,
-    "sold": 4,
-    "available": 546,
-    "occupancy": 0.73,
+    "sold": 7,
+    "available": 543,
+    "occupancy": 1.27,
     "max_gross": 15125.0,
-    "total_gross": 110.0,
+    "total_gross": 192.5,
     "price": 27.5,
     "error": false
   },
@@ -960,11 +960,11 @@
     "screenName": "Cinema 4",
     "operator": "WPK",
     "total": 114,
-    "sold": 14,
-    "available": 100,
-    "occupancy": 12.28,
+    "sold": 16,
+    "available": 98,
+    "occupancy": 14.04,
     "max_gross": 2964.0,
-    "total_gross": 364.0,
+    "total_gross": 416.0,
     "price": 26.0,
     "error": false
   },
@@ -2428,7 +2428,8 @@
     "max_gross": 2548.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 359021,
@@ -3159,7 +3160,8 @@
     "max_gross": 3280.0,
     "total_gross": 0.0,
     "price": 20.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 177152,
@@ -4248,7 +4250,8 @@
     "max_gross": 2646.0,
     "total_gross": 21.0,
     "price": 21.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 399826,
@@ -4503,7 +4506,8 @@
     "max_gross": 2646.0,
     "total_gross": 0.0,
     "price": 21.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 169035,
@@ -4554,7 +4558,8 @@
     "max_gross": 4389.0,
     "total_gross": 0.0,
     "price": 21.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 169046,
@@ -5812,7 +5817,8 @@
     "max_gross": 1976.0,
     "total_gross": 650.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 359007,
@@ -5999,7 +6005,8 @@
     "max_gross": 2964.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 316221,
