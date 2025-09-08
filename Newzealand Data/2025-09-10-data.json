@@ -3636,8 +3636,7 @@
     "max_gross": 2646.0,
     "total_gross": 0.0,
     "price": 21.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 399842,
@@ -4294,11 +4293,11 @@
     "screenName": "METRO 6",
     "operator": "HAM",
     "total": 42,
-    "sold": 0,
-    "available": 42,
-    "occupancy": 0.0,
+    "sold": 7,
+    "available": 35,
+    "occupancy": 16.67,
     "max_gross": 1029.0,
-    "total_gross": 0.0,
+    "total_gross": 171.5,
     "price": 24.5,
     "error": false
   },
@@ -5552,11 +5551,11 @@
     "screenName": "Cinema 3",
     "operator": "RIC",
     "total": 322,
-    "sold": 2,
-    "available": 320,
-    "occupancy": 0.62,
+    "sold": 4,
+    "available": 318,
+    "occupancy": 1.24,
     "max_gross": 5313.0,
-    "total_gross": 33.0,
+    "total_gross": 66.0,
     "price": 16.5,
     "error": false
   },
