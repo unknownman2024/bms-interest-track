@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-08 10:23:29 PM",
+  "last_updated": "2025-09-08 11:18:54 PM",
   "errors": [
     {
       "state": "CT",
@@ -15177,6 +15177,291 @@
       "date": "2025-09-12+16:30",
       "format": "Standard",
       "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Tunkhannock",
+      "zip": "18657",
+      "theater_name": "Dietrich Theater",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515264715,
+      "date": "2025-09-12+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Tunkhannock",
+      "zip": "18657",
+      "theater_name": "Dietrich Theater",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515264733,
+      "date": "2025-09-12+21:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Portsmouth",
+      "zip": "45662",
+      "theater_name": "Portsmouth Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515262181,
+      "date": "2025-09-12+21:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Portsmouth",
+      "zip": "45662",
+      "theater_name": "Portsmouth Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515262179,
+      "date": "2025-09-12+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Portsmouth",
+      "zip": "45662",
+      "theater_name": "Portsmouth Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515262180,
+      "date": "2025-09-12+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Bay City",
+      "zip": "48706",
+      "theater_name": "Bay City 10 GDX",
+      "chainName": "Bay City Cinemas",
+      "chainCode": "BCC",
+      "showtime_id": 515258406,
+      "date": "2025-09-12+13:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Bay City",
+      "zip": "48706",
+      "theater_name": "Bay City 10 GDX",
+      "chainName": "Bay City Cinemas",
+      "chainCode": "BCC",
+      "showtime_id": 515258404,
+      "date": "2025-09-12+20:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Bay City",
+      "zip": "48706",
+      "theater_name": "Bay City 10 GDX",
+      "chainName": "Bay City Cinemas",
+      "chainCode": "BCC",
+      "showtime_id": 515258407,
+      "date": "2025-09-12+10:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Bay City",
+      "zip": "48706",
+      "theater_name": "Bay City 10 GDX",
+      "chainName": "Bay City Cinemas",
+      "chainCode": "BCC",
+      "showtime_id": 515258405,
+      "date": "2025-09-12+16:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Marysville",
+      "zip": "66508",
+      "theater_name": "Astro 3 Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515253586,
+      "date": "2025-09-12+14:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Marysville",
+      "zip": "66508",
+      "theater_name": "Astro 3 Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515253576,
+      "date": "2025-09-12+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Borger",
+      "zip": "79008",
+      "theater_name": "Mitchell Theatres Morley Theatre",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 515256310,
+      "date": "2025-09-12+18:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Borger",
+      "zip": "79008",
+      "theater_name": "Mitchell Theatres Morley Theatre",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 515256315,
+      "date": "2025-09-12+22:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Dillon",
+      "zip": "80435",
+      "theater_name": "Mitchell Theatres Skyline Cinema 8",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 515262834,
+      "date": "2025-09-12+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Dillon",
+      "zip": "80435",
+      "theater_name": "Mitchell Theatres Skyline Cinema 8",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 515262845,
+      "date": "2025-09-12+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NM",
+      "city": "Los Lunas",
+      "zip": "87031",
+      "theater_name": "Mitchell Theatres Starlight Cinema 8",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 515259282,
+      "date": "2025-09-12+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NM",
+      "city": "Los Lunas",
+      "zip": "87031",
+      "theater_name": "Mitchell Theatres Starlight Cinema 8",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 515259290,
+      "date": "2025-09-12+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NM",
+      "city": "Los Lunas",
+      "zip": "87031",
+      "theater_name": "Mitchell Theatres Starlight Cinema 8",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 515259301,
+      "date": "2025-09-12+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NM",
+      "city": "Los Lunas",
+      "zip": "87031",
+      "theater_name": "Mitchell Theatres Starlight Cinema 8",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 515259309,
+      "date": "2025-09-12+22:10",
+      "format": "Standard",
+      "language": "Unknown",
       "error": {
         "status": 400
       }
