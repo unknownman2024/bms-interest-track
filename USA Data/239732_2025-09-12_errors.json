@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-08 07:24:45 PM",
+  "last_updated": "2025-09-08 08:24:44 PM",
   "errors": [
     {
       "state": "CT",
@@ -983,21 +983,6 @@
       "theater_name": "Regal Deer Park",
       "chainName": "Regal",
       "chainCode": "REGL",
-      "showtime_id": 511341797,
-      "date": "2025-09-12+10:50",
-      "format": "IMAX",
-      "language": "Japanese",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Deer Park",
-      "zip": "11729",
-      "theater_name": "Regal Deer Park",
-      "chainName": "Regal",
-      "chainCode": "REGL",
       "showtime_id": 511341798,
       "date": "2025-09-12+14:20",
       "format": "IMAX",
@@ -1017,126 +1002,6 @@
       "date": "2025-09-12+18:00",
       "format": "IMAX",
       "language": "Japanese",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Deer Park",
-      "zip": "11729",
-      "theater_name": "Regal Deer Park",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511341818,
-      "date": "2025-09-12+21:40",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Deer Park",
-      "zip": "11729",
-      "theater_name": "Regal Deer Park",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511341778,
-      "date": "2025-09-12+15:20",
-      "format": "4DX",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Deer Park",
-      "zip": "11729",
-      "theater_name": "Regal Deer Park",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511341785,
-      "date": "2025-09-12+19:00",
-      "format": "4DX",
-      "language": "Japanese",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Deer Park",
-      "zip": "11729",
-      "theater_name": "Regal Deer Park",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511341786,
-      "date": "2025-09-12+22:40",
-      "format": "4DX",
-      "language": "Japanese",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Deer Park",
-      "zip": "11729",
-      "theater_name": "Regal Deer Park",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511341825,
-      "date": "2025-09-12+16:20",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Deer Park",
-      "zip": "11729",
-      "theater_name": "Regal Deer Park",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511341826,
-      "date": "2025-09-12+20:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Deer Park",
-      "zip": "11729",
-      "theater_name": "Regal Deer Park",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511341827,
-      "date": "2025-09-12+23:30",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Deer Park",
-      "zip": "11729",
-      "theater_name": "Regal Deer Park",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511341846,
-      "date": "2025-09-12+12:40",
-      "format": "Standard",
-      "language": "English",
       "error": {
         "exception": ""
       }
@@ -15134,6 +14999,36 @@
       "language": "English",
       "error": {
         "status": 403
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Belton",
+      "zip": "64012",
+      "theater_name": "Mitchell Theatres Belton Cinema 8",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 515255532,
+      "date": "2025-09-12+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Belton",
+      "zip": "64012",
+      "theater_name": "Mitchell Theatres Belton Cinema 8",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 515255546,
+      "date": "2025-09-12+19:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
       }
     }
   ]
