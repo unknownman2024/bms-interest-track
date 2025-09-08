@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-08 09:39:27 AM",
+  "last_updated": "2025-09-08 10:23:47 AM",
   "errors": [
     {
       "state": "CT",
@@ -734,21 +734,6 @@
       "language": "English",
       "error": {
         "status": 500
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10001",
-      "theater_name": "AMC 34th Street 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512291055,
-      "date": "2025-09-12+18:50",
-      "format": "Dolby Cinema",
-      "language": "Japanese",
-      "error": {
-        "status": 403
       }
     },
     {
@@ -3944,66 +3929,6 @@
       "language": "English",
       "error": {
         "status": 500
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Pooler",
-      "zip": "31322",
-      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 513391650,
-      "date": "2025-09-12+15:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Pooler",
-      "zip": "31322",
-      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 513391658,
-      "date": "2025-09-12+17:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Pooler",
-      "zip": "31322",
-      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 513391643,
-      "date": "2025-09-12+19:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Pooler",
-      "zip": "31322",
-      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 513391659,
-      "date": "2025-09-12+21:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -8144,21 +8069,6 @@
       "language": "English",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Fort Wayne",
-      "zip": "46825",
-      "theater_name": "Regal Coldwater Crossing",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511268637,
-      "date": "2025-09-12+22:40",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
       }
     },
     {
@@ -13864,21 +13774,6 @@
     {
       "state": "NM",
       "city": "Albuquerque",
-      "zip": "87123",
-      "theater_name": "Icon Cinema 4 Hills",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 513278137,
-      "date": "2025-09-12+16:05",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NM",
-      "city": "Albuquerque",
       "zip": "87109",
       "theater_name": "Cinemark Century Rio Plex 24 and XD",
       "chainName": "Cinemark Theatres",
@@ -14204,201 +14099,6 @@
       "language": "English",
       "error": {
         "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Moreno Valley",
-      "zip": "92553",
-      "theater_name": "Harkins Moreno Valley 16",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 511369588,
-      "date": "2025-09-12+11:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Moreno Valley",
-      "zip": "92553",
-      "theater_name": "Harkins Moreno Valley 16",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 511369590,
-      "date": "2025-09-12+18:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Moreno Valley",
-      "zip": "92553",
-      "theater_name": "Harkins Moreno Valley 16",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 511369592,
-      "date": "2025-09-12+20:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Moreno Valley",
-      "zip": "92553",
-      "theater_name": "Harkins Moreno Valley 16",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 511369591,
-      "date": "2025-09-12+22:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Moreno Valley",
-      "zip": "92553",
-      "theater_name": "Harkins Moreno Valley 16",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 511369589,
-      "date": "2025-09-12+15:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Redlands",
-      "zip": "92374",
-      "theater_name": "Harkins Mountain Grove",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 511374830,
-      "date": "2025-09-12+19:00",
-      "format": "CINÉ XL®",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Redlands",
-      "zip": "92374",
-      "theater_name": "Harkins Mountain Grove",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 511374831,
-      "date": "2025-09-12+15:30",
-      "format": "CINÉ XL®",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Redlands",
-      "zip": "92374",
-      "theater_name": "Harkins Mountain Grove",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 511374844,
-      "date": "2025-09-12+11:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Redlands",
-      "zip": "92374",
-      "theater_name": "Harkins Mountain Grove",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 511374846,
-      "date": "2025-09-12+18:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Redlands",
-      "zip": "92374",
-      "theater_name": "Harkins Mountain Grove",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 512365067,
-      "date": "2025-09-12+18:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Redlands",
-      "zip": "92374",
-      "theater_name": "Harkins Mountain Grove",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 511374847,
-      "date": "2025-09-12+21:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Redlands",
-      "zip": "92374",
-      "theater_name": "Harkins Mountain Grove",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 512365068,
-      "date": "2025-09-12+22:10",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Redlands",
-      "zip": "92374",
-      "theater_name": "Harkins Mountain Grove",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 511374845,
-      "date": "2025-09-12+14:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -15327,6 +15027,216 @@
       "date": "2025-09-12+17:15",
       "format": "Standard",
       "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Jackson",
+      "zip": "38305",
+      "theater_name": "Hollywood Cinema 16",
+      "chainName": "Cinema Management Group Inc",
+      "chainCode": "CMGI",
+      "showtime_id": 515253201,
+      "date": "2025-09-12+20:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Oxford",
+      "zip": "38655",
+      "theater_name": "Malco Oxford Studio Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 513256836,
+      "date": "2025-09-12+16:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Oxford",
+      "zip": "38655",
+      "theater_name": "Malco Oxford Studio Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 512316224,
+      "date": "2025-09-12+19:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Brookings",
+      "zip": "57006",
+      "theater_name": "Brookings Cinema 8",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 514563521,
+      "date": "2025-09-12+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Brookings",
+      "zip": "57006",
+      "theater_name": "Brookings Cinema 8",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 514563522,
+      "date": "2025-09-12+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Brookings",
+      "zip": "57006",
+      "theater_name": "Brookings Cinema 8",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 514563523,
+      "date": "2025-09-12+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Great Bend",
+      "zip": "67530",
+      "theater_name": "Golden Belt Cinema 6",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515200731,
+      "date": "2025-09-12+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Great Bend",
+      "zip": "67530",
+      "theater_name": "Golden Belt Cinema 6",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515200732,
+      "date": "2025-09-12+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Rio Grande City",
+      "zip": "78582",
+      "theater_name": "AMC CLASSIC Rio Grande 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 512203292,
+      "date": "2025-09-12+16:05",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Rio Grande City",
+      "zip": "78582",
+      "theater_name": "AMC CLASSIC Rio Grande 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 512203293,
+      "date": "2025-09-12+19:35",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Uvalde",
+      "zip": "78801",
+      "theater_name": "Forum Theatres 6",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515145993,
+      "date": "2025-09-12+19:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Canon City",
+      "zip": "81212",
+      "theater_name": "The Cañon",
+      "chainName": "Cinema Lab",
+      "chainCode": "CLAB",
+      "showtime_id": 515237240,
+      "date": "2025-09-12+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Canon City",
+      "zip": "81212",
+      "theater_name": "The Cañon",
+      "chainName": "Cinema Lab",
+      "chainCode": "CLAB",
+      "showtime_id": 515237241,
+      "date": "2025-09-12+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Canon City",
+      "zip": "81212",
+      "theater_name": "The Cañon",
+      "chainName": "Cinema Lab",
+      "chainCode": "CLAB",
+      "showtime_id": 515237242,
+      "date": "2025-09-12+19:15",
+      "format": "Standard",
+      "language": "Unknown",
       "error": {
         "status": 400
       }
