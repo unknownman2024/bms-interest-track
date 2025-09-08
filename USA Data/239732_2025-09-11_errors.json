@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 01:39:13 AM",
+  "last_updated": "2025-09-09 02:40:28 AM",
   "errors": [
     {
       "state": "MA",
@@ -8462,21 +8462,6 @@
       }
     },
     {
-      "state": "LA",
-      "city": "Hammond",
-      "zip": "70403",
-      "theater_name": "AMC Hammond Palace 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 513270625,
-      "date": "2025-09-11+21:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "AR",
       "city": "Russellville",
       "zip": "72801",
@@ -12104,6 +12089,141 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Schenectady",
+      "zip": "12305",
+      "theater_name": "SCENE ONE MOVIELAND",
+      "chainName": "Scene One Entertainment",
+      "chainCode": "BOWT",
+      "showtime_id": 514749495,
+      "date": "2025-09-11+19:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Schenectady",
+      "zip": "12305",
+      "theater_name": "SCENE ONE MOVIELAND",
+      "chainName": "Scene One Entertainment",
+      "chainCode": "BOWT",
+      "showtime_id": 514749496,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Annapolis",
+      "zip": "21401",
+      "theater_name": "AMC Annapolis Mall 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515277945,
+      "date": "2025-09-11+23:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Frankfort",
+      "zip": "40601",
+      "theater_name": "Franklin Square Cinema ",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515284607,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Frankfort",
+      "zip": "40601",
+      "theater_name": "Franklin Square Cinema ",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515284606,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Union",
+      "zip": "63084",
+      "theater_name": "Great 8 Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515281528,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Union",
+      "zip": "63084",
+      "theater_name": "Great 8 Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515281529,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Lancaster",
+      "zip": "93534",
+      "theater_name": "Regency Blvd Cinemas",
+      "chainName": "Regency Theatres",
+      "chainCode": "RGCY",
+      "showtime_id": 515278837,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Lancaster",
+      "zip": "93534",
+      "theater_name": "Regency Blvd Cinemas",
+      "chainName": "Regency Theatres",
+      "chainCode": "RGCY",
+      "showtime_id": 515278838,
+      "date": "2025-09-11+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
       }
     }
   ]
