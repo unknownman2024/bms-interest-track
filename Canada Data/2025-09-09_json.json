@@ -1032,16 +1032,111 @@
     "date": "2025-09-09",
     "time": "6:45pm",
     "total": 128,
-    "available": 127,
+    "available": 126,
     "blocked": 1,
-    "sold": 0,
-    "gross": 0.0,
-    "gross_with_tax": 0.0,
+    "sold": 1,
+    "gross": 8.5,
+    "gross_with_tax": 9.5,
     "per_ticket": {
       "net": 8.5,
       "tax": 0.0,
       "fee": 1.0,
       "grand": 9.5
+    }
+  },
+  {
+    "venue": "orleans",
+    "movie": "Bad Girl  -Tamil",
+    "perfIx": "819",
+    "date": "2025-09-09",
+    "time": "8:00pm",
+    "total": 213,
+    "available": 168,
+    "blocked": 45,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "orleans",
+    "movie": "Kotha Lokah: Chapter 1 : Chandra - Telugu",
+    "perfIx": "815",
+    "date": "2025-09-09",
+    "time": "7:45pm",
+    "total": 180,
+    "available": 152,
+    "blocked": 28,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "orleans",
+    "movie": "Little Hearts  -Telugu",
+    "perfIx": "816",
+    "date": "2025-09-09",
+    "time": "8:00pm",
+    "total": 229,
+    "available": 185,
+    "blocked": 44,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "orleans",
+    "movie": "Lokah Chapter: 1- Malayalam",
+    "perfIx": "818",
+    "date": "2025-09-09",
+    "time": "7:45pm",
+    "total": 212,
+    "available": 167,
+    "blocked": 45,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "orleans",
+    "movie": "Madharasi - Tamil",
+    "perfIx": "817",
+    "date": "2025-09-09",
+    "time": "7:30pm",
+    "total": 102,
+    "available": 102,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 11.5,
+      "tax": 1.5,
+      "fee": 1.25,
+      "grand": 14.25
     }
   }
 ]
