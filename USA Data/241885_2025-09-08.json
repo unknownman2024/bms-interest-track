@@ -1888,11 +1888,11 @@
     "date": "2025-09-08+14:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 257,
+    "totalSeatSold": 1,
+    "occupancy": 0.39,
+    "totalAvailableSeatCount": 256,
     "totalSeatCount": 257,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 16.0,
     "adultTicketPrice": 16.0
   },
   {
@@ -3151,5 +3151,38 @@
     "totalSeatCount": 189,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 16.16
+  },
+  {
+    "state": "MA",
+    "city": "Methuen",
+    "zip": "01844",
+    "theater_name": "AMC Methuen 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 0,
+    "date": "2025-09-08+21:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Niles",
+    "zip": "60714",
+    "theater_name": "Cin\u00e9 Lounge at Niles",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 515254754,
+    "date": "2025-09-08+19:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 104,
+    "totalSeatCount": 104,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 12.75
   }
 ]
