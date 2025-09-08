@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-08 08:24:44 PM",
+  "last_updated": "2025-09-08 09:19:25 PM",
   "errors": [
     {
       "state": "CT",
@@ -974,36 +974,6 @@
       "language": "Unknown",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Deer Park",
-      "zip": "11729",
-      "theater_name": "Regal Deer Park",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511341798,
-      "date": "2025-09-12+14:20",
-      "format": "IMAX",
-      "language": "Japanese",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Deer Park",
-      "zip": "11729",
-      "theater_name": "Regal Deer Park",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511341799,
-      "date": "2025-09-12+18:00",
-      "format": "IMAX",
-      "language": "Japanese",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -15029,6 +14999,51 @@
       "language": "English",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Piscataway",
+      "zip": "08854",
+      "theater_name": "Rutgers Cinema",
+      "chainName": "Rutgers Cinema",
+      "chainCode": "RTGR",
+      "showtime_id": 515256586,
+      "date": "2025-09-12+17:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Piscataway",
+      "zip": "08854",
+      "theater_name": "Rutgers Cinema",
+      "chainName": "Rutgers Cinema",
+      "chainCode": "RTGR",
+      "showtime_id": 515256587,
+      "date": "2025-09-12+20:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Daytona Beach",
+      "zip": "32114",
+      "theater_name": "CMX Cinemas Daytona & IMAX",
+      "chainName": "CMX Cinemas",
+      "chainCode": "COBB",
+      "showtime_id": 515257500,
+      "date": "2025-09-12+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
       }
     }
   ]
