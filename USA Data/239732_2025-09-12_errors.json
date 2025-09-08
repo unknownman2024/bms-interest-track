@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 12:26:16 AM",
+  "last_updated": "2025-09-09 01:17:36 AM",
   "errors": [
     {
       "state": "CT",
@@ -15689,6 +15689,1011 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "MA",
+      "city": "East Bridgewater",
+      "zip": "02333",
+      "theater_name": "East Bridgewater Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515271731,
+      "date": "2025-09-12+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MA",
+      "city": "East Bridgewater",
+      "zip": "02333",
+      "theater_name": "East Bridgewater Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515271723,
+      "date": "2025-09-12+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Falmouth",
+      "zip": "02563",
+      "theater_name": "Entertainment Cinemas - Falmouth Luxury Cinemas",
+      "chainName": "Entertainment Cinemas",
+      "chainCode": "ENTR",
+      "showtime_id": 515272053,
+      "date": "2025-09-12+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Falmouth",
+      "zip": "02563",
+      "theater_name": "Entertainment Cinemas - Falmouth Luxury Cinemas",
+      "chainName": "Entertainment Cinemas",
+      "chainCode": "ENTR",
+      "showtime_id": 515272054,
+      "date": "2025-09-12+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Falmouth",
+      "zip": "02563",
+      "theater_name": "Entertainment Cinemas - Falmouth Luxury Cinemas",
+      "chainName": "Entertainment Cinemas",
+      "chainCode": "ENTR",
+      "showtime_id": 515272055,
+      "date": "2025-09-12+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Newark",
+      "zip": "07103",
+      "theater_name": "CityPlex 12 Newark",
+      "chainName": "Cityplex",
+      "chainCode": "CPLX",
+      "showtime_id": 515270895,
+      "date": "2025-09-12+11:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Newark",
+      "zip": "07103",
+      "theater_name": "CityPlex 12 Newark",
+      "chainName": "Cityplex",
+      "chainCode": "CPLX",
+      "showtime_id": 515270894,
+      "date": "2025-09-12+15:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Newark",
+      "zip": "07103",
+      "theater_name": "CityPlex 12 Newark",
+      "chainName": "Cityplex",
+      "chainCode": "CPLX",
+      "showtime_id": 515270893,
+      "date": "2025-09-12+18:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Newark",
+      "zip": "07103",
+      "theater_name": "CityPlex 12 Newark",
+      "chainName": "Cityplex",
+      "chainCode": "CPLX",
+      "showtime_id": 515270896,
+      "date": "2025-09-12+21:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Newark",
+      "zip": "07103",
+      "theater_name": "CityPlex 12 Newark",
+      "chainName": "Cityplex",
+      "chainCode": "CPLX",
+      "showtime_id": 515270892,
+      "date": "2025-09-12+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Newark",
+      "zip": "07103",
+      "theater_name": "CityPlex 12 Newark",
+      "chainName": "Cityplex",
+      "chainCode": "CPLX",
+      "showtime_id": 515270891,
+      "date": "2025-09-12+15:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Newark",
+      "zip": "07103",
+      "theater_name": "CityPlex 12 Newark",
+      "chainName": "Cityplex",
+      "chainCode": "CPLX",
+      "showtime_id": 515270890,
+      "date": "2025-09-12+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Pittsburgh",
+      "zip": "15217",
+      "theater_name": "Manor Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515276597,
+      "date": "2025-09-12+15:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Pittsburgh",
+      "zip": "15217",
+      "theater_name": "Manor Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515276602,
+      "date": "2025-09-12+18:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Pittsburgh",
+      "zip": "15217",
+      "theater_name": "Manor Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515276603,
+      "date": "2025-09-12+21:35",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Ashland",
+      "zip": "41102",
+      "theater_name": "The Cinema at Camp Landing",
+      "chainName": "INDY Cinema Group",
+      "chainCode": "INDY",
+      "showtime_id": 515274234,
+      "date": "2025-09-12+21:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Concord",
+      "zip": "28025",
+      "theater_name": "Carolina Mall Cinemas",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 515275573,
+      "date": "2025-09-12+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Indian Trail",
+      "zip": "28079",
+      "theater_name": "Stone Theatres Sun Valley 14 Cinemas",
+      "chainName": "Stone Theatres",
+      "chainCode": "STON",
+      "showtime_id": 515273293,
+      "date": "2025-09-12+11:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Hickory",
+      "zip": "28602",
+      "theater_name": "AMC Hickory 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515271241,
+      "date": "2025-09-12+22:45",
+      "format": "Dolby Cinema",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Hickory",
+      "zip": "28602",
+      "theater_name": "AMC Hickory 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515271224,
+      "date": "2025-09-12+17:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Hickory",
+      "zip": "28602",
+      "theater_name": "AMC Hickory 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515271236,
+      "date": "2025-09-12+22:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Hickory",
+      "zip": "28602",
+      "theater_name": "AMC Hickory 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515271232,
+      "date": "2025-09-12+18:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Sevierville",
+      "zip": "37862",
+      "theater_name": "Governor's Crossing 14",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 515267148,
+      "date": "2025-09-12+13:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Sevierville",
+      "zip": "37862",
+      "theater_name": "Governor's Crossing 14",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 515267149,
+      "date": "2025-09-12+17:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Sevierville",
+      "zip": "37862",
+      "theater_name": "Governor's Crossing 14",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 515267150,
+      "date": "2025-09-12+20:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Atmore",
+      "zip": "36502",
+      "theater_name": "Wind Creek Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515274707,
+      "date": "2025-09-12+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Atmore",
+      "zip": "36502",
+      "theater_name": "Wind Creek Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515274708,
+      "date": "2025-09-12+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Atmore",
+      "zip": "36502",
+      "theater_name": "Wind Creek Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515274709,
+      "date": "2025-09-12+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Alexander City",
+      "zip": "35010",
+      "theater_name": "Playhouse Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515266574,
+      "date": "2025-09-12+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Amelia",
+      "zip": "45102",
+      "theater_name": "Pierce Point Cinema",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515268394,
+      "date": "2025-09-12+13:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Amelia",
+      "zip": "45102",
+      "theater_name": "Pierce Point Cinema",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515268395,
+      "date": "2025-09-12+18:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Amelia",
+      "zip": "45102",
+      "theater_name": "Pierce Point Cinema",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515268393,
+      "date": "2025-09-12+21:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Newport",
+      "zip": "41071",
+      "theater_name": "AMC Newport On The Levee 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515275834,
+      "date": "2025-09-12+17:40",
+      "format": "IMAX",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Newport",
+      "zip": "41071",
+      "theater_name": "AMC Newport On The Levee 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515275835,
+      "date": "2025-09-12+20:05",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Bellefontaine",
+      "zip": "43311",
+      "theater_name": "Bellefontaine 8 Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515270458,
+      "date": "2025-09-12+13:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Bellefontaine",
+      "zip": "43311",
+      "theater_name": "Bellefontaine 8 Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515270459,
+      "date": "2025-09-12+18:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Bellefontaine",
+      "zip": "43311",
+      "theater_name": "Bellefontaine 8 Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515270460,
+      "date": "2025-09-12+21:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Lebanon",
+      "zip": "45036",
+      "theater_name": "Colony Square 7 Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515277029,
+      "date": "2025-09-12+13:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Lebanon",
+      "zip": "45036",
+      "theater_name": "Colony Square 7 Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515277030,
+      "date": "2025-09-12+18:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Lebanon",
+      "zip": "45036",
+      "theater_name": "Colony Square 7 Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515277031,
+      "date": "2025-09-12+21:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Shelbyville",
+      "zip": "46176",
+      "theater_name": "Studio 10 Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515276786,
+      "date": "2025-09-12+13:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Shelbyville",
+      "zip": "46176",
+      "theater_name": "Studio 10 Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515276787,
+      "date": "2025-09-12+18:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Shelbyville",
+      "zip": "46176",
+      "theater_name": "Studio 10 Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515276788,
+      "date": "2025-09-12+21:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Sandusky",
+      "zip": "48471",
+      "theater_name": "Firebird Theater",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515272399,
+      "date": "2025-09-12+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Sandusky",
+      "zip": "48471",
+      "theater_name": "Firebird Theater",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515272400,
+      "date": "2025-09-12+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Manitowoc",
+      "zip": "54220",
+      "theater_name": "AMC Classic Manitowoc 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515275032,
+      "date": "2025-09-12+13:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Fulton",
+      "zip": "65251",
+      "theater_name": "Fulton Cinema 8",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515274396,
+      "date": "2025-09-12+15:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Fulton",
+      "zip": "65251",
+      "theater_name": "Fulton Cinema 8",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515274404,
+      "date": "2025-09-12+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Fulton",
+      "zip": "65251",
+      "theater_name": "Fulton Cinema 8",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515274410,
+      "date": "2025-09-12+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Iola",
+      "zip": "66749",
+      "theater_name": "Sterling Six Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515274167,
+      "date": "2025-09-12+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Iola",
+      "zip": "66749",
+      "theater_name": "Sterling Six Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515274176,
+      "date": "2025-09-12+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Parsons",
+      "zip": "67357",
+      "theater_name": "The Parsons Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515273138,
+      "date": "2025-09-12+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Parsons",
+      "zip": "67357",
+      "theater_name": "The Parsons Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515273146,
+      "date": "2025-09-12+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AR",
+      "city": "El Dorado",
+      "zip": "71730",
+      "theater_name": "Stars Cinema 6",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515274351,
+      "date": "2025-09-12+12:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AR",
+      "city": "El Dorado",
+      "zip": "71730",
+      "theater_name": "Stars Cinema 6",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515274353,
+      "date": "2025-09-12+16:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AR",
+      "city": "El Dorado",
+      "zip": "71730",
+      "theater_name": "Stars Cinema 6",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515274352,
+      "date": "2025-09-12+20:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Ruston",
+      "zip": "71270",
+      "theater_name": "Celebrity Theatres Ruston 8",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515272486,
+      "date": "2025-09-12+12:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Ruston",
+      "zip": "71270",
+      "theater_name": "Celebrity Theatres Ruston 8",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515272487,
+      "date": "2025-09-12+15:25",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Ruston",
+      "zip": "71270",
+      "theater_name": "Celebrity Theatres Ruston 8",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515272488,
+      "date": "2025-09-12+18:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Ruston",
+      "zip": "71270",
+      "theater_name": "Celebrity Theatres Ruston 8",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515272489,
+      "date": "2025-09-12+21:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Oklahoma City",
+      "zip": "73114",
+      "theater_name": "Flix Brewhouse Oklahoma City",
+      "chainName": "Flix Brewhouse",
+      "chainCode": "FLIX",
+      "showtime_id": 515274012,
+      "date": "2025-09-12+17:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Tulsa",
+      "zip": "74133",
+      "theater_name": "Eton Square 6 Cinema",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515274538,
+      "date": "2025-09-12+13:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Tulsa",
+      "zip": "74133",
+      "theater_name": "Eton Square 6 Cinema",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515274543,
+      "date": "2025-09-12+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Tulsa",
+      "zip": "74133",
+      "theater_name": "Eton Square 6 Cinema",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515274548,
+      "date": "2025-09-12+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Tulsa",
+      "zip": "74133",
+      "theater_name": "Eton Square 6 Cinema",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515274554,
+      "date": "2025-09-12+21:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75033",
+      "theater_name": "Flix Brewhouse Little Elm",
+      "chainName": "Flix Brewhouse",
+      "chainCode": "FLIX",
+      "showtime_id": 515273535,
+      "date": "2025-09-12+13:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75033",
+      "theater_name": "Flix Brewhouse Little Elm",
+      "chainName": "Flix Brewhouse",
+      "chainCode": "FLIX",
+      "showtime_id": 515273526,
+      "date": "2025-09-12+19:55",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
       }
     }
   ]
