@@ -150,7 +150,8 @@
     "max_gross": 5292.0,
     "total_gross": 0.0,
     "price": 24.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 327924,
@@ -422,7 +423,8 @@
     "max_gross": 1539.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 327917,
@@ -1034,7 +1036,8 @@
     "max_gross": 1944.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 399980,
@@ -1935,6 +1938,74 @@
     "max_gross": 2880.0,
     "total_gross": 0.0,
     "price": 24.0,
+    "error": false
+  },
+  {
+    "id": 469487,
+    "cinemaId": "1002",
+    "movieId": "HO00008079",
+    "date": "2025-09-21T18:20:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 4",
+    "operator": "SYL",
+    "total": 550,
+    "sold": 0,
+    "available": 550,
+    "occupancy": 0.0,
+    "max_gross": 14025.0,
+    "total_gross": 0.0,
+    "price": 25.5,
+    "error": false
+  },
+  {
+    "id": 469485,
+    "cinemaId": "1002",
+    "movieId": "HO00008079",
+    "date": "2025-09-21T16:00:00",
+    "typeId": "LUX",
+    "screenName": "HOYTS LUX 14",
+    "operator": "SYLDS",
+    "total": 51,
+    "sold": 0,
+    "available": 51,
+    "occupancy": 0.0,
+    "max_gross": 1377.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
+  },
+  {
+    "id": 469484,
+    "cinemaId": "1002",
+    "movieId": "HO00008079",
+    "date": "2025-09-21T18:20:00",
+    "typeId": "LUX",
+    "screenName": "HOYTS LUX 14",
+    "operator": "SYLDS",
+    "total": 51,
+    "sold": 0,
+    "available": 51,
+    "occupancy": 0.0,
+    "max_gross": 1377.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
+  },
+  {
+    "id": 469486,
+    "cinemaId": "1002",
+    "movieId": "HO00008079",
+    "date": "2025-09-21T16:00:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 4",
+    "operator": "SYL",
+    "total": 550,
+    "sold": 0,
+    "available": 550,
+    "occupancy": 0.0,
+    "max_gross": 14025.0,
+    "total_gross": 0.0,
+    "price": 25.5,
     "error": false
   }
 ]

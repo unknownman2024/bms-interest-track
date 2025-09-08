@@ -592,7 +592,8 @@
     "max_gross": 32250.0,
     "total_gross": 0.0,
     "price": 30.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 169121,
@@ -728,7 +729,8 @@
     "max_gross": 2964.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 177247,
@@ -1340,6 +1342,57 @@
     "max_gross": 2880.0,
     "total_gross": 0.0,
     "price": 24.0,
+    "error": false
+  },
+  {
+    "id": 469477,
+    "cinemaId": "1002",
+    "movieId": "HO00008079",
+    "date": "2025-09-19T18:20:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 4",
+    "operator": "SYL",
+    "total": 550,
+    "sold": 0,
+    "available": 550,
+    "occupancy": 0.0,
+    "max_gross": 14025.0,
+    "total_gross": 0.0,
+    "price": 25.5,
+    "error": false
+  },
+  {
+    "id": 469479,
+    "cinemaId": "1002",
+    "movieId": "HO00008079",
+    "date": "2025-09-19T18:20:00",
+    "typeId": "LUX",
+    "screenName": "HOYTS LUX 14",
+    "operator": "SYLDS",
+    "total": 51,
+    "sold": 0,
+    "available": 51,
+    "occupancy": 0.0,
+    "max_gross": 1377.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
+  },
+  {
+    "id": 469478,
+    "cinemaId": "1002",
+    "movieId": "HO00008079",
+    "date": "2025-09-19T16:00:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 4",
+    "operator": "SYL",
+    "total": 550,
+    "sold": 0,
+    "available": 550,
+    "occupancy": 0.0,
+    "max_gross": 14025.0,
+    "total_gross": 0.0,
+    "price": 25.5,
     "error": false
   }
 ]

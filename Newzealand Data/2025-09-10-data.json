@@ -2609,11 +2609,11 @@
     "screenName": "Cinema 2",
     "operator": "TER",
     "total": 216,
-    "sold": 2,
-    "available": 214,
-    "occupancy": 0.93,
+    "sold": 0,
+    "available": 216,
+    "occupancy": 0.0,
     "max_gross": 5724.0,
-    "total_gross": 53.0,
+    "total_gross": 0.0,
     "price": 26.5,
     "error": false
   },
@@ -2864,11 +2864,11 @@
     "screenName": "Cinema 2",
     "operator": "NTH",
     "total": 72,
-    "sold": 2,
-    "available": 70,
-    "occupancy": 2.78,
+    "sold": 6,
+    "available": 66,
+    "occupancy": 8.33,
     "max_gross": 1332.0,
-    "total_gross": 37.0,
+    "total_gross": 111.0,
     "price": 18.5,
     "error": false
   },
@@ -4038,11 +4038,11 @@
     "screenName": "METRO 6",
     "operator": "HAM",
     "total": 42,
-    "sold": 7,
-    "available": 35,
-    "occupancy": 16.67,
+    "sold": 9,
+    "available": 33,
+    "occupancy": 21.43,
     "max_gross": 1029.0,
-    "total_gross": 171.5,
+    "total_gross": 220.5,
     "price": 24.5,
     "error": false
   },
@@ -4129,7 +4129,8 @@
     "max_gross": 3360.0,
     "total_gross": 0.0,
     "price": 21.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 169025,
@@ -4208,11 +4209,11 @@
     "screenName": "METRO 4",
     "operator": "HAM",
     "total": 253,
-    "sold": 2,
-    "available": 251,
-    "occupancy": 0.79,
+    "sold": 4,
+    "available": 249,
+    "occupancy": 1.58,
     "max_gross": 5819.0,
-    "total_gross": 46.0,
+    "total_gross": 92.0,
     "price": 23.0,
     "error": false
   },
@@ -4248,7 +4249,8 @@
     "max_gross": 2646.0,
     "total_gross": 21.0,
     "price": 21.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 399826,
@@ -5500,11 +5502,11 @@
     "screenName": "Cinema 2",
     "operator": "RIC",
     "total": 200,
-    "sold": 0,
-    "available": 200,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 198,
+    "occupancy": 1.0,
     "max_gross": 3700.0,
-    "total_gross": 0.0,
+    "total_gross": 37.0,
     "price": 18.5,
     "error": false
   },
@@ -6645,7 +6647,8 @@
     "max_gross": 18513.0,
     "total_gross": 0.0,
     "price": 25.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 469476,

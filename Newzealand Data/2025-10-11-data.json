@@ -354,7 +354,8 @@
     "max_gross": 5346.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 399895,
@@ -949,7 +950,8 @@
     "max_gross": 10153.0,
     "total_gross": 0.0,
     "price": 35.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 79477,
@@ -1136,6 +1138,91 @@
     "max_gross": 3640.0,
     "total_gross": 0.0,
     "price": 26.0,
+    "error": false
+  },
+  {
+    "id": 359080,
+    "cinemaId": "1001",
+    "movieId": "HO00007330",
+    "date": "2025-10-11T18:40:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 4",
+    "operator": "WPK",
+    "total": 114,
+    "sold": 0,
+    "available": 114,
+    "occupancy": 0.0,
+    "max_gross": 3192.0,
+    "total_gross": 0.0,
+    "price": 28.0,
+    "error": false
+  },
+  {
+    "id": 359077,
+    "cinemaId": "1001",
+    "movieId": "HO00007330",
+    "date": "2025-10-11T10:40:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 4",
+    "operator": "WPK",
+    "total": 114,
+    "sold": 0,
+    "available": 114,
+    "occupancy": 0.0,
+    "max_gross": 3192.0,
+    "total_gross": 0.0,
+    "price": 28.0,
+    "error": false
+  },
+  {
+    "id": 359079,
+    "cinemaId": "1001",
+    "movieId": "HO00007330",
+    "date": "2025-10-11T16:00:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 4",
+    "operator": "WPK",
+    "total": 114,
+    "sold": 0,
+    "available": 114,
+    "occupancy": 0.0,
+    "max_gross": 3192.0,
+    "total_gross": 0.0,
+    "price": 28.0,
+    "error": false
+  },
+  {
+    "id": 359081,
+    "cinemaId": "1001",
+    "movieId": "HO00007330",
+    "date": "2025-10-11T21:20:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 4",
+    "operator": "WPK",
+    "total": 114,
+    "sold": 0,
+    "available": 114,
+    "occupancy": 0.0,
+    "max_gross": 3192.0,
+    "total_gross": 0.0,
+    "price": 28.0,
+    "error": false
+  },
+  {
+    "id": 359078,
+    "cinemaId": "1001",
+    "movieId": "HO00007330",
+    "date": "2025-10-11T13:20:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 4",
+    "operator": "WPK",
+    "total": 114,
+    "sold": 0,
+    "available": 114,
+    "occupancy": 0.0,
+    "max_gross": 3192.0,
+    "total_gross": 0.0,
+    "price": 28.0,
     "error": false
   }
 ]
