@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-08 09:39:10 AM",
+  "last_updated": "2025-09-08 10:38:11 AM",
   "errors": [
     {
       "state": "MA",
@@ -11774,6 +11774,36 @@
       "language": "English",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Jackson",
+      "zip": "38305",
+      "theater_name": "Hollywood Cinema 16",
+      "chainName": "Cinema Management Group Inc",
+      "chainCode": "CMGI",
+      "showtime_id": 515253396,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Jackson",
+      "zip": "38305",
+      "theater_name": "Hollywood Cinema 16",
+      "chainName": "Cinema Management Group Inc",
+      "chainCode": "CMGI",
+      "showtime_id": 515253395,
+      "date": "2025-09-11+21:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
       }
     }
   ]
