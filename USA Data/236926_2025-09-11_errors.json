@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-08 10:00:08 PM",
+  "last_updated": "2025-09-08 10:52:27 PM",
   "errors": [
     {
       "state": "CT",
@@ -10128,51 +10128,6 @@
     },
     {
       "state": "CA",
-      "city": "Moreno Valley",
-      "zip": "92553",
-      "theater_name": "Harkins Moreno Valley 16",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 512334028,
-      "date": "2025-09-11+14:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Moreno Valley",
-      "zip": "92553",
-      "theater_name": "Harkins Moreno Valley 16",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 512334029,
-      "date": "2025-09-11+16:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Moreno Valley",
-      "zip": "92553",
-      "theater_name": "Harkins Moreno Valley 16",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 512334030,
-      "date": "2025-09-11+19:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
       "city": "Bonsall",
       "zip": "92003",
       "theater_name": "River Village Cinema is D'Place",
@@ -11020,6 +10975,66 @@
       "chainCode": "VZ",
       "showtime_id": 513162217,
       "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "LA",
+      "city": "New Orleans",
+      "zip": "70130",
+      "theater_name": "Prytania at Canal Place",
+      "chainName": "Prytania Theatres",
+      "chainCode": "PRYT",
+      "showtime_id": 515261257,
+      "date": "2025-09-11+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "LA",
+      "city": "New Orleans",
+      "zip": "70130",
+      "theater_name": "Prytania at Canal Place",
+      "chainName": "Prytania Theatres",
+      "chainCode": "PRYT",
+      "showtime_id": 515261258,
+      "date": "2025-09-11+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "LA",
+      "city": "New Orleans",
+      "zip": "70130",
+      "theater_name": "Prytania at Canal Place",
+      "chainName": "Prytania Theatres",
+      "chainCode": "PRYT",
+      "showtime_id": 515261259,
+      "date": "2025-09-11+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "LA",
+      "city": "New Orleans",
+      "zip": "70130",
+      "theater_name": "Prytania at Canal Place",
+      "chainName": "Prytania Theatres",
+      "chainCode": "PRYT",
+      "showtime_id": 515261260,
+      "date": "2025-09-11+22:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
