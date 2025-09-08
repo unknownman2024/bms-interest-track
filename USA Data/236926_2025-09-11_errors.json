@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-08 02:59:58 PM",
+  "last_updated": "2025-09-08 03:58:31 PM",
   "errors": [
     {
       "state": "CT",
@@ -2084,21 +2084,6 @@
       "language": "Unknown",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Colonial Heights",
-      "zip": "23834",
-      "theater_name": "Regal Southpark Mall",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 512378383,
-      "date": "2025-09-11+17:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -5425,21 +5410,6 @@
       "chainCode": "CMGI",
       "showtime_id": 514341056,
       "date": "2025-09-11+16:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Jackson",
-      "zip": "38305",
-      "theater_name": "Hollywood Cinema 16",
-      "chainName": "Cinema Management Group Inc",
-      "chainCode": "CMGI",
-      "showtime_id": 515253397,
-      "date": "2025-09-11+20:35",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -9978,51 +9948,6 @@
     },
     {
       "state": "TX",
-      "city": "Abilene",
-      "zip": "79606",
-      "theater_name": "Abilene Premiere LUX Cine 10 - Abilene Mall",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 513127939,
-      "date": "2025-09-11+14:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Abilene",
-      "zip": "79606",
-      "theater_name": "Abilene Premiere LUX Cine 10 - Abilene Mall",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 513127940,
-      "date": "2025-09-11+17:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Abilene",
-      "zip": "79606",
-      "theater_name": "Abilene Premiere LUX Cine 10 - Abilene Mall",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 513127941,
-      "date": "2025-09-11+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
       "city": "El Paso",
       "zip": "79925",
       "theater_name": "El Paso Premiere LUX Cine 17 IMAX",
@@ -11305,6 +11230,21 @@
       "chainCode": "AMC",
       "showtime_id": 510877836,
       "date": "2025-09-11+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Florence",
+      "zip": "97439",
+      "theater_name": "City Lights Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 513162217,
+      "date": "2025-09-11+19:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
