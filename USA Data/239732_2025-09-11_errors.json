@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-08 11:40:43 PM",
+  "last_updated": "2025-09-09 12:38:05 AM",
   "errors": [
     {
       "state": "MA",
@@ -11663,21 +11663,6 @@
       "theater_name": "Hollywood Cinema 16",
       "chainName": "Cinema Management Group Inc",
       "chainCode": "CMGI",
-      "showtime_id": 515253396,
-      "date": "2025-09-11+19:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Jackson",
-      "zip": "38305",
-      "theater_name": "Hollywood Cinema 16",
-      "chainName": "Cinema Management Group Inc",
-      "chainCode": "CMGI",
       "showtime_id": 515253395,
       "date": "2025-09-11+21:00",
       "format": "Standard",
@@ -11879,6 +11864,201 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "State College",
+      "zip": "16801",
+      "theater_name": "UEC Theatres State College",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515266841,
+      "date": "2025-09-11+19:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "State College",
+      "zip": "16801",
+      "theater_name": "UEC Theatres State College",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515266840,
+      "date": "2025-09-11+16:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Burlington",
+      "zip": "27215",
+      "theater_name": "Alamance Crossing Stadium 16",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 515265845,
+      "date": "2025-09-11+18:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Burlington",
+      "zip": "27215",
+      "theater_name": "Alamance Crossing Stadium 16",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 515265846,
+      "date": "2025-09-11+21:25",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Belleville",
+      "zip": "62220",
+      "theater_name": "Lincoln Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515270193,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MO",
+      "city": "St. Louis",
+      "zip": "63117",
+      "theater_name": "Galleria 6 Cinemas",
+      "chainName": "Texas Movie Bistro",
+      "chainCode": "TXMB",
+      "showtime_id": 515269903,
+      "date": "2025-09-11+18:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Mesquite",
+      "zip": "75149",
+      "theater_name": "AMC DINE-IN Mesquite 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515268790,
+      "date": "2025-09-11+21:00",
+      "format": "Standard",
+      "language": "Spanish",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Mesquite",
+      "zip": "75149",
+      "theater_name": "AMC DINE-IN Mesquite 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515268818,
+      "date": "2025-09-11+19:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "San Antonio",
+      "zip": "78221",
+      "theater_name": "Santikos Mayan Palace 14",
+      "chainName": "Santikos Theaters",
+      "chainCode": "STKO",
+      "showtime_id": 515267582,
+      "date": "2025-09-11+18:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "San Antonio",
+      "zip": "78221",
+      "theater_name": "Santikos Mayan Palace 14",
+      "chainName": "Santikos Theaters",
+      "chainCode": "STKO",
+      "showtime_id": 515267583,
+      "date": "2025-09-11+21:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Spokane",
+      "zip": "99201",
+      "theater_name": "AMC River Park Square 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515268494,
+      "date": "2025-09-11+21:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Ontario",
+      "zip": "91764",
+      "theater_name": "AMC DINE-IN Ontario Mills 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515266351,
+      "date": "2025-09-11+19:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Ontario",
+      "zip": "91764",
+      "theater_name": "AMC DINE-IN Ontario Mills 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515266352,
+      "date": "2025-09-11+19:45",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
       }
     }
   ]
