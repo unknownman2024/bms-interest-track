@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-08 11:18:54 PM",
+  "last_updated": "2025-09-09 12:26:16 AM",
   "errors": [
     {
       "state": "CT",
@@ -13114,66 +13114,6 @@
     {
       "state": "TX",
       "city": "El Paso",
-      "zip": "79912",
-      "theater_name": "Alamo Drafthouse Montecillo",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 512282664,
-      "date": "2025-09-12+10:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79912",
-      "theater_name": "Alamo Drafthouse Montecillo",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 511360199,
-      "date": "2025-09-12+18:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79912",
-      "theater_name": "Alamo Drafthouse Montecillo",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 511360200,
-      "date": "2025-09-12+14:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79912",
-      "theater_name": "Alamo Drafthouse Montecillo",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 512282663,
-      "date": "2025-09-12+22:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
       "zip": "79938",
       "theater_name": "Cinemark East Montana and XD",
       "chainName": "Cinemark Theatres",
@@ -15460,6 +15400,291 @@
       "chainCode": "MTCH",
       "showtime_id": 515259309,
       "date": "2025-09-12+22:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Lakewood",
+      "zip": "14750",
+      "theater_name": "Dipson Lakewood Cinema 8",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 515266781,
+      "date": "2025-09-12+13:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Lakewood",
+      "zip": "14750",
+      "theater_name": "Dipson Lakewood Cinema 8",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 515266782,
+      "date": "2025-09-12+19:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Lakewood",
+      "zip": "14750",
+      "theater_name": "Dipson Lakewood Cinema 8",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 515266783,
+      "date": "2025-09-12+16:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Muncy",
+      "zip": "17756",
+      "theater_name": "The District Cinema",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 515269023,
+      "date": "2025-09-12+13:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Muncy",
+      "zip": "17756",
+      "theater_name": "The District Cinema",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 515269020,
+      "date": "2025-09-12+15:50",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Muncy",
+      "zip": "17756",
+      "theater_name": "The District Cinema",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 515269024,
+      "date": "2025-09-12+20:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Muncy",
+      "zip": "17756",
+      "theater_name": "The District Cinema",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 515269014,
+      "date": "2025-09-12+12:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Muncy",
+      "zip": "17756",
+      "theater_name": "The District Cinema",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 515269029,
+      "date": "2025-09-12+16:50",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Muncy",
+      "zip": "17756",
+      "theater_name": "The District Cinema",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 515269015,
+      "date": "2025-09-12+19:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Martinsville",
+      "zip": "24112",
+      "theater_name": "Movie Town Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515266874,
+      "date": "2025-09-12+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Martinsville",
+      "zip": "24112",
+      "theater_name": "Movie Town Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515266879,
+      "date": "2025-09-12+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Martinsville",
+      "zip": "24112",
+      "theater_name": "Movie Town Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515266880,
+      "date": "2025-09-12+18:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Martinsville",
+      "zip": "24112",
+      "theater_name": "Movie Town Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515266881,
+      "date": "2025-09-12+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Garden City",
+      "zip": "67846",
+      "theater_name": "Mitchell Theatres Sequoyah Cinema 9",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 515256012,
+      "date": "2025-09-12+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Garden City",
+      "zip": "67846",
+      "theater_name": "Mitchell Theatres Sequoyah Cinema 9",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 515256025,
+      "date": "2025-09-12+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Garden City",
+      "zip": "67846",
+      "theater_name": "Mitchell Theatres Sequoyah Cinema 9",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 515256034,
+      "date": "2025-09-12+22:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NM",
+      "city": "Espanola",
+      "zip": "87532",
+      "theater_name": "Dreamcatcher Cinema 10",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 515266678,
+      "date": "2025-09-12+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NM",
+      "city": "Espanola",
+      "zip": "87532",
+      "theater_name": "Dreamcatcher Cinema 10",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 515266691,
+      "date": "2025-09-12+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NM",
+      "city": "Espanola",
+      "zip": "87532",
+      "theater_name": "Dreamcatcher Cinema 10",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 515266693,
+      "date": "2025-09-12+20:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
