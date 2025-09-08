@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 02:40:28 AM",
+  "last_updated": "2025-09-09 03:39:43 AM",
   "errors": [
     {
       "state": "MA",
@@ -12122,21 +12122,6 @@
       }
     },
     {
-      "state": "MD",
-      "city": "Annapolis",
-      "zip": "21401",
-      "theater_name": "AMC Annapolis Mall 11",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515277945,
-      "date": "2025-09-11+23:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400
-      }
-    },
-    {
       "state": "KY",
       "city": "Frankfort",
       "zip": "40601",
@@ -12224,6 +12209,201 @@
       "language": "Unknown",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake City",
+      "zip": "32055",
+      "theater_name": "Regal UA Cinema 90",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515303830,
+      "date": "2025-09-11+17:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515298382,
+      "date": "2025-09-11+18:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515298384,
+      "date": "2025-09-11+17:10",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515298383,
+      "date": "2025-09-11+22:20",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Cullman",
+      "zip": "35055",
+      "theater_name": "AMC CLASSIC Marktplatz 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515282873,
+      "date": "2025-09-11+21:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Cullman",
+      "zip": "35055",
+      "theater_name": "AMC CLASSIC Marktplatz 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515282882,
+      "date": "2025-09-11+18:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Florence",
+      "zip": "35630",
+      "theater_name": "AMC CLASSIC Florence 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515288029,
+      "date": "2025-09-11+20:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Florence",
+      "zip": "35630",
+      "theater_name": "AMC CLASSIC Florence 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515288028,
+      "date": "2025-09-11+17:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Tiffin",
+      "zip": "44883",
+      "theater_name": "Seneca Starvue",
+      "chainName": "INDY Cinema Group",
+      "chainCode": "INDY",
+      "showtime_id": 515292478,
+      "date": "2025-09-11+18:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Johnson Creek",
+      "zip": "53038",
+      "theater_name": "AMC CLASSIC Johnson Creek 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515288071,
+      "date": "2025-09-11+18:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Johnson Creek",
+      "zip": "53038",
+      "theater_name": "AMC CLASSIC Johnson Creek 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515288065,
+      "date": "2025-09-11+18:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Harvey",
+      "zip": "70058",
+      "theater_name": "AMC Westbank Palace 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515299351,
+      "date": "2025-09-11+18:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Elko",
+      "zip": "89801",
+      "theater_name": "UEC Theatres Elko Cinema 6",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515295852,
+      "date": "2025-09-11+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
       }
     }
   ]
