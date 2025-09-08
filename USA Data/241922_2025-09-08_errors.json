@@ -1,0 +1,95 @@
+{
+  "last_updated": "2025-09-08 12:44:26 PM",
+  "errors": [
+    {
+      "state": "NY",
+      "city": "Binghamton",
+      "zip": "13905",
+      "theater_name": "Regal Binghamton",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 514640094,
+      "date": "2025-09-08+14:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Pittsburgh",
+      "zip": "15241",
+      "theater_name": "AMC CLASSIC South Hills Village 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 514511870,
+      "date": "2025-09-08+20:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 514566953,
+      "date": "2025-09-08+15:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27408",
+      "theater_name": "Red Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 514746713,
+      "date": "2025-09-08+16:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33634",
+      "theater_name": "AMC Veterans 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 0,
+      "date": "2025-09-08+21:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 514663899,
+      "date": "2025-09-08+21:10",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    }
+  ]
+}
