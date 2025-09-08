@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-08 10:39:28 PM",
+  "last_updated": "2025-09-08 11:40:43 PM",
   "errors": [
     {
       "state": "MA",
@@ -11800,6 +11800,81 @@
       "chainCode": "RTSIND",
       "showtime_id": 515261230,
       "date": "2025-09-11+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MA",
+      "city": "East Bridgewater",
+      "zip": "02333",
+      "theater_name": "East Bridgewater Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515264680,
+      "date": "2025-09-11+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11230",
+      "theater_name": "Kent Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515262097,
+      "date": "2025-09-11+18:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11230",
+      "theater_name": "Kent Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515262098,
+      "date": "2025-09-11+21:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Portsmouth",
+      "zip": "45662",
+      "theater_name": "Portsmouth Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515262178,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Portsmouth",
+      "zip": "45662",
+      "theater_name": "Portsmouth Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515262177,
+      "date": "2025-09-11+16:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
