@@ -1,0 +1,110 @@
+{
+  "last_updated": "2025-09-08 12:55:02 PM",
+  "errors": [
+    {
+      "state": "NY",
+      "city": "Bellmore",
+      "zip": "11710",
+      "theater_name": "Bellmore Playhouse",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 514568336,
+      "date": "2025-09-08+20:30",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Morrisville",
+      "zip": "27560",
+      "theater_name": "AMC Park Place 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 514948451,
+      "date": "2025-09-08+15:45",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Charlotte",
+      "zip": "28277",
+      "theater_name": "Regal Stonecrest at Piper Glen 4DX, IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 514815676,
+      "date": "2025-09-08+18:50",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33634",
+      "theater_name": "AMC Veterans 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 0,
+      "date": "2025-09-08+21:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 514663924,
+      "date": "2025-09-08+19:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Warrenville",
+      "zip": "60555",
+      "theater_name": "Phoenix Theatres Cantera Warrenville 17 + PTX",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 514875828,
+      "date": "2025-09-08+21:30",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Turlock",
+      "zip": "95380",
+      "theater_name": "Regal Turlock",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 514929550,
+      "date": "2025-09-08+15:25",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "exception": ""
+      }
+    }
+  ]
+}
