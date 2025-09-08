@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 01:58:21 AM",
+  "last_updated": "2025-09-09 02:53:02 AM",
   "errors": [
     {
       "state": "CT",
@@ -9753,21 +9753,6 @@
     },
     {
       "state": "TX",
-      "city": "San Antonio",
-      "zip": "78257",
-      "theater_name": "Santikos Palladium IMAX",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 512499755,
-      "date": "2025-09-11+14:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
       "city": "Pleasanton",
       "zip": "78064",
       "theater_name": "Plestex 4 Theatre",
@@ -11095,6 +11080,141 @@
       "chainCode": "AMC",
       "showtime_id": 515268491,
       "date": "2025-09-11+21:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Schenectady",
+      "zip": "12305",
+      "theater_name": "SCENE ONE MOVIELAND",
+      "chainName": "Scene One Entertainment",
+      "chainCode": "BOWT",
+      "showtime_id": 514749494,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Schenectady",
+      "zip": "12305",
+      "theater_name": "SCENE ONE MOVIELAND",
+      "chainName": "Scene One Entertainment",
+      "chainCode": "BOWT",
+      "showtime_id": 514749493,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Columbia",
+      "zip": "21046",
+      "theater_name": "Phoenix Theatres Columbia Snowden 14 + ScreenX",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 512286586,
+      "date": "2025-09-11+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Marianna",
+      "zip": "32446",
+      "theater_name": "Marianna Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515279954,
+      "date": "2025-09-11+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Marianna",
+      "zip": "32446",
+      "theater_name": "Marianna Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515279958,
+      "date": "2025-09-11+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Pierre",
+      "zip": "57501",
+      "theater_name": "State 1 2 3",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515280690,
+      "date": "2025-09-11+21:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Union",
+      "zip": "63084",
+      "theater_name": "Great 8 Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515281524,
+      "date": "2025-09-11+16:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Union",
+      "zip": "63084",
+      "theater_name": "Great 8 Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515281525,
+      "date": "2025-09-11+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Denver",
+      "zip": "80203",
+      "theater_name": "Landmark Mayan Theatre",
+      "chainName": "Landmark",
+      "chainCode": "L",
+      "showtime_id": 515284827,
+      "date": "2025-09-11+19:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
