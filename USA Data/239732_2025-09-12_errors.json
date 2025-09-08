@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-08 09:19:25 PM",
+  "last_updated": "2025-09-08 10:23:29 PM",
   "errors": [
     {
       "state": "CT",
@@ -15044,6 +15044,141 @@
       "language": "English",
       "error": {
         "status": 500
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Tarentum",
+      "zip": "15084",
+      "theater_name": "GQT Pittsburgh Mills Cinemas",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 515258184,
+      "date": "2025-09-12+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Columbia",
+      "zip": "29223",
+      "theater_name": "Spotlight Cinemas Capital 8",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515259415,
+      "date": "2025-09-12+13:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Columbia",
+      "zip": "29223",
+      "theater_name": "Spotlight Cinemas Capital 8",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515259416,
+      "date": "2025-09-12+16:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Columbia",
+      "zip": "29223",
+      "theater_name": "Spotlight Cinemas Capital 8",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515259417,
+      "date": "2025-09-12+19:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Florence",
+      "zip": "35630",
+      "theater_name": "AMC CLASSIC Florence 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515260238,
+      "date": "2025-09-12+12:25",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Greenfield",
+      "zip": "46140",
+      "theater_name": "VIP Legacy 9",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 515259585,
+      "date": "2025-09-12+13:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Greenfield",
+      "zip": "46140",
+      "theater_name": "VIP Legacy 9",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 515259584,
+      "date": "2025-09-12+20:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Greenfield",
+      "zip": "46140",
+      "theater_name": "VIP Legacy 9",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 515259586,
+      "date": "2025-09-12+09:50",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Greenfield",
+      "zip": "46140",
+      "theater_name": "VIP Legacy 9",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 515259583,
+      "date": "2025-09-12+16:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
       }
     }
   ]
