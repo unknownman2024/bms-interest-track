@@ -813,7 +813,8 @@
     "max_gross": 2419.0,
     "total_gross": 635.5,
     "price": 20.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 177019,
@@ -2422,11 +2423,11 @@
     "screenName": "Cinema 4",
     "operator": "RIC",
     "total": 322,
-    "sold": 0,
-    "available": 322,
-    "occupancy": 0.0,
+    "sold": 1,
+    "available": 321,
+    "occupancy": 0.31,
     "max_gross": 8694.0,
-    "total_gross": 0.0,
+    "total_gross": 27.0,
     "price": 27.0,
     "error": false
   },
@@ -5166,6 +5167,57 @@
     "max_gross": 9516.0,
     "total_gross": 0.0,
     "price": 30.5,
+    "error": false
+  },
+  {
+    "id": 194941,
+    "cinemaId": "1011",
+    "movieId": "HO00007444",
+    "date": "2025-09-13T18:10:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 4",
+    "operator": "HIB",
+    "total": 160,
+    "sold": 0,
+    "available": 160,
+    "occupancy": 0.0,
+    "max_gross": 4320.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
+  },
+  {
+    "id": 194949,
+    "cinemaId": "1011",
+    "movieId": "HO00007444",
+    "date": "2025-09-13T10:20:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 1",
+    "operator": "HIB",
+    "total": 126,
+    "sold": 0,
+    "available": 126,
+    "occupancy": 0.0,
+    "max_gross": 3402.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
+  },
+  {
+    "id": 194943,
+    "cinemaId": "1011",
+    "movieId": "HO00007919",
+    "date": "2025-09-13T21:00:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 2",
+    "operator": "HIB",
+    "total": 96,
+    "sold": 0,
+    "available": 96,
+    "occupancy": 0.0,
+    "max_gross": 2592.0,
+    "total_gross": 0.0,
+    "price": 27.0,
     "error": false
   }
 ]
