@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 03:51:47 AM",
+  "last_updated": "2025-09-09 04:51:59 AM",
   "errors": [
     {
       "state": "IL",
@@ -10,6 +10,51 @@
       "chainCode": "AMC",
       "showtime_id": 0,
       "date": "2025-09-11+13:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515305473,
+      "date": "2025-09-11+14:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515305498,
+      "date": "2025-09-11+20:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Torrance",
+      "zip": "90505",
+      "theater_name": "AMC Rolling Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515318556,
+      "date": "2025-09-11+18:45",
       "format": "Standard",
       "language": "Telugu",
       "error": {
