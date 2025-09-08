@@ -54,13 +54,19 @@ KNOWN_LANGUAGES = [
     "Gujarati",
     "Marathi",
     "Bengali",
+    "Japanese",
+    "Spanish",
 ]
 
 FORMAT_KEYWORDS = [
+    "Superscreen DLX",
+    "Ultrascreen DLX",
+    "CINÉ XL®",
     "RPX",
     "D-Box",
     "IMAX",
     "EMX",
+    "DFX",
     "Sony Digital Cinema",
     "4DX",
     "ScreenX",
