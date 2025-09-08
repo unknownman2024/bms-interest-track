@@ -2041,9 +2041,12 @@
     "date": "2025-09-08+15:45",
     "format": "Standard",
     "language": "Tamil",
-    "error": {
-      "status": 403
-    }
+    "totalSeatSold": 2,
+    "occupancy": 1.69,
+    "totalAvailableSeatCount": 116,
+    "totalSeatCount": 118,
+    "grossRevenueUSD": 20.58,
+    "adultTicketPrice": 10.29
   },
   {
     "state": "NC",
@@ -2254,9 +2257,12 @@
     "date": "2025-09-08+18:50",
     "format": "Standard",
     "language": "Tamil",
-    "error": {
-      "exception": ""
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 76,
+    "totalSeatCount": 76,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 17.15
   },
   {
     "state": "NC",
@@ -4495,9 +4501,12 @@
     "date": "2025-09-08+21:30",
     "format": "Standard",
     "language": "Tamil",
-    "error": {
-      "status": 403
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 71,
+    "totalSeatCount": 71,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 12.6
   },
   {
     "state": "IL",
@@ -7537,5 +7546,23 @@
     "totalSeatCount": 293,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 12.59
+  },
+  {
+    "state": "FL",
+    "city": "Tampa",
+    "zip": "33634",
+    "theater_name": "AMC Veterans 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 514651585,
+    "date": "2025-09-08+21:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 49,
+    "totalSeatCount": 49,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 14.5
   }
 ]
