@@ -31,8 +31,7 @@
     "max_gross": 4752.0,
     "total_gross": 81.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 357865,
@@ -287,8 +286,7 @@
     "max_gross": 4320.0,
     "total_gross": 513.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 194143,
@@ -385,11 +383,11 @@
     "screenName": "METRO 4",
     "operator": "HAM",
     "total": 253,
-    "sold": 0,
-    "available": 253,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 251,
+    "occupancy": 0.79,
     "max_gross": 5819.0,
-    "total_gross": 0.0,
+    "total_gross": 46.0,
     "price": 23.0,
     "error": false
   },
@@ -1853,8 +1851,7 @@
     "max_gross": 10752.0,
     "total_gross": 0.0,
     "price": 21.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 316545,
@@ -4965,8 +4962,7 @@
     "max_gross": 1785.0,
     "total_gross": 0.0,
     "price": 25.5,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 469459,
@@ -5058,10 +5054,17 @@
     "cinemaId": "ORMCIN",
     "movieId": "HO00007811",
     "date": "2025-09-17T14:50:00",
+    "typeId": "XTREME",
     "screenName": "Xtremescreen 01",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 500"
+    "total": 286,
+    "sold": 0,
+    "available": 286,
+    "occupancy": 0.0,
+    "max_gross": 9295.0,
+    "total_gross": 0.0,
+    "price": 32.5,
+    "error": false
   },
   {
     "id": 68516,

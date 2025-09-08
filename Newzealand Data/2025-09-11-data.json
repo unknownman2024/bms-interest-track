@@ -110,11 +110,11 @@
     "screenName": "XTREMESCREEN",
     "operator": "SYL",
     "total": 1075,
-    "sold": 138,
-    "available": 937,
-    "occupancy": 12.84,
+    "sold": 142,
+    "available": 933,
+    "occupancy": 13.21,
     "max_gross": 34400.0,
-    "total_gross": 4416.0,
+    "total_gross": 4544.0,
     "price": 32.0,
     "error": false
   },
@@ -280,11 +280,11 @@
     "screenName": "XTREMESCREEN",
     "operator": "SYL",
     "total": 1075,
-    "sold": 34,
-    "available": 1041,
-    "occupancy": 3.16,
+    "sold": 36,
+    "available": 1039,
+    "occupancy": 3.35,
     "max_gross": 34400.0,
-    "total_gross": 1088.0,
+    "total_gross": 1152.0,
     "price": 32.0,
     "error": false
   },
@@ -621,11 +621,11 @@
     "screenName": "Xtremescreen 5",
     "operator": "RIC",
     "total": 780,
-    "sold": 136,
-    "available": 644,
-    "occupancy": 17.44,
+    "sold": 141,
+    "available": 639,
+    "occupancy": 18.08,
     "max_gross": 17940.0,
-    "total_gross": 3128.0,
+    "total_gross": 3243.0,
     "price": 23.0,
     "error": false
   },
@@ -644,8 +644,7 @@
     "max_gross": 2898.0,
     "total_gross": 138.0,
     "price": 23.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 169233,
@@ -1421,11 +1420,11 @@
     "screenName": "Cinema 4",
     "operator": "NTH",
     "total": 160,
-    "sold": 2,
-    "available": 158,
-    "occupancy": 1.25,
+    "sold": 8,
+    "available": 152,
+    "occupancy": 5.0,
     "max_gross": 2960.0,
-    "total_gross": 37.0,
+    "total_gross": 148.0,
     "price": 18.5,
     "error": false
   },
@@ -1529,8 +1528,7 @@
     "max_gross": 3360.0,
     "total_gross": 0.0,
     "price": 24.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 276258,
@@ -1740,9 +1738,9 @@
     "id": 316385,
     "cinemaId": "1005",
     "movieId": "HO00007444",
-    "date": "2025-09-11T19:15:00",
+    "date": "2025-09-11T19:20:00",
     "typeId": "STANDARD",
-    "screenName": "Cinema 6",
+    "screenName": "Cinema 1",
     "operator": "RIC",
     "total": 144,
     "sold": 0,
@@ -2579,11 +2577,11 @@
     "screenName": "HOYTS LUX 01",
     "operator": "CHCLP",
     "total": 45,
-    "sold": 3,
-    "available": 42,
-    "occupancy": 6.67,
+    "sold": 5,
+    "available": 40,
+    "occupancy": 11.11,
     "max_gross": 1215.0,
-    "total_gross": 81.0,
+    "total_gross": 135.0,
     "price": 27.0,
     "error": false
   },
@@ -2602,8 +2600,7 @@
     "max_gross": 3120.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 169215,
@@ -2790,8 +2787,7 @@
     "max_gross": 4389.0,
     "total_gross": 0.0,
     "price": 21.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 169235,
@@ -2955,11 +2951,11 @@
     "screenName": "METRO 4",
     "operator": "HAM",
     "total": 253,
-    "sold": 0,
-    "available": 253,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 251,
+    "occupancy": 0.79,
     "max_gross": 5313.0,
-    "total_gross": 0.0,
+    "total_gross": 42.0,
     "price": 21.0,
     "error": false
   },
@@ -3012,8 +3008,7 @@
     "max_gross": 3360.0,
     "total_gross": 0.0,
     "price": 21.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 169209,
@@ -3693,8 +3688,7 @@
     "max_gross": 2730.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 400206,
@@ -4187,8 +4181,7 @@
     "max_gross": 3328.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 400207,
@@ -5219,11 +5212,11 @@
     "screenName": "HOYTS LUX 11",
     "operator": "SYLDS",
     "total": 96,
-    "sold": 0,
-    "available": 96,
-    "occupancy": 0.0,
+    "sold": 4,
+    "available": 92,
+    "occupancy": 4.17,
     "max_gross": 2592.0,
-    "total_gross": 0.0,
+    "total_gross": 108.0,
     "price": 27.0,
     "error": false
   },
@@ -6432,6 +6425,23 @@
     "max_gross": 5724.0,
     "total_gross": 0.0,
     "price": 26.5,
+    "error": false
+  },
+  {
+    "id": 316621,
+    "cinemaId": "1005",
+    "movieId": "HO00007811",
+    "date": "2025-09-11T19:30:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 6",
+    "operator": "RIC",
+    "total": 476,
+    "sold": 0,
+    "available": 476,
+    "occupancy": 0.0,
+    "max_gross": 8806.0,
+    "total_gross": 0.0,
+    "price": 18.5,
     "error": false
   }
 ]

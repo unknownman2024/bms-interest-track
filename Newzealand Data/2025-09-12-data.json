@@ -473,8 +473,7 @@
     "max_gross": 2898.0,
     "total_gross": 46.0,
     "price": 23.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 168175,
@@ -672,11 +671,11 @@
     "screenName": "METRO 7",
     "operator": "HAM",
     "total": 42,
-    "sold": 5,
-    "available": 37,
-    "occupancy": 11.9,
+    "sold": 7,
+    "available": 35,
+    "occupancy": 16.67,
     "max_gross": 1113.0,
-    "total_gross": 132.5,
+    "total_gross": 185.5,
     "price": 26.5,
     "error": false
   },
@@ -1392,8 +1391,7 @@
     "max_gross": 2880.0,
     "total_gross": 0.0,
     "price": 24.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 177309,
@@ -1421,11 +1419,11 @@
     "screenName": "Cinema 4",
     "operator": "NTH",
     "total": 160,
-    "sold": 0,
-    "available": 160,
-    "occupancy": 0.0,
+    "sold": 6,
+    "available": 154,
+    "occupancy": 3.75,
     "max_gross": 2960.0,
-    "total_gross": 0.0,
+    "total_gross": 111.0,
     "price": 18.5,
     "error": false
   },
@@ -1535,9 +1533,9 @@
     "id": 316444,
     "cinemaId": "1005",
     "movieId": "HO00007444",
-    "date": "2025-09-12T19:15:00",
+    "date": "2025-09-12T19:20:00",
     "typeId": "STANDARD",
-    "screenName": "Cinema 6",
+    "screenName": "Cinema 1",
     "operator": "RIC",
     "total": 144,
     "sold": 0,
@@ -2714,11 +2712,11 @@
     "screenName": "Cinema 3",
     "operator": "WPK",
     "total": 126,
-    "sold": 2,
-    "available": 124,
-    "occupancy": 1.59,
+    "sold": 4,
+    "available": 122,
+    "occupancy": 3.17,
     "max_gross": 3276.0,
-    "total_gross": 52.0,
+    "total_gross": 104.0,
     "price": 26.0,
     "error": false
   },
@@ -3094,8 +3092,7 @@
     "max_gross": 3402.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 169246,
@@ -3435,8 +3432,7 @@
     "max_gross": 2646.0,
     "total_gross": 0.0,
     "price": 21.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 169266,
@@ -3810,8 +3806,7 @@
     "max_gross": 3328.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 400167,
@@ -4043,11 +4038,11 @@
     "screenName": "Cinema 3",
     "operator": "BOT",
     "total": 162,
-    "sold": 4,
-    "available": 158,
-    "occupancy": 2.47,
+    "sold": 8,
+    "available": 154,
+    "occupancy": 4.94,
     "max_gross": 4536.0,
-    "total_gross": 112.0,
+    "total_gross": 224.0,
     "price": 28.0,
     "error": false
   },
@@ -4168,8 +4163,7 @@
     "max_gross": 4212.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 400147,
@@ -6430,6 +6424,23 @@
     "max_gross": 5346.0,
     "total_gross": 0.0,
     "price": 27.0,
+    "error": false
+  },
+  {
+    "id": 316622,
+    "cinemaId": "1005",
+    "movieId": "HO00007811",
+    "date": "2025-09-12T19:30:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 6",
+    "operator": "RIC",
+    "total": 476,
+    "sold": 0,
+    "available": 476,
+    "occupancy": 0.0,
+    "max_gross": 8806.0,
+    "total_gross": 0.0,
+    "price": 18.5,
     "error": false
   }
 ]

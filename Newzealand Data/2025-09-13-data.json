@@ -246,11 +246,11 @@
     "screenName": "Xtremescreen 04",
     "operator": "CHC",
     "total": 372,
-    "sold": 0,
-    "available": 372,
-    "occupancy": 0.0,
+    "sold": 4,
+    "available": 368,
+    "occupancy": 1.08,
     "max_gross": 10044.0,
-    "total_gross": 0.0,
+    "total_gross": 108.0,
     "price": 27.0,
     "error": false
   },
@@ -416,11 +416,11 @@
     "screenName": "XTREMESCREEN",
     "operator": "SYL",
     "total": 1075,
-    "sold": 53,
-    "available": 1022,
-    "occupancy": 4.93,
+    "sold": 54,
+    "available": 1021,
+    "occupancy": 5.02,
     "max_gross": 34400.0,
-    "total_gross": 1696.0,
+    "total_gross": 1728.0,
     "price": 32.0,
     "error": false
   },
@@ -1334,11 +1334,11 @@
     "screenName": "Xtremescreen 5",
     "operator": "RIC",
     "total": 780,
-    "sold": 94,
-    "available": 686,
-    "occupancy": 12.05,
+    "sold": 92,
+    "available": 688,
+    "occupancy": 11.79,
     "max_gross": 17940.0,
-    "total_gross": 2162.0,
+    "total_gross": 2116.0,
     "price": 23.0,
     "error": false
   },
@@ -1521,11 +1521,11 @@
     "screenName": "HOYTS LUX 07",
     "operator": "TERLP",
     "total": 198,
-    "sold": 19,
-    "available": 179,
-    "occupancy": 9.6,
+    "sold": 23,
+    "available": 175,
+    "occupancy": 11.62,
     "max_gross": 5346.0,
-    "total_gross": 513.0,
+    "total_gross": 621.0,
     "price": 27.0,
     "error": false
   },
@@ -1765,8 +1765,7 @@
     "max_gross": 3360.0,
     "total_gross": 0.0,
     "price": 24.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 276408,
@@ -2412,8 +2411,7 @@
     "max_gross": 13824.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 316559,
@@ -3088,11 +3086,11 @@
     "screenName": "Xtremescreen 04",
     "operator": "CHC",
     "total": 372,
-    "sold": 4,
-    "available": 368,
-    "occupancy": 1.08,
+    "sold": 6,
+    "available": 366,
+    "occupancy": 1.61,
     "max_gross": 8556.0,
-    "total_gross": 92.0,
+    "total_gross": 138.0,
     "price": 23.0,
     "error": false
   },
@@ -3394,11 +3392,11 @@
     "screenName": "HOYTS LUX 02",
     "operator": "CHCLP",
     "total": 54,
-    "sold": 0,
-    "available": 54,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 52,
+    "occupancy": 3.7,
     "max_gross": 1458.0,
-    "total_gross": 0.0,
+    "total_gross": 54.0,
     "price": 27.0,
     "error": false
   },
@@ -3825,8 +3823,7 @@
     "max_gross": 3402.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 359199,
@@ -4489,8 +4486,7 @@
     "max_gross": 3978.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 400040,
@@ -5969,8 +5965,7 @@
     "max_gross": 1890.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 469145,
@@ -6062,20 +6057,34 @@
     "cinemaId": "1014",
     "movieId": "HO00007794",
     "date": "2025-09-13T19:20:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 4",
     "operator": "TER",
-    "error": true,
-    "error_msg": "HTTP 500"
+    "total": 216,
+    "sold": 2,
+    "available": 214,
+    "occupancy": 0.93,
+    "max_gross": 5832.0,
+    "total_gross": 54.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 68286,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007794",
     "date": "2025-09-13T18:20:00",
+    "typeId": "XTREME",
     "screenName": "Xtremescreen 07",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 500"
+    "total": 176,
+    "sold": 3,
+    "available": 173,
+    "occupancy": 1.7,
+    "max_gross": 4752.0,
+    "total_gross": 81.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 328325,
