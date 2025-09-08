@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-08 07:54:02 AM",
+  "last_updated": "2025-09-08 09:00:40 AM",
   "errors": [
     {
       "state": "MA",
@@ -11612,48 +11612,198 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Poway",
-      "zip": "92064",
-      "theater_name": "AMC DINE-IN Poway 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515250404,
+      "state": "NC",
+      "city": "Southport",
+      "zip": "28461",
+      "theater_name": "Surf Cinemas",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 514522433,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Southport",
+      "zip": "28461",
+      "theater_name": "Surf Cinemas",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 514522432,
+      "date": "2025-09-11+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Maysville",
+      "zip": "41056",
+      "theater_name": "Lucas Cinemas 4 ",
+      "chainName": "Lucas Cinemas",
+      "chainCode": "LUCA",
+      "showtime_id": 514297908,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Maysville",
+      "zip": "41056",
+      "theater_name": "Lucas Cinemas 4 ",
+      "chainName": "Lucas Cinemas",
+      "chainCode": "LUCA",
+      "showtime_id": 514297907,
+      "date": "2025-09-11+18:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Van Wert",
+      "zip": "45891",
+      "theater_name": "Van Wert Cinemas",
+      "chainName": "Saunders Theater Group",
+      "chainCode": "SAUN",
+      "showtime_id": 515250346,
+      "date": "2025-09-11+18:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Wilmington",
+      "zip": "45177",
+      "theater_name": "Wilmington Plaza Cinema 5",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515230231,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Wilmington",
+      "zip": "45177",
+      "theater_name": "Wilmington Plaza Cinema 5",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515230232,
       "date": "2025-09-11+19:00",
       "format": "Standard",
-      "language": "English",
+      "language": "Unknown",
       "error": {
-        "status": 403
+        "status": 400
       }
     },
     {
-      "state": "CA",
-      "city": "Poway",
-      "zip": "92064",
-      "theater_name": "AMC DINE-IN Poway 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515250714,
-      "date": "2025-09-11+16:45",
+      "state": "NV",
+      "city": "Laughlin",
+      "zip": "89029",
+      "theater_name": "Brenden Avi 8",
+      "chainName": "Brenden Theatres",
+      "chainCode": "BRND",
+      "showtime_id": 512401588,
+      "date": "2025-09-11+16:00",
       "format": "Standard",
       "language": "English",
       "error": {
-        "status": 403
+        "status": 400
       }
     },
     {
-      "state": "CA",
-      "city": "Poway",
-      "zip": "92064",
-      "theater_name": "AMC DINE-IN Poway 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515250405,
-      "date": "2025-09-11+20:15",
+      "state": "NV",
+      "city": "Laughlin",
+      "zip": "89029",
+      "theater_name": "Brenden Avi 8",
+      "chainName": "Brenden Theatres",
+      "chainCode": "BRND",
+      "showtime_id": 512401589,
+      "date": "2025-09-11+18:00",
       "format": "Standard",
       "language": "English",
       "error": {
-        "status": 403
+        "status": 400
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Laughlin",
+      "zip": "89029",
+      "theater_name": "Brenden Avi 8",
+      "chainName": "Brenden Theatres",
+      "chainCode": "BRND",
+      "showtime_id": 512401587,
+      "date": "2025-09-11+19:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Payson",
+      "zip": "85541",
+      "theater_name": "Sawmill Theatre",
+      "chainName": "Sawmill Theatre",
+      "chainCode": "SAWM",
+      "showtime_id": 515218303,
+      "date": "2025-09-11+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Payson",
+      "zip": "85541",
+      "theater_name": "Sawmill Theatre",
+      "chainName": "Sawmill Theatre",
+      "chainCode": "SAWM",
+      "showtime_id": 515218308,
+      "date": "2025-09-11+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Payson",
+      "zip": "85541",
+      "theater_name": "Sawmill Theatre",
+      "chainName": "Sawmill Theatre",
+      "chainCode": "SAWM",
+      "showtime_id": 515218314,
+      "date": "2025-09-11+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
       }
     }
   ]
