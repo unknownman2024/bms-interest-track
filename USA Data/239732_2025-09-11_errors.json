@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-08 09:39:11 PM",
+  "last_updated": "2025-09-08 10:39:28 PM",
   "errors": [
     {
       "state": "MA",
@@ -11712,6 +11712,96 @@
       "date": "2025-09-11+20:30",
       "format": "Standard",
       "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Greenfield",
+      "zip": "46140",
+      "theater_name": "VIP Legacy 9",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 515259827,
+      "date": "2025-09-11+18:50",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "LA",
+      "city": "New Orleans",
+      "zip": "70130",
+      "theater_name": "Prytania at Canal Place",
+      "chainName": "Prytania Theatres",
+      "chainCode": "PRYT",
+      "showtime_id": 515261264,
+      "date": "2025-09-11+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "LA",
+      "city": "New Orleans",
+      "zip": "70130",
+      "theater_name": "Prytania at Canal Place",
+      "chainName": "Prytania Theatres",
+      "chainCode": "PRYT",
+      "showtime_id": 515261265,
+      "date": "2025-09-11+19:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "LA",
+      "city": "New Orleans",
+      "zip": "70130",
+      "theater_name": "Prytania at Canal Place",
+      "chainName": "Prytania Theatres",
+      "chainCode": "PRYT",
+      "showtime_id": 515261266,
+      "date": "2025-09-11+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Gainesville",
+      "zip": "76240",
+      "theater_name": "DMAX Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515261229,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Gainesville",
+      "zip": "76240",
+      "theater_name": "DMAX Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515261230,
+      "date": "2025-09-11+18:30",
+      "format": "Standard",
+      "language": "Unknown",
       "error": {
         "status": 400
       }
