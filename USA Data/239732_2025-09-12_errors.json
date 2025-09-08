@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 02:19:15 AM",
+  "last_updated": "2025-09-09 03:17:03 AM",
   "errors": [
     {
       "state": "CT",
@@ -16997,21 +16997,6 @@
       }
     },
     {
-      "state": "NM",
-      "city": "Albuquerque",
-      "zip": "87120",
-      "theater_name": "Flix Brewhouse Albuquerque",
-      "chainName": "Flix Brewhouse",
-      "chainCode": "FLIX",
-      "showtime_id": 515282405,
-      "date": "2025-09-12+14:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "NV",
       "city": "Elko",
       "zip": "89801",
@@ -17099,6 +17084,1056 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10001",
+      "theater_name": "AMC 34th Street 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 511625875,
+      "date": "2025-09-12+10:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Hornell",
+      "zip": "14843",
+      "theater_name": "Spotlight of Hornell",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515294810,
+      "date": "2025-09-12+12:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Hornell",
+      "zip": "14843",
+      "theater_name": "Spotlight of Hornell",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515294811,
+      "date": "2025-09-12+15:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Hornell",
+      "zip": "14843",
+      "theater_name": "Spotlight of Hornell",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515294812,
+      "date": "2025-09-12+21:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Bethlehem",
+      "zip": "30620",
+      "theater_name": "AMC Bethlehem 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515297831,
+      "date": "2025-09-12+22:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Cartersville",
+      "zip": "30120",
+      "theater_name": "AMC CLASSIC Cartersville 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515288108,
+      "date": "2025-09-12+17:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Cartersville",
+      "zip": "30120",
+      "theater_name": "AMC CLASSIC Cartersville 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515288109,
+      "date": "2025-09-12+13:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Cartersville",
+      "zip": "30120",
+      "theater_name": "AMC CLASSIC Cartersville 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515288097,
+      "date": "2025-09-12+14:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Cartersville",
+      "zip": "30120",
+      "theater_name": "AMC CLASSIC Cartersville 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515288096,
+      "date": "2025-09-12+18:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Cartersville",
+      "zip": "30120",
+      "theater_name": "AMC CLASSIC Cartersville 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515288095,
+      "date": "2025-09-12+22:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake City",
+      "zip": "32055",
+      "theater_name": "Regal UA Cinema 90",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515303840,
+      "date": "2025-09-12+13:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake City",
+      "zip": "32055",
+      "theater_name": "Regal UA Cinema 90",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515303841,
+      "date": "2025-09-12+16:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake City",
+      "zip": "32055",
+      "theater_name": "Regal UA Cinema 90",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515303842,
+      "date": "2025-09-12+20:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Newton",
+      "zip": "36352",
+      "theater_name": "VIP Star-Lite Drive-In",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 515287495,
+      "date": "2025-09-12+19:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pace",
+      "zip": "32571",
+      "theater_name": "Ridge Cinema 8",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515297233,
+      "date": "2025-09-12+21:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pace",
+      "zip": "32571",
+      "theater_name": "Ridge Cinema 8",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515297231,
+      "date": "2025-09-12+18:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Cullman",
+      "zip": "35055",
+      "theater_name": "AMC CLASSIC Marktplatz 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515288026,
+      "date": "2025-09-12+12:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Cullman",
+      "zip": "35055",
+      "theater_name": "AMC CLASSIC Marktplatz 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515288012,
+      "date": "2025-09-12+14:25",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Cullman",
+      "zip": "35055",
+      "theater_name": "AMC CLASSIC Marktplatz 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515288011,
+      "date": "2025-09-12+17:55",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Albertville",
+      "zip": "35950",
+      "theater_name": "Lucas Cinemas Albertville 10",
+      "chainName": "Lucas Cinemas",
+      "chainCode": "LUCA",
+      "showtime_id": 515294479,
+      "date": "2025-09-12+13:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Albertville",
+      "zip": "35950",
+      "theater_name": "Lucas Cinemas Albertville 10",
+      "chainName": "Lucas Cinemas",
+      "chainCode": "LUCA",
+      "showtime_id": 515294481,
+      "date": "2025-09-12+14:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Albertville",
+      "zip": "35950",
+      "theater_name": "Lucas Cinemas Albertville 10",
+      "chainName": "Lucas Cinemas",
+      "chainCode": "LUCA",
+      "showtime_id": 515294451,
+      "date": "2025-09-12+14:50",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Albertville",
+      "zip": "35950",
+      "theater_name": "Lucas Cinemas Albertville 10",
+      "chainName": "Lucas Cinemas",
+      "chainCode": "LUCA",
+      "showtime_id": 515294482,
+      "date": "2025-09-12+16:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Louisville",
+      "zip": "40204",
+      "theater_name": "Baxter Avenue Theatres and Filmworks",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515295010,
+      "date": "2025-09-12+16:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Louisville",
+      "zip": "40204",
+      "theater_name": "Baxter Avenue Theatres and Filmworks",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515295009,
+      "date": "2025-09-12+12:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Louisville",
+      "zip": "40204",
+      "theater_name": "Baxter Avenue Theatres and Filmworks",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515295011,
+      "date": "2025-09-12+19:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Merrillville",
+      "zip": "46410",
+      "theater_name": "AMC CLASSIC Hobart 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515298246,
+      "date": "2025-09-12+13:25",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Merrillville",
+      "zip": "46410",
+      "theater_name": "AMC CLASSIC Hobart 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515298275,
+      "date": "2025-09-12+11:45",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Merrillville",
+      "zip": "46410",
+      "theater_name": "AMC CLASSIC Hobart 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515298256,
+      "date": "2025-09-12+12:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Merrillville",
+      "zip": "46410",
+      "theater_name": "AMC CLASSIC Hobart 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515298255,
+      "date": "2025-09-12+16:10",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Merrillville",
+      "zip": "46410",
+      "theater_name": "AMC CLASSIC Hobart 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515298254,
+      "date": "2025-09-12+19:45",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Merrillville",
+      "zip": "46410",
+      "theater_name": "AMC CLASSIC Hobart 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515298245,
+      "date": "2025-09-12+17:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Merrillville",
+      "zip": "46410",
+      "theater_name": "AMC CLASSIC Hobart 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515298247,
+      "date": "2025-09-12+20:35",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Merrillville",
+      "zip": "46410",
+      "theater_name": "AMC CLASSIC Hobart 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515298253,
+      "date": "2025-09-12+22:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Brighton",
+      "zip": "48116",
+      "theater_name": "MJR Brighton Cinema",
+      "chainName": "MJR Theatres",
+      "chainCode": "MJRT",
+      "showtime_id": 515296618,
+      "date": "2025-09-12+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Brighton",
+      "zip": "48116",
+      "theater_name": "MJR Brighton Cinema",
+      "chainName": "MJR Theatres",
+      "chainCode": "MJRT",
+      "showtime_id": 515296616,
+      "date": "2025-09-12+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Brighton",
+      "zip": "48116",
+      "theater_name": "MJR Brighton Cinema",
+      "chainName": "MJR Theatres",
+      "chainCode": "MJRT",
+      "showtime_id": 515296617,
+      "date": "2025-09-12+14:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Brighton",
+      "zip": "48116",
+      "theater_name": "MJR Brighton Cinema",
+      "chainName": "MJR Theatres",
+      "chainCode": "MJRT",
+      "showtime_id": 515296615,
+      "date": "2025-09-12+22:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Billings",
+      "zip": "59102",
+      "theater_name": "AMC CLASSIC Billings 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515282428,
+      "date": "2025-09-12+19:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Billings",
+      "zip": "59102",
+      "theater_name": "AMC CLASSIC Billings 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515282427,
+      "date": "2025-09-12+12:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Billings",
+      "zip": "59102",
+      "theater_name": "AMC CLASSIC Billings 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515282429,
+      "date": "2025-09-12+16:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Missoula",
+      "zip": "59808",
+      "theater_name": "AMC Missoula 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515289734,
+      "date": "2025-09-12+18:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Missoula",
+      "zip": "59808",
+      "theater_name": "AMC Missoula 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515289743,
+      "date": "2025-09-12+12:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peru",
+      "zip": "61354",
+      "theater_name": "AMC Peru Mall 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515297778,
+      "date": "2025-09-12+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peru",
+      "zip": "61354",
+      "theater_name": "AMC Peru Mall 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515297767,
+      "date": "2025-09-12+13:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Farmington",
+      "zip": "63640",
+      "theater_name": "AMC CLASSIC Farmington 4",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515297433,
+      "date": "2025-09-12+21:55",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Farmington",
+      "zip": "63640",
+      "theater_name": "AMC CLASSIC Farmington 4",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515297436,
+      "date": "2025-09-12+12:50",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KS",
+      "city": "El Dorado",
+      "zip": "67042",
+      "theater_name": "Mitchell Theatres Central Cinema 6",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 515298585,
+      "date": "2025-09-12+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KS",
+      "city": "El Dorado",
+      "zip": "67042",
+      "theater_name": "Mitchell Theatres Central Cinema 6",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 515298592,
+      "date": "2025-09-12+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Liberal",
+      "zip": "67901",
+      "theater_name": "Mitchell Theatres Southgate Cinema 6",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 515296447,
+      "date": "2025-09-12+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Liberal",
+      "zip": "67901",
+      "theater_name": "Mitchell Theatres Southgate Cinema 6",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 515296453,
+      "date": "2025-09-12+22:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Guymon",
+      "zip": "73942",
+      "theater_name": "Mitchell Theatres Northridge Cinema 8",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 515291098,
+      "date": "2025-09-12+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Guymon",
+      "zip": "73942",
+      "theater_name": "Mitchell Theatres Northridge Cinema 8",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 515291106,
+      "date": "2025-09-12+22:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Woodward",
+      "zip": "73801",
+      "theater_name": "Mitchell Theatres Lakeside Cinema 6",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 515296013,
+      "date": "2025-09-12+18:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Boerne",
+      "zip": "78006",
+      "theater_name": "AMC Boerne 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515297669,
+      "date": "2025-09-12+20:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Boerne",
+      "zip": "78006",
+      "theater_name": "AMC Boerne 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515297652,
+      "date": "2025-09-12+11:40",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Boerne",
+      "zip": "78006",
+      "theater_name": "AMC Boerne 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515297654,
+      "date": "2025-09-12+16:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Boerne",
+      "zip": "78006",
+      "theater_name": "AMC Boerne 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515297655,
+      "date": "2025-09-12+19:35",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Mesquite",
+      "zip": "89027",
+      "theater_name": "Megaplex Theatres - Stadium 6",
+      "chainName": "Megaplex Theatres",
+      "chainCode": "MEGA",
+      "showtime_id": 515302840,
+      "date": "2025-09-12+12:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Mesquite",
+      "zip": "89027",
+      "theater_name": "Megaplex Theatres - Stadium 6",
+      "chainName": "Megaplex Theatres",
+      "chainCode": "MEGA",
+      "showtime_id": 515302843,
+      "date": "2025-09-12+15:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Mesquite",
+      "zip": "89027",
+      "theater_name": "Megaplex Theatres - Stadium 6",
+      "chainName": "Megaplex Theatres",
+      "chainCode": "MEGA",
+      "showtime_id": 515302845,
+      "date": "2025-09-12+14:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Mesquite",
+      "zip": "89027",
+      "theater_name": "Megaplex Theatres - Stadium 6",
+      "chainName": "Megaplex Theatres",
+      "chainCode": "MEGA",
+      "showtime_id": 515302841,
+      "date": "2025-09-12+17:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Mesquite",
+      "zip": "89027",
+      "theater_name": "Megaplex Theatres - Stadium 6",
+      "chainName": "Megaplex Theatres",
+      "chainCode": "MEGA",
+      "showtime_id": 515302928,
+      "date": "2025-09-12+20:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Moreno Valley",
+      "zip": "92553",
+      "theater_name": "Regency Towngate Cinemas",
+      "chainName": "Regency Theatres",
+      "chainCode": "RGCY",
+      "showtime_id": 515301600,
+      "date": "2025-09-12+11:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Moreno Valley",
+      "zip": "92553",
+      "theater_name": "Regency Towngate Cinemas",
+      "chainName": "Regency Theatres",
+      "chainCode": "RGCY",
+      "showtime_id": 515301594,
+      "date": "2025-09-12+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Moreno Valley",
+      "zip": "92553",
+      "theater_name": "Regency Towngate Cinemas",
+      "chainName": "Regency Theatres",
+      "chainCode": "RGCY",
+      "showtime_id": 515301599,
+      "date": "2025-09-12+15:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Moreno Valley",
+      "zip": "92553",
+      "theater_name": "Regency Towngate Cinemas",
+      "chainName": "Regency Theatres",
+      "chainCode": "RGCY",
+      "showtime_id": 515301595,
+      "date": "2025-09-12+16:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Moreno Valley",
+      "zip": "92553",
+      "theater_name": "Regency Towngate Cinemas",
+      "chainName": "Regency Theatres",
+      "chainCode": "RGCY",
+      "showtime_id": 515301598,
+      "date": "2025-09-12+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Moreno Valley",
+      "zip": "92553",
+      "theater_name": "Regency Towngate Cinemas",
+      "chainName": "Regency Theatres",
+      "chainCode": "RGCY",
+      "showtime_id": 515301596,
+      "date": "2025-09-12+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Moreno Valley",
+      "zip": "92553",
+      "theater_name": "Regency Towngate Cinemas",
+      "chainName": "Regency Theatres",
+      "chainCode": "RGCY",
+      "showtime_id": 515301597,
+      "date": "2025-09-12+21:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500
       }
     }
   ]
