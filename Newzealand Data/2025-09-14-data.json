@@ -110,11 +110,11 @@
     "screenName": "Cinema 03",
     "operator": "ORM",
     "total": 120,
-    "sold": 24,
-    "available": 96,
-    "occupancy": 20.0,
+    "sold": 22,
+    "available": 98,
+    "occupancy": 18.33,
     "max_gross": 3360.0,
-    "total_gross": 672.0,
+    "total_gross": 616.0,
     "price": 28.0,
     "error": false
   },
@@ -1113,11 +1113,11 @@
     "screenName": "Xtremescreen 1",
     "operator": "BOT",
     "total": 312,
-    "sold": 12,
-    "available": 300,
-    "occupancy": 3.85,
+    "sold": 17,
+    "available": 295,
+    "occupancy": 5.45,
     "max_gross": 10140.0,
-    "total_gross": 390.0,
+    "total_gross": 552.5,
     "price": 32.5,
     "error": false
   },
@@ -1800,7 +1800,8 @@
     "max_gross": 2009.0,
     "total_gross": 123.0,
     "price": 20.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 177297,
@@ -3160,7 +3161,8 @@
     "max_gross": 8832.0,
     "total_gross": 0.0,
     "price": 23.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 80044,
@@ -3177,7 +3179,8 @@
     "max_gross": 1443.0,
     "total_gross": 0.0,
     "price": 18.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 80048,
@@ -3364,7 +3367,8 @@
     "max_gross": 1215.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 80035,
@@ -3466,7 +3470,8 @@
     "max_gross": 1458.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 80031,
@@ -4894,7 +4899,8 @@
     "max_gross": 3978.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 400093,
@@ -4928,7 +4934,8 @@
     "max_gross": 3978.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 400104,

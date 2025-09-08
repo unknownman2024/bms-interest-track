@@ -399,11 +399,11 @@
     "screenName": "Xtremescreen 04",
     "operator": "CHC",
     "total": 372,
-    "sold": 119,
-    "available": 253,
-    "occupancy": 31.99,
+    "sold": 116,
+    "available": 256,
+    "occupancy": 31.18,
     "max_gross": 9300.0,
-    "total_gross": 2975.0,
+    "total_gross": 2900.0,
     "price": 25.0,
     "error": false
   },
@@ -3245,7 +3245,8 @@
     "max_gross": 2220.0,
     "total_gross": 0.0,
     "price": 18.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 79973,
@@ -3347,7 +3348,8 @@
     "max_gross": 8832.0,
     "total_gross": 0.0,
     "price": 23.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 80002,
@@ -5160,11 +5162,11 @@
     "screenName": "Xtremescreen 1",
     "operator": "BOT",
     "total": 312,
-    "sold": 4,
-    "available": 308,
-    "occupancy": 1.28,
+    "sold": 0,
+    "available": 312,
+    "occupancy": 0.0,
     "max_gross": 9516.0,
-    "total_gross": 122.0,
+    "total_gross": 0.0,
     "price": 30.5,
     "error": false
   }

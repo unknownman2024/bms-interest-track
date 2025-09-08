@@ -485,11 +485,11 @@
     "screenName": "Xtremescreen 1",
     "operator": "BOT",
     "total": 312,
-    "sold": 30,
-    "available": 282,
-    "occupancy": 9.62,
+    "sold": 34,
+    "available": 278,
+    "occupancy": 10.9,
     "max_gross": 10140.0,
-    "total_gross": 975.0,
+    "total_gross": 1105.0,
     "price": 32.5,
     "error": false
   },
@@ -1324,8 +1324,7 @@
     "max_gross": 3360.0,
     "total_gross": 0.0,
     "price": 24.0,
-    "error": false,
-    "last_error": "HTTP 502"
+    "error": false
   },
   {
     "id": 276247,
@@ -1733,7 +1732,8 @@
     "max_gross": 5400.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 316385,
@@ -1886,7 +1886,8 @@
     "max_gross": 13824.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 316386,
@@ -2056,7 +2057,8 @@
     "max_gross": 5400.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 195039,
@@ -2260,7 +2262,8 @@
     "max_gross": 3888.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 316406,
@@ -3988,11 +3991,11 @@
     "screenName": "Cinema 3",
     "operator": "BOT",
     "total": 162,
-    "sold": 0,
-    "available": 162,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 160,
+    "occupancy": 1.23,
     "max_gross": 4536.0,
-    "total_gross": 0.0,
+    "total_gross": 56.0,
     "price": 28.0,
     "error": false
   },
