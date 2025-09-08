@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-08 06:39:33 PM",
+  "last_updated": "2025-09-08 07:19:38 PM",
   "errors": [
     {
       "state": "MA",
@@ -104,36 +104,6 @@
       "language": "Telugu",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Livonia",
-      "zip": "48152",
-      "theater_name": "AMC Livonia 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 514995268,
-      "date": "2025-09-25+20:15",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Ontario",
-      "zip": "91764",
-      "theater_name": "AMC DINE-IN Ontario Mills 30",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515237111,
-      "date": "2025-09-25+20:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     }
   ]

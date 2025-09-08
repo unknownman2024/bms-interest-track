@@ -8143,9 +8143,12 @@
     "date": "2025-09-25+20:15",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 3,
+    "occupancy": 3.0,
+    "totalAvailableSeatCount": 97,
+    "totalSeatCount": 100,
+    "grossRevenueUSD": 60.0,
+    "adultTicketPrice": 20.0
   },
   {
     "state": "KS",
@@ -8518,9 +8521,12 @@
     "date": "2025-09-25+20:30",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 44,
+    "totalSeatCount": 44,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 20.0
   },
   {
     "state": "NC",
