@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-08 04:50:30 AM",
+  "last_updated": "2025-09-08 07:13:18 AM",
   "errors": [
     {
       "state": "NY",
@@ -55,6 +55,21 @@
       "chainCode": "AMC",
       "showtime_id": 0,
       "date": "2025-09-07+14:35",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Centreville",
+      "zip": "20121",
+      "theater_name": "Cinemark Centreville",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515250118,
+      "date": "2025-09-07+16:35",
       "format": "Standard",
       "language": "Tamil",
       "error": {
