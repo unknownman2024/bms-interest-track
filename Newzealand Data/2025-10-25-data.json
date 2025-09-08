@@ -270,5 +270,39 @@
     "total_gross": 0.0,
     "price": 24.0,
     "error": false
+  },
+  {
+    "id": 68555,
+    "cinemaId": "ORMCIN",
+    "movieId": "HO00008119",
+    "date": "2025-10-25T16:00:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 02",
+    "operator": "ORM",
+    "total": 128,
+    "sold": 0,
+    "available": 128,
+    "occupancy": 0.0,
+    "max_gross": 3712.0,
+    "total_gross": 0.0,
+    "price": 29.0,
+    "error": false
+  },
+  {
+    "id": 68554,
+    "cinemaId": "ORMCIN",
+    "movieId": "HO00008119",
+    "date": "2025-10-25T18:30:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 02",
+    "operator": "ORM",
+    "total": 128,
+    "sold": 0,
+    "available": 128,
+    "occupancy": 0.0,
+    "max_gross": 3712.0,
+    "total_gross": 0.0,
+    "price": 29.0,
+    "error": false
   }
 ]
