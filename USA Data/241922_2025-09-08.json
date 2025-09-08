@@ -1090,9 +1090,12 @@
     "date": "2025-09-08+14:50",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "exception": ""
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 52,
+    "totalSeatCount": 52,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 11.49
   },
   {
     "state": "NY",
@@ -5158,11 +5161,11 @@
     "date": "2025-09-08+14:15",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 106,
+    "totalSeatSold": 1,
+    "occupancy": 0.94,
+    "totalAvailableSeatCount": 105,
     "totalSeatCount": 106,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 13.99,
     "adultTicketPrice": 13.99
   },
   {
@@ -5614,5 +5617,41 @@
     "totalSeatCount": 71,
     "grossRevenueUSD": 14.18,
     "adultTicketPrice": 14.18
+  },
+  {
+    "state": "FL",
+    "city": "Tampa",
+    "zip": "33634",
+    "theater_name": "AMC Veterans 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 513715218,
+    "date": "2025-09-08+21:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 1,
+    "occupancy": 2.04,
+    "totalAvailableSeatCount": 48,
+    "totalSeatCount": 49,
+    "grossRevenueUSD": 14.5,
+    "adultTicketPrice": 14.5
+  },
+  {
+    "state": "TX",
+    "city": "College Station",
+    "zip": "77845",
+    "theater_name": "Cinemark College Station and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 514770915,
+    "date": "2025-09-08+21:55",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 71,
+    "totalSeatCount": 71,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 9.2
   }
 ]
