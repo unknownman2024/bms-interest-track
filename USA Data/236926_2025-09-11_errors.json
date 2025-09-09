@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 09:59:38 AM",
+  "last_updated": "2025-09-09 10:54:16 AM",
   "errors": [
     {
       "state": "CT",
@@ -12475,6 +12475,21 @@
       "chainCode": "AMC",
       "showtime_id": 515419133,
       "date": "2025-09-11+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Indiana",
+      "zip": "15701",
+      "theater_name": "Indiana Mall Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515455594,
+      "date": "2025-09-11+15:40",
       "format": "Standard",
       "language": "Unknown",
       "error": {
