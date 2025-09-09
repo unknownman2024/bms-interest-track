@@ -1285,11 +1285,11 @@
     "date": "2025-09-08+21:50",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 14,
-    "occupancy": 27.45,
-    "totalAvailableSeatCount": 37,
+    "totalSeatSold": 26,
+    "occupancy": 50.98,
+    "totalAvailableSeatCount": 25,
     "totalSeatCount": 51,
-    "grossRevenueUSD": 178.5,
+    "grossRevenueUSD": 331.5,
     "adultTicketPrice": 12.75
   },
   {
@@ -1753,11 +1753,11 @@
     "date": "2025-09-08+20:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 6,
-    "occupancy": 7.69,
-    "totalAvailableSeatCount": 72,
+    "totalSeatSold": 51,
+    "occupancy": 65.38,
+    "totalAvailableSeatCount": 27,
     "totalSeatCount": 78,
-    "grossRevenueUSD": 76.5,
+    "grossRevenueUSD": 650.25,
     "adultTicketPrice": 12.75
   },
   {
@@ -1897,11 +1897,11 @@
     "date": "2025-09-08+21:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 2,
-    "occupancy": 1.23,
-    "totalAvailableSeatCount": 160,
+    "totalSeatSold": 14,
+    "occupancy": 8.64,
+    "totalAvailableSeatCount": 148,
     "totalSeatCount": 162,
-    "grossRevenueUSD": 30.9,
+    "grossRevenueUSD": 216.3,
     "adultTicketPrice": 15.45
   },
   {
@@ -1915,11 +1915,26 @@
     "date": "2025-09-08+22:15",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 121,
+    "totalSeatSold": 5,
+    "occupancy": 4.13,
+    "totalAvailableSeatCount": 116,
     "totalSeatCount": 121,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 77.25,
     "adultTicketPrice": 15.45
+  },
+  {
+    "state": "KS",
+    "city": "Overland Park",
+    "zip": "66223",
+    "theater_name": "AMC DINE-IN Prairiefire 17",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 515407178,
+    "date": "2025-09-08+21:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 404
+    }
   }
 ]
