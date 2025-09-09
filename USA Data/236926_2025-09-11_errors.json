@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10 02:02:29 AM",
+  "last_updated": "2025-09-10 02:57:44 AM",
   "errors": [
     {
       "state": "CT",
@@ -13292,51 +13292,6 @@
       }
     },
     {
-      "state": "MT",
-      "city": "Helena",
-      "zip": "59601",
-      "theater_name": "Cinemark Helena and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515529695,
-      "date": "2025-09-11+14:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "MT",
-      "city": "Helena",
-      "zip": "59601",
-      "theater_name": "Cinemark Helena and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515529696,
-      "date": "2025-09-11+16:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "MT",
-      "city": "Helena",
-      "zip": "59601",
-      "theater_name": "Cinemark Helena and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515529697,
-      "date": "2025-09-11+19:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403
-      }
-    },
-    {
       "state": "IL",
       "city": "Harrisburg",
       "zip": "62946",
@@ -13495,51 +13450,6 @@
       "chainCode": "AMC",
       "showtime_id": 515530535,
       "date": "2025-09-11+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Port Charlotte",
-      "zip": "33948",
-      "theater_name": "Regal Town Center - Port Charlotte",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515584869,
-      "date": "2025-09-11+15:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Port Charlotte",
-      "zip": "33948",
-      "theater_name": "Regal Town Center - Port Charlotte",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515584870,
-      "date": "2025-09-11+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Port Charlotte",
-      "zip": "33948",
-      "theater_name": "Regal Town Center - Port Charlotte",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515584871,
-      "date": "2025-09-11+21:55",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -13825,6 +13735,216 @@
       "chainCode": "AMC",
       "showtime_id": 515599241,
       "date": "2025-09-11+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tavernier",
+      "zip": "33070",
+      "theater_name": "Tavernier Cinema 5",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515645066,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tavernier",
+      "zip": "33070",
+      "theater_name": "Tavernier Cinema 5",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515645068,
+      "date": "2025-09-11+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Winchester",
+      "zip": "40391",
+      "theater_name": "Malco Winchester Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 515628373,
+      "date": "2025-09-11+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Winchester",
+      "zip": "40391",
+      "theater_name": "Malco Winchester Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 515628374,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Connersville",
+      "zip": "47331",
+      "theater_name": "Showtime Cinemas Connersville 8",
+      "chainName": "Showplace Cinemas",
+      "chainCode": "SHOW",
+      "showtime_id": 515648280,
+      "date": "2025-09-11+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Connersville",
+      "zip": "47331",
+      "theater_name": "Showtime Cinemas Connersville 8",
+      "chainName": "Showplace Cinemas",
+      "chainCode": "SHOW",
+      "showtime_id": 515648281,
+      "date": "2025-09-11+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Rochester Hills",
+      "zip": "48307",
+      "theater_name": "Emagine Rochester Hills",
+      "chainName": "Emagine",
+      "chainCode": "EMAG",
+      "showtime_id": 515639030,
+      "date": "2025-09-11+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Cadillac",
+      "zip": "49601",
+      "theater_name": "GQT Cadillac 4",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 515627686,
+      "date": "2025-09-11+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Cadillac",
+      "zip": "49601",
+      "theater_name": "GQT Cadillac 4",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 515627687,
+      "date": "2025-09-11+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Cadillac",
+      "zip": "49601",
+      "theater_name": "GQT Cadillac 4",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 515627688,
+      "date": "2025-09-11+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Perry",
+      "zip": "50220",
+      "theater_name": "The Perry Grand 3",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515635724,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Willmar",
+      "zip": "56201",
+      "theater_name": "Golden Ticket Cinemas Kandi 6",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 515639107,
+      "date": "2025-09-11+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Sullivan",
+      "zip": "63080",
+      "theater_name": "Sullivan 6 Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515653419,
+      "date": "2025-09-11+16:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Sullivan",
+      "zip": "63080",
+      "theater_name": "Sullivan 6 Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515653420,
+      "date": "2025-09-11+19:20",
       "format": "Standard",
       "language": "Unknown",
       "error": {
