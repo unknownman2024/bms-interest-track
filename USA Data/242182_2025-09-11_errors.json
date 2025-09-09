@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 04:51:59 AM",
+  "last_updated": "2025-09-09 07:00:40 AM",
   "errors": [
     {
       "state": "IL",
@@ -59,6 +59,36 @@
       "language": "Telugu",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Morrisville",
+      "zip": "27560",
+      "theater_name": "B&B Theatres Morrisville Park West 14",
+      "chainName": "B&B Theaters",
+      "chainCode": "BNBT",
+      "showtime_id": 515261991,
+      "date": "2025-09-11+18:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515330733,
+      "date": "2025-09-11+15:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
       }
     }
   ]
