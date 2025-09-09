@@ -1,0 +1,50 @@
+{
+  "last_updated": "2025-09-09 12:42:38 PM",
+  "errors": [
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 514566982,
+      "date": "2025-09-09+17:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75025",
+      "theater_name": "Cinemark Legacy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515217387,
+      "date": "2025-09-09+18:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77040",
+      "theater_name": "Cinemark Tinseltown Houston 290 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 514766913,
+      "date": "2025-09-09+21:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    }
+  ]
+}
