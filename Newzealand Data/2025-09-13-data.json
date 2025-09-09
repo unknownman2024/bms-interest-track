@@ -5245,11 +5245,11 @@
     "screenName": "Cinema 4",
     "operator": "SYL",
     "total": 550,
-    "sold": 6,
-    "available": 544,
-    "occupancy": 1.09,
+    "sold": 8,
+    "available": 542,
+    "occupancy": 1.45,
     "max_gross": 14850.0,
-    "total_gross": 162.0,
+    "total_gross": 216.0,
     "price": 27.0,
     "error": false
   },
@@ -6764,7 +6764,8 @@
     "max_gross": 3240.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 68293,
