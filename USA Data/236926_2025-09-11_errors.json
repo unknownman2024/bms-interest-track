@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 08:37:37 AM",
+  "last_updated": "2025-09-09 09:59:38 AM",
   "errors": [
     {
       "state": "CT",
@@ -11612,51 +11612,6 @@
       }
     },
     {
-      "state": "DE",
-      "city": "Middletown",
-      "zip": "19709",
-      "theater_name": "Westown Movies",
-      "chainName": "Westown Movies",
-      "chainCode": "WSTN",
-      "showtime_id": 515380864,
-      "date": "2025-09-11+14:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "DE",
-      "city": "Middletown",
-      "zip": "19709",
-      "theater_name": "Westown Movies",
-      "chainName": "Westown Movies",
-      "chainCode": "WSTN",
-      "showtime_id": 515380866,
-      "date": "2025-09-11+17:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "DE",
-      "city": "Middletown",
-      "zip": "19709",
-      "theater_name": "Westown Movies",
-      "chainName": "Westown Movies",
-      "chainCode": "WSTN",
-      "showtime_id": 515380874,
-      "date": "2025-09-11+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "VA",
       "city": "Roanoke",
       "zip": "24014",
@@ -12422,33 +12377,108 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Goleta",
-      "zip": "93117",
-      "theater_name": "Camino Real Cinemas",
-      "chainName": "Metropolitan Theatres",
-      "chainCode": "MTRO",
-      "showtime_id": 514711493,
-      "date": "2025-09-11+17:15",
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515441945,
+      "date": "2025-09-11+21:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
-        "exception": ""
+        "status": 400
       }
     },
     {
-      "state": "CA",
-      "city": "Goleta",
-      "zip": "93117",
-      "theater_name": "Camino Real Cinemas",
-      "chainName": "Metropolitan Theatres",
-      "chainCode": "MTRO",
-      "showtime_id": 514711494,
-      "date": "2025-09-11+20:20",
+      "state": "MT",
+      "city": "Billings",
+      "zip": "59102",
+      "theater_name": "AMC Shiloh 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515421781,
+      "date": "2025-09-11+19:10",
       "format": "Standard",
       "language": "Unknown",
       "error": {
-        "exception": ""
+        "status": 400
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Billings",
+      "zip": "59102",
+      "theater_name": "AMC Shiloh 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515421779,
+      "date": "2025-09-11+21:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Forney",
+      "zip": "75126",
+      "theater_name": "AMC CLASSIC Forney 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515442138,
+      "date": "2025-09-11+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Boerne",
+      "zip": "78006",
+      "theater_name": "AMC Boerne 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515431048,
+      "date": "2025-09-11+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Boerne",
+      "zip": "78006",
+      "theater_name": "AMC Boerne 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515431033,
+      "date": "2025-09-11+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Chubbuck",
+      "zip": "83202",
+      "theater_name": "AMC CLASSIC Pine Ridge 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515419133,
+      "date": "2025-09-11+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
       }
     }
   ]
