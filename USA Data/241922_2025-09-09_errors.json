@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10 12:36:49 AM",
+  "last_updated": "2025-09-10 01:43:05 AM",
   "errors": [
     {
       "state": "NY",
@@ -104,21 +104,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Sugar Land",
-      "zip": "77479",
-      "theater_name": "AMC First Colony 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515575458,
-      "date": "2025-09-09+20:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 403
       }
     }
   ]
