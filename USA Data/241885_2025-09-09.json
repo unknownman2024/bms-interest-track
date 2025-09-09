@@ -316,11 +316,11 @@
     "date": "2025-09-09+16:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 1,
-    "occupancy": 0.78,
-    "totalAvailableSeatCount": 128,
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 129,
     "totalSeatCount": 129,
-    "grossRevenueUSD": 17.06,
+    "grossRevenueUSD": 0.0,
     "adultTicketPrice": 17.06
   },
   {
@@ -2083,11 +2083,11 @@
     "date": "2025-09-09+12:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 1,
-    "occupancy": 0.98,
-    "totalAvailableSeatCount": 101,
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 102,
     "totalSeatCount": 102,
-    "grossRevenueUSD": 5.0,
+    "grossRevenueUSD": 0.0,
     "adultTicketPrice": 5.0
   },
   {
@@ -3058,5 +3058,23 @@
     "error": {
       "status": 400
     }
+  },
+  {
+    "state": "ND",
+    "city": "Fargo",
+    "zip": "58103",
+    "theater_name": "Marcus West Acres Cinema",
+    "chainName": "Marcus Theatres",
+    "chainCode": "MRCS",
+    "showtime_id": 514521512,
+    "date": "2025-09-09+21:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 92,
+    "totalSeatCount": 92,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 16.16
   }
 ]
