@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10 03:32:41 AM",
+  "last_updated": "2025-09-10 04:37:31 AM",
   "errors": [
     {
       "state": "CT",
@@ -28682,21 +28682,6 @@
       }
     },
     {
-      "state": "AL",
-      "city": "Scottsboro",
-      "zip": "35769",
-      "theater_name": "Hollywood 10 Cinema",
-      "chainName": "Cinema Management Group Inc",
-      "chainCode": "CMGI",
-      "showtime_id": 515664735,
-      "date": "2025-09-12+21:35",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "TN",
       "city": "Cookeville",
       "zip": "38506",
@@ -29387,18 +29372,693 @@
       }
     },
     {
-      "state": "UT",
-      "city": "West Valley City",
-      "zip": "84119",
-      "theater_name": "Megaplex Theatres West Valley - Valley Fair Mall",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515671785,
-      "date": "2025-09-12+18:50",
-      "format": "D-Box",
+      "state": "MA",
+      "city": "Sturbridge",
+      "zip": "01566",
+      "theater_name": "Entertainment Cinemas - Sturbridge Luxury Cinemas",
+      "chainName": "Entertainment Cinemas",
+      "chainCode": "ENTR",
+      "showtime_id": 515724632,
+      "date": "2025-09-12+12:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Cortland",
+      "zip": "13045",
+      "theater_name": "Crown City Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515717233,
+      "date": "2025-09-12+12:00",
+      "format": "Standard",
       "language": "English",
       "error": {
-        "status": 403
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Cortland",
+      "zip": "13045",
+      "theater_name": "Crown City Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515717231,
+      "date": "2025-09-12+15:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Cortland",
+      "zip": "13045",
+      "theater_name": "Crown City Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515717232,
+      "date": "2025-09-12+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Cortland",
+      "zip": "13045",
+      "theater_name": "Crown City Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515717237,
+      "date": "2025-09-12+20:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Pittsford",
+      "zip": "14618",
+      "theater_name": "Apple Cinemas Pittsford",
+      "chainName": "Apple Cinemas",
+      "chainCode": "APPL",
+      "showtime_id": 515720391,
+      "date": "2025-09-12+14:45",
+      "format": "ACX",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Pittsford",
+      "zip": "14618",
+      "theater_name": "Apple Cinemas Pittsford",
+      "chainName": "Apple Cinemas",
+      "chainCode": "APPL",
+      "showtime_id": 515720399,
+      "date": "2025-09-12+18:00",
+      "format": "ACX",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Cherokee",
+      "zip": "28719",
+      "theater_name": "Cherokee Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515692017,
+      "date": "2025-09-12+15:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Cherokee",
+      "zip": "28719",
+      "theater_name": "Cherokee Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515692018,
+      "date": "2025-09-12+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Cherokee",
+      "zip": "28719",
+      "theater_name": "Cherokee Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515692023,
+      "date": "2025-09-12+18:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Cherokee",
+      "zip": "28719",
+      "theater_name": "Cherokee Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515692024,
+      "date": "2025-09-12+19:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Lawrenceville",
+      "zip": "30045",
+      "theater_name": "AMC DINE-IN Webb Gin 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515707253,
+      "date": "2025-09-12+23:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Hinesville",
+      "zip": "31313",
+      "theater_name": "Liberty Cinemas",
+      "chainName": "Georgia Theatre Company",
+      "chainCode": "GRGA",
+      "showtime_id": 515705314,
+      "date": "2025-09-12+20:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Hinesville",
+      "zip": "31313",
+      "theater_name": "Liberty Cinemas",
+      "chainName": "Georgia Theatre Company",
+      "chainCode": "GRGA",
+      "showtime_id": 515705313,
+      "date": "2025-09-12+17:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Merritt Island",
+      "zip": "32952",
+      "theater_name": "GQT Merritt Square 16 IMAX",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 515721468,
+      "date": "2025-09-12+13:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Merritt Island",
+      "zip": "32952",
+      "theater_name": "GQT Merritt Square 16 IMAX",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 515721469,
+      "date": "2025-09-12+20:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515694570,
+      "date": "2025-09-12+11:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515694561,
+      "date": "2025-09-12+12:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515694572,
+      "date": "2025-09-12+14:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515694560,
+      "date": "2025-09-12+15:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515694571,
+      "date": "2025-09-12+18:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515694558,
+      "date": "2025-09-12+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515694556,
+      "date": "2025-09-12+22:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515694555,
+      "date": "2025-09-12+13:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Bessemer",
+      "zip": "35022",
+      "theater_name": "Bessemer Premiere 14 Promenade",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 515692786,
+      "date": "2025-09-12+16:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Bessemer",
+      "zip": "35022",
+      "theater_name": "Bessemer Premiere 14 Promenade",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 515692787,
+      "date": "2025-09-12+13:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Bessemer",
+      "zip": "35022",
+      "theater_name": "Bessemer Premiere 14 Promenade",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 515692759,
+      "date": "2025-09-12+16:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Bessemer",
+      "zip": "35022",
+      "theater_name": "Bessemer Premiere 14 Promenade",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 515692784,
+      "date": "2025-09-12+20:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Spring Hill",
+      "zip": "37174",
+      "theater_name": "AMC Spring Hill 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515693470,
+      "date": "2025-09-12+12:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Oneida",
+      "zip": "37841",
+      "theater_name": "Capitol 3 Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515724701,
+      "date": "2025-09-12+16:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Oneida",
+      "zip": "37841",
+      "theater_name": "Capitol 3 Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515724702,
+      "date": "2025-09-12+20:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Tiffin",
+      "zip": "44883",
+      "theater_name": "Seneca Starvue",
+      "chainName": "INDY Cinema Group",
+      "chainCode": "INDY",
+      "showtime_id": 515692709,
+      "date": "2025-09-12+20:05",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Tiffin",
+      "zip": "44883",
+      "theater_name": "Seneca Starvue",
+      "chainName": "INDY Cinema Group",
+      "chainCode": "INDY",
+      "showtime_id": 515692702,
+      "date": "2025-09-12+16:40",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Mentor",
+      "zip": "44060",
+      "theater_name": "Atlas Diamond Center 16",
+      "chainName": "Atlas Cinemas",
+      "chainCode": "ATLS",
+      "showtime_id": 515693884,
+      "date": "2025-09-12+14:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Indianapolis",
+      "zip": "46250",
+      "theater_name": "AMC Castleton Square 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515708220,
+      "date": "2025-09-12+23:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Chicago",
+      "zip": "60610",
+      "theater_name": "AMC NEWCITY 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515709890,
+      "date": "2025-09-12+19:30",
+      "format": "XL at AMC",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Jackson",
+      "zip": "49202",
+      "theater_name": "GQT Jackson 10",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 515705439,
+      "date": "2025-09-12+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Jackson",
+      "zip": "49202",
+      "theater_name": "GQT Jackson 10",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 515705438,
+      "date": "2025-09-12+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Jackson",
+      "zip": "49202",
+      "theater_name": "GQT Jackson 10",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 515705440,
+      "date": "2025-09-12+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Menomonie",
+      "zip": "54751",
+      "theater_name": "Menomonie 7 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 515722407,
+      "date": "2025-09-12+15:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Menomonie",
+      "zip": "54751",
+      "theater_name": "Menomonie 7 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 515722408,
+      "date": "2025-09-12+21:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Menomonie",
+      "zip": "54751",
+      "theater_name": "Menomonie 7 Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 515722406,
+      "date": "2025-09-12+18:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Poplar Bluff",
+      "zip": "63901",
+      "theater_name": "AMC CLASSIC Poplar Bluff 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515693255,
+      "date": "2025-09-12+14:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Lawton",
+      "zip": "73505",
+      "theater_name": "AMC Patriot 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515599253,
+      "date": "2025-09-12+13:45",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Lawton",
+      "zip": "73505",
+      "theater_name": "VASKA Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515654015,
+      "date": "2025-09-12+17:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Lakewood",
+      "zip": "98499",
+      "theater_name": "AMC Lakewood Mall 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515717425,
+      "date": "2025-09-12+23:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
       }
     }
   ]
