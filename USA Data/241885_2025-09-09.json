@@ -2299,11 +2299,11 @@
     "date": "2025-09-09+21:10",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 14,
-    "occupancy": 17.72,
-    "totalAvailableSeatCount": 65,
+    "totalSeatSold": 15,
+    "occupancy": 18.99,
+    "totalAvailableSeatCount": 64,
     "totalSeatCount": 79,
-    "grossRevenueUSD": 94.78,
+    "grossRevenueUSD": 101.55,
     "adultTicketPrice": 6.77
   },
   {
@@ -3076,5 +3076,20 @@
     "totalSeatCount": 92,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 16.16
+  },
+  {
+    "state": "NY",
+    "city": "New York",
+    "zip": "10036",
+    "theater_name": "AMC Empire 25",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 0,
+    "date": "2025-09-09+15:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 404
+    }
   }
 ]
