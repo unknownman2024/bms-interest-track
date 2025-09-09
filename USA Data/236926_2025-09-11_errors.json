@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10 03:57:55 AM",
+  "last_updated": "2025-09-10 04:57:57 AM",
   "errors": [
     {
       "state": "CT",
@@ -3884,21 +3884,6 @@
       "language": "Unknown",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Cordele",
-      "zip": "31015",
-      "theater_name": "Spotlight Theatres Cordele Square Stadium 5",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 515001055,
-      "date": "2025-09-11+21:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -12212,21 +12197,6 @@
       }
     },
     {
-      "state": "IL",
-      "city": "Mt Prospect",
-      "zip": "60056",
-      "theater_name": "AMC Randhurst 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515422665,
-      "date": "2025-09-11+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400
-      }
-    },
-    {
       "state": "MN",
       "city": "Red Wing",
       "zip": "55066",
@@ -13868,21 +13838,6 @@
       "theater_name": "CineLux Scotts Valley Café and Lounge",
       "chainName": "Cinelux Theatres",
       "chainCode": "CLUX",
-      "showtime_id": 515669545,
-      "date": "2025-09-11+14:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Scotts Valley",
-      "zip": "95066",
-      "theater_name": "CineLux Scotts Valley Café and Lounge",
-      "chainName": "Cinelux Theatres",
-      "chainCode": "CLUX",
       "showtime_id": 515669543,
       "date": "2025-09-11+15:30",
       "format": "Standard",
@@ -13934,6 +13889,126 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Cortland",
+      "zip": "13045",
+      "theater_name": "Crown City Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515717223,
+      "date": "2025-09-11+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Cortland",
+      "zip": "13045",
+      "theater_name": "Crown City Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515717224,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Cherokee",
+      "zip": "28719",
+      "theater_name": "Cherokee Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515692008,
+      "date": "2025-09-11+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Cherokee",
+      "zip": "28719",
+      "theater_name": "Cherokee Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515692014,
+      "date": "2025-09-11+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515694531,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515694537,
+      "date": "2025-09-11+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Fort Worth",
+      "zip": "76102",
+      "theater_name": "AMC Palace 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515696113,
+      "date": "2025-09-11+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "El Paso",
+      "zip": "79936",
+      "theater_name": "Cinemark Tinseltown Las Palmas XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515715686,
+      "date": "2025-09-11+20:00",
+      "format": "Cinemark XD",
+      "language": "Unknown",
+      "error": {
+        "exception": ""
       }
     }
   ]
