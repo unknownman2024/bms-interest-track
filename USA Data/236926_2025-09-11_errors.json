@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 12:54:43 PM",
+  "last_updated": "2025-09-09 02:04:55 PM",
   "errors": [
     {
       "state": "CT",
@@ -12445,6 +12445,51 @@
       "chainCode": "VZ",
       "showtime_id": 515455594,
       "date": "2025-09-11+15:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Sanford",
+      "zip": "27330",
+      "theater_name": "Spring Lane Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 514866360,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Laughlin",
+      "zip": "89029",
+      "theater_name": "Brenden Avi 8",
+      "chainName": "Brenden Theatres",
+      "chainCode": "BRND",
+      "showtime_id": 515440213,
+      "date": "2025-09-11+14:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Laughlin",
+      "zip": "89029",
+      "theater_name": "Brenden Avi 8",
+      "chainName": "Brenden Theatres",
+      "chainCode": "BRND",
+      "showtime_id": 515440214,
+      "date": "2025-09-11+17:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
