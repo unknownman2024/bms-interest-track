@@ -4752,11 +4752,11 @@
     "screenName": "Cinema 4",
     "operator": "BOT",
     "total": 128,
-    "sold": 0,
-    "available": 128,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 126,
+    "occupancy": 1.56,
     "max_gross": 3328.0,
-    "total_gross": 0.0,
+    "total_gross": 52.0,
     "price": 26.0,
     "error": false
   },
@@ -5347,11 +5347,11 @@
     "screenName": "Cinema 3",
     "operator": "SYL",
     "total": 638,
-    "sold": 1,
-    "available": 637,
-    "occupancy": 0.16,
+    "sold": 4,
+    "available": 634,
+    "occupancy": 0.63,
     "max_gross": 17226.0,
-    "total_gross": 27.0,
+    "total_gross": 108.0,
     "price": 27.0,
     "error": false
   },
@@ -6085,8 +6085,7 @@
     "max_gross": 7128.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 502"
+    "error": false
   },
   {
     "id": 328192,
