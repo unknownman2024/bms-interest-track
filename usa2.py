@@ -93,7 +93,7 @@ def get_random_ip():
 def get_seatmap_headers():
     random_ip = get_random_ip()
     return {
-        "User-Agent": "Mozilla/5.0",
+        "User-Agent": get_random_user_agent(),
         "Origin": "https://fandango.com",
         "Referer": "https://tickets.fandango.com/mobileexpress/seatselection",
         "Connection": "keep-alive",
