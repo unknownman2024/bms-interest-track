@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 06:16:20 AM",
+  "last_updated": "2025-09-09 07:54:29 AM",
   "errors": [
     {
       "state": "MA",
@@ -641,21 +641,6 @@
       "showtime_id": 512220568,
       "date": "2025-09-11+19:30",
       "format": "D-Box",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Bronx",
-      "zip": "10475",
-      "theater_name": "AMC Bay Plaza Cinema 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515149932,
-      "date": "2025-09-11+22:00",
-      "format": "Standard",
       "language": "English",
       "error": {
         "status": 500
@@ -13262,36 +13247,6 @@
       }
     },
     {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515372376,
-      "date": "2025-09-11+16:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515372345,
-      "date": "2025-09-11+21:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "CA",
       "city": "Oxnard",
       "zip": "93030",
@@ -13364,6 +13319,246 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Bronx",
+      "zip": "10475",
+      "theater_name": "AMC Bay Plaza Cinema 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515388334,
+      "date": "2025-09-11+20:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Middletown",
+      "zip": "19709",
+      "theater_name": "Westown Movies",
+      "chainName": "Westown Movies",
+      "chainCode": "WSTN",
+      "showtime_id": 515393248,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Middletown",
+      "zip": "19709",
+      "theater_name": "Westown Movies",
+      "chainName": "Westown Movies",
+      "chainCode": "WSTN",
+      "showtime_id": 515393246,
+      "date": "2025-09-11+19:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Middletown",
+      "zip": "19709",
+      "theater_name": "Westown Movies",
+      "chainName": "Westown Movies",
+      "chainCode": "WSTN",
+      "showtime_id": 515380876,
+      "date": "2025-09-11+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Middletown",
+      "zip": "19709",
+      "theater_name": "Westown Movies",
+      "chainName": "Westown Movies",
+      "chainCode": "WSTN",
+      "showtime_id": 515380872,
+      "date": "2025-09-11+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Albany",
+      "zip": "31707",
+      "theater_name": "AMC CLASSIC Albany 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515387664,
+      "date": "2025-09-11+17:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Albany",
+      "zip": "31707",
+      "theater_name": "AMC CLASSIC Albany 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515387668,
+      "date": "2025-09-11+18:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Albany",
+      "zip": "31707",
+      "theater_name": "AMC CLASSIC Albany 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515387667,
+      "date": "2025-09-11+22:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Sterling",
+      "zip": "61081",
+      "theater_name": "AMC CLASSIC Sauk Valley 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515376640,
+      "date": "2025-09-11+19:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Sterling",
+      "zip": "61081",
+      "theater_name": "AMC CLASSIC Sauk Valley 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515376641,
+      "date": "2025-09-11+16:45",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Monett",
+      "zip": "65708",
+      "theater_name": "B&B Theatres Monett Plaza 8",
+      "chainName": "B&B Theaters",
+      "chainCode": "BNBT",
+      "showtime_id": 515382976,
+      "date": "2025-09-11+20:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Lebanon",
+      "zip": "65536",
+      "theater_name": "B&B Theatres Lebanon Ritz 8",
+      "chainName": "B&B Theaters",
+      "chainCode": "BNBT",
+      "showtime_id": 515388206,
+      "date": "2025-09-11+16:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Lebanon",
+      "zip": "65536",
+      "theater_name": "B&B Theatres Lebanon Ritz 8",
+      "chainName": "B&B Theaters",
+      "chainCode": "BNBT",
+      "showtime_id": 515388318,
+      "date": "2025-09-11+19:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Lebanon",
+      "zip": "65536",
+      "theater_name": "B&B Theatres Lebanon Ritz 8",
+      "chainName": "B&B Theaters",
+      "chainCode": "BNBT",
+      "showtime_id": 515388210,
+      "date": "2025-09-11+20:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Bernardino",
+      "zip": "92404",
+      "theater_name": "Regency Sterling 6",
+      "chainName": "Regency Theatres",
+      "chainCode": "RGCY",
+      "showtime_id": 515385968,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Bernardino",
+      "zip": "92404",
+      "theater_name": "Regency Sterling 6",
+      "chainName": "Regency Theatres",
+      "chainCode": "RGCY",
+      "showtime_id": 515385969,
+      "date": "2025-09-11+19:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
       }
     }
   ]
