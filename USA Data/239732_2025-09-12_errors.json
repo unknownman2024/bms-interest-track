@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 05:19:41 PM",
+  "last_updated": "2025-09-09 06:49:50 PM",
   "errors": [
     {
       "state": "CT",
@@ -21503,21 +21503,6 @@
       "theater_name": "Regency Sterling 6",
       "chainName": "Regency Theatres",
       "chainCode": "RGCY",
-      "showtime_id": 515385959,
-      "date": "2025-09-12+12:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Bernardino",
-      "zip": "92404",
-      "theater_name": "Regency Sterling 6",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
       "showtime_id": 515385960,
       "date": "2025-09-12+15:45",
       "format": "Standard",
@@ -21550,21 +21535,6 @@
       "chainCode": "RGCY",
       "showtime_id": 515385964,
       "date": "2025-09-12+14:10",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Bernardino",
-      "zip": "92404",
-      "theater_name": "Regency Sterling 6",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515385965,
-      "date": "2025-09-12+17:45",
       "format": "Standard",
       "language": "English",
       "error": {
@@ -24612,6 +24582,36 @@
       "date": "2025-09-12+19:30",
       "format": "Standard",
       "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11230",
+      "theater_name": "Kent Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515486859,
+      "date": "2025-09-12+18:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11230",
+      "theater_name": "Kent Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515486860,
+      "date": "2025-09-12+21:00",
+      "format": "Standard",
+      "language": "English",
       "error": {
         "status": 400
       }
