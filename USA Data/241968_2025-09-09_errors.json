@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 10:49:34 PM",
+  "last_updated": "2025-09-09 11:59:20 PM",
   "errors": [
     {
       "state": "NY",
@@ -44,6 +44,21 @@
       "language": "Tamil",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Roanoke",
+      "zip": "76262",
+      "theater_name": "Cinemark Roanoke and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515529934,
+      "date": "2025-09-09+18:40",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 403
       }
     }
   ]
