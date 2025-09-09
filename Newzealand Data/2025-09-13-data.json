@@ -4180,7 +4180,8 @@
     "max_gross": 2646.0,
     "total_gross": 0.0,
     "price": 21.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 502"
   },
   {
     "id": 169272,
@@ -4633,11 +4634,11 @@
     "screenName": "Cinema 2",
     "operator": "BOT",
     "total": 172,
-    "sold": 11,
-    "available": 161,
-    "occupancy": 6.4,
+    "sold": 12,
+    "available": 160,
+    "occupancy": 6.98,
     "max_gross": 4472.0,
-    "total_gross": 286.0,
+    "total_gross": 312.0,
     "price": 26.0,
     "error": false
   },
@@ -6764,8 +6765,7 @@
     "max_gross": 3240.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 68293,
