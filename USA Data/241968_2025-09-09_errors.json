@@ -1,0 +1,50 @@
+{
+  "last_updated": "2025-09-09 12:54:42 PM",
+  "errors": [
+    {
+      "state": "NY",
+      "city": "Bellmore",
+      "zip": "11710",
+      "theater_name": "Bellmore Playhouse",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 514568345,
+      "date": "2025-09-09+20:30",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Durham",
+      "zip": "27713",
+      "theater_name": "AMC Southpoint 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 0,
+      "date": "2025-09-09+21:20",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 514663964,
+      "date": "2025-09-09+19:25",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 400
+      }
+    }
+  ]
+}
