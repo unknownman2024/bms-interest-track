@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 06:49:50 PM",
+  "last_updated": "2025-09-09 07:30:51 PM",
   "errors": [
     {
       "state": "CT",
@@ -13893,21 +13893,6 @@
     },
     {
       "state": "CA",
-      "city": "Bakersfield",
-      "zip": "93312",
-      "theater_name": "Studio Movie Grill Bakersfield",
-      "chainName": "Studio Movie Grill",
-      "chainCode": "SMG",
-      "showtime_id": 510090169,
-      "date": "2025-09-12+15:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
       "city": "San Jose",
       "zip": "95113",
       "theater_name": "IMAX Dome Theater at The Tech",
@@ -24612,6 +24597,141 @@
       "date": "2025-09-12+21:00",
       "format": "Standard",
       "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "VT",
+      "city": "Barre",
+      "zip": "05641",
+      "theater_name": "Paramount Twin Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515489612,
+      "date": "2025-09-12+18:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Buffalo",
+      "zip": "14203",
+      "theater_name": "AMC Market Arcade 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515488827,
+      "date": "2025-09-12+14:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Coloma",
+      "zip": "49038",
+      "theater_name": "Loma Theatres",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515488703,
+      "date": "2025-09-12+15:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Coloma",
+      "zip": "49038",
+      "theater_name": "Loma Theatres",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515488701,
+      "date": "2025-09-12+12:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Coloma",
+      "zip": "49038",
+      "theater_name": "Loma Theatres",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515488702,
+      "date": "2025-09-12+18:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Coloma",
+      "zip": "49038",
+      "theater_name": "Loma Theatres",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515488706,
+      "date": "2025-09-12+21:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Baraboo",
+      "zip": "53913",
+      "theater_name": "AMC CLASSIC Desert Star 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515488773,
+      "date": "2025-09-12+13:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Baraboo",
+      "zip": "53913",
+      "theater_name": "AMC CLASSIC Desert Star 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515488774,
+      "date": "2025-09-12+16:35",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Baraboo",
+      "zip": "53913",
+      "theater_name": "AMC CLASSIC Desert Star 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515488775,
+      "date": "2025-09-12+20:10",
+      "format": "Standard",
+      "language": "Japanese",
       "error": {
         "status": 400
       }
