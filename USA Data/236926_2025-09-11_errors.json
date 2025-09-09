@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 07:03:57 AM",
+  "last_updated": "2025-09-09 08:37:37 AM",
   "errors": [
     {
       "state": "CT",
@@ -764,36 +764,6 @@
       "language": "Unknown",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Yonkers",
-      "zip": "10710",
-      "theater_name": "Alamo Drafthouse Yonkers",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 512428262,
-      "date": "2025-09-11+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Yonkers",
-      "zip": "10710",
-      "theater_name": "Alamo Drafthouse Yonkers",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 512428263,
-      "date": "2025-09-11+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -11627,51 +11597,6 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Azusa",
-      "zip": "91702",
-      "theater_name": "Regency Foothill Center 10",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515295858,
-      "date": "2025-09-11+14:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Azusa",
-      "zip": "91702",
-      "theater_name": "Regency Foothill Center 10",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515295859,
-      "date": "2025-09-11+16:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Azusa",
-      "zip": "91702",
-      "theater_name": "Regency Foothill Center 10",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515295860,
-      "date": "2025-09-11+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "WA",
       "city": "Kennewick",
       "zip": "99336",
@@ -12284,6 +12209,246 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Lisbon",
+      "zip": "06351",
+      "theater_name": "AMC CLASSIC Lisbon 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515404433,
+      "date": "2025-09-11+21:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Rehoboth Beach",
+      "zip": "19971",
+      "theater_name": "The Movies at Midway",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515418095,
+      "date": "2025-09-11+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Winston Salem",
+      "zip": "27127",
+      "theater_name": "Marketplace Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515417088,
+      "date": "2025-09-11+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Aurora",
+      "zip": "44202",
+      "theater_name": "Atlas Cinemas Barrington 10",
+      "chainName": "Atlas Cinemas",
+      "chainCode": "ATLS",
+      "showtime_id": 515406547,
+      "date": "2025-09-11+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Aurora",
+      "zip": "44202",
+      "theater_name": "Atlas Cinemas Barrington 10",
+      "chainName": "Atlas Cinemas",
+      "chainCode": "ATLS",
+      "showtime_id": 515406548,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Columbus",
+      "zip": "47201",
+      "theater_name": "AMC CLASSIC Columbus 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515397532,
+      "date": "2025-09-11+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Columbus",
+      "zip": "47201",
+      "theater_name": "AMC CLASSIC Columbus 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515397533,
+      "date": "2025-09-11+20:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Columbus",
+      "zip": "47201",
+      "theater_name": "AMC CLASSIC Columbus 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515397525,
+      "date": "2025-09-11+21:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Mt Prospect",
+      "zip": "60056",
+      "theater_name": "AMC Randhurst 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515422665,
+      "date": "2025-09-11+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Red Wing",
+      "zip": "55066",
+      "theater_name": "Red Wing Cinema 8",
+      "chainName": "CABB Theatres",
+      "chainCode": "CABB",
+      "showtime_id": 515426666,
+      "date": "2025-09-11+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Red Wing",
+      "zip": "55066",
+      "theater_name": "Red Wing Cinema 8",
+      "chainName": "CABB Theatres",
+      "chainCode": "CABB",
+      "showtime_id": 515426667,
+      "date": "2025-09-11+19:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Great Falls",
+      "zip": "59404",
+      "theater_name": "AMC CLASSIC Great Falls 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515340376,
+      "date": "2025-09-11+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Tyler",
+      "zip": "75703",
+      "theater_name": "AMC Tyler 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515401136,
+      "date": "2025-09-11+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Bryan",
+      "zip": "77808",
+      "theater_name": "Bryan Premiere LUX Cine 15 IMAX & Pizza Pub",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 515389681,
+      "date": "2025-09-11+21:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Goleta",
+      "zip": "93117",
+      "theater_name": "Camino Real Cinemas",
+      "chainName": "Metropolitan Theatres",
+      "chainCode": "MTRO",
+      "showtime_id": 514711493,
+      "date": "2025-09-11+17:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Goleta",
+      "zip": "93117",
+      "theater_name": "Camino Real Cinemas",
+      "chainName": "Metropolitan Theatres",
+      "chainCode": "MTRO",
+      "showtime_id": 514711494,
+      "date": "2025-09-11+20:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": ""
       }
     }
   ]
