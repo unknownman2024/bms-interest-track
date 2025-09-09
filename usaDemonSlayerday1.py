@@ -39,7 +39,7 @@ else:
 print(f"🎬 Using DATE+1 = {DATE} (PST)")
 
 MAX_WORKERS = 4  # For showtime fetching multiprocessing
-CONCURRENCY = 5  # For async seat fetching concurrency
+CONCURRENCY = 20  # For async seat fetching concurrency
 ZIP_FILE = "zipcodes.txt"
 ERROR_FILE_DEAD = "errored_seats.json"
 AUTHORIZATION_TOKEN = "<your-auth-token>"  # Replace here
