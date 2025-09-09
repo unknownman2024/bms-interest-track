@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 07:41:24 PM",
+  "last_updated": "2025-09-09 08:41:13 PM",
   "errors": [
     {
       "state": "MA",
@@ -14222,63 +14222,48 @@
       }
     },
     {
-      "state": "TN",
-      "city": "Chattanooga",
-      "zip": "37412",
-      "theater_name": "AMC Chattanooga 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515486929,
-      "date": "2025-09-11+18:00",
+      "state": "NJ",
+      "city": "Teaneck",
+      "zip": "07666",
+      "theater_name": "Teaneck Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515494901,
+      "date": "2025-09-11+16:00",
       "format": "Standard",
-      "language": "Japanese",
+      "language": "Unknown",
       "error": {
-        "status": 500
+        "status": 400
       }
     },
     {
-      "state": "TN",
-      "city": "Chattanooga",
-      "zip": "37412",
-      "theater_name": "AMC Chattanooga 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515486933,
-      "date": "2025-09-11+20:00",
+      "state": "NJ",
+      "city": "Teaneck",
+      "zip": "07666",
+      "theater_name": "Teaneck Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515494902,
+      "date": "2025-09-11+19:15",
       "format": "Standard",
-      "language": "Spanish",
+      "language": "Unknown",
       "error": {
-        "status": 500
+        "status": 400
       }
     },
     {
-      "state": "MI",
-      "city": "Clinton Township",
-      "zip": "48035",
-      "theater_name": "AMC Star Gratiot 15",
+      "state": "IN",
+      "city": "Terre Haute",
+      "zip": "47802",
+      "theater_name": "AMC CLASSIC Terre Haute 12",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 515487484,
-      "date": "2025-09-11+18:00",
+      "showtime_id": 515490740,
+      "date": "2025-09-11+20:15",
       "format": "Standard",
       "language": "English",
       "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Clinton Township",
-      "zip": "48035",
-      "theater_name": "AMC Star Gratiot 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515487483,
-      "date": "2025-09-11+21:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
+        "status": 400
       }
     }
   ]
