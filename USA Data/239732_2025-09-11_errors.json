@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 09:39:39 AM",
+  "last_updated": "2025-09-09 10:38:21 AM",
   "errors": [
     {
       "state": "MA",
@@ -13322,66 +13322,6 @@
       }
     },
     {
-      "state": "DE",
-      "city": "Middletown",
-      "zip": "19709",
-      "theater_name": "Westown Movies",
-      "chainName": "Westown Movies",
-      "chainCode": "WSTN",
-      "showtime_id": 515393248,
-      "date": "2025-09-11+16:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "DE",
-      "city": "Middletown",
-      "zip": "19709",
-      "theater_name": "Westown Movies",
-      "chainName": "Westown Movies",
-      "chainCode": "WSTN",
-      "showtime_id": 515393246,
-      "date": "2025-09-11+19:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "DE",
-      "city": "Middletown",
-      "zip": "19709",
-      "theater_name": "Westown Movies",
-      "chainName": "Westown Movies",
-      "chainCode": "WSTN",
-      "showtime_id": 515380876,
-      "date": "2025-09-11+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "DE",
-      "city": "Middletown",
-      "zip": "19709",
-      "theater_name": "Westown Movies",
-      "chainName": "Westown Movies",
-      "chainCode": "WSTN",
-      "showtime_id": 515380872,
-      "date": "2025-09-11+22:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "GA",
       "city": "Albany",
       "zip": "31707",
@@ -13889,6 +13829,141 @@
       "language": "Japanese",
       "error": {
         "status": 500
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Indiana",
+      "zip": "15701",
+      "theater_name": "Indiana Mall Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515455599,
+      "date": "2025-09-11+21:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Indiana",
+      "zip": "15701",
+      "theater_name": "Indiana Mall Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515455595,
+      "date": "2025-09-11+18:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Lawrenceville",
+      "zip": "30045",
+      "theater_name": "AMC DINE-IN Webb Gin 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515453856,
+      "date": "2025-09-11+22:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NE",
+      "city": "Omaha",
+      "zip": "68118",
+      "theater_name": "Marcus Village Pointe Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 515459185,
+      "date": "2025-09-11+17:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NE",
+      "city": "Omaha",
+      "zip": "68118",
+      "theater_name": "Marcus Village Pointe Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 515459203,
+      "date": "2025-09-11+18:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NE",
+      "city": "Omaha",
+      "zip": "68118",
+      "theater_name": "Marcus Village Pointe Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 515459186,
+      "date": "2025-09-11+21:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Atascadero",
+      "zip": "93422",
+      "theater_name": "The Movie Experience - Colony Cinemas",
+      "chainName": "Cinema Hosting",
+      "chainCode": "CHST",
+      "showtime_id": 515465807,
+      "date": "2025-09-11+18:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Seattle",
+      "zip": "98105",
+      "theater_name": "Varsity Theatre",
+      "chainName": "Far Away Entertainment",
+      "chainCode": "FAE",
+      "showtime_id": 515461003,
+      "date": "2025-09-11+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Bainbridge Island",
+      "zip": "98110",
+      "theater_name": "Bainbridge Cinemas",
+      "chainName": "Far Away Entertainment",
+      "chainCode": "FAE",
+      "showtime_id": 515463336,
+      "date": "2025-09-11+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
       }
     }
   ]
