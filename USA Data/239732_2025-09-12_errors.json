@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 08:24:19 PM",
+  "last_updated": "2025-09-09 09:24:03 PM",
   "errors": [
     {
       "state": "CT",
@@ -22007,36 +22007,6 @@
       }
     },
     {
-      "state": "SC",
-      "city": "Charleston",
-      "zip": "29407",
-      "theater_name": "Citadel Mall Stadium 16",
-      "chainName": "Southeast Cinemas",
-      "chainCode": "SEC",
-      "showtime_id": 515449322,
-      "date": "2025-09-12+12:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Charleston",
-      "zip": "29407",
-      "theater_name": "Citadel Mall Stadium 16",
-      "chainName": "Southeast Cinemas",
-      "chainCode": "SEC",
-      "showtime_id": 515449321,
-      "date": "2025-09-12+15:55",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
       "state": "GA",
       "city": "Lawrenceville",
       "zip": "30043",
@@ -23837,51 +23807,6 @@
       }
     },
     {
-      "state": "SC",
-      "city": "Charleston",
-      "zip": "29407",
-      "theater_name": "Citadel Mall Stadium 16",
-      "chainName": "Southeast Cinemas",
-      "chainCode": "SEC",
-      "showtime_id": 515449323,
-      "date": "2025-09-12+12:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Charleston",
-      "zip": "29407",
-      "theater_name": "Citadel Mall Stadium 16",
-      "chainName": "Southeast Cinemas",
-      "chainCode": "SEC",
-      "showtime_id": 515449324,
-      "date": "2025-09-12+15:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Charleston",
-      "zip": "29407",
-      "theater_name": "Citadel Mall Stadium 16",
-      "chainName": "Southeast Cinemas",
-      "chainCode": "SEC",
-      "showtime_id": 515449325,
-      "date": "2025-09-12+19:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "GA",
       "city": "Lawrenceville",
       "zip": "30043",
@@ -24732,6 +24657,531 @@
       "date": "2025-09-12+18:30",
       "format": "Standard",
       "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Bridgewater",
+      "zip": "08807",
+      "theater_name": "AMC DINE-IN Bridgewater 7",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515502103,
+      "date": "2025-09-12+11:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Bridgewater",
+      "zip": "08807",
+      "theater_name": "AMC DINE-IN Bridgewater 7",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515502109,
+      "date": "2025-09-12+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Bridgewater",
+      "zip": "08807",
+      "theater_name": "AMC DINE-IN Bridgewater 7",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515502111,
+      "date": "2025-09-12+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Bridgewater",
+      "zip": "08807",
+      "theater_name": "AMC DINE-IN Bridgewater 7",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515502108,
+      "date": "2025-09-12+19:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Bridgewater",
+      "zip": "08807",
+      "theater_name": "AMC DINE-IN Bridgewater 7",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515502105,
+      "date": "2025-09-12+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Oneida",
+      "zip": "13421",
+      "theater_name": "Oneida Movieplex",
+      "chainName": "Zurich Cinemas",
+      "chainCode": "ZURC",
+      "showtime_id": 515499572,
+      "date": "2025-09-12+16:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Oneida",
+      "zip": "13421",
+      "theater_name": "Oneida Movieplex",
+      "chainName": "Zurich Cinemas",
+      "chainCode": "ZURC",
+      "showtime_id": 515499573,
+      "date": "2025-09-12+19:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515497319,
+      "date": "2025-09-12+11:10",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515497320,
+      "date": "2025-09-12+14:50",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515497321,
+      "date": "2025-09-12+18:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515497365,
+      "date": "2025-09-12+19:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515497322,
+      "date": "2025-09-12+22:10",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515497323,
+      "date": "2025-09-12+12:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515497324,
+      "date": "2025-09-12+20:25",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "New Smyrna",
+      "zip": "32168",
+      "theater_name": "AMC CLASSIC New Smyrna 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515502043,
+      "date": "2025-09-12+20:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "New Smyrna",
+      "zip": "32168",
+      "theater_name": "AMC CLASSIC New Smyrna 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515502045,
+      "date": "2025-09-12+15:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "New Smyrna",
+      "zip": "32168",
+      "theater_name": "AMC CLASSIC New Smyrna 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515502037,
+      "date": "2025-09-12+14:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "New Smyrna",
+      "zip": "32168",
+      "theater_name": "AMC CLASSIC New Smyrna 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515502038,
+      "date": "2025-09-12+21:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Orlando",
+      "zip": "32803",
+      "theater_name": "Orlando Premiere 14 Fashion Square",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 515497308,
+      "date": "2025-09-12+14:05",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Orlando",
+      "zip": "32803",
+      "theater_name": "Orlando Premiere 14 Fashion Square",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 515497307,
+      "date": "2025-09-12+21:05",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Orlando",
+      "zip": "32803",
+      "theater_name": "Orlando Premiere 14 Fashion Square",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 515497306,
+      "date": "2025-09-12+17:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Gulf Shores",
+      "zip": "36542",
+      "theater_name": "CMX Pinnacle 14",
+      "chainName": "CMX Cinemas",
+      "chainCode": "COBB",
+      "showtime_id": 515508468,
+      "date": "2025-09-12+18:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Morristown",
+      "zip": "37813",
+      "theater_name": "AMC CLASSIC College Square 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515501794,
+      "date": "2025-09-12+13:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Morristown",
+      "zip": "37813",
+      "theater_name": "AMC CLASSIC College Square 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515501805,
+      "date": "2025-09-12+14:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Morristown",
+      "zip": "37813",
+      "theater_name": "AMC CLASSIC College Square 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515501791,
+      "date": "2025-09-12+15:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Morristown",
+      "zip": "37813",
+      "theater_name": "AMC CLASSIC College Square 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515501804,
+      "date": "2025-09-12+17:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Morristown",
+      "zip": "37813",
+      "theater_name": "AMC CLASSIC College Square 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515501792,
+      "date": "2025-09-12+18:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Morristown",
+      "zip": "37813",
+      "theater_name": "AMC CLASSIC College Square 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515501793,
+      "date": "2025-09-12+22:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Starkville",
+      "zip": "39759",
+      "theater_name": "UEC Theatres Hollywood ",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515498325,
+      "date": "2025-09-12+19:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Starkville",
+      "zip": "39759",
+      "theater_name": "UEC Theatres Hollywood ",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515498326,
+      "date": "2025-09-12+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Starkville",
+      "zip": "39759",
+      "theater_name": "UEC Theatres Hollywood ",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515498320,
+      "date": "2025-09-12+19:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Mentor",
+      "zip": "44060",
+      "theater_name": "Atlas Cinema Great Lakes Stadium 16",
+      "chainName": "Atlas Cinemas",
+      "chainCode": "ATLS",
+      "showtime_id": 515507628,
+      "date": "2025-09-12+16:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Mentor",
+      "zip": "44060",
+      "theater_name": "Atlas Cinema Great Lakes Stadium 16",
+      "chainName": "Atlas Cinemas",
+      "chainCode": "ATLS",
+      "showtime_id": 515507634,
+      "date": "2025-09-12+13:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Mentor",
+      "zip": "44060",
+      "theater_name": "Atlas Cinema Great Lakes Stadium 16",
+      "chainName": "Atlas Cinemas",
+      "chainCode": "ATLS",
+      "showtime_id": 515507640,
+      "date": "2025-09-12+19:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Belton",
+      "zip": "64012",
+      "theater_name": "Mitchell Theatres Belton Cinema 8",
+      "chainName": "Mitchell Theatres",
+      "chainCode": "MTCH",
+      "showtime_id": 515255543,
+      "date": "2025-09-12+19:45",
+      "format": "Standard",
+      "language": "Unknown",
       "error": {
         "status": 400
       }
