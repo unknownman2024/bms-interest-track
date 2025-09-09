@@ -1393,11 +1393,11 @@
     "date": "2025-09-09",
     "time": "7:45pm",
     "total": 212,
-    "available": 166,
+    "available": 167,
     "blocked": 45,
-    "sold": 1,
-    "gross": 8.85,
-    "gross_with_tax": 11.25,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
     "per_ticket": {
       "net": 8.85,
       "tax": 1.15,
@@ -1450,11 +1450,11 @@
     "date": "2025-09-09",
     "time": "6:30pm",
     "total": 408,
-    "available": 302,
+    "available": 296,
     "blocked": 0,
-    "sold": 106,
-    "gross": 1219.0,
-    "gross_with_tax": 1510.5,
+    "sold": 112,
+    "gross": 1288.0,
+    "gross_with_tax": 1596.0,
     "per_ticket": {
       "net": 11.5,
       "tax": 1.5,
@@ -1536,6 +1536,937 @@
       "tax": 1.03,
       "fee": 1.25,
       "grand": 10.25
+    }
+  },
+  {
+    "venue": "central-parkway",
+    "movie": "Baaghi 4 - Hindi",
+    "perfIx": "17946",
+    "date": "2025-09-09",
+    "time": "10:00pm",
+    "total": 139,
+    "available": 139,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 6.2,
+      "tax": 0.8,
+      "fee": 1.25,
+      "grand": 8.25
+    }
+  },
+  {
+    "venue": "central-parkway",
+    "movie": "Hridayapoorvam- Malayalam",
+    "perfIx": "17937",
+    "date": "2025-09-09",
+    "time": "3:15pm",
+    "total": 187,
+    "available": 186,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 8.85,
+    "gross_with_tax": 11.25,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "central-parkway",
+    "movie": "Kotha Lokah: Chapter 1 : Chandra - Telugu",
+    "perfIx": "17948",
+    "date": "2025-09-09",
+    "time": "3:00pm",
+    "total": 175,
+    "available": 173,
+    "blocked": 0,
+    "sold": 2,
+    "gross": 17.7,
+    "gross_with_tax": 22.5,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "central-parkway",
+    "movie": "Little Hearts  -Telugu",
+    "perfIx": "17953",
+    "date": "2025-09-09",
+    "time": "6:45pm",
+    "total": 187,
+    "available": 181,
+    "blocked": 0,
+    "sold": 6,
+    "gross": 53.1,
+    "gross_with_tax": 67.5,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "central-parkway",
+    "movie": "Little Hearts  -Telugu",
+    "perfIx": "17947",
+    "date": "2025-09-09",
+    "time": "10:00pm",
+    "total": 187,
+    "available": 187,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "central-parkway",
+    "movie": "Lokah Chapter: 1- Malayalam",
+    "perfIx": "17942",
+    "date": "2025-09-09",
+    "time": "6:30pm",
+    "total": 175,
+    "available": 154,
+    "blocked": 0,
+    "sold": 21,
+    "gross": 185.85,
+    "gross_with_tax": 236.25,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "central-parkway",
+    "movie": "Lokah Chapter: 1- Malayalam",
+    "perfIx": "17943",
+    "date": "2025-09-09",
+    "time": "10:00pm",
+    "total": 175,
+    "available": 170,
+    "blocked": 0,
+    "sold": 5,
+    "gross": 44.25,
+    "gross_with_tax": 56.25,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "central-parkway",
+    "movie": "Madharasi - Tamil",
+    "perfIx": "17938",
+    "date": "2025-09-09",
+    "time": "3:30pm",
+    "total": 193,
+    "available": 193,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "central-parkway",
+    "movie": "Madharasi - Tamil",
+    "perfIx": "17939",
+    "date": "2025-09-09",
+    "time": "7:00pm",
+    "total": 193,
+    "available": 171,
+    "blocked": 0,
+    "sold": 22,
+    "gross": 194.7,
+    "gross_with_tax": 247.5,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "central-parkway",
+    "movie": "Madharasi - Tamil",
+    "perfIx": "17940",
+    "date": "2025-09-09",
+    "time": "10:30pm",
+    "total": 193,
+    "available": 193,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "central-parkway",
+    "movie": "The Bengal Files - Hindi",
+    "perfIx": "17945",
+    "date": "2025-09-09",
+    "time": "6:00pm",
+    "total": 139,
+    "available": 135,
+    "blocked": 0,
+    "sold": 4,
+    "gross": 24.8,
+    "gross_with_tax": 33.0,
+    "per_ticket": {
+      "net": 6.2,
+      "tax": 0.8,
+      "fee": 1.25,
+      "grand": 8.25
+    }
+  },
+  {
+    "venue": "central-parkway",
+    "movie": "Udaipur Files - Kanhaiya Lal Tailor Murder- Hindi",
+    "perfIx": "17944",
+    "date": "2025-09-09",
+    "time": "3:00pm",
+    "total": 139,
+    "available": 139,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 6.2,
+      "tax": 0.8,
+      "fee": 1.25,
+      "grand": 8.25
+    }
+  },
+  {
+    "venue": "woodside",
+    "movie": "Little Hearts  -Telugu",
+    "perfIx": "37358",
+    "date": "2025-09-09",
+    "time": "7:00pm",
+    "total": 141,
+    "available": 124,
+    "blocked": 0,
+    "sold": 17,
+    "gross": 150.45,
+    "gross_with_tax": 191.25,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "woodside",
+    "movie": "Little Hearts  -Telugu",
+    "perfIx": "37341",
+    "date": "2025-09-09",
+    "time": "10:00pm",
+    "total": 141,
+    "available": 137,
+    "blocked": 0,
+    "sold": 4,
+    "gross": 35.4,
+    "gross_with_tax": 45.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "woodside",
+    "movie": "Little Hearts  -Telugu",
+    "perfIx": "37359",
+    "date": "2025-09-09",
+    "time": "7:00pm",
+    "total": 32,
+    "available": 7,
+    "blocked": 25,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "woodside",
+    "movie": "Lokah Chapter: 1- Malayalam",
+    "perfIx": "37342",
+    "date": "2025-09-09",
+    "time": "6:15pm",
+    "total": 183,
+    "available": 123,
+    "blocked": 0,
+    "sold": 60,
+    "gross": 531.0,
+    "gross_with_tax": 675.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "woodside",
+    "movie": "Lokah Chapter: 1- Malayalam",
+    "perfIx": "37335",
+    "date": "2025-09-09",
+    "time": "9:45pm",
+    "total": 183,
+    "available": 165,
+    "blocked": 0,
+    "sold": 18,
+    "gross": 159.3,
+    "gross_with_tax": 202.5,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "woodside",
+    "movie": "Lokah Chapter: 1- Malayalam",
+    "perfIx": "37343",
+    "date": "2025-09-09",
+    "time": "6:15pm",
+    "total": 32,
+    "available": 2,
+    "blocked": 21,
+    "sold": 9,
+    "gross": 79.65,
+    "gross_with_tax": 101.25,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "woodside",
+    "movie": "Lokah Chapter: 1- Malayalam",
+    "perfIx": "37336",
+    "date": "2025-09-09",
+    "time": "9:45pm",
+    "total": 32,
+    "available": 9,
+    "blocked": 21,
+    "sold": 2,
+    "gross": 17.7,
+    "gross_with_tax": 22.5,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "woodside",
+    "movie": "Madharasi - Tamil",
+    "perfIx": "37337",
+    "date": "2025-09-09",
+    "time": "6:45pm",
+    "total": 263,
+    "available": 173,
+    "blocked": 1,
+    "sold": 89,
+    "gross": 787.65,
+    "gross_with_tax": 1001.25,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "woodside",
+    "movie": "Madharasi - Tamil",
+    "perfIx": "37339",
+    "date": "2025-09-09",
+    "time": "10:15pm",
+    "total": 263,
+    "available": 219,
+    "blocked": 1,
+    "sold": 43,
+    "gross": 380.55,
+    "gross_with_tax": 483.75,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "york",
+    "movie": "Baaghi 4 - Hindi",
+    "perfIx": "33482",
+    "date": "2025-09-09",
+    "time": "6:00pm",
+    "total": 195,
+    "available": 187,
+    "blocked": 8,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 7.97,
+      "tax": 1.03,
+      "fee": 1.25,
+      "grand": 10.25
+    }
+  },
+  {
+    "venue": "york",
+    "movie": "Baaghi 4 - Hindi",
+    "perfIx": "33481",
+    "date": "2025-09-09",
+    "time": "9:00pm",
+    "total": 195,
+    "available": 187,
+    "blocked": 8,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 7.97,
+      "tax": 1.03,
+      "fee": 1.25,
+      "grand": 10.25
+    }
+  },
+  {
+    "venue": "york",
+    "movie": "Hridayapoorvam- Malayalam",
+    "perfIx": "33475",
+    "date": "2025-09-09",
+    "time": "7:15pm",
+    "total": 203,
+    "available": 172,
+    "blocked": 28,
+    "sold": 3,
+    "gross": 26.55,
+    "gross_with_tax": 33.75,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "york",
+    "movie": "Hridayapoorvam- Malayalam",
+    "perfIx": "33476",
+    "date": "2025-09-09",
+    "time": "10:30pm",
+    "total": 203,
+    "available": 171,
+    "blocked": 28,
+    "sold": 4,
+    "gross": 35.4,
+    "gross_with_tax": 45.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "york",
+    "movie": "Kotha Lokah: Chapter 1 : Chandra - Telugu",
+    "perfIx": "33502",
+    "date": "2025-09-09",
+    "time": "10:00pm",
+    "total": 224,
+    "available": 194,
+    "blocked": 12,
+    "sold": 18,
+    "gross": 159.3,
+    "gross_with_tax": 202.5,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "york",
+    "movie": "Little Hearts  -Telugu",
+    "perfIx": "33484",
+    "date": "2025-09-09",
+    "time": "7:00pm",
+    "total": 195,
+    "available": 67,
+    "blocked": 31,
+    "sold": 97,
+    "gross": 858.45,
+    "gross_with_tax": 1091.25,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "york",
+    "movie": "Little Hearts  -Telugu",
+    "perfIx": "33485",
+    "date": "2025-09-09",
+    "time": "10:00pm",
+    "total": 195,
+    "available": 162,
+    "blocked": 31,
+    "sold": 2,
+    "gross": 17.7,
+    "gross_with_tax": 22.5,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "york",
+    "movie": "Lokah Chapter: 1- Malayalam",
+    "perfIx": "33477",
+    "date": "2025-09-09",
+    "time": "7:00pm",
+    "total": 271,
+    "available": 96,
+    "blocked": 58,
+    "sold": 117,
+    "gross": 1345.5,
+    "gross_with_tax": 1667.25,
+    "per_ticket": {
+      "net": 11.5,
+      "tax": 1.5,
+      "fee": 1.25,
+      "grand": 14.25
+    }
+  },
+  {
+    "venue": "york",
+    "movie": "Lokah Chapter: 1- Malayalam",
+    "perfIx": "33478",
+    "date": "2025-09-09",
+    "time": "10:30pm",
+    "total": 271,
+    "available": 187,
+    "blocked": 58,
+    "sold": 26,
+    "gross": 299.0,
+    "gross_with_tax": 370.5,
+    "per_ticket": {
+      "net": 11.5,
+      "tax": 1.5,
+      "fee": 1.25,
+      "grand": 14.25
+    }
+  },
+  {
+    "venue": "york",
+    "movie": "Madharasi - Tamil",
+    "perfIx": "33479",
+    "date": "2025-09-09",
+    "time": "6:45pm",
+    "total": 281,
+    "available": 211,
+    "blocked": 19,
+    "sold": 51,
+    "gross": 586.5,
+    "gross_with_tax": 726.75,
+    "per_ticket": {
+      "net": 11.5,
+      "tax": 1.5,
+      "fee": 1.25,
+      "grand": 14.25
+    }
+  },
+  {
+    "venue": "york",
+    "movie": "Madharasi - Tamil",
+    "perfIx": "33480",
+    "date": "2025-09-09",
+    "time": "10:15pm",
+    "total": 281,
+    "available": 242,
+    "blocked": 19,
+    "sold": 20,
+    "gross": 230.0,
+    "gross_with_tax": 285.0,
+    "per_ticket": {
+      "net": 11.5,
+      "tax": 1.5,
+      "fee": 1.25,
+      "grand": 14.25
+    }
+  },
+  {
+    "venue": "york",
+    "movie": "The Bengal Files - Hindi",
+    "perfIx": "33483",
+    "date": "2025-09-09",
+    "time": "6:30pm",
+    "total": 224,
+    "available": 206,
+    "blocked": 12,
+    "sold": 6,
+    "gross": 47.82,
+    "gross_with_tax": 61.5,
+    "per_ticket": {
+      "net": 7.97,
+      "tax": 1.03,
+      "fee": 1.25,
+      "grand": 10.25
+    }
+  },
+  {
+    "venue": "garden-city",
+    "movie": "Caught Stealing - English",
+    "perfIx": "1386",
+    "date": "2025-09-09",
+    "time": "12:30pm",
+    "total": 156,
+    "available": 156,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 5.74,
+      "tax": 1.26,
+      "fee": 1.25,
+      "grand": 8.25
+    }
+  },
+  {
+    "venue": "garden-city",
+    "movie": "Caught Stealing - English",
+    "perfIx": "1387",
+    "date": "2025-09-09",
+    "time": "3:30pm",
+    "total": 156,
+    "available": 156,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 5.74,
+      "tax": 1.26,
+      "fee": 1.25,
+      "grand": 8.25
+    }
+  },
+  {
+    "venue": "garden-city",
+    "movie": "Caught Stealing - English",
+    "perfIx": "1388",
+    "date": "2025-09-09",
+    "time": "6:30pm",
+    "total": 156,
+    "available": 156,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 5.74,
+      "tax": 1.26,
+      "fee": 1.25,
+      "grand": 8.25
+    }
+  },
+  {
+    "venue": "garden-city",
+    "movie": "Hridayapoorvam- Malayalam",
+    "perfIx": "1422",
+    "date": "2025-09-09",
+    "time": "8:45pm",
+    "total": 156,
+    "available": 156,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.2,
+      "tax": 1.8,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "garden-city",
+    "movie": "Lokah Chapter: 1- Malayalam",
+    "perfIx": "1423",
+    "date": "2025-09-09",
+    "time": "9:00pm",
+    "total": 199,
+    "available": 195,
+    "blocked": 0,
+    "sold": 4,
+    "gross": 32.8,
+    "gross_with_tax": 45.0,
+    "per_ticket": {
+      "net": 8.2,
+      "tax": 1.8,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "garden-city",
+    "movie": "The Conjuring: Last Rites - English",
+    "perfIx": "1390",
+    "date": "2025-09-09",
+    "time": "12:00pm",
+    "total": 199,
+    "available": 195,
+    "blocked": 0,
+    "sold": 4,
+    "gross": 22.96,
+    "gross_with_tax": 33.0,
+    "per_ticket": {
+      "net": 5.74,
+      "tax": 1.26,
+      "fee": 1.25,
+      "grand": 8.25
+    }
+  },
+  {
+    "venue": "garden-city",
+    "movie": "The Conjuring: Last Rites - English",
+    "perfIx": "1391",
+    "date": "2025-09-09",
+    "time": "3:00pm",
+    "total": 199,
+    "available": 199,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 5.74,
+      "tax": 1.26,
+      "fee": 1.25,
+      "grand": 8.25
+    }
+  },
+  {
+    "venue": "garden-city",
+    "movie": "The Conjuring: Last Rites - English",
+    "perfIx": "1392",
+    "date": "2025-09-09",
+    "time": "6:00pm",
+    "total": 199,
+    "available": 181,
+    "blocked": 0,
+    "sold": 18,
+    "gross": 103.32,
+    "gross_with_tax": 148.5,
+    "per_ticket": {
+      "net": 5.74,
+      "tax": 1.26,
+      "fee": 1.25,
+      "grand": 8.25
+    }
+  },
+  {
+    "venue": "theatre6",
+    "movie": "Caught Stealing",
+    "perfIx": "71517",
+    "date": "2025-09-09",
+    "time": "4:10pm",
+    "total": 106,
+    "available": 106,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.5,
+      "tax": 0.0,
+      "fee": 1.0,
+      "grand": 9.5
+    }
+  },
+  {
+    "venue": "theatre6",
+    "movie": "Caught Stealing",
+    "perfIx": "71518",
+    "date": "2025-09-09",
+    "time": "7:00pm",
+    "total": 106,
+    "available": 106,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.5,
+      "tax": 0.0,
+      "fee": 1.0,
+      "grand": 9.5
+    }
+  },
+  {
+    "venue": "theatre6",
+    "movie": "Lokah Chapter 1 (MALAYALAM)",
+    "perfIx": "71551",
+    "date": "2025-09-09",
+    "time": "7:45pm",
+    "total": 128,
+    "available": 19,
+    "blocked": 1,
+    "sold": 108,
+    "gross": 1080.0,
+    "gross_with_tax": 1188.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0.0,
+      "fee": 1.0,
+      "grand": 11.0
+    }
+  },
+  {
+    "venue": "theatre6",
+    "movie": "Madharasi (TAMIL)",
+    "perfIx": "71550",
+    "date": "2025-09-09",
+    "time": "4:30pm",
+    "total": 128,
+    "available": 127,
+    "blocked": 1,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0.0,
+      "fee": 1.0,
+      "grand": 11.0
+    }
+  },
+  {
+    "venue": "theatre6",
+    "movie": "The Bad Guys 2",
+    "perfIx": "71515",
+    "date": "2025-09-09",
+    "time": "4:15pm",
+    "total": 115,
+    "available": 115,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.5,
+      "tax": 0.0,
+      "fee": 1.0,
+      "grand": 9.5
+    }
+  },
+  {
+    "venue": "theatre6",
+    "movie": "The Bad Guys 2",
+    "perfIx": "71516",
+    "date": "2025-09-09",
+    "time": "6:35pm",
+    "total": 115,
+    "available": 115,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.5,
+      "tax": 0.0,
+      "fee": 1.0,
+      "grand": 9.5
+    }
+  },
+  {
+    "venue": "theatre6",
+    "movie": "The Conjuring: Last Rites",
+    "perfIx": "71513",
+    "date": "2025-09-09",
+    "time": "4:00pm",
+    "total": 128,
+    "available": 127,
+    "blocked": 1,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.5,
+      "tax": 0.0,
+      "fee": 1.0,
+      "grand": 9.5
+    }
+  },
+  {
+    "venue": "theatre6",
+    "movie": "The Conjuring: Last Rites",
+    "perfIx": "71514",
+    "date": "2025-09-09",
+    "time": "6:45pm",
+    "total": 128,
+    "available": 126,
+    "blocked": 1,
+    "sold": 1,
+    "gross": 8.5,
+    "gross_with_tax": 9.5,
+    "per_ticket": {
+      "net": 8.5,
+      "tax": 0.0,
+      "fee": 1.0,
+      "grand": 9.5
     }
   }
 ]
