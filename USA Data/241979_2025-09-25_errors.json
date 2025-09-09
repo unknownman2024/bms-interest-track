@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 09:15:09 PM",
+  "last_updated": "2025-09-09 11:07:14 PM",
   "errors": [
     {
       "state": "MA",
@@ -104,6 +104,36 @@
       "language": "Telugu",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Mobile",
+      "zip": "36695",
+      "theater_name": "AMC Mobile 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515542584,
+      "date": "2025-09-25+15:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Mobile",
+      "zip": "36695",
+      "theater_name": "AMC Mobile 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515542583,
+      "date": "2025-09-25+18:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
       }
     }
   ]
