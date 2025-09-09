@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 08:41:13 PM",
+  "last_updated": "2025-09-09 09:39:49 PM",
   "errors": [
     {
       "state": "MA",
@@ -13862,21 +13862,6 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Atascadero",
-      "zip": "93422",
-      "theater_name": "The Movie Experience - Colony Cinemas",
-      "chainName": "Cinema Hosting",
-      "chainCode": "CHST",
-      "showtime_id": 515465807,
-      "date": "2025-09-11+18:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "WA",
       "city": "Seattle",
       "zip": "98105",
@@ -13982,36 +13967,6 @@
       }
     },
     {
-      "state": "SC",
-      "city": "Charleston",
-      "zip": "29407",
-      "theater_name": "Citadel Mall Stadium 16",
-      "chainName": "Southeast Cinemas",
-      "chainCode": "SEC",
-      "showtime_id": 515449417,
-      "date": "2025-09-11+16:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Charleston",
-      "zip": "29407",
-      "theater_name": "Citadel Mall Stadium 16",
-      "chainName": "Southeast Cinemas",
-      "chainCode": "SEC",
-      "showtime_id": 515449418,
-      "date": "2025-09-11+20:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "FL",
       "city": "Wesley Chapel",
       "zip": "33544",
@@ -14084,21 +14039,6 @@
       "language": "English",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Atascadero",
-      "zip": "93422",
-      "theater_name": "The Movie Experience - Colony Cinemas",
-      "chainName": "Cinema Hosting",
-      "chainCode": "CHST",
-      "showtime_id": 515476288,
-      "date": "2025-09-11+18:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -14207,21 +14147,6 @@
       }
     },
     {
-      "state": "NY",
-      "city": "Buffalo",
-      "zip": "14203",
-      "theater_name": "AMC Market Arcade 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515488809,
-      "date": "2025-09-11+17:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "NJ",
       "city": "Teaneck",
       "zip": "07666",
@@ -14262,6 +14187,201 @@
       "date": "2025-09-11+20:15",
       "format": "Standard",
       "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Bridgewater",
+      "zip": "08807",
+      "theater_name": "AMC DINE-IN Bridgewater 7",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515502098,
+      "date": "2025-09-11+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Bridgewater",
+      "zip": "08807",
+      "theater_name": "AMC DINE-IN Bridgewater 7",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515502094,
+      "date": "2025-09-11+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Orlando",
+      "zip": "32803",
+      "theater_name": "Orlando Premiere 14 Fashion Square",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 515497305,
+      "date": "2025-09-11+20:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Orlando",
+      "zip": "32803",
+      "theater_name": "Orlando Premiere 14 Fashion Square",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 515497304,
+      "date": "2025-09-11+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Morristown",
+      "zip": "37813",
+      "theater_name": "AMC CLASSIC College Square 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515501775,
+      "date": "2025-09-11+17:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Morristown",
+      "zip": "37813",
+      "theater_name": "AMC CLASSIC College Square 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515501776,
+      "date": "2025-09-11+20:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Morristown",
+      "zip": "37813",
+      "theater_name": "AMC CLASSIC College Square 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515501779,
+      "date": "2025-09-11+18:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Starkville",
+      "zip": "39759",
+      "theater_name": "UEC Theatres Hollywood ",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515498323,
+      "date": "2025-09-11+19:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Starkville",
+      "zip": "39759",
+      "theater_name": "UEC Theatres Hollywood ",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515498324,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Starkville",
+      "zip": "39759",
+      "theater_name": "UEC Theatres Hollywood ",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515498319,
+      "date": "2025-09-11+19:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Mentor",
+      "zip": "44060",
+      "theater_name": "Atlas Cinema Great Lakes Stadium 16",
+      "chainName": "Atlas Cinemas",
+      "chainCode": "ATLS",
+      "showtime_id": 515507699,
+      "date": "2025-09-11+20:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Mentor",
+      "zip": "44060",
+      "theater_name": "Atlas Cinema Great Lakes Stadium 16",
+      "chainName": "Atlas Cinemas",
+      "chainCode": "ATLS",
+      "showtime_id": 515507698,
+      "date": "2025-09-11+17:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Baraboo",
+      "zip": "53913",
+      "theater_name": "AMC CLASSIC Desert Star 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515502210,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "Japanese",
       "error": {
         "status": 400
       }
