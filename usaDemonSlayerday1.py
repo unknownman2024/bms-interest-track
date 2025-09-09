@@ -39,7 +39,7 @@ else:
 print(f"🎬 Using DATE+1 = {DATE} (PST)")
 
 MAX_WORKERS = 4  # For showtime fetching multiprocessing
-CONCURRENCY = 50  # For async seat fetching concurrency
+CONCURRENCY = 5  # For async seat fetching concurrency
 ZIP_FILE = "zipcodes.txt"
 ERROR_FILE_DEAD = "errored_seats.json"
 AUTHORIZATION_TOKEN = "<your-auth-token>"  # Replace here
@@ -112,7 +112,7 @@ def get_random_ip():
 def get_seatmap_headers():
     random_ip = get_random_ip()
     return {
-        "User-Agent": "Mozilla/5.0",
+        "User-Agent": get_random_user_agent(),
         "Origin": "https://fandango.com",
         "Referer": "https://tickets.fandango.com/mobileexpress/seatselection",
         "Connection": "keep-alive",
