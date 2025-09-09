@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 01:19:36 PM",
+  "last_updated": "2025-09-09 02:28:56 PM",
   "errors": [
     {
       "state": "CT",
@@ -21467,21 +21467,6 @@
       }
     },
     {
-      "state": "NM",
-      "city": "Albuquerque",
-      "zip": "87123",
-      "theater_name": "Icon Cinema 4 Hills",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 515374304,
-      "date": "2025-09-12+13:55",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "CA",
       "city": "Azusa",
       "zip": "91702",
@@ -24582,6 +24567,96 @@
       "date": "2025-09-12+20:00",
       "format": "Standard",
       "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Kingman",
+      "zip": "86409",
+      "theater_name": "Brenden Kingman 4",
+      "chainName": "Brenden Theatres",
+      "chainCode": "BRND",
+      "showtime_id": 515450187,
+      "date": "2025-09-12+15:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Kingman",
+      "zip": "86409",
+      "theater_name": "Brenden Kingman 4",
+      "chainName": "Brenden Theatres",
+      "chainCode": "BRND",
+      "showtime_id": 515450188,
+      "date": "2025-09-12+12:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Kingman",
+      "zip": "86409",
+      "theater_name": "Brenden Kingman 4",
+      "chainName": "Brenden Theatres",
+      "chainCode": "BRND",
+      "showtime_id": 515450186,
+      "date": "2025-09-12+19:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NM",
+      "city": "Albuquerque",
+      "zip": "87121",
+      "theater_name": "AMC Albuquerque 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515483334,
+      "date": "2025-09-12+21:10",
+      "format": "Standard",
+      "language": "Spanish",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NM",
+      "city": "Albuquerque",
+      "zip": "87121",
+      "theater_name": "AMC Albuquerque 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515483340,
+      "date": "2025-09-12+22:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NM",
+      "city": "Albuquerque",
+      "zip": "87121",
+      "theater_name": "AMC Albuquerque 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515483327,
+      "date": "2025-09-12+19:30",
+      "format": "Standard",
+      "language": "Japanese",
       "error": {
         "status": 400
       }
