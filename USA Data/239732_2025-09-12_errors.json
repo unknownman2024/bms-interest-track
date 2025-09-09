@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 10:25:06 AM",
+  "last_updated": "2025-09-09 11:20:56 AM",
   "errors": [
     {
       "state": "CT",
@@ -3914,36 +3914,6 @@
       "language": "Unknown",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Lawrenceville",
-      "zip": "30043",
-      "theater_name": "AMC Colonial 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 514280479,
-      "date": "2025-09-12+18:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Lawrenceville",
-      "zip": "30043",
-      "theater_name": "AMC Colonial 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 513152249,
-      "date": "2025-09-12+22:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -21623,36 +21593,6 @@
       "theater_name": "Regency Fontana 8",
       "chainName": "Regency Theatres",
       "chainCode": "RGCY",
-      "showtime_id": 515387310,
-      "date": "2025-09-12+13:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Fontana",
-      "zip": "92335",
-      "theater_name": "Regency Fontana 8",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515387333,
-      "date": "2025-09-12+21:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Fontana",
-      "zip": "92335",
-      "theater_name": "Regency Fontana 8",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
       "showtime_id": 515387311,
       "date": "2025-09-12+17:30",
       "format": "Standard",
@@ -21758,68 +21698,8 @@
       "theater_name": "Regency Blvd Cinemas",
       "chainName": "Regency Theatres",
       "chainCode": "RGCY",
-      "showtime_id": 515369839,
-      "date": "2025-09-12+12:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Lancaster",
-      "zip": "93534",
-      "theater_name": "Regency Blvd Cinemas",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515369840,
-      "date": "2025-09-12+15:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Lancaster",
-      "zip": "93534",
-      "theater_name": "Regency Blvd Cinemas",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515369849,
-      "date": "2025-09-12+18:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Lancaster",
-      "zip": "93534",
-      "theater_name": "Regency Blvd Cinemas",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
       "showtime_id": 515369841,
       "date": "2025-09-12+22:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Lancaster",
-      "zip": "93534",
-      "theater_name": "Regency Blvd Cinemas",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515369847,
-      "date": "2025-09-12+14:45",
       "format": "Standard",
       "language": "English",
       "error": {
@@ -23939,6 +23819,96 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Somerville",
+      "zip": "02145",
+      "theater_name": "AMC Assembly Row 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515470150,
+      "date": "2025-09-12+22:50",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Salem",
+      "zip": "24153",
+      "theater_name": "AMC CLASSIC Salem Valley 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515469559,
+      "date": "2025-09-12+22:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Mt. Vernon",
+      "zip": "62864",
+      "theater_name": "AMC CLASSIC Mount Vernon 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515469487,
+      "date": "2025-09-12+13:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Mt. Vernon",
+      "zip": "62864",
+      "theater_name": "AMC CLASSIC Mount Vernon 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515469486,
+      "date": "2025-09-12+20:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Mt. Vernon",
+      "zip": "62864",
+      "theater_name": "AMC CLASSIC Mount Vernon 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515469499,
+      "date": "2025-09-12+14:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Modesto",
+      "zip": "95354",
+      "theater_name": "Brenden Modesto 18 & JBX",
+      "chainName": "Brenden Theatres",
+      "chainCode": "BRND",
+      "showtime_id": 515471900,
+      "date": "2025-09-12+21:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
       }
     }
   ]
