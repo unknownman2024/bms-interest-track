@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 09:45:13 PM",
+  "last_updated": "2025-09-09 10:40:26 PM",
   "errors": [
     {
       "state": "PA",
@@ -44,6 +44,51 @@
       "language": "Telugu",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "North Brunswick",
+      "zip": "08902",
+      "theater_name": "Regal Commerce Center & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515518911,
+      "date": "2025-09-09+20:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Ashburn",
+      "zip": "20148",
+      "theater_name": "Regal Fox 4DX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515519742,
+      "date": "2025-09-09+18:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Saint Peters",
+      "zip": "63376",
+      "theater_name": "Marcus Mid Rivers Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 515514806,
+      "date": "2025-09-09+22:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
       }
     }
   ]
