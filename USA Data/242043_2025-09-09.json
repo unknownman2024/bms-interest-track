@@ -1588,11 +1588,11 @@
     "date": "2025-09-09+22:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 31,
-    "occupancy": 23.85,
-    "totalAvailableSeatCount": 99,
+    "totalSeatSold": 34,
+    "occupancy": 26.15,
+    "totalAvailableSeatCount": 96,
     "totalSeatCount": 130,
-    "grossRevenueUSD": 201.5,
+    "grossRevenueUSD": 221.0,
     "adultTicketPrice": 6.5
   },
   {
@@ -1606,11 +1606,11 @@
     "date": "2025-09-09+11:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 5,
-    "occupancy": 6.33,
-    "totalAvailableSeatCount": 74,
+    "totalSeatSold": 7,
+    "occupancy": 8.86,
+    "totalAvailableSeatCount": 72,
     "totalSeatCount": 79,
-    "grossRevenueUSD": 29.75,
+    "grossRevenueUSD": 41.65,
     "adultTicketPrice": 5.95
   },
   {
@@ -2056,11 +2056,11 @@
     "date": "2025-09-09+19:10",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 41,
-    "occupancy": 83.67,
-    "totalAvailableSeatCount": 8,
+    "totalSeatSold": 42,
+    "occupancy": 85.71,
+    "totalAvailableSeatCount": 7,
     "totalSeatCount": 49,
-    "grossRevenueUSD": 266.5,
+    "grossRevenueUSD": 273.0,
     "adultTicketPrice": 6.5
   },
   {
@@ -2380,11 +2380,11 @@
     "date": "2025-09-09+13:05",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 30,
-    "occupancy": 30.93,
-    "totalAvailableSeatCount": 67,
+    "totalSeatSold": 31,
+    "occupancy": 31.96,
+    "totalAvailableSeatCount": 66,
     "totalSeatCount": 97,
-    "grossRevenueUSD": 227.4,
+    "grossRevenueUSD": 234.98,
     "adultTicketPrice": 7.58
   },
   {
@@ -2632,9 +2632,12 @@
     "date": "2025-09-09+21:20",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 403
-    }
+    "totalSeatSold": 56,
+    "occupancy": 73.68,
+    "totalAvailableSeatCount": 20,
+    "totalSeatCount": 76,
+    "grossRevenueUSD": 364.0,
+    "adultTicketPrice": 6.5
   },
   {
     "state": "TX",
@@ -2755,11 +2758,11 @@
     "date": "2025-09-09+18:10",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 7,
-    "occupancy": 13.46,
-    "totalAvailableSeatCount": 45,
+    "totalSeatSold": 9,
+    "occupancy": 17.31,
+    "totalAvailableSeatCount": 43,
     "totalSeatCount": 52,
-    "grossRevenueUSD": 48.65,
+    "grossRevenueUSD": 62.55,
     "adultTicketPrice": 6.95
   },
   {
@@ -2881,11 +2884,11 @@
     "date": "2025-09-09+15:50",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 1,
-    "occupancy": 0.83,
-    "totalAvailableSeatCount": 120,
+    "totalSeatSold": 2,
+    "occupancy": 1.65,
+    "totalAvailableSeatCount": 119,
     "totalSeatCount": 121,
-    "grossRevenueUSD": 7.73,
+    "grossRevenueUSD": 15.46,
     "adultTicketPrice": 7.73
   },
   {
@@ -2971,11 +2974,29 @@
     "date": "2025-09-09+21:50",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 55,
-    "occupancy": 33.95,
-    "totalAvailableSeatCount": 107,
+    "totalSeatSold": 57,
+    "occupancy": 35.19,
+    "totalAvailableSeatCount": 105,
     "totalSeatCount": 162,
-    "grossRevenueUSD": 425.15,
+    "grossRevenueUSD": 440.61,
     "adultTicketPrice": 7.73
+  },
+  {
+    "state": "MO",
+    "city": "Chesterfield",
+    "zip": "63005",
+    "theater_name": "Marcus Chesterfield Cinema",
+    "chainName": "Marcus Theatres",
+    "chainCode": "MRCS",
+    "showtime_id": 515481789,
+    "date": "2025-09-09+21:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 9,
+    "occupancy": 15.25,
+    "totalAvailableSeatCount": 50,
+    "totalSeatCount": 59,
+    "grossRevenueUSD": 68.49,
+    "adultTicketPrice": 7.61
   }
 ]
