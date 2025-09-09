@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10 12:48:59 AM",
+  "last_updated": "2025-09-10 01:55:24 AM",
   "errors": [
     {
       "state": "NY",
@@ -44,36 +44,6 @@
       "language": "Tamil",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Roanoke",
-      "zip": "76262",
-      "theater_name": "Cinemark Roanoke and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515529934,
-      "date": "2025-09-09+18:40",
-      "format": "Standard",
-      "language": "Tamil",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Jose",
-      "zip": "95123",
-      "theater_name": "Cinemark Century Oakridge 20 XD and ScreenX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515562487,
-      "date": "2025-09-09+21:20",
-      "format": "Standard",
-      "language": "Tamil",
-      "error": {
-        "status": 403
       }
     }
   ]
