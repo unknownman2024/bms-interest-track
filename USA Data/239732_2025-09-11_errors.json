@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 10:38:21 AM",
+  "last_updated": "2025-09-09 11:49:11 AM",
   "errors": [
     {
       "state": "MA",
@@ -13877,51 +13877,6 @@
       }
     },
     {
-      "state": "NE",
-      "city": "Omaha",
-      "zip": "68118",
-      "theater_name": "Marcus Village Pointe Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 515459185,
-      "date": "2025-09-11+17:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 400
-      }
-    },
-    {
-      "state": "NE",
-      "city": "Omaha",
-      "zip": "68118",
-      "theater_name": "Marcus Village Pointe Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 515459203,
-      "date": "2025-09-11+18:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 400
-      }
-    },
-    {
-      "state": "NE",
-      "city": "Omaha",
-      "zip": "68118",
-      "theater_name": "Marcus Village Pointe Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 515459186,
-      "date": "2025-09-11+21:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 400
-      }
-    },
-    {
       "state": "CA",
       "city": "Atascadero",
       "zip": "93422",
@@ -13964,6 +13919,546 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Westbury",
+      "zip": "11590",
+      "theater_name": "AMC Raceway 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515451691,
+      "date": "2025-09-11+21:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Westbury",
+      "zip": "11590",
+      "theater_name": "AMC Raceway 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515451686,
+      "date": "2025-09-11+17:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Westbury",
+      "zip": "11590",
+      "theater_name": "AMC Raceway 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515451681,
+      "date": "2025-09-11+18:45",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Westbury",
+      "zip": "11590",
+      "theater_name": "AMC Raceway 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515451687,
+      "date": "2025-09-11+20:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Laurel",
+      "zip": "20707",
+      "theater_name": "Regal Laurel Towne Centre",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515468541,
+      "date": "2025-09-11+21:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Bradenton",
+      "zip": "34210",
+      "theater_name": "Regal Oakmont",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515472397,
+      "date": "2025-09-11+20:50",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515470074,
+      "date": "2025-09-11+17:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515470086,
+      "date": "2025-09-11+17:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515470094,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515470062,
+      "date": "2025-09-11+20:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515470085,
+      "date": "2025-09-11+21:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515470095,
+      "date": "2025-09-11+22:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515470077,
+      "date": "2025-09-11+18:45",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515470065,
+      "date": "2025-09-11+19:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515470067,
+      "date": "2025-09-11+20:40",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515470078,
+      "date": "2025-09-11+22:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515470066,
+      "date": "2025-09-11+22:45",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Eagan",
+      "zip": "55122",
+      "theater_name": "Emagine Eagan",
+      "chainName": "Emagine",
+      "chainCode": "EMAG",
+      "showtime_id": 515466250,
+      "date": "2025-09-11+18:00",
+      "format": "EMX",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Monticello",
+      "zip": "55362",
+      "theater_name": "Emagine Monticello ",
+      "chainName": "Emagine",
+      "chainCode": "EMAG",
+      "showtime_id": 515471852,
+      "date": "2025-09-11+16:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Monticello",
+      "zip": "55362",
+      "theater_name": "Emagine Monticello ",
+      "chainName": "Emagine",
+      "chainCode": "EMAG",
+      "showtime_id": 515471856,
+      "date": "2025-09-11+18:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Monticello",
+      "zip": "55362",
+      "theater_name": "Emagine Monticello ",
+      "chainName": "Emagine",
+      "chainCode": "EMAG",
+      "showtime_id": 515471853,
+      "date": "2025-09-11+20:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Mt. Vernon",
+      "zip": "62864",
+      "theater_name": "AMC CLASSIC Mount Vernon 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515469478,
+      "date": "2025-09-11+20:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Sherman Oaks",
+      "zip": "91403",
+      "theater_name": "Regal Sherman Oaks Galleria",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515471067,
+      "date": "2025-09-11+18:20",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Sherman Oaks",
+      "zip": "91403",
+      "theater_name": "Regal Sherman Oaks Galleria",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515471068,
+      "date": "2025-09-11+21:35",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Orange",
+      "zip": "92868",
+      "theater_name": "AMC Orange 30 (AMC Block 30)",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515442763,
+      "date": "2025-09-11+17:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Orange",
+      "zip": "92868",
+      "theater_name": "AMC Orange 30 (AMC Block 30)",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515442767,
+      "date": "2025-09-11+18:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Orange",
+      "zip": "92868",
+      "theater_name": "AMC Orange 30 (AMC Block 30)",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515442765,
+      "date": "2025-09-11+18:50",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Orange",
+      "zip": "92868",
+      "theater_name": "AMC Orange 30 (AMC Block 30)",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515442771,
+      "date": "2025-09-11+19:20",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Orange",
+      "zip": "92868",
+      "theater_name": "AMC Orange 30 (AMC Block 30)",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515442768,
+      "date": "2025-09-11+19:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Orange",
+      "zip": "92868",
+      "theater_name": "AMC Orange 30 (AMC Block 30)",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515442762,
+      "date": "2025-09-11+20:50",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Orange",
+      "zip": "92868",
+      "theater_name": "AMC Orange 30 (AMC Block 30)",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515442770,
+      "date": "2025-09-11+21:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Orange",
+      "zip": "92868",
+      "theater_name": "AMC Orange 30 (AMC Block 30)",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515442761,
+      "date": "2025-09-11+22:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Orange",
+      "zip": "92868",
+      "theater_name": "AMC Orange 30 (AMC Block 30)",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515442766,
+      "date": "2025-09-11+22:45",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Orange",
+      "zip": "92868",
+      "theater_name": "AMC Orange 30 (AMC Block 30)",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515442772,
+      "date": "2025-09-11+23:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Orange",
+      "zip": "92868",
+      "theater_name": "AMC Orange 30 (AMC Block 30)",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515442769,
+      "date": "2025-09-11+23:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Kirkland",
+      "zip": "98034",
+      "theater_name": "Cinemark Totem Lake Kirkland and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515467286,
+      "date": "2025-09-11+16:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
       }
     }
   ]
