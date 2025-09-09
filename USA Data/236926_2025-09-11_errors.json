@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 10:00:06 PM",
+  "last_updated": "2025-09-09 10:50:06 PM",
   "errors": [
     {
       "state": "CT",
@@ -12674,6 +12674,846 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Simsbury",
+      "zip": "06070",
+      "theater_name": "Apple Cinemas Simsbury",
+      "chainName": "Apple Cinemas",
+      "chainCode": "APPL",
+      "showtime_id": 515518863,
+      "date": "2025-09-11+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Staten Island",
+      "zip": "10309",
+      "theater_name": "Regal Bricktown Charleston",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515520798,
+      "date": "2025-09-11+18:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Staten Island",
+      "zip": "10309",
+      "theater_name": "Regal Bricktown Charleston",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515520799,
+      "date": "2025-09-11+21:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10024",
+      "theater_name": "AMC 84th Street 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515520625,
+      "date": "2025-09-11+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10024",
+      "theater_name": "AMC 84th Street 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515520627,
+      "date": "2025-09-11+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10024",
+      "theater_name": "AMC 84th Street 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515520628,
+      "date": "2025-09-11+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10024",
+      "theater_name": "AMC 84th Street 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515520635,
+      "date": "2025-09-11+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Eatontown",
+      "zip": "07724",
+      "theater_name": "AMC Monmouth Mall 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515504715,
+      "date": "2025-09-11+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19106",
+      "theater_name": "Landmark Ritz Five",
+      "chainName": "Landmark",
+      "chainCode": "L",
+      "showtime_id": 515518283,
+      "date": "2025-09-11+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19106",
+      "theater_name": "Landmark Ritz Five",
+      "chainName": "Landmark",
+      "chainCode": "L",
+      "showtime_id": 515518286,
+      "date": "2025-09-11+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Warrington",
+      "zip": "18976",
+      "theater_name": "Regal Warrington Crossing ScreenX, 4DX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515513522,
+      "date": "2025-09-11+17:10",
+      "format": "RPX",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Warrington",
+      "zip": "18976",
+      "theater_name": "Regal Warrington Crossing ScreenX, 4DX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515513528,
+      "date": "2025-09-11+15:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Warrington",
+      "zip": "18976",
+      "theater_name": "Regal Warrington Crossing ScreenX, 4DX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515513527,
+      "date": "2025-09-11+18:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Warrington",
+      "zip": "18976",
+      "theater_name": "Regal Warrington Crossing ScreenX, 4DX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515513526,
+      "date": "2025-09-11+22:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "California",
+      "zip": "20619",
+      "theater_name": "R/C Lexington Exchange Movies 12",
+      "chainName": "R/C Theatres",
+      "chainCode": "RC",
+      "showtime_id": 515513362,
+      "date": "2025-09-11+16:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Johnson City",
+      "zip": "37601",
+      "theater_name": "AMC Johnson City 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515520046,
+      "date": "2025-09-11+14:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Johnson City",
+      "zip": "37601",
+      "theater_name": "AMC Johnson City 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515520052,
+      "date": "2025-09-11+15:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Johnson City",
+      "zip": "37601",
+      "theater_name": "AMC Johnson City 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515520040,
+      "date": "2025-09-11+18:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Johnson City",
+      "zip": "37601",
+      "theater_name": "AMC Johnson City 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515520053,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Asheboro",
+      "zip": "27203",
+      "theater_name": "Cinemark Asheboro",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515499986,
+      "date": "2025-09-11+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Asheboro",
+      "zip": "27203",
+      "theater_name": "Cinemark Asheboro",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515499987,
+      "date": "2025-09-11+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Cary",
+      "zip": "27511",
+      "theater_name": "Paragon Theaters Fenton + Axis15 Extreme",
+      "chainName": "Paragon 2",
+      "chainCode": "PARAG",
+      "showtime_id": 515509503,
+      "date": "2025-09-11+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Wilson",
+      "zip": "27893",
+      "theater_name": "AMC CLASSIC Wilson 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515509673,
+      "date": "2025-09-11+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Wilson",
+      "zip": "27893",
+      "theater_name": "AMC CLASSIC Wilson 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515509672,
+      "date": "2025-09-11+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Havelock",
+      "zip": "28532",
+      "theater_name": "AMC CLASSIC Havelock 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515509735,
+      "date": "2025-09-11+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Havelock",
+      "zip": "28532",
+      "theater_name": "AMC CLASSIC Havelock 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515509734,
+      "date": "2025-09-11+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Peachtree Corners",
+      "zip": "30092",
+      "theater_name": "NCG Peachtree Corners",
+      "chainName": "NCG Cinemas",
+      "chainCode": "NCG",
+      "showtime_id": 515514858,
+      "date": "2025-09-11+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Orange Park",
+      "zip": "32073",
+      "theater_name": "AMC Orange Park 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515521360,
+      "date": "2025-09-11+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Leesburg",
+      "zip": "34788",
+      "theater_name": "AMC Lake Square 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515510956,
+      "date": "2025-09-11+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Leesburg",
+      "zip": "34788",
+      "theater_name": "AMC Lake Square 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515510949,
+      "date": "2025-09-11+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Leesburg",
+      "zip": "34788",
+      "theater_name": "AMC Lake Square 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515510955,
+      "date": "2025-09-11+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Leesburg",
+      "zip": "34788",
+      "theater_name": "AMC Lake Square 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515510948,
+      "date": "2025-09-11+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Jasper",
+      "zip": "47546",
+      "theater_name": "Jasper 8",
+      "chainName": "Showplace Cinemas",
+      "chainCode": "SHOW",
+      "showtime_id": 515521029,
+      "date": "2025-09-11+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Jasper",
+      "zip": "47546",
+      "theater_name": "Jasper 8",
+      "chainName": "Showplace Cinemas",
+      "chainCode": "SHOW",
+      "showtime_id": 515521030,
+      "date": "2025-09-11+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Maumee",
+      "zip": "43537",
+      "theater_name": "Cinemark Fallen Timbers 14 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515516142,
+      "date": "2025-09-11+15:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Maumee",
+      "zip": "43537",
+      "theater_name": "Cinemark Fallen Timbers 14 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515516143,
+      "date": "2025-09-11+18:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Maumee",
+      "zip": "43537",
+      "theater_name": "Cinemark Fallen Timbers 14 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515516144,
+      "date": "2025-09-11+21:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Ames",
+      "zip": "50010",
+      "theater_name": "Cinemark Ames Movies 12",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515516182,
+      "date": "2025-09-11+14:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Ames",
+      "zip": "50010",
+      "theater_name": "Cinemark Ames Movies 12",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515516184,
+      "date": "2025-09-11+15:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Ames",
+      "zip": "50010",
+      "theater_name": "Cinemark Ames Movies 12",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515516183,
+      "date": "2025-09-11+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Wauwatosa",
+      "zip": "53226",
+      "theater_name": "AMC Mayfair Mall 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515521058,
+      "date": "2025-09-11+20:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Elgin",
+      "zip": "60123",
+      "theater_name": "Marcus Elgin Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 515514252,
+      "date": "2025-09-11+16:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Elgin",
+      "zip": "60123",
+      "theater_name": "Marcus Elgin Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 515514253,
+      "date": "2025-09-11+19:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Burleson",
+      "zip": "76028",
+      "theater_name": "AMC Burleson 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515522962,
+      "date": "2025-09-11+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515517612,
+      "date": "2025-09-11+14:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515517609,
+      "date": "2025-09-11+16:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515517613,
+      "date": "2025-09-11+16:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515517610,
+      "date": "2025-09-11+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515517614,
+      "date": "2025-09-11+22:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515517611,
+      "date": "2025-09-11+22:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515517615,
+      "date": "2025-09-11+23:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "UT",
+      "city": "West Jordan",
+      "zip": "84084",
+      "theater_name": "Cinemark Jordan Landing 24 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515517492,
+      "date": "2025-09-11+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "UT",
+      "city": "West Jordan",
+      "zip": "84084",
+      "theater_name": "Cinemark Jordan Landing 24 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515517493,
+      "date": "2025-09-11+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "UT",
+      "city": "West Jordan",
+      "zip": "84084",
+      "theater_name": "Cinemark Jordan Landing 24 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515517494,
+      "date": "2025-09-11+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "UT",
+      "city": "Syracuse",
+      "zip": "84075",
+      "theater_name": "UEC Theatres Syracuse",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515514881,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "UT",
+      "city": "Syracuse",
+      "zip": "84075",
+      "theater_name": "UEC Theatres Syracuse",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515514882,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 403
       }
     }
   ]
