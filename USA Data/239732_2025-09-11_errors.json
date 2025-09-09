@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 12:40:08 PM",
+  "last_updated": "2025-09-09 01:39:47 PM",
   "errors": [
     {
       "state": "MA",
@@ -13937,36 +13937,6 @@
       }
     },
     {
-      "state": "VA",
-      "city": "Blacksburg",
-      "zip": "24060",
-      "theater_name": "B&B Theatres Blacksburg 11",
-      "chainName": "B&B Theaters",
-      "chainCode": "BNBT",
-      "showtime_id": 515386292,
-      "date": "2025-09-11+16:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Blacksburg",
-      "zip": "24060",
-      "theater_name": "B&B Theatres Blacksburg 11",
-      "chainName": "B&B Theaters",
-      "chainCode": "BNBT",
-      "showtime_id": 515386293,
-      "date": "2025-09-11+20:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "NC",
       "city": "Sanford",
       "zip": "27330",
@@ -14144,6 +14114,51 @@
       "language": "English",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Abilene",
+      "zip": "79606",
+      "theater_name": "Abilene Premiere LUX Cine 10 - Abilene Mall",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 515481995,
+      "date": "2025-09-11+16:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Abilene",
+      "zip": "79606",
+      "theater_name": "Abilene Premiere LUX Cine 10 - Abilene Mall",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 515481996,
+      "date": "2025-09-11+20:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Porterville",
+      "zip": "93257",
+      "theater_name": "Galaxy Porterville 9",
+      "chainName": "Galaxy Theatres",
+      "chainCode": "GLXY",
+      "showtime_id": 515480156,
+      "date": "2025-09-11+20:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
       }
     }
   ]
