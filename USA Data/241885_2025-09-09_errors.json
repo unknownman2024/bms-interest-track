@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 08:43:34 PM",
+  "last_updated": "2025-09-09 10:41:44 PM",
   "errors": [
     {
       "state": "MD",
@@ -104,6 +104,21 @@
       "language": "Telugu",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515520750,
+      "date": "2025-09-09+22:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
       }
     }
   ]
