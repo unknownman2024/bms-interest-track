@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 07:30:51 PM",
+  "last_updated": "2025-09-09 08:24:19 PM",
   "errors": [
     {
       "state": "CT",
@@ -464,51 +464,6 @@
       "language": "English",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Yonkers",
-      "zip": "10710",
-      "theater_name": "Alamo Drafthouse Yonkers",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 511353496,
-      "date": "2025-09-12+18:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Yonkers",
-      "zip": "10710",
-      "theater_name": "Alamo Drafthouse Yonkers",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 512428266,
-      "date": "2025-09-12+22:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Yonkers",
-      "zip": "10710",
-      "theater_name": "Alamo Drafthouse Yonkers",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 511353497,
-      "date": "2025-09-12+14:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -16353,36 +16308,6 @@
     },
     {
       "state": "NY",
-      "city": "Yonkers",
-      "zip": "10710",
-      "theater_name": "Alamo Drafthouse Yonkers",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 515284369,
-      "date": "2025-09-12+13:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Yonkers",
-      "zip": "10710",
-      "theater_name": "Alamo Drafthouse Yonkers",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 515284368,
-      "date": "2025-09-12+17:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NY",
       "city": "New York",
       "zip": "10023",
       "theater_name": "AMC Lincoln Square 13",
@@ -24617,21 +24542,6 @@
       }
     },
     {
-      "state": "NY",
-      "city": "Buffalo",
-      "zip": "14203",
-      "theater_name": "AMC Market Arcade 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515488827,
-      "date": "2025-09-12+14:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "MI",
       "city": "Coloma",
       "zip": "49038",
@@ -24732,6 +24642,96 @@
       "date": "2025-09-12+20:10",
       "format": "Standard",
       "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Albany",
+      "zip": "12209",
+      "theater_name": "Scene One Spectrum 8 Theatre",
+      "chainName": "Scene One Entertainment",
+      "chainCode": "BOWT",
+      "showtime_id": 515491202,
+      "date": "2025-09-12+21:05",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Teaneck",
+      "zip": "07666",
+      "theater_name": "Teaneck Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515494903,
+      "date": "2025-09-12+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Teaneck",
+      "zip": "07666",
+      "theater_name": "Teaneck Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515494904,
+      "date": "2025-09-12+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Teaneck",
+      "zip": "07666",
+      "theater_name": "Teaneck Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515494905,
+      "date": "2025-09-12+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Ottawa",
+      "zip": "61350",
+      "theater_name": "VIP Roxy Cinemas",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 515495566,
+      "date": "2025-09-12+22:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Ottawa",
+      "zip": "61350",
+      "theater_name": "VIP Roxy Cinemas",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 515495565,
+      "date": "2025-09-12+18:30",
+      "format": "Standard",
+      "language": "English",
       "error": {
         "status": 400
       }
