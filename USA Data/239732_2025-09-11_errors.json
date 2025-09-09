@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09 04:37:13 AM",
+  "last_updated": "2025-09-09 06:16:20 AM",
   "errors": [
     {
       "state": "MA",
@@ -10173,36 +10173,6 @@
     },
     {
       "state": "CA",
-      "city": "San Diego",
-      "zip": "92108",
-      "theater_name": "AMC Fashion Valley 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512425101,
-      "date": "2025-09-11+16:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Diego",
-      "zip": "92108",
-      "theater_name": "AMC Fashion Valley 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512425102,
-      "date": "2025-09-11+19:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
       "city": "Bonsall",
       "zip": "92003",
       "theater_name": "River Village Cinema is D'Place",
@@ -11642,21 +11612,6 @@
       }
     },
     {
-      "state": "TN",
-      "city": "Jackson",
-      "zip": "38305",
-      "theater_name": "Hollywood Cinema 16",
-      "chainName": "Cinema Management Group Inc",
-      "chainCode": "CMGI",
-      "showtime_id": 515253395,
-      "date": "2025-09-11+21:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "NJ",
       "city": "Piscataway",
       "zip": "08854",
@@ -12197,21 +12152,6 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Lancaster",
-      "zip": "93534",
-      "theater_name": "Regency Blvd Cinemas",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515278838,
-      "date": "2025-09-11+19:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404
-      }
-    },
-    {
       "state": "FL",
       "city": "Lake City",
       "zip": "32055",
@@ -12377,21 +12317,6 @@
       }
     },
     {
-      "state": "LA",
-      "city": "Harvey",
-      "zip": "70058",
-      "theater_name": "AMC Westbank Palace 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515299351,
-      "date": "2025-09-11+18:30",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "NV",
       "city": "Elko",
       "zip": "89801",
@@ -12482,231 +12407,6 @@
       }
     },
     {
-      "state": "CT",
-      "city": "South Norwalk",
-      "zip": "06854",
-      "theater_name": "AMC SoNo 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515317991,
-      "date": "2025-09-11+18:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CT",
-      "city": "South Norwalk",
-      "zip": "06854",
-      "theater_name": "AMC SoNo 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515317988,
-      "date": "2025-09-11+17:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CT",
-      "city": "South Norwalk",
-      "zip": "06854",
-      "theater_name": "AMC SoNo 8",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515317989,
-      "date": "2025-09-11+20:30",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10036",
-      "theater_name": "AMC Empire 25",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515319552,
-      "date": "2025-09-11+16:30",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10036",
-      "theater_name": "AMC Empire 25",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515319525,
-      "date": "2025-09-11+17:30",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10036",
-      "theater_name": "AMC Empire 25",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515319558,
-      "date": "2025-09-11+19:15",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10036",
-      "theater_name": "AMC Empire 25",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515319560,
-      "date": "2025-09-11+20:15",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10036",
-      "theater_name": "AMC Empire 25",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515319522,
-      "date": "2025-09-11+21:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10036",
-      "theater_name": "AMC Empire 25",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515319548,
-      "date": "2025-09-11+22:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10036",
-      "theater_name": "AMC Empire 25",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515319521,
-      "date": "2025-09-11+19:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10036",
-      "theater_name": "AMC Empire 25",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515319561,
-      "date": "2025-09-11+21:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "DE",
-      "city": "Milford",
-      "zip": "19963",
-      "theater_name": "Milford Movies 9",
-      "chainName": "Westown Movies",
-      "chainCode": "WSTN",
-      "showtime_id": 515325746,
-      "date": "2025-09-11+17:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "DE",
-      "city": "Milford",
-      "zip": "19963",
-      "theater_name": "Milford Movies 9",
-      "chainName": "Westown Movies",
-      "chainCode": "WSTN",
-      "showtime_id": 515325761,
-      "date": "2025-09-11+18:10",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "DE",
-      "city": "Milford",
-      "zip": "19963",
-      "theater_name": "Milford Movies 9",
-      "chainName": "Westown Movies",
-      "chainCode": "WSTN",
-      "showtime_id": 515325750,
-      "date": "2025-09-11+20:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "DE",
-      "city": "Milford",
-      "zip": "19963",
-      "theater_name": "Milford Movies 9",
-      "chainName": "Westown Movies",
-      "chainCode": "WSTN",
-      "showtime_id": 515325757,
-      "date": "2025-09-11+21:50",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "PA",
       "city": "Wilkes-Barre",
       "zip": "18701",
@@ -12719,21 +12419,6 @@
       "language": "English",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Richmond",
-      "zip": "23230",
-      "theater_name": "BTM CINEMAS MOVIELAND AT BOULEVARD SQUARE",
-      "chainName": "Scene One Entertainment",
-      "chainCode": "BOWT",
-      "showtime_id": 515320372,
-      "date": "2025-09-11+17:10",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
       }
     },
     {
@@ -12782,141 +12467,6 @@
       }
     },
     {
-      "state": "NC",
-      "city": "Fayetteville",
-      "zip": "28314",
-      "theater_name": "AMC Market Fair 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515308203,
-      "date": "2025-09-11+20:45",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Fayetteville",
-      "zip": "28314",
-      "theater_name": "AMC Market Fair 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515308199,
-      "date": "2025-09-11+16:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Fayetteville",
-      "zip": "28314",
-      "theater_name": "AMC Market Fair 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515308208,
-      "date": "2025-09-11+18:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Fayetteville",
-      "zip": "28314",
-      "theater_name": "AMC Market Fair 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515308198,
-      "date": "2025-09-11+20:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Raleigh",
-      "zip": "27610",
-      "theater_name": "Alamo Drafthouse Raleigh",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 515315610,
-      "date": "2025-09-11+21:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Raleigh",
-      "zip": "27610",
-      "theater_name": "Alamo Drafthouse Raleigh",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 515315383,
-      "date": "2025-09-11+16:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Raleigh",
-      "zip": "27610",
-      "theater_name": "Alamo Drafthouse Raleigh",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 515315382,
-      "date": "2025-09-11+20:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Charlotte",
-      "zip": "28209",
-      "theater_name": "AMC Park Terrace 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515307594,
-      "date": "2025-09-11+22:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Charlotte",
-      "zip": "28209",
-      "theater_name": "AMC Park Terrace 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515307595,
-      "date": "2025-09-11+19:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
       "state": "SC",
       "city": "Greenville",
       "zip": "29607",
@@ -12939,51 +12489,6 @@
       "chainName": "Veezi Theaters",
       "chainCode": "VZ",
       "showtime_id": 515322650,
-      "date": "2025-09-11+19:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Duluth",
-      "zip": "30096",
-      "theater_name": "Studio Movie Grill - Duluth",
-      "chainName": "Studio Movie Grill",
-      "chainCode": "SMG",
-      "showtime_id": 515304269,
-      "date": "2025-09-11+19:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Duluth",
-      "zip": "30096",
-      "theater_name": "Studio Movie Grill - Duluth",
-      "chainName": "Studio Movie Grill",
-      "chainCode": "SMG",
-      "showtime_id": 515304267,
-      "date": "2025-09-11+20:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Marietta",
-      "zip": "30067",
-      "theater_name": "Studio Movie Grill Marietta",
-      "chainName": "Studio Movie Grill",
-      "chainCode": "SMG",
-      "showtime_id": 515304485,
       "date": "2025-09-11+19:30",
       "format": "Standard",
       "language": "English",
@@ -13158,96 +12663,6 @@
     },
     {
       "state": "IN",
-      "city": "Indianapolis",
-      "zip": "46217",
-      "theater_name": "AMC Indianapolis 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515307672,
-      "date": "2025-09-11+17:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Indianapolis",
-      "zip": "46217",
-      "theater_name": "AMC Indianapolis 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515307658,
-      "date": "2025-09-11+18:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Indianapolis",
-      "zip": "46217",
-      "theater_name": "AMC Indianapolis 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515307673,
-      "date": "2025-09-11+20:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Indianapolis",
-      "zip": "46217",
-      "theater_name": "AMC Indianapolis 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515307674,
-      "date": "2025-09-11+16:30",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Indianapolis",
-      "zip": "46217",
-      "theater_name": "AMC Indianapolis 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515307671,
-      "date": "2025-09-11+20:30",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Indianapolis",
-      "zip": "46217",
-      "theater_name": "AMC Indianapolis 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515307662,
-      "date": "2025-09-11+21:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "IN",
       "city": "Kokomo",
       "zip": "46902",
       "theater_name": "AMC CLASSIC Kokomo 12",
@@ -13323,156 +12738,6 @@
     },
     {
       "state": "IL",
-      "city": "Chicago",
-      "zip": "60611",
-      "theater_name": "AMC River East 21",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515308391,
-      "date": "2025-09-11+21:45",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60611",
-      "theater_name": "AMC River East 21",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515308399,
-      "date": "2025-09-11+22:40",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60614",
-      "theater_name": "Regal Webster Place",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515306552,
-      "date": "2025-09-11+16:50",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60614",
-      "theater_name": "Regal Webster Place",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515306530,
-      "date": "2025-09-11+17:50",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60614",
-      "theater_name": "Regal Webster Place",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515306547,
-      "date": "2025-09-11+19:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60614",
-      "theater_name": "Regal Webster Place",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515306553,
-      "date": "2025-09-11+20:35",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60614",
-      "theater_name": "Regal Webster Place",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515306548,
-      "date": "2025-09-11+22:20",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Livonia",
-      "zip": "48152",
-      "theater_name": "AMC Livonia 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515298938,
-      "date": "2025-09-11+17:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Livonia",
-      "zip": "48152",
-      "theater_name": "AMC Livonia 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515319884,
-      "date": "2025-09-11+18:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Livonia",
-      "zip": "48152",
-      "theater_name": "AMC Livonia 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515298937,
-      "date": "2025-09-11+20:30",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "IL",
       "city": "Galesburg",
       "zip": "61401",
       "theater_name": "AMC CLASSIC Galesburg 8",
@@ -13482,186 +12747,6 @@
       "date": "2025-09-11+18:00",
       "format": "Standard",
       "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "WI",
-      "city": "Brookfield",
-      "zip": "53005",
-      "theater_name": "Movie Tavern Brookfield",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 515326311,
-      "date": "2025-09-11+18:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "WI",
-      "city": "Menomonee Falls",
-      "zip": "53051",
-      "theater_name": "Marcus Menomonee Falls Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 515325739,
-      "date": "2025-09-11+17:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "WI",
-      "city": "Menomonee Falls",
-      "zip": "53051",
-      "theater_name": "Marcus Menomonee Falls Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 515325718,
-      "date": "2025-09-11+19:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "WI",
-      "city": "Madison",
-      "zip": "53704",
-      "theater_name": "Flix Brewhouse Madison",
-      "chainName": "Flix Brewhouse",
-      "chainCode": "FLIX",
-      "showtime_id": 515323208,
-      "date": "2025-09-11+20:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "WI",
-      "city": "Madison",
-      "zip": "53719",
-      "theater_name": "Marcus Point Cinemas",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 515323368,
-      "date": "2025-09-11+17:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "WI",
-      "city": "Madison",
-      "zip": "53719",
-      "theater_name": "Marcus Point Cinemas",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 515313762,
-      "date": "2025-09-11+20:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "WI",
-      "city": "Madison",
-      "zip": "53719",
-      "theater_name": "Marcus Point Cinemas",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 515313761,
-      "date": "2025-09-11+16:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "WI",
-      "city": "Madison",
-      "zip": "53719",
-      "theater_name": "Marcus Point Cinemas",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 515323369,
-      "date": "2025-09-11+21:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "WI",
-      "city": "Beloit",
-      "zip": "53511",
-      "theater_name": "Classic Cinemas Beloit XQ",
-      "chainName": "Classic Cinemas",
-      "chainCode": "CLSC",
-      "showtime_id": 515309534,
-      "date": "2025-09-11+17:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "WI",
-      "city": "Beloit",
-      "zip": "53511",
-      "theater_name": "Classic Cinemas Beloit XQ",
-      "chainName": "Classic Cinemas",
-      "chainCode": "CLSC",
-      "showtime_id": 515309528,
-      "date": "2025-09-11+20:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "WI",
-      "city": "Beloit",
-      "zip": "53511",
-      "theater_name": "Classic Cinemas Beloit XQ",
-      "chainName": "Classic Cinemas",
-      "chainCode": "CLSC",
-      "showtime_id": 515309532,
-      "date": "2025-09-11+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "WI",
-      "city": "Beloit",
-      "zip": "53511",
-      "theater_name": "Classic Cinemas Beloit XQ",
-      "chainName": "Classic Cinemas",
-      "chainCode": "CLSC",
-      "showtime_id": 515309540,
-      "date": "2025-09-11+21:05",
-      "format": "Standard",
-      "language": "Unknown",
       "error": {
         "status": 403
       }
@@ -13690,231 +12775,6 @@
       "chainCode": "AMC",
       "showtime_id": 515318298,
       "date": "2025-09-11+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Glenview",
-      "zip": "60026",
-      "theater_name": "Landmark At The Glen",
-      "chainName": "Landmark",
-      "chainCode": "L",
-      "showtime_id": 515315150,
-      "date": "2025-09-11+18:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Schaumburg",
-      "zip": "60173",
-      "theater_name": "AMC Loews Streets Of Woodfield 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515319608,
-      "date": "2025-09-11+21:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Schaumburg",
-      "zip": "60173",
-      "theater_name": "AMC Loews Streets Of Woodfield 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515319623,
-      "date": "2025-09-11+16:30",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Elk Grove Village",
-      "zip": "60007",
-      "theater_name": "Classic Cinemas Elk Grove XQ",
-      "chainName": "Classic Cinemas",
-      "chainCode": "CLSC",
-      "showtime_id": 515317749,
-      "date": "2025-09-11+17:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Elk Grove Village",
-      "zip": "60007",
-      "theater_name": "Classic Cinemas Elk Grove XQ",
-      "chainName": "Classic Cinemas",
-      "chainCode": "CLSC",
-      "showtime_id": 515317742,
-      "date": "2025-09-11+20:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Elk Grove Village",
-      "zip": "60007",
-      "theater_name": "Classic Cinemas Elk Grove XQ",
-      "chainName": "Classic Cinemas",
-      "chainCode": "CLSC",
-      "showtime_id": 515317761,
-      "date": "2025-09-11+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Elk Grove Village",
-      "zip": "60007",
-      "theater_name": "Classic Cinemas Elk Grove XQ",
-      "chainName": "Classic Cinemas",
-      "chainCode": "CLSC",
-      "showtime_id": 515317765,
-      "date": "2025-09-11+21:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "WI",
-      "city": "Ashwaubenon",
-      "zip": "54304",
-      "theater_name": "Marcus Bay Park Cinemas",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 515305430,
-      "date": "2025-09-11+18:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Woodbury",
-      "zip": "55125",
-      "theater_name": "Alamo Drafthouse Woodbury Lakes",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 515312040,
-      "date": "2025-09-11+19:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Rosemount",
-      "zip": "55068",
-      "theater_name": "Marcus Rosemount Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 515314124,
-      "date": "2025-09-11+20:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Rosemount",
-      "zip": "55068",
-      "theater_name": "Marcus Rosemount Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 515314125,
-      "date": "2025-09-11+16:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Shakopee",
-      "zip": "55379",
-      "theater_name": "Marcus Southbridge Crossing Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 515321838,
-      "date": "2025-09-11+17:35",
-      "format": "Ultrascreen DLX",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Shakopee",
-      "zip": "55379",
-      "theater_name": "Marcus Southbridge Crossing Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 515321846,
-      "date": "2025-09-11+18:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Saint Michael",
-      "zip": "55376",
-      "theater_name": "St. Michael Cinema",
-      "chainName": "St. Michael Cinema",
-      "chainCode": "STMC",
-      "showtime_id": 515300116,
-      "date": "2025-09-11+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Saint Michael",
-      "zip": "55376",
-      "theater_name": "St. Michael Cinema",
-      "chainName": "St. Michael Cinema",
-      "chainCode": "STMC",
-      "showtime_id": 515300117,
-      "date": "2025-09-11+19:40",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -13967,546 +12827,6 @@
       }
     },
     {
-      "state": "TX",
-      "city": "Tyler",
-      "zip": "75703",
-      "theater_name": "Studio Movie Grill Tyler",
-      "chainName": "Studio Movie Grill",
-      "chainCode": "SMG",
-      "showtime_id": 515309820,
-      "date": "2025-09-11+21:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Belton",
-      "zip": "76513",
-      "theater_name": "Grand Avenue Theater",
-      "chainName": "Veezi Theaters",
-      "chainCode": "VZ",
-      "showtime_id": 515310797,
-      "date": "2025-09-11+17:50",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Belton",
-      "zip": "76513",
-      "theater_name": "Grand Avenue Theater",
-      "chainName": "Veezi Theaters",
-      "chainCode": "VZ",
-      "showtime_id": 515310798,
-      "date": "2025-09-11+21:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Georgetown",
-      "zip": "78628",
-      "theater_name": "Film Alley Georgetown",
-      "chainName": "Schulman Theatres",
-      "chainCode": "SCHM",
-      "showtime_id": 515321491,
-      "date": "2025-09-11+16:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Georgetown",
-      "zip": "78628",
-      "theater_name": "Film Alley Georgetown",
-      "chainName": "Schulman Theatres",
-      "chainCode": "SCHM",
-      "showtime_id": 515321492,
-      "date": "2025-09-11+20:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78717",
-      "theater_name": "Alamo Drafthouse Lakeline",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 515312978,
-      "date": "2025-09-11+16:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78717",
-      "theater_name": "Alamo Drafthouse Lakeline",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 515312979,
-      "date": "2025-09-11+18:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78757",
-      "theater_name": "Alamo Drafthouse Cinema Village",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 515315729,
-      "date": "2025-09-11+17:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78757",
-      "theater_name": "Alamo Drafthouse Cinema Village",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 515315730,
-      "date": "2025-09-11+18:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78757",
-      "theater_name": "Alamo Drafthouse Cinema Village",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 515315731,
-      "date": "2025-09-11+21:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77024",
-      "theater_name": "Regal Houston Marq*E ScreenX, 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515319953,
-      "date": "2025-09-11+16:30",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77024",
-      "theater_name": "Regal Houston Marq*E ScreenX, 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511295181,
-      "date": "2025-09-11+17:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77024",
-      "theater_name": "Regal Houston Marq*E ScreenX, 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515319954,
-      "date": "2025-09-11+20:15",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77024",
-      "theater_name": "Regal Houston Marq*E ScreenX, 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515319956,
-      "date": "2025-09-11+21:45",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77024",
-      "theater_name": "Regal Houston Marq*E ScreenX, 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515319955,
-      "date": "2025-09-11+18:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77024",
-      "theater_name": "Regal Houston Marq*E ScreenX, 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511295182,
-      "date": "2025-09-11+20:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77024",
-      "theater_name": "Regal Houston Marq*E ScreenX, 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 513282415,
-      "date": "2025-09-11+17:30",
-      "format": "RPX",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77024",
-      "theater_name": "Regal Houston Marq*E ScreenX, 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515319957,
-      "date": "2025-09-11+17:20",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77024",
-      "theater_name": "Regal Houston Marq*E ScreenX, 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515319958,
-      "date": "2025-09-11+21:05",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77024",
-      "theater_name": "Regal Houston Marq*E ScreenX, 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515319962,
-      "date": "2025-09-11+22:45",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77024",
-      "theater_name": "Regal Houston Marq*E ScreenX, 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515319961,
-      "date": "2025-09-11+19:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77024",
-      "theater_name": "Cinemark Memorial City",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515320523,
-      "date": "2025-09-11+17:35",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77024",
-      "theater_name": "Cinemark Memorial City",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515320522,
-      "date": "2025-09-11+20:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77024",
-      "theater_name": "Cinemark Memorial City",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515320524,
-      "date": "2025-09-11+16:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77024",
-      "theater_name": "Cinemark Memorial City",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515320525,
-      "date": "2025-09-11+21:10",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cibolo",
-      "zip": "78108",
-      "theater_name": "Santikos Cibolo",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 515318636,
-      "date": "2025-09-11+21:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cibolo",
-      "zip": "78108",
-      "theater_name": "Santikos Cibolo",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 515318640,
-      "date": "2025-09-11+21:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cibolo",
-      "zip": "78108",
-      "theater_name": "Santikos Cibolo",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 515318633,
-      "date": "2025-09-11+17:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cibolo",
-      "zip": "78108",
-      "theater_name": "Santikos Cibolo",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 515318637,
-      "date": "2025-09-11+18:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cibolo",
-      "zip": "78108",
-      "theater_name": "Santikos Cibolo",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 515318634,
-      "date": "2025-09-11+20:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cibolo",
-      "zip": "78108",
-      "theater_name": "Santikos Cibolo",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 515318638,
-      "date": "2025-09-11+21:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78216",
-      "theater_name": "Alamo Drafthouse Park North",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 515323568,
-      "date": "2025-09-11+22:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78749",
-      "theater_name": "Alamo Drafthouse Cinema Slaughter Lane",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 515309563,
-      "date": "2025-09-11+19:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Bastrop",
-      "zip": "78602",
-      "theater_name": "Film Alley Bastrop",
-      "chainName": "Schulman Theatres",
-      "chainCode": "SCHM",
-      "showtime_id": 515309900,
-      "date": "2025-09-11+16:35",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Bastrop",
-      "zip": "78602",
-      "theater_name": "Film Alley Bastrop",
-      "chainName": "Schulman Theatres",
-      "chainCode": "SCHM",
-      "showtime_id": 515309901,
-      "date": "2025-09-11+20:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79938",
-      "theater_name": "Cinemark East Montana and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515327700,
-      "date": "2025-09-11+21:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
       "state": "AZ",
       "city": "Payson",
       "zip": "85541",
@@ -14537,291 +12857,6 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Torrance",
-      "zip": "90505",
-      "theater_name": "AMC Rolling Hills 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515318553,
-      "date": "2025-09-11+16:55",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Torrance",
-      "zip": "90505",
-      "theater_name": "AMC Rolling Hills 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515318524,
-      "date": "2025-09-11+19:50",
-      "format": "XL at AMC",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Torrance",
-      "zip": "90505",
-      "theater_name": "AMC Rolling Hills 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515318525,
-      "date": "2025-09-11+16:15",
-      "format": "XL at AMC",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Long Beach",
-      "zip": "90808",
-      "theater_name": "Regal Edwards Long Beach ScreenX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515325839,
-      "date": "2025-09-11+18:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Long Beach",
-      "zip": "90808",
-      "theater_name": "Regal Edwards Long Beach ScreenX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515325838,
-      "date": "2025-09-11+21:15",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Ana",
-      "zip": "92705",
-      "theater_name": "Picture Show at Main Place Mall",
-      "chainName": "Picture Show Entertainment, LLC",
-      "chainCode": "PSE",
-      "showtime_id": 515325903,
-      "date": "2025-09-11+17:05",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Ana",
-      "zip": "92705",
-      "theater_name": "Picture Show at Main Place Mall",
-      "chainName": "Picture Show Entertainment, LLC",
-      "chainCode": "PSE",
-      "showtime_id": 515325904,
-      "date": "2025-09-11+20:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Ana",
-      "zip": "92705",
-      "theater_name": "Picture Show at Main Place Mall",
-      "chainName": "Picture Show Entertainment, LLC",
-      "chainCode": "PSE",
-      "showtime_id": 515325918,
-      "date": "2025-09-11+21:35",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Rialto",
-      "zip": "92376",
-      "theater_name": "Cinemark Bistro Renaissance Marketplace and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515326877,
-      "date": "2025-09-11+20:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Rialto",
-      "zip": "92376",
-      "theater_name": "Cinemark Bistro Renaissance Marketplace and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515326879,
-      "date": "2025-09-11+22:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Rialto",
-      "zip": "92376",
-      "theater_name": "Cinemark Bistro Renaissance Marketplace and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515326878,
-      "date": "2025-09-11+23:05",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Rialto",
-      "zip": "92376",
-      "theater_name": "Cinemark Bistro Renaissance Marketplace and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515326853,
-      "date": "2025-09-11+23:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Rialto",
-      "zip": "92376",
-      "theater_name": "Cinemark Bistro Renaissance Marketplace and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515326868,
-      "date": "2025-09-11+16:05",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Rialto",
-      "zip": "92376",
-      "theater_name": "Cinemark Bistro Renaissance Marketplace and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515326866,
-      "date": "2025-09-11+16:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Rialto",
-      "zip": "92376",
-      "theater_name": "Cinemark Bistro Renaissance Marketplace and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515326880,
-      "date": "2025-09-11+19:05",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Rialto",
-      "zip": "92376",
-      "theater_name": "Cinemark Bistro Renaissance Marketplace and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515326869,
-      "date": "2025-09-11+19:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Rialto",
-      "zip": "92376",
-      "theater_name": "Cinemark Bistro Renaissance Marketplace and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515326867,
-      "date": "2025-09-11+23:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Visalia",
-      "zip": "93291",
-      "theater_name": "Regal Visalia",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515328204,
-      "date": "2025-09-11+19:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Visalia",
-      "zip": "93291",
-      "theater_name": "Regal Visalia",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515328205,
-      "date": "2025-09-11+20:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
       "state": "WA",
       "city": "Kennewick",
       "zip": "99336",
@@ -14832,6 +12867,501 @@
       "date": "2025-09-11+17:30",
       "format": "Standard",
       "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Bloomsburg",
+      "zip": "17815",
+      "theater_name": "AMC CLASSIC Bloomsburg 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515340635,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Dalton",
+      "zip": "30721",
+      "theater_name": "AMC CLASSIC Walnut Square 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515329271,
+      "date": "2025-09-11+20:30",
+      "format": "Standard",
+      "language": "Spanish",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Dalton",
+      "zip": "30721",
+      "theater_name": "AMC CLASSIC Walnut Square 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515329272,
+      "date": "2025-09-11+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Fort Moore",
+      "zip": "31905",
+      "theater_name": "Lucas Cinemas 10 Fort Moore Georgia",
+      "chainName": "Lucas Cinemas",
+      "chainCode": "LUCA",
+      "showtime_id": 515357391,
+      "date": "2025-09-11+16:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Chattanooga",
+      "zip": "37402",
+      "theater_name": "AMC Majestic 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515287856,
+      "date": "2025-09-11+16:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Chattanooga",
+      "zip": "37402",
+      "theater_name": "AMC Majestic 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515287855,
+      "date": "2025-09-11+20:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Chattanooga",
+      "zip": "37402",
+      "theater_name": "AMC Majestic 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515287871,
+      "date": "2025-09-11+18:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515330725,
+      "date": "2025-09-11+20:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515330726,
+      "date": "2025-09-11+21:40",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Frankfort",
+      "zip": "40601",
+      "theater_name": "Franklin Square Cinema ",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515347867,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Frankfort",
+      "zip": "40601",
+      "theater_name": "Franklin Square Cinema ",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515347865,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Euclid",
+      "zip": "44123",
+      "theater_name": "Atlas Lakeshore 7",
+      "chainName": "Atlas Cinemas",
+      "chainCode": "ATLS",
+      "showtime_id": 515354657,
+      "date": "2025-09-11+19:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Euclid",
+      "zip": "44123",
+      "theater_name": "Atlas Lakeshore 7",
+      "chainName": "Atlas Cinemas",
+      "chainCode": "ATLS",
+      "showtime_id": 515354658,
+      "date": "2025-09-11+16:25",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Hamilton",
+      "zip": "45013",
+      "theater_name": "AMC CLASSIC Hamilton 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515316195,
+      "date": "2025-09-11+20:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Hamilton",
+      "zip": "45013",
+      "theater_name": "AMC CLASSIC Hamilton 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515316193,
+      "date": "2025-09-11+21:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Hamilton",
+      "zip": "45013",
+      "theater_name": "AMC CLASSIC Hamilton 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515316194,
+      "date": "2025-09-11+17:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Lebanon",
+      "zip": "45036",
+      "theater_name": "Colony Square 7 Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515371907,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Lebanon",
+      "zip": "45036",
+      "theater_name": "Colony Square 7 Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515371908,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Wilmington",
+      "zip": "45177",
+      "theater_name": "Wilmington Plaza Cinema 5",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515371809,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Wilmington",
+      "zip": "45177",
+      "theater_name": "Wilmington Plaza Cinema 5",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515371818,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Shelbyville",
+      "zip": "46176",
+      "theater_name": "Studio 10 Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515337486,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Shelbyville",
+      "zip": "46176",
+      "theater_name": "Studio 10 Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515337492,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Harvey",
+      "zip": "70058",
+      "theater_name": "AMC Westbank Palace 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515343762,
+      "date": "2025-09-11+17:30",
+      "format": "Standard",
+      "language": "Spanish",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Russellville",
+      "zip": "72801",
+      "theater_name": "UEC Theatres Russellville",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515333236,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Russellville",
+      "zip": "72801",
+      "theater_name": "UEC Theatres Russellville",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515333237,
+      "date": "2025-09-11+19:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Pasadena",
+      "zip": "77502",
+      "theater_name": "America Cinemas Pasadena",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515342564,
+      "date": "2025-09-11+17:45",
+      "format": "Standard",
+      "language": "Spanish",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "UT",
+      "city": "South Jordan",
+      "zip": "84095",
+      "theater_name": "Megaplex Theatres South Jordan - The District",
+      "chainName": "Megaplex Theatres",
+      "chainCode": "MEGA",
+      "showtime_id": 515372376,
+      "date": "2025-09-11+16:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "UT",
+      "city": "South Jordan",
+      "zip": "84095",
+      "theater_name": "Megaplex Theatres South Jordan - The District",
+      "chainName": "Megaplex Theatres",
+      "chainCode": "MEGA",
+      "showtime_id": 515372345,
+      "date": "2025-09-11+21:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oxnard",
+      "zip": "93030",
+      "theater_name": "Plaza Cinemas 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 515329868,
+      "date": "2025-09-11+16:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oxnard",
+      "zip": "93030",
+      "theater_name": "Plaza Cinemas 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 515329869,
+      "date": "2025-09-11+19:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Gig Harbor",
+      "zip": "98335",
+      "theater_name": "Galaxy Gig Harbor",
+      "chainName": "Galaxy Theatres",
+      "chainCode": "GLXY",
+      "showtime_id": 515351420,
+      "date": "2025-09-11+15:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Seattle",
+      "zip": "98116",
+      "theater_name": "Historic Admiral",
+      "chainName": "Far Away Entertainment",
+      "chainCode": "FAE",
+      "showtime_id": 515348995,
+      "date": "2025-09-11+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Seattle",
+      "zip": "98116",
+      "theater_name": "Historic Admiral",
+      "chainName": "Far Away Entertainment",
+      "chainCode": "FAE",
+      "showtime_id": 515348994,
+      "date": "2025-09-11+18:00",
+      "format": "Standard",
+      "language": "Unknown",
       "error": {
         "status": 400
       }
