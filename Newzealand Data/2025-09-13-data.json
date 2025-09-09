@@ -3483,7 +3483,8 @@
     "max_gross": 3564.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 502"
   },
   {
     "id": 359196,
@@ -4854,11 +4855,11 @@
     "screenName": "Cinema 3",
     "operator": "BOT",
     "total": 162,
-    "sold": 14,
-    "available": 148,
-    "occupancy": 8.64,
+    "sold": 16,
+    "available": 146,
+    "occupancy": 9.88,
     "max_gross": 4536.0,
-    "total_gross": 392.0,
+    "total_gross": 448.0,
     "price": 28.0,
     "error": false
   },
@@ -6016,7 +6017,8 @@
     "max_gross": 1890.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 469117,
