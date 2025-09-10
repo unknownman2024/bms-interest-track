@@ -334,11 +334,11 @@
     "date": "2025-09-10+20:25",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 1,
-    "occupancy": 0.5,
-    "totalAvailableSeatCount": 199,
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 200,
     "totalSeatCount": 200,
-    "grossRevenueUSD": 17.06,
+    "grossRevenueUSD": 0.0,
     "adultTicketPrice": 17.06
   },
   {
@@ -2880,6 +2880,21 @@
     "language": "Telugu",
     "error": {
       "status": 400
+    }
+  },
+  {
+    "state": "AL",
+    "city": "Mobile",
+    "zip": "36695",
+    "theater_name": "AMC Mobile 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 0,
+    "date": "2025-09-10+20:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 404
     }
   }
 ]
