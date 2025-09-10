@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10 07:01:11 PM",
+  "last_updated": "2025-09-10 07:43:20 PM",
   "errors": [
     {
       "state": "CT",
@@ -15947,36 +15947,6 @@
       }
     },
     {
-      "state": "LA",
-      "city": "Ruston",
-      "zip": "71270",
-      "theater_name": "Celebrity Theatres Ruston 8",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 515272488,
-      "date": "2025-09-12+18:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Ruston",
-      "zip": "71270",
-      "theater_name": "Celebrity Theatres Ruston 8",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 515272489,
-      "date": "2025-09-12+21:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "OK",
       "city": "Oklahoma City",
       "zip": "73114",
@@ -31109,6 +31079,21 @@
       "language": "Japanese",
       "error": {
         "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Savannah",
+      "zip": "31420",
+      "theater_name": "AMC CLASSIC Savannah 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515797276,
+      "date": "2025-09-12+17:45",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
       }
     }
   ]
