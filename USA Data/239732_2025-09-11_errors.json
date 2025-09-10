@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10 08:00:56 AM",
+  "last_updated": "2025-09-10 09:06:07 AM",
   "errors": [
     {
       "state": "MA",
@@ -15689,6 +15689,96 @@
       "language": "English",
       "error": {
         "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Conyers",
+      "zip": "30013",
+      "theater_name": "AMC Conyers Crossing 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515777653,
+      "date": "2025-09-11+22:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Henderson",
+      "zip": "42420",
+      "theater_name": "Showplace Cinemas Henderson 8",
+      "chainName": "Showplace Cinemas",
+      "chainCode": "SHOW",
+      "showtime_id": 515774482,
+      "date": "2025-09-11+16:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Henderson",
+      "zip": "42420",
+      "theater_name": "Showplace Cinemas Henderson 8",
+      "chainName": "Showplace Cinemas",
+      "chainCode": "SHOW",
+      "showtime_id": 515774483,
+      "date": "2025-09-11+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Woodland",
+      "zip": "95695",
+      "theater_name": "State Theatre and Multiplex",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 515773674,
+      "date": "2025-09-11+19:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Red Bluff",
+      "zip": "96080",
+      "theater_name": "Prime Cinemas Red Bluff",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515774313,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Red Bluff",
+      "zip": "96080",
+      "theater_name": "Prime Cinemas Red Bluff",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515774314,
+      "date": "2025-09-11+19:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
       }
     }
   ]
