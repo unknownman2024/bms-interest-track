@@ -1069,9 +1069,12 @@
     "date": "2025-09-10+12:40",
     "format": "Standard",
     "language": "Tamil",
-    "error": {
-      "exception": ""
-    }
+    "totalSeatSold": 2,
+    "occupancy": 3.85,
+    "totalAvailableSeatCount": 50,
+    "totalSeatCount": 52,
+    "grossRevenueUSD": 22.98,
+    "adultTicketPrice": 11.49
   },
   {
     "state": "NY",
@@ -1084,9 +1087,12 @@
     "date": "2025-09-10+21:10",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "exception": ""
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 52,
+    "totalSeatCount": 52,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 14.49
   },
   {
     "state": "NY",
@@ -3721,11 +3727,11 @@
     "date": "2025-09-10+18:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 206,
+    "totalSeatSold": 1,
+    "occupancy": 0.49,
+    "totalAvailableSeatCount": 205,
     "totalSeatCount": 206,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 10.99,
     "adultTicketPrice": 10.99
   },
   {
@@ -3847,9 +3853,12 @@
     "date": "2025-09-10+20:35",
     "format": "Standard",
     "language": "Tamil",
-    "error": {
-      "exception": ""
-    }
+    "totalSeatSold": 2,
+    "occupancy": 5.13,
+    "totalAvailableSeatCount": 37,
+    "totalSeatCount": 39,
+    "grossRevenueUSD": 23.98,
+    "adultTicketPrice": 11.99
   },
   {
     "state": "MI",
@@ -7192,5 +7201,41 @@
     "totalSeatCount": 293,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 12.59
+  },
+  {
+    "state": "NC",
+    "city": "Durham",
+    "zip": "27713",
+    "theater_name": "AMC Southpoint 17",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 514932643,
+    "date": "2025-09-10+21:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 56,
+    "totalSeatCount": 56,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 14.5
+  },
+  {
+    "state": "CA",
+    "city": "Orange",
+    "zip": "92868",
+    "theater_name": "AMC Orange 30 (AMC Block 30)",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 514902379,
+    "date": "2025-09-10+22:05",
+    "format": "Standard",
+    "language": "Tamil",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 97,
+    "totalSeatCount": 97,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 15.99
   }
 ]
