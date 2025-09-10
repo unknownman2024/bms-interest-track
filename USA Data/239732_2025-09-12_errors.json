@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11 03:38:26 AM",
+  "last_updated": "2025-09-11 04:38:59 AM",
   "errors": [
     {
       "state": "CT",
@@ -31495,6 +31495,21 @@
       "chainCode": "CNMK",
       "showtime_id": 515821583,
       "date": "2025-09-12+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19106",
+      "theater_name": "PFS - Bourse Theater",
+      "chainName": "Agile Ticketing",
+      "chainCode": "AGLE",
+      "showtime_id": 515829780,
+      "date": "2025-09-12+12:30",
       "format": "Standard",
       "language": "English",
       "error": {
