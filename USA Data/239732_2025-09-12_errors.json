@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10 11:38:48 AM",
+  "last_updated": "2025-09-10 12:47:01 PM",
   "errors": [
     {
       "state": "CT",
@@ -31199,6 +31199,21 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Corvallis",
+      "zip": "97330",
+      "theater_name": "AMC CLASSIC Corvallis 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515793844,
+      "date": "2025-09-12+15:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
       }
     }
   ]
