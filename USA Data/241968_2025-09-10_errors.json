@@ -1,0 +1,125 @@
+{
+  "last_updated": "2025-09-10 12:52:48 PM",
+  "errors": [
+    {
+      "state": "NY",
+      "city": "Bellmore",
+      "zip": "11710",
+      "theater_name": "Bellmore Playhouse",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515252483,
+      "date": "2025-09-10+20:30",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Binghamton",
+      "zip": "13905",
+      "theater_name": "Regal Binghamton",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 514640084,
+      "date": "2025-09-10+12:40",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Binghamton",
+      "zip": "13905",
+      "theater_name": "Regal Binghamton",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 514640088,
+      "date": "2025-09-10+21:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Durham",
+      "zip": "27713",
+      "theater_name": "AMC Southpoint 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 0,
+      "date": "2025-09-10+21:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 514664007,
+      "date": "2025-09-10+21:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Lansing",
+      "zip": "48911",
+      "theater_name": "Celebration Cinema Lansing",
+      "chainName": "Celebration Cinema ",
+      "chainCode": "CELE",
+      "showtime_id": 514435463,
+      "date": "2025-09-10+20:35",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Ames",
+      "zip": "50010",
+      "theater_name": "Cinemark Ames Movies 12",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515166709,
+      "date": "2025-09-10+15:25",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Union City",
+      "zip": "94587",
+      "theater_name": "Cinemark Century Union Landing 25 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515154752,
+      "date": "2025-09-10+15:45",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 400
+      }
+    }
+  ]
+}
