@@ -4769,11 +4769,11 @@
     "screenName": "Cinema 4",
     "operator": "SYL",
     "total": 550,
-    "sold": 0,
-    "available": 550,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 548,
+    "occupancy": 0.36,
     "max_gross": 15125.0,
-    "total_gross": 0.0,
+    "total_gross": 55.0,
     "price": 27.5,
     "error": false
   },
@@ -5540,7 +5540,8 @@
     "max_gross": 3120.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 328283,
