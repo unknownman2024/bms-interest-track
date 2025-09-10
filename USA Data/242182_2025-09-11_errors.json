@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11 12:50:07 AM",
+  "last_updated": "2025-09-11 01:56:02 AM",
   "errors": [
     {
       "state": "IL",
@@ -149,6 +149,36 @@
       "language": "Telugu",
       "error": {
         "status": 403
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Saint Peters",
+      "zip": "63376",
+      "theater_name": "Marcus Mid Rivers Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 515819482,
+      "date": "2025-09-11+14:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Saint Peters",
+      "zip": "63376",
+      "theater_name": "Marcus Mid Rivers Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 515819483,
+      "date": "2025-09-11+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
       }
     }
   ]
