@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10 04:57:57 AM",
+  "last_updated": "2025-09-10 07:05:41 AM",
   "errors": [
     {
       "state": "CT",
@@ -13172,21 +13172,6 @@
       }
     },
     {
-      "state": "FL",
-      "city": "South Miami",
-      "zip": "33143",
-      "theater_name": "AMC Sunset Place 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515530535,
-      "date": "2025-09-11+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 403
-      }
-    },
-    {
       "state": "MI",
       "city": "Hastings",
       "zip": "49058",
@@ -13832,36 +13817,6 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Scotts Valley",
-      "zip": "95066",
-      "theater_name": "CineLux Scotts Valley Café and Lounge",
-      "chainName": "Cinelux Theatres",
-      "chainCode": "CLUX",
-      "showtime_id": 515669543,
-      "date": "2025-09-11+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Scotts Valley",
-      "zip": "95066",
-      "theater_name": "CineLux Scotts Valley Café and Lounge",
-      "chainName": "Cinelux Theatres",
-      "chainCode": "CLUX",
-      "showtime_id": 515669546,
-      "date": "2025-09-11+19:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "WA",
       "city": "Anacortes",
       "zip": "98221",
@@ -13982,33 +13937,228 @@
       }
     },
     {
-      "state": "TX",
-      "city": "Fort Worth",
-      "zip": "76102",
-      "theater_name": "AMC Palace 9",
+      "state": "PA",
+      "city": "Mechanicsburg",
+      "zip": "17050",
+      "theater_name": "AMC CLASSIC Hampden 8",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 515696113,
-      "date": "2025-09-11+22:15",
+      "showtime_id": 515738456,
+      "date": "2025-09-11+14:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
-        "status": 403
+        "status": 400
       }
     },
     {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79936",
-      "theater_name": "Cinemark Tinseltown Las Palmas XD and ScreenX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515715686,
-      "date": "2025-09-11+20:00",
-      "format": "Cinemark XD",
+      "state": "GA",
+      "city": "Columbus",
+      "zip": "31904",
+      "theater_name": "AMC Ritz 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515754332,
+      "date": "2025-09-11+21:05",
+      "format": "Standard",
       "language": "Unknown",
       "error": {
-        "exception": ""
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515746703,
+      "date": "2025-09-11+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Greenville",
+      "zip": "38701",
+      "theater_name": "UEC Theatres Nelco Cineplex",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515736347,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Greenville",
+      "zip": "38701",
+      "theater_name": "UEC Theatres Nelco Cineplex",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515736348,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Henderson",
+      "zip": "42420",
+      "theater_name": "Showplace Cinemas Henderson 8",
+      "chainName": "Showplace Cinemas",
+      "chainCode": "SHOW",
+      "showtime_id": 515726267,
+      "date": "2025-09-11+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Henderson",
+      "zip": "42420",
+      "theater_name": "Showplace Cinemas Henderson 8",
+      "chainName": "Showplace Cinemas",
+      "chainCode": "SHOW",
+      "showtime_id": 515726268,
+      "date": "2025-09-11+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Seymour",
+      "zip": "47274",
+      "theater_name": "Showplace Seymour",
+      "chainName": "Showplace Cinemas",
+      "chainCode": "SHOW",
+      "showtime_id": 515727898,
+      "date": "2025-09-11+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Seymour",
+      "zip": "47274",
+      "theater_name": "Showplace Seymour",
+      "chainName": "Showplace Cinemas",
+      "chainCode": "SHOW",
+      "showtime_id": 515727899,
+      "date": "2025-09-11+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WI",
+      "city": "River Falls",
+      "zip": "54022",
+      "theater_name": "Falls Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515736425,
+      "date": "2025-09-11+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WI",
+      "city": "River Falls",
+      "zip": "54022",
+      "theater_name": "Falls Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515736426,
+      "date": "2025-09-11+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "UT",
+      "city": "Tooele",
+      "zip": "84074",
+      "theater_name": "UEC Theatres Tooele",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515747256,
+      "date": "2025-09-11+16:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "UT",
+      "city": "Tooele",
+      "zip": "84074",
+      "theater_name": "UEC Theatres Tooele",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515747257,
+      "date": "2025-09-11+19:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Lake Elsinore",
+      "zip": "92530",
+      "theater_name": "UEC Theatres Diamond 8",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515733943,
+      "date": "2025-09-11+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Lake Elsinore",
+      "zip": "92530",
+      "theater_name": "UEC Theatres Diamond 8",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515733944,
+      "date": "2025-09-11+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
       }
     }
   ]
