@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11 03:59:27 AM",
+  "last_updated": "2025-09-11 04:59:19 AM",
   "errors": [
     {
       "state": "CT",
@@ -14365,6 +14365,36 @@
       "chainCode": "AMC",
       "showtime_id": 515817381,
       "date": "2025-09-11+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Moultrie",
+      "zip": "31768",
+      "theater_name": "Moultrie Stadium Cinemas",
+      "chainName": "Georgia Theatre Company",
+      "chainCode": "GRGA",
+      "showtime_id": 515826665,
+      "date": "2025-09-11+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Moultrie",
+      "zip": "31768",
+      "theater_name": "Moultrie Stadium Cinemas",
+      "chainName": "Georgia Theatre Company",
+      "chainCode": "GRGA",
+      "showtime_id": 515826666,
+      "date": "2025-09-11+19:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
