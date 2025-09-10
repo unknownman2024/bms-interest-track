@@ -1488,11 +1488,11 @@
     "screenName": "Xtremescreen 5",
     "operator": "RIC",
     "total": 780,
-    "sold": 0,
-    "available": 780,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 778,
+    "occupancy": 0.26,
     "max_gross": 17940.0,
-    "total_gross": 0.0,
+    "total_gross": 46.0,
     "price": 23.0,
     "error": false
   },
@@ -2826,7 +2826,7 @@
     "id": 359413,
     "cinemaId": "1001",
     "movieId": "HO00007794",
-    "date": "2025-09-17T12:30:00",
+    "date": "2025-09-17T12:40:00",
     "typeId": "STANDARD",
     "screenName": "Cinema 3",
     "operator": "WPK",
@@ -5540,8 +5540,7 @@
     "max_gross": 3120.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 328283,
@@ -6134,6 +6133,23 @@
     "available": 98,
     "occupancy": 0.0,
     "max_gross": 2548.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
+  },
+  {
+    "id": 359454,
+    "cinemaId": "1001",
+    "movieId": "HO00007444",
+    "date": "2025-09-17T10:00:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 3",
+    "operator": "WPK",
+    "total": 126,
+    "sold": 0,
+    "available": 126,
+    "occupancy": 0.0,
+    "max_gross": 3276.0,
     "total_gross": 0.0,
     "price": 26.0,
     "error": false
