@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10 09:05:33 AM",
+  "last_updated": "2025-09-10 09:41:19 AM",
   "errors": [
     {
       "state": "CT",
@@ -15998,21 +15998,6 @@
       "theater_name": "Celebrity Theatres Ruston 8",
       "chainName": "RTSIND",
       "chainCode": "RTSIND",
-      "showtime_id": 515272486,
-      "date": "2025-09-12+12:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Ruston",
-      "zip": "71270",
-      "theater_name": "Celebrity Theatres Ruston 8",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
       "showtime_id": 515272487,
       "date": "2025-09-12+15:25",
       "format": "Standard",
@@ -26213,21 +26198,6 @@
       "theater_name": "Regency Academy 6 Theater",
       "chainName": "Regency Theatres",
       "chainCode": "RGCY",
-      "showtime_id": 515550568,
-      "date": "2025-09-12+14:10",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Pasadena",
-      "zip": "91106",
-      "theater_name": "Regency Academy 6 Theater",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
       "showtime_id": 515550570,
       "date": "2025-09-12+21:00",
       "format": "Standard",
@@ -30842,21 +30812,6 @@
       }
     },
     {
-      "state": "NY",
-      "city": "Yonkers",
-      "zip": "10704",
-      "theater_name": "Cross County Multiplex Cinemas",
-      "chainName": "National Amusement",
-      "chainCode": "NATA",
-      "showtime_id": 515775680,
-      "date": "2025-09-12+16:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 404
-      }
-    },
-    {
       "state": "NJ",
       "city": "Sparta",
       "zip": "07871",
@@ -31004,6 +30959,201 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "CT",
+      "city": "New Milford",
+      "zip": "06776",
+      "theater_name": "Bank Street Theater",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515782652,
+      "date": "2025-09-12+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CT",
+      "city": "New Milford",
+      "zip": "06776",
+      "theater_name": "Bank Street Theater",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515782656,
+      "date": "2025-09-12+19:05",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Middletown",
+      "zip": "10940",
+      "theater_name": "Middletown Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515782999,
+      "date": "2025-09-12+11:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Middletown",
+      "zip": "10940",
+      "theater_name": "Middletown Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515783008,
+      "date": "2025-09-12+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Middletown",
+      "zip": "10940",
+      "theater_name": "Middletown Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515783000,
+      "date": "2025-09-12+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Middletown",
+      "zip": "10940",
+      "theater_name": "Middletown Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515783009,
+      "date": "2025-09-12+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Middletown",
+      "zip": "10940",
+      "theater_name": "Middletown Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515783001,
+      "date": "2025-09-12+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Middletown",
+      "zip": "10940",
+      "theater_name": "Middletown Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515783010,
+      "date": "2025-09-12+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Middletown",
+      "zip": "10940",
+      "theater_name": "Middletown Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515783002,
+      "date": "2025-09-12+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Middletown",
+      "zip": "10940",
+      "theater_name": "Middletown Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515783011,
+      "date": "2025-09-12+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Statesboro",
+      "zip": "30458",
+      "theater_name": "AMC Statesboro 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515777445,
+      "date": "2025-09-12+18:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Statesboro",
+      "zip": "30458",
+      "theater_name": "AMC Statesboro 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515777446,
+      "date": "2025-09-12+21:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Woodland",
+      "zip": "95695",
+      "theater_name": "State Theatre and Multiplex",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 515785086,
+      "date": "2025-09-12+20:50",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
       }
     }
   ]
