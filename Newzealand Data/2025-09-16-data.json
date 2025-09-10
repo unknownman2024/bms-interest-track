@@ -949,8 +949,7 @@
     "max_gross": 2214.0,
     "total_gross": 41.0,
     "price": 20.5,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 195058,
@@ -1205,8 +1204,7 @@
     "max_gross": 3584.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 195071,
@@ -1614,8 +1612,7 @@
     "max_gross": 5313.0,
     "total_gross": 0.0,
     "price": 16.5,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 316510,
@@ -3043,8 +3040,7 @@
     "max_gross": 1976.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 359354,
@@ -4591,7 +4587,8 @@
     "max_gross": 1785.0,
     "total_gross": 0.0,
     "price": 25.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 195059,
@@ -6002,8 +5999,7 @@
     "max_gross": 2548.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 68473,
@@ -6071,7 +6067,8 @@
     "max_gross": 3120.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 68491,
@@ -6235,11 +6232,11 @@
     "screenName": "HOYTS LUX 07",
     "operator": "TERLP",
     "total": 198,
-    "sold": 0,
-    "available": 198,
-    "occupancy": 0.0,
+    "sold": 4,
+    "available": 194,
+    "occupancy": 2.02,
     "max_gross": 5346.0,
-    "total_gross": 0.0,
+    "total_gross": 108.0,
     "price": 27.0,
     "error": false
   },
