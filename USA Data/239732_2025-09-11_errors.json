@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11 02:48:26 AM",
+  "last_updated": "2025-09-11 03:48:23 AM",
   "errors": [
     {
       "state": "MA",
@@ -16067,18 +16067,33 @@
       }
     },
     {
-      "state": "CA",
-      "city": "La Canada",
-      "zip": "91011",
-      "theater_name": "Regal UA La Canada",
+      "state": "NY",
+      "city": "Farmingdale",
+      "zip": "11735",
+      "theater_name": "Regal UA Farmingdale & IMAX",
       "chainName": "Regal",
       "chainCode": "REGL",
-      "showtime_id": 515817978,
-      "date": "2025-09-11+20:00",
+      "showtime_id": 515828467,
+      "date": "2025-09-11+20:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Farmingdale",
+      "zip": "11735",
+      "theater_name": "Regal UA Farmingdale & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515828466,
+      "date": "2025-09-11+17:00",
       "format": "Standard",
       "language": "Japanese",
       "error": {
-        "status": 500
+        "status": 404
       }
     }
   ]
