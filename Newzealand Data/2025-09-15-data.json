@@ -382,11 +382,11 @@
     "screenName": "Cinema 5",
     "operator": "NTH",
     "total": 108,
-    "sold": 0,
-    "available": 108,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 106,
+    "occupancy": 1.85,
     "max_gross": 2214.0,
-    "total_gross": 0.0,
+    "total_gross": 41.0,
     "price": 20.5,
     "error": false
   },
@@ -541,7 +541,8 @@
     "max_gross": 2960.0,
     "total_gross": 0.0,
     "price": 18.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 177346,
@@ -1017,7 +1018,8 @@
     "max_gross": 5313.0,
     "total_gross": 0.0,
     "price": 16.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 316460,
@@ -1204,7 +1206,8 @@
     "max_gross": 10752.0,
     "total_gross": 0.0,
     "price": 21.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 316469,
@@ -1306,7 +1309,8 @@
     "max_gross": 3300.0,
     "total_gross": 0.0,
     "price": 16.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 316481,
@@ -1340,7 +1344,8 @@
     "max_gross": 17940.0,
     "total_gross": 69.0,
     "price": 23.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 316451,
@@ -1391,7 +1396,8 @@
     "max_gross": 10752.0,
     "total_gross": 0.0,
     "price": 21.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 316472,
@@ -1425,7 +1431,8 @@
     "max_gross": 5313.0,
     "total_gross": 0.0,
     "price": 16.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 316477,
@@ -1459,7 +1466,8 @@
     "max_gross": 5313.0,
     "total_gross": 0.0,
     "price": 16.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 316482,
@@ -1827,11 +1835,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "CHC",
     "total": 384,
-    "sold": 0,
-    "available": 384,
-    "occupancy": 0.0,
+    "sold": 4,
+    "available": 380,
+    "occupancy": 1.04,
     "max_gross": 8832.0,
-    "total_gross": 0.0,
+    "total_gross": 92.0,
     "price": 23.0,
     "error": false
   },
@@ -2405,11 +2413,11 @@
     "screenName": "Cinema 1",
     "operator": "WPK",
     "total": 76,
-    "sold": 0,
-    "available": 76,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 74,
+    "occupancy": 2.63,
     "max_gross": 1976.0,
-    "total_gross": 0.0,
+    "total_gross": 52.0,
     "price": 26.0,
     "error": false
   },
