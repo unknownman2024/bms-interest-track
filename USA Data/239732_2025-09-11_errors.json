@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11 03:48:23 AM",
+  "last_updated": "2025-09-11 04:49:43 AM",
   "errors": [
     {
       "state": "MA",
@@ -16094,6 +16094,36 @@
       "language": "Japanese",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Carroll",
+      "zip": "51401",
+      "theater_name": "Carroll 5 Theatre",
+      "chainName": "Fridley Theatres",
+      "chainCode": "FRID",
+      "showtime_id": 515829886,
+      "date": "2025-09-11+17:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "New Braunfels",
+      "zip": "78130",
+      "theater_name": "Stars & Stripes Drive-In - New Braunfels",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515828818,
+      "date": "2025-09-11+20:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
       }
     }
   ]
