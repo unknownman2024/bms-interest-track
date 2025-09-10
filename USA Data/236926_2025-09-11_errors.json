@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10 08:02:09 PM",
+  "last_updated": "2025-09-10 09:02:52 PM",
   "errors": [
     {
       "state": "CT",
@@ -14215,6 +14215,51 @@
       "chainCode": "RTSIND",
       "showtime_id": 515774312,
       "date": "2025-09-11+19:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lakewood Ranch",
+      "zip": "34202",
+      "theater_name": "Lakewood Ranch Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515799016,
+      "date": "2025-09-11+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lakewood Ranch",
+      "zip": "34202",
+      "theater_name": "Lakewood Ranch Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515799017,
+      "date": "2025-09-11+17:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Morton",
+      "zip": "61550",
+      "theater_name": "VIP Morton Cinemas",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 515798302,
+      "date": "2025-09-11+19:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
