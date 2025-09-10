@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11 12:57:20 AM",
+  "last_updated": "2025-09-11 02:03:46 AM",
   "errors": [
     {
       "state": "CT",
@@ -14335,6 +14335,21 @@
       "chainCode": "STON",
       "showtime_id": 515806870,
       "date": "2025-09-11+15:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Defiance",
+      "zip": "43512",
+      "theater_name": "Phoenix Theatres Northtowne Mall",
+      "chainName": "Phoenix Theatres - MI",
+      "chainCode": "PTMI",
+      "showtime_id": 514639203,
+      "date": "2025-09-11+15:20",
       "format": "Standard",
       "language": "Unknown",
       "error": {
