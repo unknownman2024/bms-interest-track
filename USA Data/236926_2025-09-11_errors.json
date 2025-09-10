@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10 10:07:20 PM",
+  "last_updated": "2025-09-10 10:57:33 PM",
   "errors": [
     {
       "state": "CT",
@@ -14259,6 +14259,96 @@
       "chainName": "VIP Cinemas",
       "chainCode": "VIPC",
       "showtime_id": 515798302,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Kernersville",
+      "zip": "27284",
+      "theater_name": "Trex Cinema 4",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515141716,
+      "date": "2025-09-11+16:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Kernersville",
+      "zip": "27284",
+      "theater_name": "Trex Cinema 4",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515141717,
+      "date": "2025-09-11+19:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Myrtle Beach",
+      "zip": "29577",
+      "theater_name": "Stone Theatres Grand 14 at The Market Common",
+      "chainName": "Stone Theatres",
+      "chainCode": "STON",
+      "showtime_id": 515805449,
+      "date": "2025-09-11+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Myrtle Beach",
+      "zip": "29577",
+      "theater_name": "Stone Theatres Grand 14 at The Market Common",
+      "chainName": "Stone Theatres",
+      "chainCode": "STON",
+      "showtime_id": 515805450,
+      "date": "2025-09-11+18:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Columbus",
+      "zip": "43209",
+      "theater_name": "Drexel Theatre",
+      "chainName": "Agile Ticketing",
+      "chainCode": "AGLE",
+      "showtime_id": 515795552,
+      "date": "2025-09-11+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Columbus",
+      "zip": "43209",
+      "theater_name": "Drexel Theatre",
+      "chainName": "Agile Ticketing",
+      "chainCode": "AGLE",
+      "showtime_id": 515795554,
       "date": "2025-09-11+19:00",
       "format": "Standard",
       "language": "Unknown",
