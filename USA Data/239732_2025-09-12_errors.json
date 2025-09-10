@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10 08:45:43 PM",
+  "last_updated": "2025-09-10 09:41:15 PM",
   "errors": [
     {
       "state": "CT",
@@ -21033,21 +21033,6 @@
     },
     {
       "state": "CA",
-      "city": "San Bernardino",
-      "zip": "92404",
-      "theater_name": "Regency Sterling 6",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515385961,
-      "date": "2025-09-12+19:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
       "city": "Lakeport",
       "zip": "95453",
       "theater_name": "Lakeport Cinema 5",
@@ -31122,6 +31107,51 @@
       "date": "2025-09-12+18:30",
       "format": "Standard",
       "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Ardmore",
+      "zip": "73401",
+      "theater_name": "AMC CLASSIC Ardmore 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515799895,
+      "date": "2025-09-12+14:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Ardmore",
+      "zip": "73401",
+      "theater_name": "AMC CLASSIC Ardmore 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515799893,
+      "date": "2025-09-12+17:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Ardmore",
+      "zip": "73401",
+      "theater_name": "AMC CLASSIC Ardmore 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515799894,
+      "date": "2025-09-12+21:00",
+      "format": "Standard",
+      "language": "Japanese",
       "error": {
         "status": 400
       }
