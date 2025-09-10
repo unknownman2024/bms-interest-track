@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10 05:35:20 AM",
+  "last_updated": "2025-09-10 08:03:17 AM",
   "errors": [
     {
       "state": "CT",
@@ -21158,38 +21158,8 @@
       "theater_name": "Regency Sterling 6",
       "chainName": "Regency Theatres",
       "chainCode": "RGCY",
-      "showtime_id": 515385960,
-      "date": "2025-09-12+15:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Bernardino",
-      "zip": "92404",
-      "theater_name": "Regency Sterling 6",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
       "showtime_id": 515385961,
       "date": "2025-09-12+19:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Bernardino",
-      "zip": "92404",
-      "theater_name": "Regency Sterling 6",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515385964,
-      "date": "2025-09-12+14:10",
       "format": "Standard",
       "language": "English",
       "error": {
@@ -28187,21 +28157,6 @@
       }
     },
     {
-      "state": "TX",
-      "city": "Grand Prairie",
-      "zip": "75052",
-      "theater_name": "Grand Prairie Premiere LUX Cine 10 & Pizza Pub",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 515596842,
-      "date": "2025-09-12+16:05",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "ID",
       "city": "Hayden Lake",
       "zip": "83835",
@@ -30302,21 +30257,6 @@
       }
     },
     {
-      "state": "TX",
-      "city": "Burleson",
-      "zip": "76028",
-      "theater_name": "Burleson Premiere LUX Cine 14 Burleson Commons",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 515741210,
-      "date": "2025-09-12+21:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "NV",
       "city": "Laughlin",
       "zip": "89029",
@@ -30434,6 +30374,666 @@
       "language": "English",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Manchester",
+      "zip": "06040",
+      "theater_name": "Parkade Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 512248947,
+      "date": "2025-09-12+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Manchester",
+      "zip": "06040",
+      "theater_name": "Parkade Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515760575,
+      "date": "2025-09-12+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Ridgefield Park",
+      "zip": "07660",
+      "theater_name": "AMC Ridgefield Park 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515767795,
+      "date": "2025-09-12+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Ridgefield Park",
+      "zip": "07660",
+      "theater_name": "AMC Ridgefield Park 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515767805,
+      "date": "2025-09-12+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Ridgefield Park",
+      "zip": "07660",
+      "theater_name": "AMC Ridgefield Park 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515767798,
+      "date": "2025-09-12+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Ridgefield Park",
+      "zip": "07660",
+      "theater_name": "AMC Ridgefield Park 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515767801,
+      "date": "2025-09-12+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Ridgefield Park",
+      "zip": "07660",
+      "theater_name": "AMC Ridgefield Park 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515767796,
+      "date": "2025-09-12+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Ridgefield Park",
+      "zip": "07660",
+      "theater_name": "AMC Ridgefield Park 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515767803,
+      "date": "2025-09-12+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Ridgefield Park",
+      "zip": "07660",
+      "theater_name": "AMC Ridgefield Park 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515767818,
+      "date": "2025-09-12+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Ridgefield Park",
+      "zip": "07660",
+      "theater_name": "AMC Ridgefield Park 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515767794,
+      "date": "2025-09-12+20:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Ridgefield Park",
+      "zip": "07660",
+      "theater_name": "AMC Ridgefield Park 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515767804,
+      "date": "2025-09-12+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Ridgefield Park",
+      "zip": "07660",
+      "theater_name": "AMC Ridgefield Park 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515767797,
+      "date": "2025-09-12+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Ridgefield Park",
+      "zip": "07660",
+      "theater_name": "AMC Ridgefield Park 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515767806,
+      "date": "2025-09-12+23:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Selinsgrove",
+      "zip": "17870",
+      "theater_name": "AMC CLASSIC Selinsgrove 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515767009,
+      "date": "2025-09-12+12:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Selinsgrove",
+      "zip": "17870",
+      "theater_name": "AMC CLASSIC Selinsgrove 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515767024,
+      "date": "2025-09-12+14:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Selinsgrove",
+      "zip": "17870",
+      "theater_name": "AMC CLASSIC Selinsgrove 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515767015,
+      "date": "2025-09-12+16:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Selinsgrove",
+      "zip": "17870",
+      "theater_name": "AMC CLASSIC Selinsgrove 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515767016,
+      "date": "2025-09-12+20:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Selinsgrove",
+      "zip": "17870",
+      "theater_name": "AMC CLASSIC Selinsgrove 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515767005,
+      "date": "2025-09-12+11:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Selinsgrove",
+      "zip": "17870",
+      "theater_name": "AMC CLASSIC Selinsgrove 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515767035,
+      "date": "2025-09-12+19:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Vero Beach",
+      "zip": "32960",
+      "theater_name": "The Majestic 11",
+      "chainName": "Cinemaworld",
+      "chainCode": "CWRLD",
+      "showtime_id": 515751766,
+      "date": "2025-09-12+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Vero Beach",
+      "zip": "32960",
+      "theater_name": "The Majestic 11",
+      "chainName": "Cinemaworld",
+      "chainCode": "CWRLD",
+      "showtime_id": 515751795,
+      "date": "2025-09-12+21:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Prattville",
+      "zip": "36066",
+      "theater_name": "AMC CLASSIC Prattville 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515760850,
+      "date": "2025-09-12+15:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Greenville",
+      "zip": "36037",
+      "theater_name": "The Edge Theater",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515756098,
+      "date": "2025-09-12+15:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Greenville",
+      "zip": "36037",
+      "theater_name": "The Edge Theater",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515756099,
+      "date": "2025-09-12+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515746710,
+      "date": "2025-09-12+15:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515746711,
+      "date": "2025-09-12+18:50",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Jackson",
+      "zip": "38305",
+      "theater_name": "Hollywood Cinema 16",
+      "chainName": "Cinema Management Group Inc",
+      "chainCode": "CMGI",
+      "showtime_id": 515756984,
+      "date": "2025-09-12+17:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Jackson",
+      "zip": "38305",
+      "theater_name": "Hollywood Cinema 16",
+      "chainName": "Cinema Management Group Inc",
+      "chainCode": "CMGI",
+      "showtime_id": 515756985,
+      "date": "2025-09-12+20:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Mineral Wells",
+      "zip": "76067",
+      "theater_name": "Hometown Cinemas - Mineral Wells",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515743245,
+      "date": "2025-09-12+15:50",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Mineral Wells",
+      "zip": "76067",
+      "theater_name": "Hometown Cinemas - Mineral Wells",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515743247,
+      "date": "2025-09-12+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Mineral Wells",
+      "zip": "76067",
+      "theater_name": "Hometown Cinemas - Mineral Wells",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515743246,
+      "date": "2025-09-12+22:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Rio Grande City",
+      "zip": "78582",
+      "theater_name": "AMC CLASSIC Rio Grande 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515754155,
+      "date": "2025-09-12+12:30",
+      "format": "Standard",
+      "language": "Spanish",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Rio Grande City",
+      "zip": "78582",
+      "theater_name": "AMC CLASSIC Rio Grande 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515754146,
+      "date": "2025-09-12+20:35",
+      "format": "Standard",
+      "language": "Spanish",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Rio Grande City",
+      "zip": "78582",
+      "theater_name": "AMC CLASSIC Rio Grande 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515754140,
+      "date": "2025-09-12+12:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Rio Grande City",
+      "zip": "78582",
+      "theater_name": "AMC CLASSIC Rio Grande 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515754156,
+      "date": "2025-09-12+16:05",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Rio Grande City",
+      "zip": "78582",
+      "theater_name": "AMC CLASSIC Rio Grande 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515754142,
+      "date": "2025-09-12+19:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Rio Grande City",
+      "zip": "78582",
+      "theater_name": "AMC CLASSIC Rio Grande 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515754139,
+      "date": "2025-09-12+21:35",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Rio Grande City",
+      "zip": "78582",
+      "theater_name": "AMC CLASSIC Rio Grande 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515754141,
+      "date": "2025-09-12+15:35",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Rio Grande City",
+      "zip": "78582",
+      "theater_name": "AMC CLASSIC Rio Grande 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515754138,
+      "date": "2025-09-12+18:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Rio Grande City",
+      "zip": "78582",
+      "theater_name": "AMC CLASSIC Rio Grande 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515754157,
+      "date": "2025-09-12+19:40",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Ammon",
+      "zip": "83406",
+      "theater_name": "Regal Edwards Grand Teton",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515747565,
+      "date": "2025-09-12+11:05",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Ammon",
+      "zip": "83406",
+      "theater_name": "Regal Edwards Grand Teton",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515747566,
+      "date": "2025-09-12+14:50",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Ammon",
+      "zip": "83406",
+      "theater_name": "Regal Edwards Grand Teton",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515747567,
+      "date": "2025-09-12+18:40",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Cruz",
+      "zip": "95060",
+      "theater_name": "Santa Cruz Cinema",
+      "chainName": "West Wind Theaters",
+      "chainCode": "SYUF",
+      "showtime_id": 515764882,
+      "date": "2025-09-12+22:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
       }
     }
   ]
