@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10 10:57:33 PM",
+  "last_updated": "2025-09-11 12:11:07 AM",
   "errors": [
     {
       "state": "CT",
@@ -13277,36 +13277,6 @@
       }
     },
     {
-      "state": "WV",
-      "city": "Bridgeport",
-      "zip": "26330",
-      "theater_name": "Cinemark Meadowbrook Mall",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515620359,
-      "date": "2025-09-11+15:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404
-      }
-    },
-    {
-      "state": "WV",
-      "city": "Bridgeport",
-      "zip": "26330",
-      "theater_name": "Cinemark Meadowbrook Mall",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515620360,
-      "date": "2025-09-11+18:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 404
-      }
-    },
-    {
       "state": "GA",
       "city": "Canton",
       "zip": "30114",
@@ -14350,6 +14320,21 @@
       "chainCode": "AGLE",
       "showtime_id": 515795554,
       "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Myrtle Beach",
+      "zip": "29577",
+      "theater_name": "Stone Theatres Grand 14 at The Market Common",
+      "chainName": "Stone Theatres",
+      "chainCode": "STON",
+      "showtime_id": 515806870,
+      "date": "2025-09-11+15:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
