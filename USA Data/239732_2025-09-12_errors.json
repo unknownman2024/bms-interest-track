@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11 01:38:08 AM",
+  "last_updated": "2025-09-11 02:39:54 AM",
   "errors": [
     {
       "state": "CT",
@@ -31382,33 +31382,123 @@
       }
     },
     {
-      "state": "KY",
-      "city": "Danville",
-      "zip": "40422",
-      "theater_name": "Danville Cinemas 8",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 515819550,
-      "date": "2025-09-12+13:20",
+      "state": "RI",
+      "city": "Lincoln",
+      "zip": "02865",
+      "theater_name": "CWTheaters Lincoln Mall 16",
+      "chainName": "Cinemaworld",
+      "chainCode": "CWRLD",
+      "showtime_id": 515819893,
+      "date": "2025-09-12+13:05",
       "format": "Standard",
       "language": "Unknown",
       "error": {
-        "exception": ""
+        "status": 400
       }
     },
     {
-      "state": "KY",
-      "city": "Danville",
-      "zip": "40422",
-      "theater_name": "Danville Cinemas 8",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 515819548,
-      "date": "2025-09-12+12:00",
+      "state": "RI",
+      "city": "Lincoln",
+      "zip": "02865",
+      "theater_name": "CWTheaters Lincoln Mall 16",
+      "chainName": "Cinemaworld",
+      "chainCode": "CWRLD",
+      "showtime_id": 515819920,
+      "date": "2025-09-12+21:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MA",
+      "city": "South Dennis",
+      "zip": "02660",
+      "theater_name": "Entertainment Cinemas - South Dennis Cinemas 10",
+      "chainName": "Entertainment Cinemas",
+      "chainCode": "ENTR",
+      "showtime_id": 515821904,
+      "date": "2025-09-12+13:00",
       "format": "Standard",
       "language": "English",
       "error": {
-        "exception": ""
+        "status": 400
+      }
+    },
+    {
+      "state": "MA",
+      "city": "South Dennis",
+      "zip": "02660",
+      "theater_name": "Entertainment Cinemas - South Dennis Cinemas 10",
+      "chainName": "Entertainment Cinemas",
+      "chainCode": "ENTR",
+      "showtime_id": 515821905,
+      "date": "2025-09-12+15:50",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MA",
+      "city": "South Dennis",
+      "zip": "02660",
+      "theater_name": "Entertainment Cinemas - South Dennis Cinemas 10",
+      "chainName": "Entertainment Cinemas",
+      "chainCode": "ENTR",
+      "showtime_id": 515821906,
+      "date": "2025-09-12+18:50",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Crawfordsville",
+      "zip": "47933",
+      "theater_name": "AMC CLASSIC Crawfordsville 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515822741,
+      "date": "2025-09-12+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Crawfordsville",
+      "zip": "47933",
+      "theater_name": "AMC CLASSIC Crawfordsville 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515822744,
+      "date": "2025-09-12+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "San Antonio",
+      "zip": "78229",
+      "theater_name": "Cinemark Movies 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515821583,
+      "date": "2025-09-12+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
       }
     }
   ]
