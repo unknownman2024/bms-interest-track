@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10 10:46:42 PM",
+  "last_updated": "2025-09-10 11:39:59 PM",
   "errors": [
     {
       "state": "CT",
@@ -16067,21 +16067,6 @@
       }
     },
     {
-      "state": "GA",
-      "city": "Bethlehem",
-      "zip": "30620",
-      "theater_name": "AMC Bethlehem 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515277780,
-      "date": "2025-09-12+13:30",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 400
-      }
-    },
-    {
       "state": "AL",
       "city": "Auburn",
       "zip": "36830",
@@ -22253,21 +22238,6 @@
       "theater_name": "Regency Westminster 10",
       "chainName": "Regency Theatres",
       "chainCode": "RGCY",
-      "showtime_id": 515441085,
-      "date": "2025-09-12+11:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Westminster",
-      "zip": "92683",
-      "theater_name": "Regency Westminster 10",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
       "showtime_id": 515441087,
       "date": "2025-09-12+14:40",
       "format": "Standard",
@@ -22300,21 +22270,6 @@
       "chainCode": "RGCY",
       "showtime_id": 515441089,
       "date": "2025-09-12+11:05",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Westminster",
-      "zip": "92683",
-      "theater_name": "Regency Westminster 10",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515441088,
-      "date": "2025-09-12+18:10",
       "format": "Standard",
       "language": "English",
       "error": {
@@ -28823,53 +28778,8 @@
       "theater_name": "City Base Entertainment",
       "chainName": "City Base Cinema",
       "chainCode": "CBC",
-      "showtime_id": 515655225,
-      "date": "2025-09-12+12:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78223",
-      "theater_name": "City Base Entertainment",
-      "chainName": "City Base Cinema",
-      "chainCode": "CBC",
-      "showtime_id": 515655237,
-      "date": "2025-09-12+12:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78223",
-      "theater_name": "City Base Entertainment",
-      "chainName": "City Base Cinema",
-      "chainCode": "CBC",
       "showtime_id": 515655226,
       "date": "2025-09-12+15:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78223",
-      "theater_name": "City Base Entertainment",
-      "chainName": "City Base Cinema",
-      "chainCode": "CBC",
-      "showtime_id": 515655238,
-      "date": "2025-09-12+15:50",
       "format": "Standard",
       "language": "English",
       "error": {
@@ -31322,48 +31232,93 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Vallejo",
-      "zip": "94591",
-      "theater_name": "Cinemark Century Vallejo 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515805327,
-      "date": "2025-09-12+21:45",
+      "state": "VA",
+      "city": "Abingdon",
+      "zip": "24210",
+      "theater_name": "Abingdon Cinemall",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515809101,
+      "date": "2025-09-12+16:00",
       "format": "Standard",
       "language": "English",
       "error": {
-        "exception": ""
+        "status": 400
       }
     },
     {
-      "state": "CA",
-      "city": "Vallejo",
-      "zip": "94591",
-      "theater_name": "Cinemark Century Vallejo 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515805326,
-      "date": "2025-09-12+17:50",
+      "state": "VA",
+      "city": "Abingdon",
+      "zip": "24210",
+      "theater_name": "Abingdon Cinemall",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515809102,
+      "date": "2025-09-12+19:15",
       "format": "Standard",
       "language": "English",
       "error": {
-        "exception": ""
+        "status": 400
       }
     },
     {
-      "state": "CA",
-      "city": "Vallejo",
-      "zip": "94591",
-      "theater_name": "Cinemark Century Vallejo 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515803903,
-      "date": "2025-09-12+22:45",
+      "state": "NE",
+      "city": "Omaha",
+      "zip": "68106",
+      "theater_name": "ACX Aksarben Cinema",
+      "chainName": "Main Street Theatres",
+      "chainCode": "MAIN",
+      "showtime_id": 515806552,
+      "date": "2025-09-12+16:45",
       "format": "Standard",
       "language": "English",
       "error": {
-        "exception": ""
+        "status": 404
+      }
+    },
+    {
+      "state": "NE",
+      "city": "Omaha",
+      "zip": "68106",
+      "theater_name": "ACX Aksarben Cinema",
+      "chainName": "Main Street Theatres",
+      "chainCode": "MAIN",
+      "showtime_id": 515806553,
+      "date": "2025-09-12+20:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NE",
+      "city": "Omaha",
+      "zip": "68106",
+      "theater_name": "ACX Aksarben Cinema",
+      "chainName": "Main Street Theatres",
+      "chainCode": "MAIN",
+      "showtime_id": 515806554,
+      "date": "2025-09-12+13:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Brookings",
+      "zip": "57006",
+      "theater_name": "Brookings Cinema 8",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515803773,
+      "date": "2025-09-12+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
       }
     }
   ]
