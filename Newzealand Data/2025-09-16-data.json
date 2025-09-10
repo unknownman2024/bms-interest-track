@@ -263,11 +263,11 @@
     "screenName": "Cinema 5",
     "operator": "NTH",
     "total": 108,
-    "sold": 0,
-    "available": 108,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 106,
+    "occupancy": 1.85,
     "max_gross": 2214.0,
-    "total_gross": 0.0,
+    "total_gross": 41.0,
     "price": 20.5,
     "error": false
   },
@@ -1136,7 +1136,8 @@
     "max_gross": 2016.0,
     "total_gross": 384.0,
     "price": 16.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 316485,
