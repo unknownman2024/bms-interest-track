@@ -1,0 +1,95 @@
+{
+  "last_updated": "2025-09-10 12:43:32 PM",
+  "errors": [
+    {
+      "state": "NY",
+      "city": "Binghamton",
+      "zip": "13905",
+      "theater_name": "Regal Binghamton",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 514640096,
+      "date": "2025-09-10+14:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Pittsburgh",
+      "zip": "15241",
+      "theater_name": "AMC CLASSIC South Hills Village 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 514531401,
+      "date": "2025-09-10+17:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27408",
+      "theater_name": "Red Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 514746779,
+      "date": "2025-09-10+16:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 514663975,
+      "date": "2025-09-10+21:10",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "The Colony",
+      "zip": "75056",
+      "theater_name": "Galaxy Grandscape",
+      "chainName": "Galaxy Theatres",
+      "chainCode": "GLXY",
+      "showtime_id": 514827624,
+      "date": "2025-09-10+21:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Orange",
+      "zip": "92868",
+      "theater_name": "AMC Orange 30 (AMC Block 30)",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 0,
+      "date": "2025-09-10+18:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    }
+  ]
+}
