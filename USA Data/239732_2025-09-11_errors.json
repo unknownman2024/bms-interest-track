@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10 07:51:08 PM",
+  "last_updated": "2025-09-10 08:50:23 PM",
   "errors": [
     {
       "state": "MA",
@@ -15809,6 +15809,21 @@
       "language": "English",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Summerville",
+      "zip": "29483",
+      "theater_name": "Regal Azalea Square & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515799490,
+      "date": "2025-09-11+17:55",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
       }
     }
   ]
