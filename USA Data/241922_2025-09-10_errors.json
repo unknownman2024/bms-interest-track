@@ -1,21 +1,6 @@
 {
-  "last_updated": "2025-09-10 01:47:41 PM",
+  "last_updated": "2025-09-10 02:43:23 PM",
   "errors": [
-    {
-      "state": "NY",
-      "city": "Binghamton",
-      "zip": "13905",
-      "theater_name": "Regal Binghamton",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 514640096,
-      "date": "2025-09-10+14:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
     {
       "state": "PA",
       "city": "Pittsburgh",
@@ -59,21 +44,6 @@
       "language": "Hindi",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "TX",
-      "city": "The Colony",
-      "zip": "75056",
-      "theater_name": "Galaxy Grandscape",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "showtime_id": 514827624,
-      "date": "2025-09-10+21:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
