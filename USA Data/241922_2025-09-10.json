@@ -1552,11 +1552,11 @@
     "date": "2025-09-10+13:50",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 1,
-    "occupancy": 0.86,
-    "totalAvailableSeatCount": 115,
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 116,
     "totalSeatCount": 116,
-    "grossRevenueUSD": 12.06,
+    "grossRevenueUSD": 0.0,
     "adultTicketPrice": 12.06
   },
   {
@@ -2968,11 +2968,11 @@
     "date": "2025-09-10+14:50",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 49,
+    "totalSeatSold": 1,
+    "occupancy": 2.04,
+    "totalAvailableSeatCount": 48,
     "totalSeatCount": 49,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 11.99,
     "adultTicketPrice": 11.99
   },
   {
@@ -5344,5 +5344,41 @@
     "totalSeatCount": 71,
     "grossRevenueUSD": 28.36,
     "adultTicketPrice": 14.18
+  },
+  {
+    "state": "CA",
+    "city": "Orange",
+    "zip": "92868",
+    "theater_name": "AMC Orange 30 (AMC Block 30)",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 514147333,
+    "date": "2025-09-10+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 1,
+    "occupancy": 1.03,
+    "totalAvailableSeatCount": 96,
+    "totalSeatCount": 97,
+    "grossRevenueUSD": 15.99,
+    "adultTicketPrice": 15.99
+  },
+  {
+    "state": "CA",
+    "city": "Orange",
+    "zip": "92868",
+    "theater_name": "AMC Orange 30 (AMC Block 30)",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 514902351,
+    "date": "2025-09-10+21:35",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 97,
+    "totalSeatCount": 97,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 15.99
   }
 ]
