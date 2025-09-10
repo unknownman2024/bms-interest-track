@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10 10:50:39 AM",
+  "last_updated": "2025-09-10 12:49:24 PM",
   "errors": [
     {
       "state": "MA",
@@ -15777,6 +15777,36 @@
       "date": "2025-09-11+19:10",
       "format": "Standard",
       "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Elizabeth City",
+      "zip": "27909",
+      "theater_name": "RCE Theaters - Elizabeth City",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515790149,
+      "date": "2025-09-11+18:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92108",
+      "theater_name": "UltraStar Mission Valley",
+      "chainName": "UltraStar Cinemas",
+      "chainCode": "ULTR",
+      "showtime_id": 514937692,
+      "date": "2025-09-11+20:00",
+      "format": "Standard",
+      "language": "English",
       "error": {
         "status": 400
       }
