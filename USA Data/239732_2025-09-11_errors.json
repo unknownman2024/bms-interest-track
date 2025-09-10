@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10 09:51:06 PM",
+  "last_updated": "2025-09-10 10:51:51 PM",
   "errors": [
     {
       "state": "MA",
@@ -15882,6 +15882,36 @@
       "date": "2025-09-11+18:00",
       "format": "Standard",
       "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Kernersville",
+      "zip": "27284",
+      "theater_name": "Trex Cinema 4",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515141715,
+      "date": "2025-09-11+16:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Kernersville",
+      "zip": "27284",
+      "theater_name": "Trex Cinema 4",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515141719,
+      "date": "2025-09-11+19:20",
+      "format": "Standard",
+      "language": "English",
       "error": {
         "status": 400
       }
