@@ -136,11 +136,11 @@
     "date": "2025-09-11+12:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 3,
-    "occupancy": 3.16,
-    "totalAvailableSeatCount": 92,
+    "totalSeatSold": 4,
+    "occupancy": 4.21,
+    "totalAvailableSeatCount": 91,
     "totalSeatCount": 95,
-    "grossRevenueUSD": 48.0,
+    "grossRevenueUSD": 64.0,
     "adultTicketPrice": 16.0
   },
   {
@@ -154,11 +154,11 @@
     "date": "2025-09-11+13:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 139,
+    "totalSeatSold": 2,
+    "occupancy": 1.44,
+    "totalAvailableSeatCount": 137,
     "totalSeatCount": 139,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 32.0,
     "adultTicketPrice": 16.0
   },
   {
@@ -439,9 +439,12 @@
     "date": "2025-09-11+12:15",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 133,
+    "totalSeatCount": 133,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 12.96
   },
   {
     "state": "OH",
