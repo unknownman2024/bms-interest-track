@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11 09:40:36 PM",
+  "last_updated": "2025-09-11 10:43:29 PM",
   "errors": [
     {
       "state": "CT",
@@ -25457,51 +25457,6 @@
       }
     },
     {
-      "state": "TN",
-      "city": "Hixson",
-      "zip": "37343",
-      "theater_name": "AMC Northgate 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515542750,
-      "date": "2025-09-12+12:15",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Hixson",
-      "zip": "37343",
-      "theater_name": "AMC Northgate 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515542730,
-      "date": "2025-09-12+13:15",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Hixson",
-      "zip": "37343",
-      "theater_name": "AMC Northgate 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515542732,
-      "date": "2025-09-12+20:45",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
       "state": "AL",
       "city": "Newton",
       "zip": "36352",
@@ -31769,6 +31724,51 @@
       "language": "English",
       "error": {
         "status": 500
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Gallipolis",
+      "zip": "45631",
+      "theater_name": "Silver Screen VII",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515848005,
+      "date": "2025-09-12+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Aurora",
+      "zip": "44202",
+      "theater_name": "Atlas Cinemas Barrington 10",
+      "chainName": "Atlas Cinemas",
+      "chainCode": "ATLS",
+      "showtime_id": 515406570,
+      "date": "2025-09-12+15:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Aurora",
+      "zip": "44202",
+      "theater_name": "Atlas Cinemas Barrington 10",
+      "chainName": "Atlas Cinemas",
+      "chainCode": "ATLS",
+      "showtime_id": 515406566,
+      "date": "2025-09-12+18:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
       }
     }
   ]
