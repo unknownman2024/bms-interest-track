@@ -263,11 +263,11 @@
     "screenName": "Cinema 2",
     "operator": "NTH",
     "total": 72,
-    "sold": 6,
-    "available": 66,
-    "occupancy": 8.33,
+    "sold": 8,
+    "available": 64,
+    "occupancy": 11.11,
     "max_gross": 1116.0,
-    "total_gross": 93.0,
+    "total_gross": 124.0,
     "price": 15.5,
     "error": false
   },
@@ -1442,7 +1442,8 @@
     "max_gross": 3276.0,
     "total_gross": 78.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 502"
   },
   {
     "id": 359156,
