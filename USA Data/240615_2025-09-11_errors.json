@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11 08:37:51 AM",
+  "last_updated": "2025-09-11 10:08:03 AM",
   "errors": [
     {
       "state": "MA",
@@ -812,21 +812,6 @@
       }
     },
     {
-      "state": "DE",
-      "city": "Newark",
-      "zip": "19711",
-      "theater_name": "Main Street Movies 5",
-      "chainName": "Westown Movies",
-      "chainCode": "WSTN",
-      "showtime_id": 515334887,
-      "date": "2025-09-11+22:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "PA",
       "city": "Lansdale",
       "zip": "19446",
@@ -959,21 +944,6 @@
       "language": "Unknown",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "WV",
-      "city": "Bluefield",
-      "zip": "24701",
-      "theater_name": "Golden Ticket Bluefield 8",
-      "chainName": "Golden Ticket Cinemas",
-      "chainCode": "GOLD",
-      "showtime_id": 515541313,
-      "date": "2025-09-11+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -2508,21 +2478,6 @@
     },
     {
       "state": "FL",
-      "city": "Naples",
-      "zip": "34109",
-      "theater_name": "Regal Naples 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 513293526,
-      "date": "2025-09-11+21:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "FL",
       "city": "Marco Island",
       "zip": "34145",
       "theater_name": "Marco Movies",
@@ -3558,36 +3513,6 @@
     },
     {
       "state": "MI",
-      "city": "Holland",
-      "zip": "49423",
-      "theater_name": "GQT Holland 7",
-      "chainName": "GQT Movies",
-      "chainCode": "GOOD",
-      "showtime_id": 515131510,
-      "date": "2025-09-11+19:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Holland",
-      "zip": "49423",
-      "theater_name": "GQT Holland 7",
-      "chainName": "GQT Movies",
-      "chainCode": "GOOD",
-      "showtime_id": 515131509,
-      "date": "2025-09-11+22:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MI",
       "city": "Grand Haven",
       "zip": "49417",
       "theater_name": "GQT Grand Haven 9",
@@ -3704,51 +3629,6 @@
       "language": "Unknown",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "IL",
-      "city": "South Barrington",
-      "zip": "60010",
-      "theater_name": "Star Cinema Grill South Barrington",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 515578443,
-      "date": "2025-09-11+15:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "IL",
-      "city": "South Barrington",
-      "zip": "60010",
-      "theater_name": "Star Cinema Grill South Barrington",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 514256166,
-      "date": "2025-09-11+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "IL",
-      "city": "South Barrington",
-      "zip": "60010",
-      "theater_name": "Star Cinema Grill South Barrington",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 514256167,
-      "date": "2025-09-11+22:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -4030,36 +3910,6 @@
       "chainCode": "CLSC",
       "showtime_id": 515325791,
       "date": "2025-09-11+21:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Oswego",
-      "zip": "60543",
-      "theater_name": "Classic Cinemas Kendall 11",
-      "chainName": "Classic Cinemas",
-      "chainCode": "CLSC",
-      "showtime_id": 514041029,
-      "date": "2025-09-11+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Oswego",
-      "zip": "60543",
-      "theater_name": "Classic Cinemas Kendall 11",
-      "chainName": "Classic Cinemas",
-      "chainCode": "CLSC",
-      "showtime_id": 514041030,
-      "date": "2025-09-11+20:25",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -4803,21 +4653,6 @@
     },
     {
       "state": "TX",
-      "city": "Round Rock",
-      "zip": "78681",
-      "theater_name": "Flix Brewhouse Round Rock",
-      "chainName": "Flix Brewhouse",
-      "chainCode": "FLIX",
-      "showtime_id": 513462269,
-      "date": "2025-09-11+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
       "city": "San Antonio",
       "zip": "78257",
       "theater_name": "Santikos Palladium IMAX",
@@ -4883,53 +4718,8 @@
       "theater_name": "Abilene Premiere LUX Cine 10 - Abilene Mall",
       "chainName": "Premiere Cinemas",
       "chainCode": "PRCM",
-      "showtime_id": 513229286,
-      "date": "2025-09-11+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Abilene",
-      "zip": "79606",
-      "theater_name": "Abilene Premiere LUX Cine 10 - Abilene Mall",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
       "showtime_id": 513229287,
       "date": "2025-09-11+20:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79925",
-      "theater_name": "El Paso Premiere LUX Cine 17 IMAX",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 513376893,
-      "date": "2025-09-11+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79925",
-      "theater_name": "El Paso Premiere LUX Cine 17 IMAX",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 513376894,
-      "date": "2025-09-11+20:40",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -4994,21 +4784,6 @@
       "language": "Unknown",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Phoenix",
-      "zip": "85015",
-      "theater_name": "Harkins Christown 14",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 513291696,
-      "date": "2025-09-11+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -5349,6 +5124,141 @@
       "chainName": "AMC",
       "chainCode": "AMC",
       "showtime_id": 512730881,
+      "date": "2025-09-11+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Fort Oglethorpe",
+      "zip": "30742",
+      "theater_name": "AMC CLASSIC Battlefield 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515841803,
+      "date": "2025-09-11+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Fort Oglethorpe",
+      "zip": "30742",
+      "theater_name": "AMC CLASSIC Battlefield 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515841804,
+      "date": "2025-09-11+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Waycross",
+      "zip": "31501",
+      "theater_name": "Mall Cinemas",
+      "chainName": "Georgia Theatre Company",
+      "chainCode": "GRGA",
+      "showtime_id": 515835511,
+      "date": "2025-09-11+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Rio Grande City",
+      "zip": "78582",
+      "theater_name": "AMC CLASSIC Rio Grande 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515528288,
+      "date": "2025-09-11+19:55",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Chubbuck",
+      "zip": "83202",
+      "theater_name": "AMC CLASSIC Pine Ridge 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 513194982,
+      "date": "2025-09-11+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Chubbuck",
+      "zip": "83202",
+      "theater_name": "AMC CLASSIC Pine Ridge 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515419126,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "ID",
+      "city": "Chubbuck",
+      "zip": "83202",
+      "theater_name": "AMC CLASSIC Pine Ridge 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515419127,
+      "date": "2025-09-11+21:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Red Bluff",
+      "zip": "96080",
+      "theater_name": "Prime Cinemas Red Bluff",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515774310,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Corvallis",
+      "zip": "97330",
+      "theater_name": "AMC CLASSIC Corvallis 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 512624852,
       "date": "2025-09-11+18:00",
       "format": "Standard",
       "language": "Unknown",
