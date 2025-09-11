@@ -1,0 +1,65 @@
+{
+  "last_updated": "2025-09-11 12:42:06 PM",
+  "errors": [
+    {
+      "state": "IL",
+      "city": "Niles",
+      "zip": "60714",
+      "theater_name": "Ciné Lounge at Niles",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515806702,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Niles",
+      "zip": "60714",
+      "theater_name": "Ciné Lounge at Niles",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515477440,
+      "date": "2025-09-11+21:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Saint Louis Park",
+      "zip": "55416",
+      "theater_name": "Marcus West End Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 515418520,
+      "date": "2025-09-11+16:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Saint Peters",
+      "zip": "63376",
+      "theater_name": "Marcus Mid Rivers Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 515301468,
+      "date": "2025-09-11+13:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    }
+  ]
+}
