@@ -46,9 +46,8 @@ def get_random_ip():
 def get_seatmap_headers():
     random_ip = get_random_ip()
     return {
-        "User-Agent": get_random_user_agent(),
+        "User-Agent": "Mozilla/5.1",
         "Connection": "keep-alive",
-        "X-Forwarded-For": random_ip,
     }
 
 HEADERS = get_seatmap_headers()
