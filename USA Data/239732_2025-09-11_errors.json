@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11 12:50:03 PM",
+  "last_updated": "2025-09-11 01:50:21 PM",
   "errors": [
     {
       "state": "MA",
@@ -16332,6 +16332,21 @@
       "date": "2025-09-11+17:00",
       "format": "Standard",
       "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Stanwood",
+      "zip": "98292",
+      "theater_name": "Stanwood Cinemas",
+      "chainName": "Far Away Entertainment",
+      "chainCode": "FAE",
+      "showtime_id": 515843685,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "Unknown",
       "error": {
         "status": 400
       }
