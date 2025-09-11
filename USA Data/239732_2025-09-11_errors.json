@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 03:48:22 AM",
+  "last_updated": "2025-09-12 04:45:11 AM",
   "errors": [
     {
       "state": "MA",
@@ -16382,21 +16382,6 @@
       }
     },
     {
-      "state": "LA",
-      "city": "Ruston",
-      "zip": "71270",
-      "theater_name": "Celebrity Theatres Ruston 8",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 515851437,
-      "date": "2025-09-11+19:05",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "TX",
       "city": "Tomball",
       "zip": "77375",
@@ -16497,6 +16482,96 @@
       "date": "2025-09-11+18:00",
       "format": "Standard",
       "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515861337,
+      "date": "2025-09-11+17:40",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Willmar",
+      "zip": "56201",
+      "theater_name": "Golden Ticket Cinemas Kandi 6",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 515860440,
+      "date": "2025-09-11+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "LA",
+      "city": "New Orleans",
+      "zip": "70130",
+      "theater_name": "Prytania at Canal Place",
+      "chainName": "Prytania Theatres",
+      "chainCode": "PRYT",
+      "showtime_id": 515861235,
+      "date": "2025-09-11+22:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Dublin",
+      "zip": "94568",
+      "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515861756,
+      "date": "2025-09-11+17:30",
+      "format": "RPX",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Dublin",
+      "zip": "94568",
+      "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515861755,
+      "date": "2025-09-11+21:15",
+      "format": "RPX",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Sunnyside",
+      "zip": "98944",
+      "theater_name": "Grand Cinemas Yakima Valley",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515861831,
+      "date": "2025-09-11+19:30",
+      "format": "Standard",
+      "language": "English",
       "error": {
         "status": 400
       }
