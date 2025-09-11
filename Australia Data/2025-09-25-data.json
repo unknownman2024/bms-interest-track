@@ -167,7 +167,8 @@
     "max_gross": 3952.0,
     "total_gross": 2002.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 344120,
@@ -184,7 +185,8 @@
     "max_gross": 2652.0,
     "total_gross": 739.5,
     "price": 25.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 310353,
@@ -218,7 +220,8 @@
     "max_gross": 3952.0,
     "total_gross": 286.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 500347,
@@ -422,7 +425,8 @@
     "max_gross": 3933.0,
     "total_gross": 0.0,
     "price": 28.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 318556,
@@ -558,7 +562,8 @@
     "max_gross": 5040.0,
     "total_gross": 1606.5,
     "price": 31.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 41806,
@@ -586,11 +591,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "KYP",
     "total": 432,
-    "sold": 7,
-    "available": 425,
-    "occupancy": 1.62,
+    "sold": 6,
+    "available": 426,
+    "occupancy": 1.39,
     "max_gross": 14256.0,
-    "total_gross": 231.0,
+    "total_gross": 198.0,
     "price": 33.0,
     "error": false
   },
