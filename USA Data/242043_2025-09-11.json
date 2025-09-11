@@ -226,11 +226,11 @@
     "date": "2025-09-11+18:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 21,
-    "occupancy": 38.89,
-    "totalAvailableSeatCount": 33,
+    "totalSeatSold": 25,
+    "occupancy": 46.3,
+    "totalAvailableSeatCount": 29,
     "totalSeatCount": 54,
-    "grossRevenueUSD": 304.71,
+    "grossRevenueUSD": 362.75,
     "adultTicketPrice": 14.51
   },
   {
@@ -1834,5 +1834,41 @@
     "totalSeatCount": 368,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 12.62
+  },
+  {
+    "state": "GA",
+    "city": "Duluth",
+    "zip": "30097",
+    "theater_name": "Regal Medlock Crossing & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 515844253,
+    "date": "2025-09-11+17:55",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 95,
+    "totalSeatCount": 95,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 18.31
+  },
+  {
+    "state": "GA",
+    "city": "Duluth",
+    "zip": "30097",
+    "theater_name": "Regal Medlock Crossing & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 515844255,
+    "date": "2025-09-11+21:35",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 1,
+    "occupancy": 1.05,
+    "totalAvailableSeatCount": 94,
+    "totalSeatCount": 95,
+    "grossRevenueUSD": 18.31,
+    "adultTicketPrice": 18.31
   }
 ]
