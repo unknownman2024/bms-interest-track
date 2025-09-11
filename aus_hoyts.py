@@ -46,8 +46,13 @@ def get_random_ip():
 def get_seatmap_headers():
     random_ip = get_random_ip()
     return {
-        "User-Agent": "Mozilla/5.1",
+        "User-Agent": get_random_user_agent(),
+        "Accept": "application/json, text/plain, */*",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://www.hoyts.com.au/",
+        "Origin": "https://www.hoyts.com.au",
         "Connection": "keep-alive",
+        "X-Forwarded-For": random_ip,   # spoof IP
     }
 
 HEADERS = get_seatmap_headers()
@@ -59,6 +64,8 @@ async def fetch_json(session, url):
             if resp.status == 200:
                 return await resp.json()
             else:
+                text = await resp.text()
+                print(f"⚠️ HTTP {resp.status} for {url}\nHeaders: {resp.headers}\nBody: {text[:300]}")
                 return {"__error__": f"HTTP {resp.status}"}
     except Exception as e:
         return {"__error__": str(e)}
