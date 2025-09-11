@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 03:59:59 AM",
+  "last_updated": "2025-09-12 04:59:39 AM",
   "errors": [
     {
       "state": "MA",
@@ -5144,6 +5144,21 @@
       "language": "Unknown",
       "error": {
         "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Dinuba",
+      "zip": "93618",
+      "theater_name": "Dinuba Cinema 6 is D'Place ",
+      "chainName": "D'Place Entertainment",
+      "chainCode": "DPLC",
+      "showtime_id": 515860832,
+      "date": "2025-09-11+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
       }
     }
   ]
