@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 03:35:22 AM",
+  "last_updated": "2025-09-12 04:38:09 AM",
   "errors": [
     {
       "state": "CT",
@@ -14489,21 +14489,6 @@
       "language": "English",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Daytona Beach",
-      "zip": "32114",
-      "theater_name": "CMX Cinemas Daytona & IMAX",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 515257500,
-      "date": "2025-09-12+16:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -29402,21 +29387,6 @@
       }
     },
     {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60610",
-      "theater_name": "AMC NEWCITY 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515709890,
-      "date": "2025-09-12+19:30",
-      "format": "XL at AMC",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "MI",
       "city": "Jackson",
       "zip": "49202",
@@ -31979,6 +31949,66 @@
       "language": "English",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Manahawkin",
+      "zip": "08050",
+      "theater_name": "Regal Manahawkin",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515860768,
+      "date": "2025-09-12+16:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Greenville",
+      "zip": "38701",
+      "theater_name": "UEC Theatres Nelco Cineplex",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515859857,
+      "date": "2025-09-12+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Greenville",
+      "zip": "38701",
+      "theater_name": "UEC Theatres Nelco Cineplex",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515859858,
+      "date": "2025-09-12+19:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Metairie",
+      "zip": "70006",
+      "theater_name": "AMC DINE-IN Clearview Palace 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515859986,
+      "date": "2025-09-12+21:50",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
       }
     }
   ]
