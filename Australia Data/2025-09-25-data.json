@@ -14,7 +14,8 @@
     "max_gross": 3120.0,
     "total_gross": 234.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 497611,
@@ -31,7 +32,8 @@
     "max_gross": 3840.0,
     "total_gross": 1440.0,
     "price": 24.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 407446,
@@ -186,7 +188,8 @@
     "max_gross": 2652.0,
     "total_gross": 739.5,
     "price": 25.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 310353,
@@ -288,7 +291,8 @@
     "max_gross": 10106.0,
     "total_gross": 2232.0,
     "price": 31.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 422046,
@@ -316,11 +320,11 @@
     "screenName": "Xtremescreen 06",
     "operator": "HIG",
     "total": 316,
-    "sold": 63,
-    "available": 253,
-    "occupancy": 19.94,
+    "sold": 70,
+    "available": 246,
+    "occupancy": 22.15,
     "max_gross": 10428.0,
-    "total_gross": 2079.0,
+    "total_gross": 2310.0,
     "price": 33.0,
     "error": false
   },
@@ -452,11 +456,11 @@
     "screenName": "Xtremescreen 7",
     "operator": "SUN",
     "total": 130,
-    "sold": 19,
-    "available": 111,
-    "occupancy": 14.62,
+    "sold": 21,
+    "available": 109,
+    "occupancy": 16.15,
     "max_gross": 3770.0,
-    "total_gross": 551.0,
+    "total_gross": 609.0,
     "price": 29.0,
     "error": false
   },
@@ -486,11 +490,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "CDS",
     "total": 278,
-    "sold": 49,
-    "available": 229,
-    "occupancy": 17.63,
+    "sold": 50,
+    "available": 228,
+    "occupancy": 17.99,
     "max_gross": 9174.0,
-    "total_gross": 1617.0,
+    "total_gross": 1650.0,
     "price": 33.0,
     "error": false
   },
@@ -560,7 +564,8 @@
     "max_gross": 5040.0,
     "total_gross": 1606.5,
     "price": 31.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 41806,
@@ -611,7 +616,8 @@
     "max_gross": 8316.0,
     "total_gross": 693.0,
     "price": 33.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 272951,
@@ -622,13 +628,29 @@
     "screenName": "Cinema 01",
     "operator": "SOU",
     "total": 210,
-    "sold": 2,
-    "available": 208,
-    "occupancy": 0.95,
+    "sold": 3,
+    "available": 207,
+    "occupancy": 1.43,
     "max_gross": 5670.0,
-    "total_gross": 54.0,
+    "total_gross": 81.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
+  },
+  {
+    "id": 358627,
+    "cinemaId": "WESCIN",
+    "movieId": "HO00010652",
+    "date": "2025-09-25T21:15:00",
+    "typeId": "XTREME",
+    "screenName": "Xtremescreen 05",
+    "operator": "WES",
+    "total": 408,
+    "sold": 12,
+    "available": 396,
+    "occupancy": 2.94,
+    "max_gross": 13464.0,
+    "total_gross": 396.0,
+    "price": 33.0,
+    "error": false
   }
 ]
