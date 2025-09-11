@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11 08:52:14 PM",
+  "last_updated": "2025-09-11 09:59:29 PM",
   "errors": [
     {
       "state": "IL",
@@ -164,6 +164,36 @@
       "language": "Telugu",
       "error": {
         "status": 500
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27408",
+      "theater_name": "Red Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515835616,
+      "date": "2025-09-11+16:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27408",
+      "theater_name": "Red Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515835617,
+      "date": "2025-09-11+20:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
       }
     }
   ]
