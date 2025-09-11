@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 03:57:07 AM",
+  "last_updated": "2025-09-12 04:55:44 AM",
   "errors": [
     {
       "state": "CT",
@@ -14650,6 +14650,51 @@
       "chainCode": "RGCY",
       "showtime_id": 515858029,
       "date": "2025-09-11+16:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "Regal Times Square",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515861480,
+      "date": "2025-09-11+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515861847,
+      "date": "2025-09-11+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Blairsville",
+      "zip": "30512",
+      "theater_name": "Blairsville Cinema",
+      "chainName": "Blairsville Cinema",
+      "chainCode": "BLVC",
+      "showtime_id": 515861465,
+      "date": "2025-09-11+18:50",
       "format": "Standard",
       "language": "Unknown",
       "error": {
