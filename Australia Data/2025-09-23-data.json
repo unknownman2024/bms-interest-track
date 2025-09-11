@@ -31,7 +31,8 @@
     "max_gross": 2340.0,
     "total_gross": 234.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 299903,
@@ -195,11 +196,11 @@
     "screenName": "Cinema 01",
     "operator": "EAS",
     "total": 90,
-    "sold": 49,
-    "available": 41,
-    "occupancy": 54.44,
+    "sold": 54,
+    "available": 36,
+    "occupancy": 60.0,
     "max_gross": 2340.0,
-    "total_gross": 1274.0,
+    "total_gross": 1404.0,
     "price": 26.0,
     "error": false
   },
@@ -354,8 +355,7 @@
     "max_gross": 2625.0,
     "total_gross": 0.0,
     "price": 37.5,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 313513,
