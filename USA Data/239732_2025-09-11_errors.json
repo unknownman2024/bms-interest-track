@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 02:47:15 AM",
+  "last_updated": "2025-09-12 03:48:22 AM",
   "errors": [
     {
       "state": "MA",
@@ -16412,21 +16412,6 @@
       }
     },
     {
-      "state": "TX",
-      "city": "Edinburg",
-      "zip": "78539",
-      "theater_name": "Cinemark Bistro Edinburg",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515853849,
-      "date": "2025-09-11+23:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 404
-      }
-    },
-    {
       "state": "AZ",
       "city": "Payson",
       "zip": "85541",
@@ -16465,6 +16450,51 @@
       "chainCode": "RTSIND",
       "showtime_id": 515856215,
       "date": "2025-09-11+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Greenville",
+      "zip": "38701",
+      "theater_name": "UEC Theatres Nelco Cineplex",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515858674,
+      "date": "2025-09-11+16:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Laurel",
+      "zip": "39440",
+      "theater_name": "Southwest Theaters Sawmill Square 5",
+      "chainName": "Regency Theatres",
+      "chainCode": "RGCY",
+      "showtime_id": 515858030,
+      "date": "2025-09-11+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Elko",
+      "zip": "89801",
+      "theater_name": "UEC Theatres Elko Cinema 6",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515856918,
+      "date": "2025-09-11+18:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
