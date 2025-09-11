@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 12:50:03 AM",
+  "last_updated": "2025-09-12 01:46:26 AM",
   "errors": [
     {
       "state": "MA",
@@ -3492,21 +3492,6 @@
       "date": "2025-09-11+16:00",
       "format": "D-Box",
       "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Daytona Beach",
-      "zip": "32114",
-      "theater_name": "CMX Cinemas Daytona & IMAX",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 512192890,
-      "date": "2025-09-11+16:00",
-      "format": "Standard",
-      "language": "English",
       "error": {
         "status": 500
       }
@@ -15587,21 +15572,6 @@
       }
     },
     {
-      "state": "GA",
-      "city": "Conyers",
-      "zip": "30013",
-      "theater_name": "AMC Conyers Crossing 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515777653,
-      "date": "2025-09-11+22:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "KY",
       "city": "Henderson",
       "zip": "42420",
@@ -16469,6 +16439,36 @@
       "language": "Japanese",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Edinburg",
+      "zip": "78539",
+      "theater_name": "Cinemark Bistro Edinburg",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515853849,
+      "date": "2025-09-11+23:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Payson",
+      "zip": "85541",
+      "theater_name": "Sawmill Theatre",
+      "chainName": "Sawmill Theatre",
+      "chainCode": "SAWM",
+      "showtime_id": 515853257,
+      "date": "2025-09-11+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
       }
     }
   ]
