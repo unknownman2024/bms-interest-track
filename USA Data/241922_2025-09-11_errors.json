@@ -1,0 +1,95 @@
+{
+  "last_updated": "2025-09-11 12:42:12 PM",
+  "errors": [
+    {
+      "state": "PA",
+      "city": "Pittsburgh",
+      "zip": "15241",
+      "theater_name": "AMC CLASSIC South Hills Village 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515541707,
+      "date": "2025-09-11+15:20",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Morrow",
+      "zip": "30260",
+      "theater_name": "AMC Southlake 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 0,
+      "date": "2025-09-11+14:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Columbus",
+      "zip": "43212",
+      "theater_name": "Lennox Town Center 24",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 515063946,
+      "date": "2025-09-11+15:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Niles",
+      "zip": "60714",
+      "theater_name": "Ciné Lounge at Niles",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515806703,
+      "date": "2025-09-11+18:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Niles",
+      "zip": "60714",
+      "theater_name": "Ciné Lounge at Niles",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515477444,
+      "date": "2025-09-11+22:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Long Beach",
+      "zip": "90808",
+      "theater_name": "Regal Edwards Long Beach ScreenX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 514951689,
+      "date": "2025-09-11+13:55",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500
+      }
+    }
+  ]
+}
