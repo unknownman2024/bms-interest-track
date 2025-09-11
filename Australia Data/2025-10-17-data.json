@@ -235,7 +235,8 @@
     "max_gross": 2240.0,
     "total_gross": 0.0,
     "price": 17.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 282324,
@@ -269,7 +270,8 @@
     "max_gross": 1690.0,
     "total_gross": 234.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 262925,
@@ -473,8 +475,7 @@
     "max_gross": 3840.0,
     "total_gross": 0.0,
     "price": 24.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 41079,
@@ -525,8 +526,7 @@
     "max_gross": 3952.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 434877,
@@ -741,11 +741,11 @@
     "screenName": "Cinema 04",
     "operator": "MIL",
     "total": 44,
-    "sold": 0,
-    "available": 44,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 42,
+    "occupancy": 4.55,
     "max_gross": 1100.0,
-    "total_gross": 0.0,
+    "total_gross": 50.0,
     "price": 25.0,
     "error": false
   },

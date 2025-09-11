@@ -65,7 +65,8 @@
     "max_gross": 2340.0,
     "total_gross": 312.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 292263,
@@ -116,7 +117,8 @@
     "max_gross": 4536.0,
     "total_gross": 168.0,
     "price": 24.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 434830,
@@ -263,11 +265,11 @@
     "screenName": "Xtremescreen 09",
     "operator": "PEN",
     "total": 476,
-    "sold": 0,
-    "available": 476,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 474,
+    "occupancy": 0.42,
     "max_gross": 14280.0,
-    "total_gross": 0.0,
+    "total_gross": 60.0,
     "price": 30.0,
     "error": false
   },
@@ -314,11 +316,11 @@
     "screenName": "Xtremescreen 06",
     "operator": "HIG",
     "total": 316,
-    "sold": 59,
-    "available": 257,
-    "occupancy": 18.67,
+    "sold": 63,
+    "available": 253,
+    "occupancy": 19.94,
     "max_gross": 10428.0,
-    "total_gross": 1947.0,
+    "total_gross": 2079.0,
     "price": 33.0,
     "error": false
   },
@@ -484,11 +486,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "CDS",
     "total": 278,
-    "sold": 45,
-    "available": 233,
-    "occupancy": 16.19,
+    "sold": 49,
+    "available": 229,
+    "occupancy": 17.63,
     "max_gross": 9174.0,
-    "total_gross": 1485.0,
+    "total_gross": 1617.0,
     "price": 33.0,
     "error": false
   },
@@ -535,11 +537,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "DOC",
     "total": 408,
-    "sold": 97,
-    "available": 311,
-    "occupancy": 23.77,
+    "sold": 100,
+    "available": 308,
+    "occupancy": 24.51,
     "max_gross": 13464.0,
-    "total_gross": 3201.0,
+    "total_gross": 3300.0,
     "price": 33.0,
     "error": false
   },
@@ -552,11 +554,11 @@
     "screenName": "Xtremescreen 05",
     "operator": "BEL",
     "total": 160,
-    "sold": 49,
-    "available": 111,
-    "occupancy": 30.63,
+    "sold": 51,
+    "available": 109,
+    "occupancy": 31.87,
     "max_gross": 5040.0,
-    "total_gross": 1543.5,
+    "total_gross": 1606.5,
     "price": 31.5,
     "error": false
   },
@@ -626,6 +628,7 @@
     "max_gross": 5670.0,
     "total_gross": 54.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   }
 ]

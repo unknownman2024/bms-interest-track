@@ -150,8 +150,7 @@
     "max_gross": 3952.0,
     "total_gross": 260.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 512641,
@@ -474,7 +473,8 @@
     "max_gross": 3380.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 212962,
@@ -508,7 +508,8 @@
     "max_gross": 4602.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 301643,
@@ -542,8 +543,7 @@
     "max_gross": 11966.0,
     "total_gross": 0.0,
     "price": 31.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 421559,
@@ -753,17 +753,17 @@
     "id": 69794,
     "cinemaId": "CROCIN",
     "movieId": "HO00008334",
-    "date": "2025-09-24T19:30:00",
+    "date": "2025-09-24T19:00:00",
     "typeId": "LOUNGE",
-    "screenName": "Sapphire Lounge 05",
+    "screenName": "Cinema 01",
     "operator": "CRO",
-    "total": 35,
+    "total": 144,
     "sold": 0,
-    "available": 35,
+    "available": 144,
     "occupancy": 0.0,
-    "max_gross": 945.0,
+    "max_gross": 3744.0,
     "total_gross": 0.0,
-    "price": 27.0,
+    "price": 26.0,
     "error": false
   },
   {
@@ -832,7 +832,8 @@
     "max_gross": 3430.0,
     "total_gross": 0.0,
     "price": 24.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 313522,
@@ -1274,7 +1275,8 @@
     "max_gross": 4720.0,
     "total_gross": 59.0,
     "price": 29.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 121092,
@@ -1308,7 +1310,8 @@
     "max_gross": 1674.0,
     "total_gross": 0.0,
     "price": 31.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 78133,
@@ -1444,7 +1447,8 @@
     "max_gross": 4836.0,
     "total_gross": 0.0,
     "price": 31.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 389585,

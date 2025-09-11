@@ -303,7 +303,8 @@
     "max_gross": 3072.0,
     "total_gross": 0.0,
     "price": 24.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 281274,
@@ -314,11 +315,11 @@
     "screenName": "Cinema 09",
     "operator": "NWD",
     "total": 189,
-    "sold": 8,
-    "available": 181,
-    "occupancy": 4.23,
+    "sold": 12,
+    "available": 177,
+    "occupancy": 6.35,
     "max_gross": 4536.0,
-    "total_gross": 192.0,
+    "total_gross": 288.0,
     "price": 24.0,
     "error": false
   },
@@ -541,6 +542,7 @@
     "max_gross": 2240.0,
     "total_gross": 437.5,
     "price": 17.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   }
 ]
