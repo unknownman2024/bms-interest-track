@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11 10:48:03 AM",
+  "last_updated": "2025-09-11 11:49:38 AM",
   "errors": [
     {
       "state": "MA",
@@ -16302,6 +16302,36 @@
       "date": "2025-09-11+15:30",
       "format": "Standard",
       "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19106",
+      "theater_name": "PFS - Bourse Theater",
+      "chainName": "Agile Ticketing",
+      "chainCode": "AGLE",
+      "showtime_id": 515842593,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Fort Oglethorpe",
+      "zip": "30742",
+      "theater_name": "AMC CLASSIC Battlefield 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515841805,
+      "date": "2025-09-11+17:00",
+      "format": "Standard",
+      "language": "English",
       "error": {
         "status": 400
       }
