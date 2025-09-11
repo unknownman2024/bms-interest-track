@@ -83,5 +83,39 @@
     "total_gross": 0.0,
     "price": 27.0,
     "error": false
+  },
+  {
+    "id": 169424,
+    "cinemaId": "HAMCIN",
+    "movieId": "HO00008185",
+    "date": "2025-09-25T20:45:00",
+    "typeId": "STANDARD",
+    "screenName": "METRO 4",
+    "operator": "HAM",
+    "total": 253,
+    "sold": 0,
+    "available": 253,
+    "occupancy": 0.0,
+    "max_gross": 5819.0,
+    "total_gross": 0.0,
+    "price": 23.0,
+    "error": false
+  },
+  {
+    "id": 359522,
+    "cinemaId": "1001",
+    "movieId": "HO00008185",
+    "date": "2025-09-25T20:30:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 3",
+    "operator": "WPK",
+    "total": 126,
+    "sold": 0,
+    "available": 126,
+    "occupancy": 0.0,
+    "max_gross": 3528.0,
+    "total_gross": 0.0,
+    "price": 28.0,
+    "error": false
   }
 ]
