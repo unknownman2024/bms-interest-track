@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11 04:38:59 AM",
+  "last_updated": "2025-09-11 05:34:03 AM",
   "errors": [
     {
       "state": "CT",
@@ -31510,6 +31510,36 @@
       "chainCode": "AGLE",
       "showtime_id": 515829780,
       "date": "2025-09-12+12:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Hyannis",
+      "zip": "02601",
+      "theater_name": "Entertainment Cinemas - Hyannis",
+      "chainName": "Entertainment Cinemas",
+      "chainCode": "ENTR",
+      "showtime_id": 515299831,
+      "date": "2025-09-12+19:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Hyannis",
+      "zip": "02601",
+      "theater_name": "Entertainment Cinemas - Hyannis",
+      "chainName": "Entertainment Cinemas",
+      "chainCode": "ENTR",
+      "showtime_id": 515299838,
+      "date": "2025-09-12+15:55",
       "format": "Standard",
       "language": "English",
       "error": {
