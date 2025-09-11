@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 01:59:14 AM",
+  "last_updated": "2025-09-12 02:57:32 AM",
   "errors": [
     {
       "state": "MA",
@@ -5054,6 +5054,36 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "State College",
+      "zip": "16803",
+      "theater_name": "UEC Theatres College 9",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515854407,
+      "date": "2025-09-11+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "PA",
+      "city": "State College",
+      "zip": "16803",
+      "theater_name": "UEC Theatres College 9",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515854413,
+      "date": "2025-09-11+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
       }
     }
   ]
