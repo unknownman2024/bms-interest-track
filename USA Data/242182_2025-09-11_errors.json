@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 12:49:24 AM",
+  "last_updated": "2025-09-12 01:51:59 AM",
   "errors": [
     {
       "state": "IL",
@@ -179,6 +179,21 @@
       "language": "Telugu",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89103",
+      "theater_name": "Cinemark Century Orleans 18 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515851711,
+      "date": "2025-09-11+12:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
       }
     }
   ]
