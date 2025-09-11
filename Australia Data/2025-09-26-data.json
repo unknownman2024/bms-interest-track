@@ -286,7 +286,8 @@
     "max_gross": 5460.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 137001,
@@ -626,7 +627,8 @@
     "max_gross": 15725.0,
     "total_gross": 0.0,
     "price": 25.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 301170,
@@ -711,7 +713,8 @@
     "max_gross": 3430.0,
     "total_gross": 0.0,
     "price": 24.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 327150,
@@ -762,7 +765,8 @@
     "max_gross": 4104.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 213203,
@@ -790,11 +794,11 @@
     "screenName": "Xtreme 01",
     "operator": "CAR",
     "total": 326,
-    "sold": 6,
-    "available": 320,
-    "occupancy": 1.84,
+    "sold": 10,
+    "available": 316,
+    "occupancy": 3.07,
     "max_gross": 10106.0,
-    "total_gross": 186.0,
+    "total_gross": 310.0,
     "price": 31.0,
     "error": false
   },
@@ -824,11 +828,11 @@
     "screenName": "Xtremescreen 06",
     "operator": "HIG",
     "total": 316,
-    "sold": 7,
-    "available": 309,
-    "occupancy": 2.22,
+    "sold": 11,
+    "available": 305,
+    "occupancy": 3.48,
     "max_gross": 10744.0,
-    "total_gross": 238.0,
+    "total_gross": 374.0,
     "price": 34.0,
     "error": false
   },
@@ -864,7 +868,8 @@
     "max_gross": 6732.0,
     "total_gross": 99.0,
     "price": 33.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 245556,
@@ -1085,7 +1090,8 @@
     "max_gross": 7888.0,
     "total_gross": 0.0,
     "price": 34.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 346398,

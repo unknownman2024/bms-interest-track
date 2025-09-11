@@ -150,7 +150,8 @@
     "max_gross": 3952.0,
     "total_gross": 260.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 512641,
@@ -331,11 +332,11 @@
     "screenName": "Cinema 08",
     "operator": "MCE",
     "total": 152,
-    "sold": 59,
-    "available": 93,
-    "occupancy": 38.82,
+    "sold": 60,
+    "available": 92,
+    "occupancy": 39.47,
     "max_gross": 3952.0,
-    "total_gross": 1534.0,
+    "total_gross": 1560.0,
     "price": 26.0,
     "error": false
   },
@@ -541,7 +542,8 @@
     "max_gross": 11966.0,
     "total_gross": 0.0,
     "price": 31.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 421559,
