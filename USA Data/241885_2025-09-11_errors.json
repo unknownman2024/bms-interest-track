@@ -1,0 +1,35 @@
+{
+  "last_updated": "2025-09-11 12:42:39 PM",
+  "errors": [
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 514567048,
+      "date": "2025-09-11+14:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Columbus",
+      "zip": "43212",
+      "theater_name": "Lennox Town Center 24",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 515066417,
+      "date": "2025-09-11+12:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    }
+  ]
+}
