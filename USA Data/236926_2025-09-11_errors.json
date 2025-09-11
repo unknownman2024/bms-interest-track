@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11 08:59:07 PM",
+  "last_updated": "2025-09-11 10:06:22 PM",
   "errors": [
     {
       "state": "CT",
@@ -14504,6 +14504,51 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Sylva",
+      "zip": "28779",
+      "theater_name": "Catamount Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515845916,
+      "date": "2025-09-11+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Sylva",
+      "zip": "28779",
+      "theater_name": "Catamount Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515845915,
+      "date": "2025-09-11+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Baton Rouge",
+      "zip": "70817",
+      "theater_name": "Celebrity Theatres Baton Rouge",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515846083,
+      "date": "2025-09-11+15:00",
+      "format": "Premium Large Format",
+      "language": "Unknown",
+      "error": {
+        "exception": ""
       }
     }
   ]
