@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 02:36:42 AM",
+  "last_updated": "2025-09-12 03:35:22 AM",
   "errors": [
     {
       "state": "CT",
@@ -31904,6 +31904,81 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Daphne",
+      "zip": "36526",
+      "theater_name": "AMC CLASSIC Jubilee Square 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515858771,
+      "date": "2025-09-12+22:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "ND",
+      "city": "Minot",
+      "zip": "58701",
+      "theater_name": "AMC Dakota Square 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515858825,
+      "date": "2025-09-12+18:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "ND",
+      "city": "Minot",
+      "zip": "58701",
+      "theater_name": "AMC Dakota Square 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515858824,
+      "date": "2025-09-12+14:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "ND",
+      "city": "Minot",
+      "zip": "58701",
+      "theater_name": "AMC Dakota Square 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515858826,
+      "date": "2025-09-12+21:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Mission",
+      "zip": "78572",
+      "theater_name": "Cinemark Tinseltown USA Mission and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515858381,
+      "date": "2025-09-12+12:50",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
       }
     }
   ]
