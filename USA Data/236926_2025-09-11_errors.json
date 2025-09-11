@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11 08:42:18 AM",
+  "last_updated": "2025-09-11 09:18:39 AM",
   "errors": [
     {
       "state": "CT",
@@ -14395,6 +14395,36 @@
       "chainCode": "RTSIND",
       "showtime_id": 515837087,
       "date": "2025-09-11+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Waycross",
+      "zip": "31501",
+      "theater_name": "Mall Cinemas",
+      "chainName": "Georgia Theatre Company",
+      "chainCode": "GRGA",
+      "showtime_id": 515835506,
+      "date": "2025-09-11+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Waycross",
+      "zip": "31501",
+      "theater_name": "Mall Cinemas",
+      "chainName": "Georgia Theatre Company",
+      "chainCode": "GRGA",
+      "showtime_id": 515835509,
+      "date": "2025-09-11+19:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
