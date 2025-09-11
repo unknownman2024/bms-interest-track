@@ -337,8 +337,7 @@
     "max_gross": 2254.0,
     "total_gross": 0.0,
     "price": 23.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 30093,
@@ -440,8 +439,7 @@
     "max_gross": 3900.0,
     "total_gross": 52.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 330232,
@@ -707,11 +705,11 @@
     "screenName": "Cinema 09",
     "operator": "CDS",
     "total": 84,
-    "sold": 0,
-    "available": 84,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 82,
+    "occupancy": 2.38,
     "max_gross": 2184.0,
-    "total_gross": 0.0,
+    "total_gross": 52.0,
     "price": 26.0,
     "error": false
   },
