@@ -46,12 +46,9 @@ def get_random_ip():
 def get_seatmap_headers():
     random_ip = get_random_ip()
     return {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
-        "Origin": "hoyts.com.au",
-        "Referer": "htpps://hoyts.com.au/",
+        "User-Agent": get_random_user_agent(),
         "Connection": "keep-alive",
-        "authority": "htpps://hoyts.com.au",
-        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "X-Forwarded-For": random_ip,
     }
 
 HEADERS = get_seatmap_headers()
