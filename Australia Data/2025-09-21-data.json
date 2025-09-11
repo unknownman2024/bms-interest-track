@@ -575,7 +575,8 @@
     "max_gross": 2660.0,
     "total_gross": 0.0,
     "price": 19.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 286495,
@@ -2167,11 +2168,11 @@
     "screenName": "Xtremescreen 03",
     "operator": "HIG",
     "total": 243,
-    "sold": 0,
-    "available": 243,
-    "occupancy": 0.0,
+    "sold": 6,
+    "available": 237,
+    "occupancy": 2.47,
     "max_gross": 7533.0,
-    "total_gross": 0.0,
+    "total_gross": 186.0,
     "price": 31.0,
     "error": false
   },
@@ -4536,7 +4537,8 @@
     "max_gross": 8820.0,
     "total_gross": 0.0,
     "price": 22.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 274366,
@@ -4689,7 +4691,8 @@
     "max_gross": 3618.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 245253,
@@ -6236,7 +6239,8 @@
     "max_gross": 7105.0,
     "total_gross": 0.0,
     "price": 29.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 333034,

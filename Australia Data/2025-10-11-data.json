@@ -1038,7 +1038,8 @@
     "max_gross": 9315.0,
     "total_gross": 0.0,
     "price": 34.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 435418,
@@ -1338,11 +1339,11 @@
     "screenName": "Cinema 06",
     "operator": "BRO",
     "total": 144,
-    "sold": 0,
-    "available": 144,
-    "occupancy": 0.0,
+    "sold": 1,
+    "available": 143,
+    "occupancy": 0.69,
     "max_gross": 4680.0,
-    "total_gross": 0.0,
+    "total_gross": 32.5,
     "price": 32.5,
     "error": false
   },
@@ -1956,7 +1957,8 @@
     "max_gross": 6336.0,
     "total_gross": 0.0,
     "price": 32.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 261842,
@@ -2160,7 +2162,8 @@
     "max_gross": 12272.0,
     "total_gross": 0.0,
     "price": 29.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 29774,
@@ -2415,7 +2418,8 @@
     "max_gross": 12272.0,
     "total_gross": 0.0,
     "price": 29.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 274281,

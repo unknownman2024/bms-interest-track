@@ -290,7 +290,8 @@
     "max_gross": 10285.0,
     "total_gross": 0.0,
     "price": 27.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 29769,
@@ -3826,7 +3827,8 @@
     "max_gross": 14256.0,
     "total_gross": 0.0,
     "price": 33.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 43099,
@@ -4030,7 +4032,8 @@
     "max_gross": 2524.5,
     "total_gross": 0.0,
     "price": 38.25,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 77937,
@@ -4126,11 +4129,11 @@
     "screenName": "DBOX 08",
     "operator": "KYP",
     "total": 54,
-    "sold": 0,
-    "available": 54,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 52,
+    "occupancy": 3.7,
     "max_gross": 1944.0,
-    "total_gross": 0.0,
+    "total_gross": 72.0,
     "price": 36.0,
     "error": false
   },
@@ -5339,7 +5342,8 @@
     "max_gross": 7440.0,
     "total_gross": 0.0,
     "price": 31.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 301136,
