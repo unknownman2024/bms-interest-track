@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11 01:01:02 PM",
+  "last_updated": "2025-09-11 02:07:37 PM",
   "errors": [
     {
       "state": "CT",
@@ -14470,6 +14470,36 @@
       "chainCode": "AMC",
       "showtime_id": 515841800,
       "date": "2025-09-11+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Stanwood",
+      "zip": "98292",
+      "theater_name": "Stanwood Cinemas",
+      "chainName": "Far Away Entertainment",
+      "chainCode": "FAE",
+      "showtime_id": 515843684,
+      "date": "2025-09-11+15:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Stanwood",
+      "zip": "98292",
+      "theater_name": "Stanwood Cinemas",
+      "chainName": "Far Away Entertainment",
+      "chainCode": "FAE",
+      "showtime_id": 515843686,
+      "date": "2025-09-11+18:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
