@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11 07:09:00 AM",
+  "last_updated": "2025-09-11 08:42:18 AM",
   "errors": [
     {
       "state": "CT",
@@ -9708,21 +9708,6 @@
     },
     {
       "state": "CO",
-      "city": "Greenwood Village",
-      "zip": "80111",
-      "theater_name": "Landmark Greenwood Village",
-      "chainName": "Landmark",
-      "chainCode": "L",
-      "showtime_id": 512268624,
-      "date": "2025-09-11+14:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CO",
       "city": "Canon City",
       "zip": "81212",
       "theater_name": "The Cañon",
@@ -14395,6 +14380,21 @@
       "chainCode": "GRGA",
       "showtime_id": 515826666,
       "date": "2025-09-11+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Auburn",
+      "zip": "13021",
+      "theater_name": "Track Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515837087,
+      "date": "2025-09-11+16:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
