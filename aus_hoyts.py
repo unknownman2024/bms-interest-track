@@ -1,5 +1,6 @@
 import asyncio
 import aiohttp
+import random
 import os
 import json
 from collections import defaultdict
@@ -17,10 +18,43 @@ SESSIONS_URL_TEMPLATE = "https://apim.hoyts.com.au/au/cinemaapi/api/sessions/{ci
 SEATS_URL_TEMPLATE = "https://apim.hoyts.com.au/au/ticketing/api/v1/ticket/seats/{cinema_id}/{session_id}"
 TICKET_URL_TEMPLATE = "https://apim.hoyts.com.au/au/ticketing/api/v1/ticket/{cinema_id}/{session_id}"
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0",
-    "Accept": "application/json",
-}
+
+
+# Example User-Agent pool
+USER_AGENTS = [
+    # Chrome on Windows
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{version} Safari/537.36",
+    # Firefox on Windows
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:{version}) Gecko/20100101 Firefox/{version}",
+    # Chrome on Mac
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_{minor}_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{version} Safari/537.36",
+    # Safari on Mac
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_{minor}_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/{safari_ver} Safari/605.1.15",
+]
+
+def get_random_user_agent():
+    template = random.choice(USER_AGENTS)
+    return template.format(
+        version=f"{random.randint(70,120)}.0.{random.randint(1000,5000)}.{random.randint(0,150)}",
+        minor=random.randint(12, 15),
+        safari_ver=f"{random.randint(13,17)}.0.{random.randint(1,3)}",
+    )
+
+def get_random_ip():
+    return ".".join(str(random.randint(1, 255)) for _ in range(4))
+
+def get_seatmap_headers():
+    random_ip = get_random_ip()
+    return {
+        "User-Agent": get_random_user_agent(),
+        "Origin": "hoyts.com.au",
+        "Referer": "htpps://hoyts.com.au/",
+        "Connection": "keep-alive",
+        "authority": "htpps://hoyts.com.au",
+        "accept": "application/json",
+    }
+
+HEADERS = get_seatmap_headers()
 
 # ---------------- HELPERS ----------------
 async def fetch_json(session, url):
