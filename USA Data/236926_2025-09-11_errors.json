@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 12:05:47 AM",
+  "last_updated": "2025-09-12 12:55:41 AM",
   "errors": [
     {
       "state": "CT",
@@ -14549,6 +14549,21 @@
       "language": "Unknown",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Mountain View",
+      "zip": "94043",
+      "theater_name": "Cinemark Century Mountain View 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515850010,
+      "date": "2025-09-11+22:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": ""
       }
     }
   ]
