@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11 03:53:09 PM",
+  "last_updated": "2025-09-11 04:49:04 PM",
   "errors": [
     {
       "state": "NJ",
@@ -134,6 +134,21 @@
       "language": "Telugu",
       "error": {
         "status": 500
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Elizabeth",
+      "zip": "07201",
+      "theater_name": "AMC Jersey Gardens 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 0,
+      "date": "2025-09-11+17:50",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 404
       }
     }
   ]

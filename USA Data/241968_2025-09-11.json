@@ -1153,11 +1153,11 @@
     "date": "2025-09-11+12:25",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 60,
+    "totalSeatSold": 1,
+    "occupancy": 1.67,
+    "totalAvailableSeatCount": 59,
     "totalSeatCount": 60,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 11.99,
     "adultTicketPrice": 11.99
   },
   {
@@ -2725,5 +2725,20 @@
     "totalSeatCount": 141,
     "grossRevenueUSD": 30.9,
     "adultTicketPrice": 15.45
+  },
+  {
+    "state": "NJ",
+    "city": "Elizabeth",
+    "zip": "07201",
+    "theater_name": "AMC Jersey Gardens 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 0,
+    "date": "2025-09-11+17:50",
+    "format": "Standard",
+    "language": "Tamil",
+    "error": {
+      "status": 404
+    }
   }
 ]
