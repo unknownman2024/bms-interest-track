@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 02:57:32 AM",
+  "last_updated": "2025-09-12 03:59:59 AM",
   "errors": [
     {
       "state": "MA",
@@ -5084,6 +5084,66 @@
       "language": "Unknown",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Meadville",
+      "zip": "16335",
+      "theater_name": "The Movies at Meadville",
+      "chainName": "Emagine",
+      "chainCode": "EMAG",
+      "showtime_id": 515857958,
+      "date": "2025-09-11+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Meadville",
+      "zip": "16335",
+      "theater_name": "The Movies at Meadville",
+      "chainName": "Emagine",
+      "chainCode": "EMAG",
+      "showtime_id": 515857959,
+      "date": "2025-09-11+17:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Springfield",
+      "zip": "22150",
+      "theater_name": "Regal Springfield Town Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 513931414,
+      "date": "2025-09-11+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "theater_name": "AMC Regency 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515858940,
+      "date": "2025-09-11+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500
       }
     }
   ]
