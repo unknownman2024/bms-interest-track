@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11 05:49:45 PM",
+  "last_updated": "2025-09-11 07:03:06 PM",
   "errors": [
     {
       "state": "MA",
@@ -16364,6 +16364,21 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Beavercreek",
+      "zip": "45440",
+      "theater_name": "Cinemark The Greene 14 and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515844744,
+      "date": "2025-09-11+23:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
       }
     }
   ]
