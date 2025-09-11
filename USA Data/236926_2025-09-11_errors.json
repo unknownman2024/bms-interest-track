@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 01:58:38 AM",
+  "last_updated": "2025-09-12 02:56:26 AM",
   "errors": [
     {
       "state": "CT",
@@ -14579,6 +14579,66 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "State College",
+      "zip": "16803",
+      "theater_name": "UEC Theatres College 9",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515854408,
+      "date": "2025-09-11+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Gaithersburg",
+      "zip": "20878",
+      "theater_name": "Cinepolis Luxury Cinema Gaithersburg",
+      "chainName": "Cinepolis",
+      "chainCode": "CPLS",
+      "showtime_id": 515856655,
+      "date": "2025-09-11+16:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Hot Springs",
+      "zip": "71913",
+      "theater_name": "Hot Springs 8 VIP Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515855405,
+      "date": "2025-09-11+14:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Benton",
+      "zip": "72019",
+      "theater_name": "Cinemark Tinseltown USA Benton",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515854700,
+      "date": "2025-09-11+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
       }
     }
   ]
