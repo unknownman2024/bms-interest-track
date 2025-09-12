@@ -824,7 +824,8 @@
     "max_gross": 2952.0,
     "total_gross": 0.0,
     "price": 20.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 500725,
@@ -858,7 +859,8 @@
     "max_gross": 14280.0,
     "total_gross": 120.0,
     "price": 30.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 517684,
@@ -875,7 +877,8 @@
     "max_gross": 10744.0,
     "total_gross": 612.0,
     "price": 34.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 422047,
@@ -909,8 +912,7 @@
     "max_gross": 6732.0,
     "total_gross": 99.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 245556,
@@ -921,14 +923,13 @@
     "screenName": "Xtremescreen 01",
     "operator": "BMW",
     "total": 134,
-    "sold": 0,
-    "available": 134,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 132,
+    "occupancy": 1.49,
     "max_gross": 4020.0,
-    "total_gross": 0.0,
+    "total_gross": 60.0,
     "price": 30.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 334488,
@@ -1065,7 +1066,8 @@
     "max_gross": 12996.0,
     "total_gross": 0.0,
     "price": 19.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 331087,
@@ -1134,7 +1136,8 @@
     "max_gross": 7888.0,
     "total_gross": 0.0,
     "price": 34.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 346398,
@@ -1213,11 +1216,11 @@
     "screenName": "Xtremescreen 05",
     "operator": "WES",
     "total": 408,
-    "sold": 75,
-    "available": 333,
-    "occupancy": 18.38,
+    "sold": 83,
+    "available": 325,
+    "occupancy": 20.34,
     "max_gross": 13464.0,
-    "total_gross": 2475.0,
+    "total_gross": 2739.0,
     "price": 33.0,
     "error": false
   }
