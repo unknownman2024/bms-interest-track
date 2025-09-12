@@ -386,11 +386,11 @@
     "date": "2025-09-13",
     "time": "6:30pm",
     "total": 141,
-    "available": 114,
+    "available": 111,
     "blocked": 0,
-    "sold": 27,
-    "gross": 382.32,
-    "gross_with_tax": 465.75,
+    "sold": 30,
+    "gross": 424.8,
+    "gross_with_tax": 517.5,
     "per_ticket": {
       "net": 14.16,
       "tax": 1.84,
@@ -405,11 +405,11 @@
     "date": "2025-09-13",
     "time": "10:00pm",
     "total": 141,
-    "available": 137,
+    "available": 135,
     "blocked": 0,
-    "sold": 4,
-    "gross": 56.64,
-    "gross_with_tax": 69.0,
+    "sold": 6,
+    "gross": 84.96,
+    "gross_with_tax": 103.5,
     "per_ticket": {
       "net": 14.16,
       "tax": 1.84,
@@ -690,11 +690,11 @@
     "date": "2025-09-13",
     "time": "2:00pm",
     "total": 128,
-    "available": 104,
+    "available": 101,
     "blocked": 1,
-    "sold": 23,
-    "gross": 368.0,
-    "gross_with_tax": 391.0,
+    "sold": 26,
+    "gross": 416.0,
+    "gross_with_tax": 442.0,
     "per_ticket": {
       "net": 16.0,
       "tax": 0.0,
@@ -709,11 +709,11 @@
     "date": "2025-09-13",
     "time": "6:00pm",
     "total": 128,
-    "available": 89,
+    "available": 87,
     "blocked": 1,
-    "sold": 38,
-    "gross": 608.0,
-    "gross_with_tax": 646.0,
+    "sold": 40,
+    "gross": 640.0,
+    "gross_with_tax": 680.0,
     "per_ticket": {
       "net": 16.0,
       "tax": 0.0,
@@ -852,6 +852,44 @@
       "tax": 0.0,
       "fee": 1.0,
       "grand": 11.75
+    }
+  },
+  {
+    "venue": "orleans",
+    "movie": "Thanal - Tamil",
+    "perfIx": "872",
+    "date": "2025-09-13",
+    "time": "4:30pm",
+    "total": 213,
+    "available": 168,
+    "blocked": 45,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 13.27,
+      "tax": 1.73,
+      "fee": 1.25,
+      "grand": 16.25
+    }
+  },
+  {
+    "venue": "orleans",
+    "movie": "Thanal - Tamil",
+    "perfIx": "873",
+    "date": "2025-09-13",
+    "time": "9:30pm",
+    "total": 213,
+    "available": 168,
+    "blocked": 45,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 13.27,
+      "tax": 1.73,
+      "fee": 1.25,
+      "grand": 16.25
     }
   }
 ]
