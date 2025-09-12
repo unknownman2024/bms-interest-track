@@ -1,4 +1,4 @@
-name: USA Ghaati Scraper
+name: USA Jolly D1 Scraper
 
 on:
   workflow_dispatch:   # manual run
@@ -30,7 +30,7 @@ jobs:
           AUTHORIZATION_TOKEN: ${{ secrets.AUTHORIZATION_TOKEN }}
           SESSION_ID: ${{ secrets.SESSION_ID }}
         run: |
-          python usa4.py
+          python usajolly4.py
 
       - name: Commit & Push results
         run: |
