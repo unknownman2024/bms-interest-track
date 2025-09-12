@@ -37516,7 +37516,8 @@
     "screenName": "Cinema 10",
     "operator": "CAR",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 336752,
@@ -37526,7 +37527,8 @@
     "screenName": "Cinema 09",
     "operator": "FRA",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 283209,
@@ -37536,7 +37538,8 @@
     "screenName": "Cinema 07",
     "operator": "GRE",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 283211,
@@ -37545,6 +37548,17 @@
     "date": "2025-09-13T18:40:00",
     "screenName": "Cinema 02",
     "operator": "GRE",
+    "error": true,
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
+  },
+  {
+    "id": 274496,
+    "cinemaId": "TAYLOR",
+    "movieId": "HO00009611",
+    "date": "2025-09-13T00:00:00",
+    "screenName": "Cinema 02",
+    "operator": "TAY",
     "error": true,
     "error_msg": "HTTP 403"
   }
