@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 08:08:03 PM",
+  "last_updated": "2025-09-12 09:10:00 PM",
   "errors": [
     {
       "state": "MA",
@@ -5159,21 +5159,6 @@
       "language": "Unknown",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Norcross",
-      "zip": "30092",
-      "theater_name": "CMX CinéBistro Peachtree Corners",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 515638076,
-      "date": "2025-09-12+13:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -14003,21 +13988,6 @@
       "theater_name": "El Paso Premiere LUX Cine 17 IMAX",
       "chainName": "Premiere Cinemas",
       "chainCode": "PRCM",
-      "showtime_id": 513376899,
-      "date": "2025-09-12+11:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79925",
-      "theater_name": "El Paso Premiere LUX Cine 17 IMAX",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
       "showtime_id": 513376898,
       "date": "2025-09-12+14:00",
       "format": "Standard",
@@ -16315,6 +16285,81 @@
       "chainCode": "SAWM",
       "showtime_id": 515245236,
       "date": "2025-09-12+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515873206,
+      "date": "2025-09-12+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515873205,
+      "date": "2025-09-12+16:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515873204,
+      "date": "2025-09-12+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515873203,
+      "date": "2025-09-12+21:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake City",
+      "zip": "32055",
+      "theater_name": "Regal UA Cinema 90",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515303850,
+      "date": "2025-09-12+22:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
