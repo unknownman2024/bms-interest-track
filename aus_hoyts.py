@@ -8,9 +8,9 @@ from tqdm.asyncio import tqdm_asyncio
 from tabulate import tabulate
 
 # ---------------- CONFIG ----------------
-ALL_MOVIES = True
-TARGET_MOVIE_IDS = ["HO00010415", "HO00010548"]
-CONCURRENCY_LIMIT = 500
+ALL_MOVIES = False
+TARGET_MOVIE_IDS = ["HO00010652"]
+CONCURRENCY_LIMIT = 50
 
 CINEMAS_URL = "https://apim.hoyts.com.au/au/cinemaapi/api/cinemas"
 MOVIES_URL = "https://apim.hoyts.com.au/au/cinemaapi/api/movies/"
@@ -20,45 +20,24 @@ TICKET_URL_TEMPLATE = "https://apim.hoyts.com.au/au/ticketing/api/v1/ticket/{cin
 
 # ---------------- HEADERS ----------------
 def get_random_ip():
+    # Random X-Forwarded-For to look like different clients
     return ".".join(str(random.randint(1, 255)) for _ in range(4))
 
 def get_headers():
     return {
-        "authority": "apim.hoyts.com.au",
-        "method": "GET",
-        "path": "/au/cinemaapi/api/movies/",
-        "scheme": "https",
-        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "accept-encoding": "gzip, deflate, br, zstd",
-        "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
-        "cache-control": "no-cache",
-        "cookie": (
-            "_ga=GA1.1.1371980955.1748592304; "
-            "_scid=_Cp6fVJd9sTo5SbNZmAI9vg_NvyPxGsY; "
-            "_hjSessionUser_1508041=eyJpZCI6IjYyOTg5MTI1LTczYTItNTA4Zi1hNTA4LWFhMmFmNDg1YzdlZCIsImNyZWF0ZWQiOjE3NDg1OTIzMDQxMDQsImV4aXN0aW5nIjp0cnVlfQ==; "
-            "_tt_enable_cookie=1; "
-            "_ttp=01K1R0Z4Z02G2ZY21ABPHDVNFR_.tt.2; "
-            "ttcsid_C2385GI4I5JO5S1JBV30=1754226725858::apviTUsGDJw_vVsWOLD3.1.1754226890277; "
-            "ttcsid=1754226725859::-YsP_k4K0ZnbuQjQvuu7.1.1754226890277; "
-            "_gcl_au=1.1.755051459.1756878200; "
-            "_ScCbts=%5B%5D; "
-            "_sctr=1%7C1757529000000; "
-            "_scid_r=Bap6fVJd9sTo5SbNZmAI9vg_NvyPxGsYIVgVRA; "
-            "_ga_SQXDT3PQ8J=GS2.1.s1757593458$o6$g1$t1757594821$j60$l0$h0; "
-            "_cfuvid=DJbtG01tzQmKdZ2dX92eBf_IfzLtI1WdryLX4hVspRI-1757664049635-0.0.1.1-604800000"
-        ),
-        "dnt": "1",
-        "pragma": "no-cache",
-        "priority": "u=0, i",
-        "sec-fetch-dest": "document",
-        "sec-fetch-mode": "navigate",
-        "sec-fetch-site": "cross-site",
-        "sec-fetch-user": "?1",
-        "upgrade-insecure-requests": "1",
-        "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1",
-        "x-forwarded-for": get_random_ip(),
+        "Accept": "application/json, text/plain, */*",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
+        "Accept-Language": "en-GB,en-US;q=0.9,en;q=0.8",
+        "Cache-Control": "no-cache",
+        "Origin": "https://www.hoyts.com.au",
+        "Referer": "https://www.hoyts.com.au/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "same-site",
+        "DNT": "1",
+        "Pragma": "no-cache",
+        "X-Forwarded-For": get_random_ip(),
     }
-
 
 scraper = cloudscraper.create_scraper()
 
