@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 05:38:31 PM",
+  "last_updated": "2025-09-12 07:00:21 PM",
   "errors": [
     {
       "state": "MA",
@@ -29963,21 +29963,6 @@
       "theater_name": "City Base Entertainment",
       "chainName": "City Base Cinema",
       "chainCode": "CBC",
-      "showtime_id": 515724265,
-      "date": "2025-09-13+10:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78223",
-      "theater_name": "City Base Entertainment",
-      "chainName": "City Base Cinema",
-      "chainCode": "CBC",
       "showtime_id": 515724261,
       "date": "2025-09-13+11:15",
       "format": "Standard",
@@ -31253,21 +31238,6 @@
       "theater_name": "America Cinemas Phoenix",
       "chainName": "RTSIND",
       "chainCode": "RTSIND",
-      "showtime_id": 512522982,
-      "date": "2025-09-13+11:00",
-      "format": "Standard",
-      "language": "Spanish",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Phoenix",
-      "zip": "85033",
-      "theater_name": "America Cinemas Phoenix",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
       "showtime_id": 515382698,
       "date": "2025-09-13+12:20",
       "format": "Standard",
@@ -31283,68 +31253,8 @@
       "theater_name": "America Cinemas Phoenix",
       "chainName": "RTSIND",
       "chainCode": "RTSIND",
-      "showtime_id": 512522978,
-      "date": "2025-09-13+14:00",
-      "format": "Standard",
-      "language": "Spanish",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Phoenix",
-      "zip": "85033",
-      "theater_name": "America Cinemas Phoenix",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 512522979,
-      "date": "2025-09-13+17:00",
-      "format": "Standard",
-      "language": "Spanish",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Phoenix",
-      "zip": "85033",
-      "theater_name": "America Cinemas Phoenix",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
       "showtime_id": 515382676,
       "date": "2025-09-13+18:30",
-      "format": "Standard",
-      "language": "Spanish",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Phoenix",
-      "zip": "85033",
-      "theater_name": "America Cinemas Phoenix",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 512522980,
-      "date": "2025-09-13+20:00",
-      "format": "Standard",
-      "language": "Spanish",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Phoenix",
-      "zip": "85033",
-      "theater_name": "America Cinemas Phoenix",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 512522981,
-      "date": "2025-09-13+21:30",
       "format": "Standard",
       "language": "Spanish",
       "error": {
@@ -33059,51 +32969,6 @@
       "language": "English",
       "error": {
         "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Bernardino",
-      "zip": "92404",
-      "theater_name": "Regency Sterling 6",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515385977,
-      "date": "2025-09-13+12:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Bernardino",
-      "zip": "92404",
-      "theater_name": "Regency Sterling 6",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515385973,
-      "date": "2025-09-13+19:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Bernardino",
-      "zip": "92404",
-      "theater_name": "Regency Sterling 6",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515385993,
-      "date": "2025-09-13+14:10",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -35729,6 +35594,21 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Hackensack",
+      "zip": "07601",
+      "theater_name": "AMC DINE-IN Shops at Riverside 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 0,
+      "date": "2025-09-13+10:45",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
       }
     }
   ]
