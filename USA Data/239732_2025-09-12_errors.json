@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 04:38:09 AM",
+  "last_updated": "2025-09-12 05:35:23 AM",
   "errors": [
     {
       "state": "CT",
@@ -32009,6 +32009,126 @@
       "language": "English",
       "error": {
         "status": 500
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Turnersville",
+      "zip": "08012",
+      "theater_name": "Regal Cross Keys",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515862094,
+      "date": "2025-09-12+21:35",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Monroe",
+      "zip": "28110",
+      "theater_name": "NCG Monroe",
+      "chainName": "NCG Cinemas",
+      "chainCode": "NCG",
+      "showtime_id": 515862544,
+      "date": "2025-09-12+22:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Jacksonville",
+      "zip": "28546",
+      "theater_name": "AMC CLASSIC Jacksonville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515862080,
+      "date": "2025-09-12+18:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Cartersville",
+      "zip": "30120",
+      "theater_name": "AMC CLASSIC Cartersville 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515862120,
+      "date": "2025-09-12+20:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515862131,
+      "date": "2025-09-12+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Rockford",
+      "zip": "61108",
+      "theater_name": "AMC Rockford 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515862132,
+      "date": "2025-09-12+21:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Great Bend",
+      "zip": "67530",
+      "theater_name": "Golden Belt Cinema 6",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515860895,
+      "date": "2025-09-12+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Great Bend",
+      "zip": "67530",
+      "theater_name": "Golden Belt Cinema 6",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515860896,
+      "date": "2025-09-12+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
       }
     }
   ]
