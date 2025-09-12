@@ -853,11 +853,11 @@
     "date": "2025-09-12+19:10",
     "format": "Standard",
     "language": "Tamil",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 65,
+    "totalSeatSold": 4,
+    "occupancy": 6.15,
+    "totalAvailableSeatCount": 61,
     "totalSeatCount": 65,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 45.48,
     "adultTicketPrice": 11.37
   },
   {
@@ -1129,5 +1129,20 @@
     "totalSeatCount": 123,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 15.74
+  },
+  {
+    "state": "NJ",
+    "city": "New Brunswick",
+    "zip": "08901",
+    "theater_name": "AMC New Brunswick 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 0,
+    "date": "2025-09-12+22:20",
+    "format": "Standard",
+    "language": "Tamil",
+    "error": {
+      "status": 404
+    }
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 06:11:38 PM",
+  "last_updated": "2025-09-12 07:00:01 PM",
   "errors": [
     {
       "state": "FL",
@@ -14,6 +14,21 @@
       "language": "Telugu",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "New Brunswick",
+      "zip": "08901",
+      "theater_name": "AMC New Brunswick 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 0,
+      "date": "2025-09-12+22:20",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 404
       }
     }
   ]
