@@ -10,8 +10,8 @@ from brotli import decompress   # test import
 
 # ---------------- CONFIG ----------------
 ALL_MOVIES = False  # set True to fetch all movies
-TARGET_MOVIE_IDS = ["HO00010652"]
-CONCURRENCY_LIMIT = 50   # max concurrent requests
+TARGET_MOVIE_IDS = ["HO00010652", "HO00010666"]
+CONCURRENCY_LIMIT = 10  # max concurrent requests
 
 CINEMAS_URL = "https://hoytsaus.freemail20251808.workers.dev/?api=cinemaapi/api/cinemas"
 MOVIES_URL = "https://hoytsaus.freemail20251808.workers.dev/?api=cinemaapi/api/movies/"
