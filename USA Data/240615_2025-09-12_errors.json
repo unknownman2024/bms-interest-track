@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 03:10:55 PM",
+  "last_updated": "2025-09-12 04:11:31 PM",
   "errors": [
     {
       "state": "MA",
@@ -1825,21 +1825,6 @@
       "chainCode": "RTSIND",
       "showtime_id": 515649551,
       "date": "2025-09-12+11:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Scranton",
-      "zip": "18503",
-      "theater_name": "Scranton Art Haus",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 515649552,
-      "date": "2025-09-12+14:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -4319,21 +4304,6 @@
       "language": "Unknown",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Spartanburg",
-      "zip": "29307",
-      "theater_name": "NCG Spartanburg",
-      "chainName": "NCG Cinemas",
-      "chainCode": "NCG",
-      "showtime_id": 515861910,
-      "date": "2025-09-12+19:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -15408,111 +15378,6 @@
     },
     {
       "state": "CA",
-      "city": "Azusa",
-      "zip": "91702",
-      "theater_name": "Regency Foothill Center 10",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515379296,
-      "date": "2025-09-12+14:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Azusa",
-      "zip": "91702",
-      "theater_name": "Regency Foothill Center 10",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515379299,
-      "date": "2025-09-12+16:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Azusa",
-      "zip": "91702",
-      "theater_name": "Regency Foothill Center 10",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515379297,
-      "date": "2025-09-12+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Azusa",
-      "zip": "91702",
-      "theater_name": "Regency Foothill Center 10",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515379298,
-      "date": "2025-09-12+22:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Paula",
-      "zip": "93060",
-      "theater_name": "Regency Santa Paula 7",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515473826,
-      "date": "2025-09-12+11:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Paula",
-      "zip": "93060",
-      "theater_name": "Regency Santa Paula 7",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515473827,
-      "date": "2025-09-12+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Paula",
-      "zip": "93060",
-      "theater_name": "Regency Santa Paula 7",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515473828,
-      "date": "2025-09-12+17:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
       "city": "Moreno Valley",
       "zip": "92553",
       "theater_name": "Regency Towngate Cinemas",
@@ -16649,6 +16514,51 @@
       "language": "Unknown",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Payson",
+      "zip": "85541",
+      "theater_name": "Sawmill Theatre",
+      "chainName": "Sawmill Theatre",
+      "chainCode": "SAWM",
+      "showtime_id": 515245234,
+      "date": "2025-09-12+13:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Payson",
+      "zip": "85541",
+      "theater_name": "Sawmill Theatre",
+      "chainName": "Sawmill Theatre",
+      "chainCode": "SAWM",
+      "showtime_id": 515245235,
+      "date": "2025-09-12+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Payson",
+      "zip": "85541",
+      "theater_name": "Sawmill Theatre",
+      "chainName": "Sawmill Theatre",
+      "chainCode": "SAWM",
+      "showtime_id": 515245236,
+      "date": "2025-09-12+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
       }
     }
   ]
