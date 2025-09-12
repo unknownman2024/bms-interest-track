@@ -5133,7 +5133,8 @@
     "screenName": "Cinema 02",
     "operator": "CHW",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 312391,
@@ -5143,7 +5144,8 @@
     "screenName": "Cinema 08",
     "operator": "CHW",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 312382,
@@ -5153,7 +5155,8 @@
     "screenName": "Cinema 03",
     "operator": "CHW",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 422382,
@@ -5163,7 +5166,8 @@
     "screenName": "Xtremescreen 07",
     "operator": "EASLP",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 422362,
@@ -5173,7 +5177,8 @@
     "screenName": "Xtremescreen 03",
     "operator": "EAS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 422367,
@@ -5183,7 +5188,8 @@
     "screenName": "DBOX 02",
     "operator": "EAS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 422404,
@@ -5193,7 +5199,8 @@
     "screenName": "Cinema 05",
     "operator": "EAS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 422377,
@@ -5203,7 +5210,8 @@
     "screenName": "Xtremescreen 03",
     "operator": "EAS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 70091,
@@ -5213,7 +5221,8 @@
     "screenName": "Cinema 03",
     "operator": "CRO",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 70092,
@@ -5223,7 +5232,8 @@
     "screenName": "Sapphire Lounge 05",
     "operator": "CRO",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 70101,
@@ -5233,7 +5243,8 @@
     "screenName": "Cinema 02",
     "operator": "CRO",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 70107,
@@ -5242,6 +5253,77 @@
     "date": "2025-09-19T18:15:00",
     "screenName": "Cinema 02",
     "operator": "CRO",
+    "error": true,
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
+  },
+  {
+    "id": 213316,
+    "cinemaId": "FHLCIN",
+    "movieId": "HO00010233",
+    "date": "2025-09-19T12:30:00",
+    "screenName": "Cinema 01",
+    "operator": "FHL",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 213326,
+    "cinemaId": "FHLCIN",
+    "movieId": "HO00010233",
+    "date": "2025-09-19T18:15:00",
+    "screenName": "Cinema 01",
+    "operator": "FHL",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 213330,
+    "cinemaId": "FHLCIN",
+    "movieId": "HO00010233",
+    "date": "2025-09-19T20:45:00",
+    "screenName": "Cinema 05",
+    "operator": "FHL",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 248939,
+    "cinemaId": "SUNBNK",
+    "movieId": "HO00010681",
+    "date": "2025-09-19T18:15:00",
+    "screenName": "Cinema 08",
+    "operator": "SUN",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 248934,
+    "cinemaId": "SUNBNK",
+    "movieId": "HO00010689",
+    "date": "2025-09-19T15:30:00",
+    "screenName": "Cinema 02",
+    "operator": "SUN",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 248950,
+    "cinemaId": "SUNBNK",
+    "movieId": "HO00010700",
+    "date": "2025-09-19T21:15:00",
+    "screenName": "Cinema 08",
+    "operator": "SUN",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 248941,
+    "cinemaId": "SUNBNK",
+    "movieId": "HO00010689",
+    "date": "2025-09-19T18:45:00",
+    "screenName": "Cinema 02",
+    "operator": "SUN",
     "error": true,
     "error_msg": "HTTP 403"
   }

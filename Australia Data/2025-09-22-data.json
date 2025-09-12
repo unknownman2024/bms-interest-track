@@ -612,7 +612,8 @@
     "screenName": "Cinema 02",
     "operator": "CRO",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 70194,
@@ -622,6 +623,7 @@
     "screenName": "Cinema 01",
     "operator": "CRO",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   }
 ]
