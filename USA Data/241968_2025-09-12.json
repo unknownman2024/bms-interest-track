@@ -28,11 +28,11 @@
     "date": "2025-09-12+21:30",
     "format": "Standard",
     "language": "Tamil",
-    "totalSeatSold": 15,
-    "occupancy": 31.91,
-    "totalAvailableSeatCount": 32,
+    "totalSeatSold": 19,
+    "occupancy": 40.43,
+    "totalAvailableSeatCount": 28,
     "totalSeatCount": 47,
-    "grossRevenueUSD": 255.75,
+    "grossRevenueUSD": 323.95,
     "adultTicketPrice": 17.05
   },
   {
@@ -100,11 +100,11 @@
     "date": "2025-09-12+21:30",
     "format": "Standard",
     "language": "Tamil",
-    "totalSeatSold": 19,
-    "occupancy": 14.73,
-    "totalAvailableSeatCount": 110,
+    "totalSeatSold": 20,
+    "occupancy": 15.5,
+    "totalAvailableSeatCount": 109,
     "totalSeatCount": 129,
-    "grossRevenueUSD": 293.55,
+    "grossRevenueUSD": 309.0,
     "adultTicketPrice": 15.45
   },
   {
@@ -190,11 +190,11 @@
     "date": "2025-09-12+21:45",
     "format": "Standard",
     "language": "Tamil",
-    "totalSeatSold": 2,
-    "occupancy": 2.74,
-    "totalAvailableSeatCount": 71,
+    "totalSeatSold": 5,
+    "occupancy": 6.85,
+    "totalAvailableSeatCount": 68,
     "totalSeatCount": 73,
-    "grossRevenueUSD": 32.0,
+    "grossRevenueUSD": 80.0,
     "adultTicketPrice": 16.0
   },
   {
@@ -334,11 +334,11 @@
     "date": "2025-09-12+18:30",
     "format": "Standard",
     "language": "Tamil",
-    "totalSeatSold": 24,
-    "occupancy": 26.67,
-    "totalAvailableSeatCount": 66,
+    "totalSeatSold": 31,
+    "occupancy": 34.44,
+    "totalAvailableSeatCount": 59,
     "totalSeatCount": 90,
-    "grossRevenueUSD": 439.44,
+    "grossRevenueUSD": 567.61,
     "adultTicketPrice": 18.31
   },
   {
@@ -442,11 +442,11 @@
     "date": "2025-09-12+17:55",
     "format": "Standard",
     "language": "Tamil",
-    "totalSeatSold": 6,
-    "occupancy": 4.8,
-    "totalAvailableSeatCount": 119,
+    "totalSeatSold": 13,
+    "occupancy": 10.4,
+    "totalAvailableSeatCount": 112,
     "totalSeatCount": 125,
-    "grossRevenueUSD": 101.22,
+    "grossRevenueUSD": 219.31,
     "adultTicketPrice": 16.87
   },
   {
@@ -889,11 +889,11 @@
     "date": "2025-09-12+16:35",
     "format": "Standard",
     "language": "Tamil",
-    "totalSeatSold": 18,
-    "occupancy": 40.0,
-    "totalAvailableSeatCount": 27,
+    "totalSeatSold": 17,
+    "occupancy": 37.78,
+    "totalAvailableSeatCount": 28,
     "totalSeatCount": 45,
-    "grossRevenueUSD": 220.5,
+    "grossRevenueUSD": 208.25,
     "adultTicketPrice": 12.25
   },
   {
@@ -1162,5 +1162,20 @@
     "totalSeatCount": 45,
     "grossRevenueUSD": 12.25,
     "adultTicketPrice": 12.25
+  },
+  {
+    "state": "NJ",
+    "city": "South Plainfield",
+    "zip": "07080",
+    "theater_name": "Regal Hadley Theatre",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 515896293,
+    "date": "2025-09-12+18:00",
+    "format": "Standard",
+    "language": "Tamil",
+    "error": {
+      "status": 404
+    }
   }
 ]

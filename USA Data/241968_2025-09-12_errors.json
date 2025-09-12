@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 02:49:12 AM",
+  "last_updated": "2025-09-13 03:50:10 AM",
   "errors": [
     {
       "state": "FL",
@@ -25,6 +25,21 @@
       "chainCode": "AMC",
       "showtime_id": 0,
       "date": "2025-09-12+22:20",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "South Plainfield",
+      "zip": "07080",
+      "theater_name": "Regal Hadley Theatre",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515896293,
+      "date": "2025-09-12+18:00",
       "format": "Standard",
       "language": "Tamil",
       "error": {
