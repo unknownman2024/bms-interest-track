@@ -47,8 +47,6 @@ def get_seatmap_headers():
     random_ip = get_random_ip()
     return {
         "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "Accept-Language": "en-US,en;q=0.9",
         "Host": "https://www.hoyts.com.au",
         "Referer": "hoyts.com.au/",
         "Origin": "hoyts.com.au",
