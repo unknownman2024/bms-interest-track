@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 07:51:26 AM",
+  "last_updated": "2025-09-12 08:57:22 AM",
   "errors": [
     {
       "state": "MA",
@@ -16856,6 +16856,96 @@
       "showtime_id": 515866593,
       "date": "2025-09-11+17:25",
       "format": "Premium Large Format",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Lynbrook",
+      "zip": "11563",
+      "theater_name": "Regal Lynbrook & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515869286,
+      "date": "2025-09-11+22:50",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Laurel",
+      "zip": "20707",
+      "theater_name": "Regal Laurel Towne Centre",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515868622,
+      "date": "2025-09-11+21:50",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Dalton",
+      "zip": "30721",
+      "theater_name": "AMC CLASSIC Walnut Square 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515868254,
+      "date": "2025-09-11+22:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tallahassee",
+      "zip": "32303",
+      "theater_name": "AMC Tallahassee 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515869078,
+      "date": "2025-09-11+21:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Willmar",
+      "zip": "56201",
+      "theater_name": "Golden Ticket Cinemas Kandi 6",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 515868475,
+      "date": "2025-09-11+21:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "El Cajon",
+      "zip": "92020",
+      "theater_name": "Regal Parkway Plaza & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515868419,
+      "date": "2025-09-11+19:45",
+      "format": "Standard",
       "language": "English",
       "error": {
         "status": 404
