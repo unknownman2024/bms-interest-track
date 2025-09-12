@@ -46,11 +46,11 @@
     "date": "2025-09-12+14:55",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 4,
-    "occupancy": 7.02,
-    "totalAvailableSeatCount": 53,
+    "totalSeatSold": 7,
+    "occupancy": 12.28,
+    "totalAvailableSeatCount": 50,
     "totalSeatCount": 57,
-    "grossRevenueUSD": 64.0,
+    "grossRevenueUSD": 112.0,
     "adultTicketPrice": 16.0
   },
   {
@@ -211,5 +211,23 @@
     "error": {
       "status": 404
     }
+  },
+  {
+    "state": "IL",
+    "city": "Niles",
+    "zip": "60714",
+    "theater_name": "Cin\u00e9 Lounge at Niles",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 515879978,
+    "date": "2025-09-12+22:35",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 2,
+    "occupancy": 1.31,
+    "totalAvailableSeatCount": 151,
+    "totalSeatCount": 153,
+    "grossRevenueUSD": 27.9,
+    "adultTicketPrice": 13.95
   }
 ]
