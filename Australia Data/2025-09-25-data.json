@@ -682,5 +682,15 @@
     "price": 33.0,
     "error": false,
     "last_error": "HTTP 403"
+  },
+  {
+    "id": 43468,
+    "cinemaId": "MIDCIN",
+    "movieId": "HO00010652",
+    "date": "2025-09-25T21:15:00",
+    "screenName": "Xtremescreen 03",
+    "operator": "MID",
+    "error": true,
+    "error_msg": "HTTP 403"
   }
 ]

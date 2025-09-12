@@ -37494,7 +37494,8 @@
     "screenName": "Cinema 07",
     "operator": "CAR",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 70269,
@@ -37503,6 +37504,47 @@
     "date": "2025-09-13T20:20:00",
     "screenName": "Cinema 02",
     "operator": "CRO",
+    "error": true,
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
+  },
+  {
+    "id": 500028,
+    "cinemaId": "CAROUS",
+    "movieId": "HO00010166",
+    "date": "2025-09-13T01:05:00",
+    "screenName": "Cinema 10",
+    "operator": "CAR",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 336752,
+    "cinemaId": "FRANKS",
+    "movieId": "HO00009618",
+    "date": "2025-09-13T21:15:00",
+    "screenName": "Cinema 09",
+    "operator": "FRA",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 283209,
+    "cinemaId": "GRENSB",
+    "movieId": "HO00008335",
+    "date": "2025-09-13T15:30:00",
+    "screenName": "Cinema 07",
+    "operator": "GRE",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 283211,
+    "cinemaId": "GRENSB",
+    "movieId": "HO00008335",
+    "date": "2025-09-13T18:40:00",
+    "screenName": "Cinema 02",
+    "operator": "GRE",
     "error": true,
     "error_msg": "HTTP 403"
   }

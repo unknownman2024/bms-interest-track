@@ -4793,7 +4793,8 @@
     "screenName": "HOYTS LUX 01",
     "operator": "HIGDS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 518140,
@@ -4803,7 +4804,8 @@
     "screenName": "HOYTS LUX 02",
     "operator": "HIGDS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 518088,
@@ -4813,7 +4815,8 @@
     "screenName": "HOYTS LUX 01",
     "operator": "HIGDS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 518077,
@@ -4823,7 +4826,8 @@
     "screenName": "HOYTS LUX 02",
     "operator": "HIGDS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 518078,
@@ -4833,7 +4837,8 @@
     "screenName": "HOYTS LUX 01",
     "operator": "HIGDS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 518091,
@@ -4843,7 +4848,8 @@
     "screenName": "HOYTS LUX 02",
     "operator": "HIGDS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 518101,
@@ -4853,7 +4859,8 @@
     "screenName": "HOYTS LUX 01",
     "operator": "HIGDS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 518103,
@@ -4862,6 +4869,17 @@
     "date": "2025-09-18T21:30:00",
     "screenName": "HOYTS LUX 02",
     "operator": "HIGDS",
+    "error": true,
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
+  },
+  {
+    "id": 262244,
+    "cinemaId": "REDCLF",
+    "movieId": "HO00010521",
+    "date": "2025-09-18T18:15:00",
+    "screenName": "Cinema 04",
+    "operator": "RED",
     "error": true,
     "error_msg": "HTTP 403"
   }

@@ -37486,5 +37486,35 @@
     "operator": "CAR",
     "error": true,
     "error_msg": "HTTP 403"
+  },
+  {
+    "id": 336753,
+    "cinemaId": "FRANKS",
+    "movieId": "HO00009618",
+    "date": "2025-09-14T20:50:00",
+    "screenName": "Cinema 12",
+    "operator": "FRA",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 358646,
+    "cinemaId": "WESCIN",
+    "movieId": "HO00009351",
+    "date": "2025-09-14T16:30:00",
+    "screenName": "Cinema 09",
+    "operator": "WES",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 358647,
+    "cinemaId": "WESCIN",
+    "movieId": "HO00010397",
+    "date": "2025-09-14T18:40:00",
+    "screenName": "Cinema 09",
+    "operator": "WES",
+    "error": true,
+    "error_msg": "HTTP 403"
   }
 ]
