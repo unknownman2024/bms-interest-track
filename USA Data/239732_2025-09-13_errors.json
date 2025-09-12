@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 08:45:39 PM",
+  "last_updated": "2025-09-12 09:38:19 PM",
   "errors": [
     {
       "state": "MA",
@@ -1829,36 +1829,6 @@
       "language": "Unknown",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10023",
-      "theater_name": "AMC Lincoln Square 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515865223,
-      "date": "2025-09-13+18:30",
-      "format": "IMAX",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New York",
-      "zip": "10023",
-      "theater_name": "AMC Lincoln Square 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515865224,
-      "date": "2025-09-13+22:15",
-      "format": "IMAX",
-      "language": "Japanese",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -28973,21 +28943,6 @@
       "theater_name": "America Cinemas Houston",
       "chainName": "RTSIND",
       "chainCode": "RTSIND",
-      "showtime_id": 515465341,
-      "date": "2025-09-13+14:00",
-      "format": "Standard",
-      "language": "Spanish",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77036",
-      "theater_name": "America Cinemas Houston",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
       "showtime_id": 515465245,
       "date": "2025-09-13+18:45",
       "format": "Standard",
@@ -35022,6 +34977,81 @@
       "date": "2025-09-13+19:40",
       "format": "Standard",
       "language": "Japanese",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Columbus",
+      "zip": "43228",
+      "theater_name": "AMC Starplex Columbus 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515874116,
+      "date": "2025-09-13+18:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Columbus",
+      "zip": "43228",
+      "theater_name": "AMC Starplex Columbus 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515874114,
+      "date": "2025-09-13+19:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Coon Rapids",
+      "zip": "55433",
+      "theater_name": "AMC Coon Rapids 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515873348,
+      "date": "2025-09-13+14:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Coon Rapids",
+      "zip": "55433",
+      "theater_name": "AMC Coon Rapids 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515873349,
+      "date": "2025-09-13+11:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Coon Rapids",
+      "zip": "55433",
+      "theater_name": "AMC Coon Rapids 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515873347,
+      "date": "2025-09-13+18:30",
+      "format": "Standard",
+      "language": "English",
       "error": {
         "status": 500
       }
