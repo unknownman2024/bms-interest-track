@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 01:00:12 AM",
+  "last_updated": "2025-09-13 02:05:01 AM",
   "errors": [
     {
       "state": "MA",
@@ -25172,21 +25172,6 @@
       }
     },
     {
-      "state": "WA",
-      "city": "Airway Heights",
-      "zip": "99001",
-      "theater_name": "B&B Theatres Airway Heights 8",
-      "chainName": "B&B Theaters",
-      "chainCode": "BNBT",
-      "showtime_id": 515753538,
-      "date": "2025-09-12+16:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400
-      }
-    },
-    {
       "state": "UT",
       "city": "North Ogden",
       "zip": "84404",
@@ -29159,6 +29144,96 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "NH",
+      "city": "Gilford",
+      "zip": "03246",
+      "theater_name": "Gilford Cinema 8",
+      "chainName": "Scene One Entertainment",
+      "chainCode": "BOWT",
+      "showtime_id": 515884472,
+      "date": "2025-09-12+15:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NH",
+      "city": "Gilford",
+      "zip": "03246",
+      "theater_name": "Gilford Cinema 8",
+      "chainName": "Scene One Entertainment",
+      "chainCode": "BOWT",
+      "showtime_id": 515884473,
+      "date": "2025-09-12+18:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19106",
+      "theater_name": "Landmark Ritz Five",
+      "chainName": "Landmark",
+      "chainCode": "L",
+      "showtime_id": 515880885,
+      "date": "2025-09-12+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19106",
+      "theater_name": "Landmark Ritz Five",
+      "chainName": "Landmark",
+      "chainCode": "L",
+      "showtime_id": 515880876,
+      "date": "2025-09-12+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19106",
+      "theater_name": "Landmark Ritz Five",
+      "chainName": "Landmark",
+      "chainCode": "L",
+      "showtime_id": 515880875,
+      "date": "2025-09-12+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Gurnee",
+      "zip": "60031",
+      "theater_name": "Marcus Gurnee Mills Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 515883983,
+      "date": "2025-09-12+21:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
       }
     }
   ]
