@@ -367,11 +367,11 @@
     "date": "2025-09-13",
     "time": "10:15pm",
     "total": 263,
-    "available": 250,
+    "available": 246,
     "blocked": 0,
-    "sold": 13,
-    "gross": 184.08,
-    "gross_with_tax": 224.25,
+    "sold": 17,
+    "gross": 240.72,
+    "gross_with_tax": 293.25,
     "per_ticket": {
       "net": 14.16,
       "tax": 1.84,
@@ -386,11 +386,11 @@
     "date": "2025-09-13",
     "time": "6:30pm",
     "total": 141,
-    "available": 97,
+    "available": 98,
     "blocked": 0,
-    "sold": 44,
-    "gross": 623.04,
-    "gross_with_tax": 759.0,
+    "sold": 43,
+    "gross": 608.88,
+    "gross_with_tax": 741.75,
     "per_ticket": {
       "net": 14.16,
       "tax": 1.84,
@@ -890,6 +890,25 @@
       "tax": 1.73,
       "fee": 1.25,
       "grand": 16.25
+    }
+  },
+  {
+    "venue": "woodside",
+    "movie": "Thanal - Tamil",
+    "perfIx": "37443",
+    "date": "2025-09-13",
+    "time": "3:00pm",
+    "total": 141,
+    "available": 141,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 14.16,
+      "tax": 1.84,
+      "fee": 1.25,
+      "grand": 17.25
     }
   }
 ]
