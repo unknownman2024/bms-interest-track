@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 08:57:22 AM",
+  "last_updated": "2025-09-12 09:37:34 AM",
   "errors": [
     {
       "state": "MA",
@@ -16832,21 +16832,6 @@
       }
     },
     {
-      "state": "AZ",
-      "city": "Tempe",
-      "zip": "85281",
-      "theater_name": "AMC Centerpoint 11",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515867525,
-      "date": "2025-09-11+22:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "CA",
       "city": "Livermore",
       "zip": "94550",
@@ -16949,6 +16934,111 @@
       "language": "English",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Asheville",
+      "zip": "28803",
+      "theater_name": "Regal Biltmore Grande",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515869860,
+      "date": "2025-09-11+22:50",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Hialeah",
+      "zip": "33012",
+      "theater_name": "AMC Hialeah 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515870096,
+      "date": "2025-09-11+22:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Chicago",
+      "zip": "60652",
+      "theater_name": "AMC Ford City 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515869677,
+      "date": "2025-09-11+22:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Boulder",
+      "zip": "80301",
+      "theater_name": "Cinemark Century Boulder",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515869680,
+      "date": "2025-09-11+21:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Hesperia",
+      "zip": "92345",
+      "theater_name": "Civic Plaza Cinema & IMAX",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 515870132,
+      "date": "2025-09-11+20:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fresno",
+      "zip": "93710",
+      "theater_name": "Maya Fresno 16 & MPX",
+      "chainName": "Maya Cinemas",
+      "chainCode": "MAYA",
+      "showtime_id": 515869859,
+      "date": "2025-09-11+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Jose",
+      "zip": "95123",
+      "theater_name": "Cinemark Century Oakridge 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515870244,
+      "date": "2025-09-11+21:50",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
       }
     }
   ]
