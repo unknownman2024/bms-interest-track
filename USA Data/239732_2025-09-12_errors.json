@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 12:58:53 PM",
+  "last_updated": "2025-09-12 03:03:45 PM",
   "errors": [
     {
       "state": "CT",
@@ -31967,36 +31967,6 @@
       }
     },
     {
-      "state": "IL",
-      "city": "Rockford",
-      "zip": "61108",
-      "theater_name": "AMC Rockford 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515862131,
-      "date": "2025-09-12+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Rockford",
-      "zip": "61108",
-      "theater_name": "AMC Rockford 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515862132,
-      "date": "2025-09-12+21:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400
-      }
-    },
-    {
       "state": "KS",
       "city": "Great Bend",
       "zip": "67530",
@@ -32147,18 +32117,33 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Mountain View",
-      "zip": "94040",
-      "theater_name": "Alamo Drafthouse Mountain View",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 515871766,
-      "date": "2025-09-12+17:30",
+      "state": "IN",
+      "city": "Mooresville",
+      "zip": "46158",
+      "theater_name": "Showtime Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515872028,
+      "date": "2025-09-12+17:15",
       "format": "Standard",
-      "language": "English",
+      "language": "Unknown",
       "error": {
-        "status": 500
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Mooresville",
+      "zip": "46158",
+      "theater_name": "Showtime Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515872029,
+      "date": "2025-09-12+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
       }
     }
   ]
