@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 08:06:31 PM",
+  "last_updated": "2025-09-12 09:06:56 PM",
   "errors": [
     {
       "state": "MA",
@@ -28870,6 +28870,81 @@
       "chainCode": "RTSIND",
       "showtime_id": 515872442,
       "date": "2025-09-12+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515873194,
+      "date": "2025-09-12+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515873195,
+      "date": "2025-09-12+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515873196,
+      "date": "2025-09-12+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Decorah",
+      "zip": "52101",
+      "theater_name": "Viking Theatre",
+      "chainName": "Fridley Theatres",
+      "chainCode": "FRID",
+      "showtime_id": 515873281,
+      "date": "2025-09-12+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Decorah",
+      "zip": "52101",
+      "theater_name": "Viking Theatre",
+      "chainName": "Fridley Theatres",
+      "chainCode": "FRID",
+      "showtime_id": 515873282,
+      "date": "2025-09-12+20:50",
       "format": "Standard",
       "language": "Unknown",
       "error": {
