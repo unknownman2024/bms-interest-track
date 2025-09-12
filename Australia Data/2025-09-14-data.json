@@ -37519,5 +37519,35 @@
     "error": true,
     "error_msg": "HTTP 403",
     "last_error": "HTTP 403"
+  },
+  {
+    "id": 283217,
+    "cinemaId": "GRENSB",
+    "movieId": "HO00008335",
+    "date": "2025-09-14T13:30:00",
+    "screenName": "Cinema 02",
+    "operator": "GRE",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 78722,
+    "cinemaId": "KYPCIN",
+    "movieId": "HO00009403",
+    "date": "2025-09-14T19:15:00",
+    "screenName": "Cinema 06",
+    "operator": "KYP",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 263509,
+    "cinemaId": "CHARLE",
+    "movieId": "HO00008335",
+    "date": "2025-09-14T21:30:00",
+    "screenName": "Cinema 01",
+    "operator": "CHA",
+    "error": true,
+    "error_msg": "HTTP 403"
   }
 ]

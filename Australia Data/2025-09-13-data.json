@@ -37560,6 +37560,37 @@
     "screenName": "Cinema 02",
     "operator": "TAY",
     "error": true,
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
+  },
+  {
+    "id": 358644,
+    "cinemaId": "WESCIN",
+    "movieId": "HO00010707",
+    "date": "2025-09-13T21:40:00",
+    "screenName": "Cinema 04",
+    "operator": "WES",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 283216,
+    "cinemaId": "GRENSB",
+    "movieId": "HO00008335",
+    "date": "2025-09-13T20:30:00",
+    "screenName": "Cinema 06",
+    "operator": "GRE",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 263508,
+    "cinemaId": "CHARLE",
+    "movieId": "HO00008335",
+    "date": "2025-09-13T21:30:00",
+    "screenName": "Cinema 01",
+    "operator": "CHA",
+    "error": true,
     "error_msg": "HTTP 403"
   }
 ]
