@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 02:42:43 AM",
+  "last_updated": "2025-09-13 03:38:41 AM",
   "errors": [
     {
       "state": "MA",
@@ -34832,36 +34832,6 @@
       }
     },
     {
-      "state": "IL",
-      "city": "Crestwood",
-      "zip": "60148",
-      "theater_name": "AMC Crestwood 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515880752,
-      "date": "2025-09-13+14:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Crestwood",
-      "zip": "60148",
-      "theater_name": "AMC Crestwood 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515880753,
-      "date": "2025-09-13+18:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400
-      }
-    },
-    {
       "state": "NY",
       "city": "Brooklyn",
       "zip": "11220",
@@ -34979,6 +34949,171 @@
       "language": "English",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Goldsboro",
+      "zip": "27534",
+      "theater_name": "UEC Theatres Goldsboro",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515894450,
+      "date": "2025-09-13+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Goldsboro",
+      "zip": "27534",
+      "theater_name": "UEC Theatres Goldsboro",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515894451,
+      "date": "2025-09-13+15:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Goldsboro",
+      "zip": "27534",
+      "theater_name": "UEC Theatres Goldsboro",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515894452,
+      "date": "2025-09-13+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Lebanon",
+      "zip": "45036",
+      "theater_name": "Colony Square 7 Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515896308,
+      "date": "2025-09-13+13:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Lebanon",
+      "zip": "45036",
+      "theater_name": "Colony Square 7 Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515896310,
+      "date": "2025-09-13+18:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Lebanon",
+      "zip": "45036",
+      "theater_name": "Colony Square 7 Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515896309,
+      "date": "2025-09-13+21:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77075",
+      "theater_name": "Studio Movie Grill Pearland",
+      "chainName": "Studio Movie Grill",
+      "chainCode": "SMG",
+      "showtime_id": 515892724,
+      "date": "2025-09-13+10:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77075",
+      "theater_name": "Studio Movie Grill Pearland",
+      "chainName": "Studio Movie Grill",
+      "chainCode": "SMG",
+      "showtime_id": 515892726,
+      "date": "2025-09-13+17:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77075",
+      "theater_name": "Studio Movie Grill Pearland",
+      "chainName": "Studio Movie Grill",
+      "chainCode": "SMG",
+      "showtime_id": 515892727,
+      "date": "2025-09-13+21:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "San Antonio",
+      "zip": "78232",
+      "theater_name": "Regal Northwoods",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515892067,
+      "date": "2025-09-13+23:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "San Antonio",
+      "zip": "78232",
+      "theater_name": "Regal Northwoods",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515892068,
+      "date": "2025-09-13+22:55",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
       }
     }
   ]
