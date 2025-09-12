@@ -46,11 +46,11 @@
     "date": "2025-09-12+22:20",
     "format": "Standard",
     "language": "Tamil",
-    "totalSeatSold": 2,
-    "occupancy": 1.96,
-    "totalAvailableSeatCount": 100,
+    "totalSeatSold": 4,
+    "occupancy": 3.92,
+    "totalAvailableSeatCount": 98,
     "totalSeatCount": 102,
-    "grossRevenueUSD": 26.64,
+    "grossRevenueUSD": 53.28,
     "adultTicketPrice": 13.32
   },
   {
@@ -262,11 +262,11 @@
     "date": "2025-09-12+22:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 8,
-    "occupancy": 13.79,
-    "totalAvailableSeatCount": 50,
+    "totalSeatSold": 5,
+    "occupancy": 8.62,
+    "totalAvailableSeatCount": 53,
     "totalSeatCount": 58,
-    "grossRevenueUSD": 115.44,
+    "grossRevenueUSD": 72.15,
     "adultTicketPrice": 14.43
   },
   {
@@ -298,11 +298,11 @@
     "date": "2025-09-12+22:05",
     "format": "Standard",
     "language": "Tamil",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 50,
+    "totalSeatSold": 2,
+    "occupancy": 4.0,
+    "totalAvailableSeatCount": 48,
     "totalSeatCount": 50,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 34.3,
     "adultTicketPrice": 17.15
   },
   {
@@ -460,11 +460,11 @@
     "date": "2025-09-12+13:30",
     "format": "Standard",
     "language": "Tamil",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 120,
+    "totalSeatSold": 1,
+    "occupancy": 0.83,
+    "totalAvailableSeatCount": 119,
     "totalSeatCount": 120,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 12.83,
     "adultTicketPrice": 12.83
   },
   {
@@ -889,11 +889,11 @@
     "date": "2025-09-12+16:35",
     "format": "Standard",
     "language": "Tamil",
-    "totalSeatSold": 7,
-    "occupancy": 15.56,
-    "totalAvailableSeatCount": 38,
+    "totalSeatSold": 11,
+    "occupancy": 24.44,
+    "totalAvailableSeatCount": 34,
     "totalSeatCount": 45,
-    "grossRevenueUSD": 85.75,
+    "grossRevenueUSD": 134.75,
     "adultTicketPrice": 12.25
   },
   {
@@ -1144,5 +1144,23 @@
     "error": {
       "status": 404
     }
+  },
+  {
+    "state": "CA",
+    "city": "Milpitas",
+    "zip": "95035",
+    "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 515875470,
+    "date": "2025-09-12+13:15",
+    "format": "Standard",
+    "language": "Tamil",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 45,
+    "totalSeatCount": 45,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 12.25
   }
 ]
