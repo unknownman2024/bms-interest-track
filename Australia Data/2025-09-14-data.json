@@ -11108,7 +11108,8 @@
     "max_gross": 3780.0,
     "total_gross": 1404.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 372714,
@@ -13637,14 +13638,13 @@
     "screenName": "Xtremescreen 05",
     "operator": "WES",
     "total": 408,
-    "sold": 105,
-    "available": 303,
-    "occupancy": 25.74,
+    "sold": 129,
+    "available": 279,
+    "occupancy": 31.62,
     "max_gross": 11016.0,
-    "total_gross": 2835.0,
+    "total_gross": 3483.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 301601,
@@ -14735,14 +14735,13 @@
     "screenName": "Cinema 01",
     "operator": "HIG",
     "total": 180,
-    "sold": 80,
-    "available": 100,
-    "occupancy": 44.44,
+    "sold": 87,
+    "available": 93,
+    "occupancy": 48.33,
     "max_gross": 4860.0,
-    "total_gross": 2160.0,
+    "total_gross": 2349.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 358869,
@@ -15095,14 +15094,13 @@
     "screenName": "Xtreme 09",
     "operator": "CAR",
     "total": 216,
-    "sold": 26,
-    "available": 190,
-    "occupancy": 12.04,
+    "sold": 31,
+    "available": 185,
+    "occupancy": 14.35,
     "max_gross": 5832.0,
-    "total_gross": 702.0,
+    "total_gross": 837.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 517428,
@@ -19884,7 +19882,8 @@
     "max_gross": 12096.0,
     "total_gross": 81.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 73277,
@@ -19913,11 +19912,11 @@
     "screenName": "Cinema 05",
     "operator": "HIG",
     "total": 190,
-    "sold": 70,
-    "available": 120,
-    "occupancy": 36.84,
+    "sold": 72,
+    "available": 118,
+    "occupancy": 37.89,
     "max_gross": 5130.0,
-    "total_gross": 1890.0,
+    "total_gross": 1944.0,
     "price": 27.0,
     "error": false
   },
@@ -30803,7 +30802,8 @@
     "max_gross": 3969.0,
     "total_gross": 54.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 389100,
@@ -33106,8 +33106,7 @@
     "max_gross": 2592.0,
     "total_gross": 1242.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 29935,
@@ -34420,7 +34419,8 @@
     "max_gross": 2808.0,
     "total_gross": 81.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 29933,
@@ -37421,7 +37421,8 @@
     "max_gross": 5670.0,
     "total_gross": 2997.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 518124,
@@ -37569,13 +37570,12 @@
     "screenName": "Cinema 02",
     "operator": "TAY",
     "total": 160,
-    "sold": 26,
-    "available": 134,
-    "occupancy": 16.25,
+    "sold": 25,
+    "available": 135,
+    "occupancy": 15.62,
     "max_gross": 4320.0,
-    "total_gross": 702.0,
+    "total_gross": 675.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   }
 ]
