@@ -13,11 +13,11 @@ ALL_MOVIES = False  # set True to fetch all movies
 TARGET_MOVIE_IDS = ["HO00010652"]
 CONCURRENCY_LIMIT = 50   # max concurrent requests
 
-CINEMAS_URL = "https://apim.hoyts.com.au/au/cinemaapi/api/cinemas"
-MOVIES_URL = "https://apim.hoyts.com.au/au/cinemaapi/api/movies/"
-SESSIONS_URL_TEMPLATE = "https://apim.hoyts.com.au/au/cinemaapi/api/sessions/{cinema_id}"
-SEATS_URL_TEMPLATE = "https://apim.hoyts.com.au/au/ticketing/api/v1/ticket/seats/{cinema_id}/{session_id}"
-TICKET_URL_TEMPLATE = "https://apim.hoyts.com.au/au/ticketing/api/v1/ticket/{cinema_id}/{session_id}"
+CINEMAS_URL = "https://hoytsaus.freemail20251808.workers.dev/?api=cinemaapi/api/cinemas"
+MOVIES_URL = "https://hoytsaus.freemail20251808.workers.dev/?api=cinemaapi/api/movies/"
+SESSIONS_URL_TEMPLATE = "https://hoytsaus.freemail20251808.workers.dev/?api=cinemaapi/api/sessions/{cinema_id}"
+SEATS_URL_TEMPLATE = "https://hoytsaus.freemail20251808.workers.dev/?api=ticketing/api/v1/ticket/seats/{cinema_id}/{session_id}"
+TICKET_URL_TEMPLATE = "https://hoytsaus.freemail20251808.workers.dev/?api=ticketing/api/v1/ticket/{cinema_id}/{session_id}"
 
 
 
