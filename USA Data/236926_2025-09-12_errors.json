@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 02:58:49 AM",
+  "last_updated": "2025-09-13 03:58:43 AM",
   "errors": [
     {
       "state": "MA",
@@ -24662,21 +24662,6 @@
       }
     },
     {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79924",
-      "theater_name": "AMC El Paso 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 511351122,
-      "date": "2025-09-12+21:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "CO",
       "city": "Denver",
       "zip": "80203",
@@ -29275,6 +29260,81 @@
       "chainCode": "CNMK",
       "showtime_id": 515884919,
       "date": "2025-09-12+11:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Hinesville",
+      "zip": "31313",
+      "theater_name": "Liberty Cinemas",
+      "chainName": "Georgia Theatre Company",
+      "chainCode": "GRGA",
+      "showtime_id": 515894793,
+      "date": "2025-09-12+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Saint Michael",
+      "zip": "55376",
+      "theater_name": "St. Michael Cinema",
+      "chainName": "St. Michael Cinema",
+      "chainCode": "STMC",
+      "showtime_id": 515892370,
+      "date": "2025-09-12+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Saint Michael",
+      "zip": "55376",
+      "theater_name": "St. Michael Cinema",
+      "chainName": "St. Michael Cinema",
+      "chainCode": "STMC",
+      "showtime_id": 515892371,
+      "date": "2025-09-12+20:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "UT",
+      "city": "Holladay",
+      "zip": "84117",
+      "theater_name": "Megaplex Luxury Theatres at Cottonwood",
+      "chainName": "Megaplex Theatres",
+      "chainCode": "MEGA",
+      "showtime_id": 515460626,
+      "date": "2025-09-12+16:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Rocklin",
+      "zip": "95765",
+      "theater_name": "Cinemark Century Blue Oaks Theatres and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515891677,
+      "date": "2025-09-12+13:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
