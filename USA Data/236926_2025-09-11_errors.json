@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 04:55:44 AM",
+  "last_updated": "2025-09-12 06:58:19 AM",
   "errors": [
     {
       "state": "CT",
@@ -14699,6 +14699,66 @@
       "language": "Unknown",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Mooresville",
+      "zip": "46158",
+      "theater_name": "Showtime Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515864635,
+      "date": "2025-09-11+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "UT",
+      "city": "Brigham City",
+      "zip": "84302",
+      "theater_name": "Capitol Theatre",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515534291,
+      "date": "2025-09-11+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Red Bluff",
+      "zip": "96080",
+      "theater_name": "Prime Cinemas Red Bluff",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515866133,
+      "date": "2025-09-11+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Red Bluff",
+      "zip": "96080",
+      "theater_name": "Prime Cinemas Red Bluff",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515866134,
+      "date": "2025-09-11+19:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
       }
     }
   ]
