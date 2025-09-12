@@ -317,8 +317,7 @@
     "max_gross": 6666.0,
     "total_gross": 792.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 517683,
@@ -329,11 +328,11 @@
     "screenName": "Xtremescreen 06",
     "operator": "HIG",
     "total": 316,
-    "sold": 115,
-    "available": 201,
-    "occupancy": 36.39,
+    "sold": 117,
+    "available": 199,
+    "occupancy": 37.03,
     "max_gross": 10428.0,
-    "total_gross": 3795.0,
+    "total_gross": 3861.0,
     "price": 33.0,
     "error": false
   },
@@ -523,8 +522,7 @@
     "max_gross": 7656.0,
     "total_gross": 1122.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 286792,
@@ -558,8 +556,7 @@
     "max_gross": 13464.0,
     "total_gross": 4389.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 346397,
@@ -593,7 +590,8 @@
     "max_gross": 9900.0,
     "total_gross": 60.0,
     "price": 30.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 78699,
@@ -604,11 +602,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "KYP",
     "total": 432,
-    "sold": 20,
-    "available": 412,
-    "occupancy": 4.63,
+    "sold": 22,
+    "available": 410,
+    "occupancy": 5.09,
     "max_gross": 14256.0,
-    "total_gross": 660.0,
+    "total_gross": 726.0,
     "price": 33.0,
     "error": false
   },
@@ -644,7 +642,8 @@
     "max_gross": 5670.0,
     "total_gross": 81.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 358627,
@@ -689,11 +688,11 @@
     "screenName": "Xtremescreen 05",
     "operator": "WES",
     "total": 408,
-    "sold": 61,
-    "available": 347,
-    "occupancy": 14.95,
+    "sold": 62,
+    "available": 346,
+    "occupancy": 15.2,
     "max_gross": 13464.0,
-    "total_gross": 2013.0,
+    "total_gross": 2046.0,
     "price": 33.0,
     "error": false
   },
@@ -729,6 +728,7 @@
     "max_gross": 8712.0,
     "total_gross": 990.0,
     "price": 33.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   }
 ]
