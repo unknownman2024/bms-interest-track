@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 12:44:29 AM",
+  "last_updated": "2025-09-13 01:40:23 AM",
   "errors": [
     {
       "state": "MA",
@@ -34787,21 +34787,6 @@
       }
     },
     {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60605",
-      "theater_name": "AMC Roosevelt Collection 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515878026,
-      "date": "2025-09-13+20:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400
-      }
-    },
-    {
       "state": "OR",
       "city": "Baker City",
       "zip": "97814",
@@ -34842,6 +34827,66 @@
       "date": "2025-09-13+19:00",
       "format": "Standard",
       "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Ocoee",
+      "zip": "34761",
+      "theater_name": "AMC West Oaks 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515883399,
+      "date": "2025-09-13+12:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Palm Harbor",
+      "zip": "34684",
+      "theater_name": "AMC CLASSIC Palm Harbor 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515880635,
+      "date": "2025-09-13+20:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Crestwood",
+      "zip": "60148",
+      "theater_name": "AMC Crestwood 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515880752,
+      "date": "2025-09-13+14:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Crestwood",
+      "zip": "60148",
+      "theater_name": "AMC Crestwood 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515880753,
+      "date": "2025-09-13+18:15",
+      "format": "Standard",
+      "language": "Unknown",
       "error": {
         "status": 400
       }
