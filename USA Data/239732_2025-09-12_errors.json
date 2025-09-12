@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 11:00:00 PM",
+  "last_updated": "2025-09-12 11:56:36 PM",
   "errors": [
     {
       "state": "CT",
@@ -13319,51 +13319,6 @@
       "language": "English",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Diego",
-      "zip": "92108",
-      "theater_name": "AMC Fashion Valley 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512425103,
-      "date": "2025-09-12+17:30",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Diego",
-      "zip": "92108",
-      "theater_name": "AMC Fashion Valley 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512425104,
-      "date": "2025-09-12+21:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Diego",
-      "zip": "92108",
-      "theater_name": "AMC Fashion Valley 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512425105,
-      "date": "2025-09-12+14:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -31757,21 +31712,6 @@
       }
     },
     {
-      "state": "LA",
-      "city": "Metairie",
-      "zip": "70006",
-      "theater_name": "AMC DINE-IN Clearview Palace 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515859986,
-      "date": "2025-09-12+21:50",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "NJ",
       "city": "Turnersville",
       "zip": "08012",
@@ -32072,21 +32012,6 @@
       }
     },
     {
-      "state": "OH",
-      "city": "Columbus",
-      "zip": "43228",
-      "theater_name": "AMC Starplex Columbus 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515874113,
-      "date": "2025-09-12+21:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400
-      }
-    },
-    {
       "state": "IL",
       "city": "New Lenox",
       "zip": "60451",
@@ -32192,21 +32117,6 @@
       }
     },
     {
-      "state": "MI",
-      "city": "Madison Heights",
-      "zip": "48071",
-      "theater_name": "AMC Star John R 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515875202,
-      "date": "2025-09-12+22:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "IA",
       "city": "Council Bluffs",
       "zip": "51501",
@@ -32234,6 +32144,96 @@
       "language": "English",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Middletown",
+      "zip": "10940",
+      "theater_name": "AMC Crystal Run 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515874557,
+      "date": "2025-09-12+13:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Charlotte",
+      "zip": "28216",
+      "theater_name": "AMC Northlake 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515874749,
+      "date": "2025-09-12+15:45",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Pearland",
+      "zip": "77584",
+      "theater_name": "Cinemark Pearland and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515876135,
+      "date": "2025-09-12+22:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Payson",
+      "zip": "85541",
+      "theater_name": "Sawmill Theatre",
+      "chainName": "Sawmill Theatre",
+      "chainCode": "SAWM",
+      "showtime_id": 515876526,
+      "date": "2025-09-12+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Payson",
+      "zip": "85541",
+      "theater_name": "Sawmill Theatre",
+      "chainName": "Sawmill Theatre",
+      "chainCode": "SAWM",
+      "showtime_id": 515876528,
+      "date": "2025-09-12+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Payson",
+      "zip": "85541",
+      "theater_name": "Sawmill Theatre",
+      "chainName": "Sawmill Theatre",
+      "chainCode": "SAWM",
+      "showtime_id": 515876530,
+      "date": "2025-09-12+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
       }
     }
   ]
