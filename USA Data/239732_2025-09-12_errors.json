@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 12:56:47 AM",
+  "last_updated": "2025-09-13 01:57:18 AM",
   "errors": [
     {
       "state": "CT",
@@ -23418,21 +23418,6 @@
     },
     {
       "state": "CA",
-      "city": "Brea",
-      "zip": "92821",
-      "theater_name": "Regal Edwards Brea East",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515482767,
-      "date": "2025-09-12+17:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
       "city": "Porterville",
       "zip": "93257",
       "theater_name": "Galaxy Porterville 9",
@@ -31952,36 +31937,6 @@
       }
     },
     {
-      "state": "CT",
-      "city": "Norwalk",
-      "zip": "06851",
-      "theater_name": "AMC Royale 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515874117,
-      "date": "2025-09-12+22:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Freehold",
-      "zip": "07728",
-      "theater_name": "AMC Freehold 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515874123,
-      "date": "2025-09-12+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400
-      }
-    },
-    {
       "state": "GA",
       "city": "Bethlehem",
       "zip": "30620",
@@ -32033,38 +31988,8 @@
       "theater_name": "AMC Coon Rapids 16",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 515873345,
-      "date": "2025-09-12+18:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Coon Rapids",
-      "zip": "55433",
-      "theater_name": "AMC Coon Rapids 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 515873344,
       "date": "2025-09-12+14:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Coon Rapids",
-      "zip": "55433",
-      "theater_name": "AMC Coon Rapids 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515873346,
-      "date": "2025-09-12+21:30",
       "format": "Standard",
       "language": "Japanese",
       "error": {
@@ -32337,6 +32262,141 @@
       "date": "2025-09-12+19:00",
       "format": "Standard",
       "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Trumbull",
+      "zip": "06611",
+      "theater_name": "AMC Marquis 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515883067,
+      "date": "2025-09-12+20:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Trumbull",
+      "zip": "06611",
+      "theater_name": "AMC Marquis 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515883065,
+      "date": "2025-09-12+19:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Trumbull",
+      "zip": "06611",
+      "theater_name": "AMC Marquis 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515883066,
+      "date": "2025-09-12+23:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Bronx",
+      "zip": "10475",
+      "theater_name": "AMC Bay Plaza Cinema 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515877955,
+      "date": "2025-09-13+00:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Lawrenceville",
+      "zip": "30043",
+      "theater_name": "AMC Colonial 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515883359,
+      "date": "2025-09-13+00:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Evansville",
+      "zip": "47712",
+      "theater_name": "AMC Evansville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515883069,
+      "date": "2025-09-12+21:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Evansville",
+      "zip": "47712",
+      "theater_name": "AMC Evansville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515883070,
+      "date": "2025-09-12+23:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Evansville",
+      "zip": "47712",
+      "theater_name": "AMC Evansville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515883071,
+      "date": "2025-09-12+21:45",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Forney",
+      "zip": "75126",
+      "theater_name": "AMC CLASSIC Forney 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515880897,
+      "date": "2025-09-12+22:30",
+      "format": "Standard",
+      "language": "Japanese",
       "error": {
         "status": 400
       }
