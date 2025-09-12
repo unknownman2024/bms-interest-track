@@ -13644,8 +13644,7 @@
     "max_gross": 11016.0,
     "total_gross": 3672.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 301601,
@@ -16232,7 +16231,8 @@
     "max_gross": 2430.0,
     "total_gross": 324.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 517651,
@@ -22004,7 +22004,8 @@
     "max_gross": 3780.0,
     "total_gross": 135.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 70054,
@@ -30802,8 +30803,7 @@
     "max_gross": 3969.0,
     "total_gross": 135.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 389100,
@@ -31054,7 +31054,8 @@
     "max_gross": 2457.0,
     "total_gross": 918.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 141238,
@@ -34418,7 +34419,8 @@
     "max_gross": 2808.0,
     "total_gross": 243.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 29933,
@@ -35389,8 +35391,7 @@
     "max_gross": 3456.0,
     "total_gross": 513.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 213166,
@@ -37420,8 +37421,7 @@
     "max_gross": 5670.0,
     "total_gross": 2997.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 518124,
@@ -37443,11 +37443,11 @@
     "screenName": "Cinema 08",
     "operator": "HIG",
     "total": 210,
-    "sold": 63,
-    "available": 147,
-    "occupancy": 30.0,
+    "sold": 64,
+    "available": 146,
+    "occupancy": 30.48,
     "max_gross": 5670.0,
-    "total_gross": 1701.0,
+    "total_gross": 1728.0,
     "price": 27.0,
     "error": false
   },
