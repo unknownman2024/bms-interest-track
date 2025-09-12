@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 05:35:23 AM",
+  "last_updated": "2025-09-12 08:07:03 AM",
   "errors": [
     {
       "state": "CT",
@@ -32127,6 +32127,81 @@
       "date": "2025-09-12+21:15",
       "format": "Standard",
       "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Paris",
+      "zip": "38242",
+      "theater_name": "Parisian Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515865036,
+      "date": "2025-09-12+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Indianapolis",
+      "zip": "46217",
+      "theater_name": "AMC Indianapolis 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515865416,
+      "date": "2025-09-12+23:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Carroll",
+      "zip": "51401",
+      "theater_name": "Carroll 5 Theatre",
+      "chainName": "Fridley Theatres",
+      "chainCode": "FRID",
+      "showtime_id": 515865026,
+      "date": "2025-09-12+16:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Carroll",
+      "zip": "51401",
+      "theater_name": "Carroll 5 Theatre",
+      "chainName": "Fridley Theatres",
+      "chainCode": "FRID",
+      "showtime_id": 515865027,
+      "date": "2025-09-12+19:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Gilbert",
+      "zip": "85296",
+      "theater_name": "Harkins SanTan Village 16",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 515868230,
+      "date": "2025-09-12+13:30",
+      "format": "Standard",
+      "language": "English",
       "error": {
         "status": 400
       }
