@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 01:40:23 AM",
+  "last_updated": "2025-09-13 02:42:43 AM",
   "errors": [
     {
       "state": "MA",
@@ -28583,38 +28583,8 @@
       "theater_name": "America Cinemas Houston",
       "chainName": "RTSIND",
       "chainCode": "RTSIND",
-      "showtime_id": 515465245,
-      "date": "2025-09-13+18:45",
-      "format": "Standard",
-      "language": "Spanish",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77036",
-      "theater_name": "America Cinemas Houston",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
       "showtime_id": 515465253,
       "date": "2025-09-13+20:30",
-      "format": "Standard",
-      "language": "Spanish",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77036",
-      "theater_name": "America Cinemas Houston",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 515465342,
-      "date": "2025-09-13+21:50",
       "format": "Standard",
       "language": "Spanish",
       "error": {
@@ -34889,6 +34859,126 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515890370,
+      "date": "2025-09-13+14:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515890369,
+      "date": "2025-09-13+18:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Brooklyn",
+      "zip": "11220",
+      "theater_name": "Alpine Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515890368,
+      "date": "2025-09-13+21:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Rehoboth Beach",
+      "zip": "19971",
+      "theater_name": "The Movies at Midway",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515886914,
+      "date": "2025-09-13+15:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Rehoboth Beach",
+      "zip": "19971",
+      "theater_name": "The Movies at Midway",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515886915,
+      "date": "2025-09-13+21:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Ocoee",
+      "zip": "34761",
+      "theater_name": "AMC West Oaks 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515888071,
+      "date": "2025-09-13+22:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IA",
+      "city": "West Burlington",
+      "zip": "52655",
+      "theater_name": "Westland Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 515889175,
+      "date": "2025-09-13+21:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Pflugerville",
+      "zip": "78660",
+      "theater_name": "Cinemark Pflugerville 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515886843,
+      "date": "2025-09-13+19:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
       }
     }
   ]
