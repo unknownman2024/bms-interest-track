@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 06:22:07 AM",
+  "last_updated": "2025-09-12 07:51:26 AM",
   "errors": [
     {
       "state": "MA",
@@ -16784,6 +16784,81 @@
       "language": "Japanese",
       "error": {
         "status": 500
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Myrtle Beach",
+      "zip": "29577",
+      "theater_name": "Cinemark Myrtle Beach",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515866372,
+      "date": "2025-09-11+21:55",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Valley View",
+      "zip": "44125",
+      "theater_name": "Cinemark Valley View and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515867201,
+      "date": "2025-09-11+22:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "UT",
+      "city": "West Valley",
+      "zip": "84120",
+      "theater_name": "Cinemark West Valley and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515867007,
+      "date": "2025-09-11+17:25",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tempe",
+      "zip": "85281",
+      "theater_name": "AMC Centerpoint 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515867525,
+      "date": "2025-09-11+22:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Livermore",
+      "zip": "94550",
+      "theater_name": "Livermore 13 Cinema",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 515866593,
+      "date": "2025-09-11+17:25",
+      "format": "Premium Large Format",
+      "language": "English",
+      "error": {
+        "status": 404
       }
     }
   ]
