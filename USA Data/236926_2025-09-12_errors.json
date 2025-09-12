@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 02:05:01 AM",
+  "last_updated": "2025-09-13 02:58:49 AM",
   "errors": [
     {
       "state": "MA",
@@ -29230,6 +29230,51 @@
       "chainCode": "MRCS",
       "showtime_id": 515883983,
       "date": "2025-09-12+21:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Lexington",
+      "zip": "40509",
+      "theater_name": "Regal Hamburg Pavilion IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515889552,
+      "date": "2025-09-12+16:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Decorah",
+      "zip": "52101",
+      "theater_name": "Viking Theatre",
+      "chainName": "Fridley Theatres",
+      "chainCode": "FRID",
+      "showtime_id": 515887410,
+      "date": "2025-09-12+15:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Pueblo",
+      "zip": "81008",
+      "theater_name": "Cinemark Tinseltown Pueblo",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515884919,
+      "date": "2025-09-12+11:10",
       "format": "Standard",
       "language": "Unknown",
       "error": {
