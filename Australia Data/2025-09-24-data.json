@@ -1657,7 +1657,8 @@
     "screenName": "Xtremescreen 01",
     "operator": "CUR",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 41254,
@@ -1666,6 +1667,97 @@
     "date": "2025-09-24T19:30:00",
     "screenName": "Lux 01",
     "operator": "CURLP",
+    "error": true,
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
+  },
+  {
+    "id": 518183,
+    "cinemaId": "HIGPNT",
+    "movieId": "HO00009403",
+    "date": "2025-09-24T13:50:00",
+    "screenName": "HOYTS LUX 01",
+    "operator": "HIGDS",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 518188,
+    "cinemaId": "HIGPNT",
+    "movieId": "HO00008335",
+    "date": "2025-09-24T15:00:00",
+    "screenName": "HOYTS LUX 02",
+    "operator": "HIGDS",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 518187,
+    "cinemaId": "HIGPNT",
+    "movieId": "HO00009618",
+    "date": "2025-09-24T12:15:00",
+    "screenName": "HOYTS LUX 02",
+    "operator": "HIGDS",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 518182,
+    "cinemaId": "HIGPNT",
+    "movieId": "HO00010553",
+    "date": "2025-09-24T10:10:00",
+    "screenName": "HOYTS LUX 01",
+    "operator": "HIGDS",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 518189,
+    "cinemaId": "HIGPNT",
+    "movieId": "HO00008335",
+    "date": "2025-09-24T18:00:00",
+    "screenName": "HOYTS LUX 02",
+    "operator": "HIGDS",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 518186,
+    "cinemaId": "HIGPNT",
+    "movieId": "HO00009403",
+    "date": "2025-09-24T09:45:00",
+    "screenName": "HOYTS LUX 02",
+    "operator": "HIGDS",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 518184,
+    "cinemaId": "HIGPNT",
+    "movieId": "HO00009813",
+    "date": "2025-09-24T16:15:00",
+    "screenName": "HOYTS LUX 01",
+    "operator": "HIGDS",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 518185,
+    "cinemaId": "HIGPNT",
+    "movieId": "HO00008335",
+    "date": "2025-09-24T22:00:00",
+    "screenName": "HOYTS LUX 01",
+    "operator": "HIGDS",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 518190,
+    "cinemaId": "HIGPNT",
+    "movieId": "HO00010246",
+    "date": "2025-09-24T21:00:00",
+    "screenName": "HOYTS LUX 02",
+    "operator": "HIGDS",
     "error": true,
     "error_msg": "HTTP 403"
   }

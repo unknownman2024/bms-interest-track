@@ -36356,7 +36356,8 @@
     "screenName": "HOYTS LUX 2",
     "operator": "GHL",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 121559,
@@ -36366,7 +36367,8 @@
     "screenName": "HOYTS LUX 2",
     "operator": "GHLLP",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 78710,
@@ -36376,7 +36378,8 @@
     "screenName": "Cinema 09 LUX",
     "operator": "KYPLP",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 362682,
@@ -36386,7 +36389,8 @@
     "screenName": "HOYTS LUX 04",
     "operator": "VGDDS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 518133,
@@ -36396,7 +36400,8 @@
     "screenName": "HOYTS LUX 01",
     "operator": "HIGDS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 518136,
@@ -36405,6 +36410,27 @@
     "date": "2025-09-16T18:00:00",
     "screenName": "Cinema 05",
     "operator": "HIG",
+    "error": true,
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
+  },
+  {
+    "id": 70268,
+    "cinemaId": "CROCIN",
+    "movieId": "HO00010330",
+    "date": "2025-09-16T09:45:00",
+    "screenName": "Cinema 04",
+    "operator": "CRO",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 70267,
+    "cinemaId": "CROCIN",
+    "movieId": "HO00010330",
+    "date": "2025-09-16T11:50:00",
+    "screenName": "Cinema 04",
+    "operator": "CRO",
     "error": true,
     "error_msg": "HTTP 403"
   }

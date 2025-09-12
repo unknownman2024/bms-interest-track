@@ -37463,7 +37463,8 @@
     "screenName": "HOYTS LUX 1",
     "operator": "GHLLP",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 121557,
@@ -37472,6 +37473,17 @@
     "date": "2025-09-14T18:30:00",
     "screenName": "HOYTS LUX 1",
     "operator": "GHLLP",
+    "error": true,
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
+  },
+  {
+    "id": 500207,
+    "cinemaId": "CAROUS",
+    "movieId": "HO00010166",
+    "date": "2025-09-14T00:45:00",
+    "screenName": "Cinema 10",
+    "operator": "CAR",
     "error": true,
     "error_msg": "HTTP 403"
   }

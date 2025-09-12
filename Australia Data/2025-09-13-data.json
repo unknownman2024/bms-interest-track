@@ -37483,6 +37483,27 @@
     "screenName": "HOYTS LUX 03",
     "operator": "VGDDS",
     "error": true,
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
+  },
+  {
+    "id": 500032,
+    "cinemaId": "CAROUS",
+    "movieId": "HO00007688",
+    "date": "2025-09-13T01:30:00",
+    "screenName": "Cinema 07",
+    "operator": "CAR",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 70269,
+    "cinemaId": "CROCIN",
+    "movieId": "HO00008335",
+    "date": "2025-09-13T20:20:00",
+    "screenName": "Cinema 02",
+    "operator": "CRO",
+    "error": true,
     "error_msg": "HTTP 403"
   }
 ]
