@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 09:44:57 AM",
+  "last_updated": "2025-09-12 10:39:40 AM",
   "errors": [
     {
       "state": "CT",
@@ -32174,6 +32174,21 @@
       "language": "English",
       "error": {
         "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Cartersville",
+      "zip": "30120",
+      "theater_name": "AMC CLASSIC Cartersville 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515870630,
+      "date": "2025-09-12+16:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
       }
     }
   ]
