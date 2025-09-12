@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 10:08:06 PM",
+  "last_updated": "2025-09-12 11:01:43 PM",
   "errors": [
     {
       "state": "MA",
@@ -2380,51 +2380,6 @@
       "chainCode": "ALAM",
       "showtime_id": 515284346,
       "date": "2025-09-12+21:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Mamaroneck",
-      "zip": "10543",
-      "theater_name": "Mamaroneck Cinemas",
-      "chainName": "Brielle",
-      "chainCode": "BRIE",
-      "showtime_id": 512697631,
-      "date": "2025-09-12+14:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Mamaroneck",
-      "zip": "10543",
-      "theater_name": "Mamaroneck Cinemas",
-      "chainName": "Brielle",
-      "chainCode": "BRIE",
-      "showtime_id": 512697632,
-      "date": "2025-09-12+16:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Mamaroneck",
-      "zip": "10543",
-      "theater_name": "Mamaroneck Cinemas",
-      "chainName": "Brielle",
-      "chainCode": "BRIE",
-      "showtime_id": 512697633,
-      "date": "2025-09-12+19:30",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -29005,6 +28960,156 @@
       "chainCode": "RTSIND",
       "showtime_id": 515873742,
       "date": "2025-09-12+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Framingham",
+      "zip": "01701",
+      "theater_name": "AMC DINE-IN Framingham 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515520430,
+      "date": "2025-09-12+10:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Framingham",
+      "zip": "01701",
+      "theater_name": "AMC DINE-IN Framingham 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 510517208,
+      "date": "2025-09-12+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Defiance",
+      "zip": "43512",
+      "theater_name": "Phoenix Theatres Northtowne Mall",
+      "chainName": "Phoenix Theatres - MI",
+      "chainCode": "PTMI",
+      "showtime_id": 515875183,
+      "date": "2025-09-12+12:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Defiance",
+      "zip": "43512",
+      "theater_name": "Phoenix Theatres Northtowne Mall",
+      "chainName": "Phoenix Theatres - MI",
+      "chainCode": "PTMI",
+      "showtime_id": 515875184,
+      "date": "2025-09-12+15:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Lebanon",
+      "zip": "45036",
+      "theater_name": "Colony Square 7 Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515875548,
+      "date": "2025-09-12+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Lebanon",
+      "zip": "45036",
+      "theater_name": "Colony Square 7 Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515875549,
+      "date": "2025-09-12+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Lebanon",
+      "zip": "45036",
+      "theater_name": "Colony Square 7 Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515875550,
+      "date": "2025-09-12+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Lebanon",
+      "zip": "45036",
+      "theater_name": "Colony Square 7 Cinemas",
+      "chainName": "Republic Theatres",
+      "chainCode": "RPUB",
+      "showtime_id": 515875551,
+      "date": "2025-09-12+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Appleton",
+      "zip": "54915",
+      "theater_name": "Marcus Valley Grand Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 515874643,
+      "date": "2025-09-12+11:05",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Rockwall",
+      "zip": "75032",
+      "theater_name": "Cinemark Rockwall 14 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515874808,
+      "date": "2025-09-12+10:40",
       "format": "Standard",
       "language": "Unknown",
       "error": {
