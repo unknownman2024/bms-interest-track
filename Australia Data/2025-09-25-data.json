@@ -266,7 +266,8 @@
     "max_gross": 2808.0,
     "total_gross": 0.0,
     "price": 19.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 359138,
@@ -398,14 +399,13 @@
     "screenName": "Xtremescreen 04",
     "operator": "WOD",
     "total": 161,
-    "sold": 50,
-    "available": 111,
-    "occupancy": 31.06,
+    "sold": 62,
+    "available": 99,
+    "occupancy": 38.51,
     "max_gross": 5071.5,
-    "total_gross": 1575.0,
+    "total_gross": 1953.0,
     "price": 31.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 73518,
@@ -423,7 +423,7 @@
     "total_gross": 0.0,
     "price": 19.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 262247,
@@ -474,7 +474,8 @@
     "max_gross": 3770.0,
     "total_gross": 841.0,
     "price": 29.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 331086,
@@ -554,14 +555,13 @@
     "screenName": "Xtremescreen 01",
     "operator": "DOC",
     "total": 408,
-    "sold": 104,
-    "available": 304,
-    "occupancy": 25.49,
+    "sold": 122,
+    "available": 286,
+    "occupancy": 29.9,
     "max_gross": 13464.0,
-    "total_gross": 3432.0,
+    "total_gross": 4026.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 346397,
@@ -687,11 +687,17 @@
     "cinemaId": "WESCIN",
     "movieId": "HO00010652",
     "date": "2025-09-25T17:45:00",
+    "typeId": "XTREME",
     "screenName": "Xtremescreen 05",
     "operator": "WES",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 408,
+    "sold": 0,
+    "available": 408,
+    "occupancy": 0.0,
+    "max_gross": 13464.0,
+    "total_gross": 0.0,
+    "price": 33.0,
+    "error": false
   },
   {
     "id": 358980,
@@ -708,17 +714,24 @@
     "max_gross": 6776.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 358979,
     "cinemaId": "WESCIN",
     "movieId": "HO00010652",
     "date": "2025-09-25T21:30:00",
+    "typeId": "XTREME",
     "screenName": "Xtremescreen 01",
     "operator": "WES",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 264,
+    "sold": 6,
+    "available": 258,
+    "occupancy": 2.27,
+    "max_gross": 8712.0,
+    "total_gross": 198.0,
+    "price": 33.0,
+    "error": false
   }
 ]
