@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 12:47:55 AM",
+  "last_updated": "2025-09-13 01:14:20 AM",
   "errors": [
     {
       "state": "IL",
@@ -295,6 +295,36 @@
       "chainCode": "MRCS",
       "showtime_id": 515177858,
       "date": "2025-09-24+21:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Bradenton",
+      "zip": "34203",
+      "theater_name": "AMC Bradenton 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515880675,
+      "date": "2025-09-24+14:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Bradenton",
+      "zip": "34203",
+      "theater_name": "AMC Bradenton 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515880676,
+      "date": "2025-09-24+18:15",
       "format": "Standard",
       "language": "Telugu",
       "error": {
