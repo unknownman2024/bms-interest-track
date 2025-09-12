@@ -37395,7 +37395,8 @@
     "screenName": "Cinema 08",
     "operator": "DOC",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 274508,
@@ -37405,7 +37406,8 @@
     "screenName": "Cinema 05",
     "operator": "TAY",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 274996,
@@ -37415,7 +37417,8 @@
     "screenName": "Cinema 06",
     "operator": "TAY",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 517360,
@@ -37425,7 +37428,8 @@
     "screenName": "Cinema 08",
     "operator": "HIG",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 518127,
@@ -37435,7 +37439,8 @@
     "screenName": "Cinema 10",
     "operator": "HIG",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 518120,
@@ -37445,7 +37450,8 @@
     "screenName": "Cinema 08",
     "operator": "HIG",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 333391,
@@ -37455,7 +37461,8 @@
     "screenName": "Cinema 03",
     "operator": "WWG",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 429964,
@@ -37464,6 +37471,17 @@
     "date": "2025-09-13T16:50:00",
     "screenName": "Cinema 10",
     "operator": "WET",
+    "error": true,
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
+  },
+  {
+    "id": 362684,
+    "cinemaId": "VGDCIN",
+    "movieId": "HO00009618",
+    "date": "2025-09-13T20:00:00",
+    "screenName": "HOYTS LUX 03",
+    "operator": "VGDDS",
     "error": true,
     "error_msg": "HTTP 403"
   }

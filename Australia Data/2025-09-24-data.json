@@ -1591,7 +1591,8 @@
     "screenName": "Cinema 03",
     "operator": "MCE",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 372423,
@@ -1601,7 +1602,8 @@
     "screenName": "HOYTS LUX 01",
     "operator": "MCEDS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 422092,
@@ -1611,7 +1613,8 @@
     "screenName": "HOYTS LUX 01",
     "operator": "EASLP",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 422094,
@@ -1621,7 +1624,8 @@
     "screenName": "HOYTS LUX 03",
     "operator": "EASLP",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 422095,
@@ -1631,7 +1635,8 @@
     "screenName": "HOYTS LUX 03",
     "operator": "EASLP",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 422093,
@@ -1640,6 +1645,27 @@
     "date": "2025-09-24T20:45:00",
     "screenName": "HOYTS LUX 01",
     "operator": "EASLP",
+    "error": true,
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
+  },
+  {
+    "id": 41253,
+    "cinemaId": "CURCIN",
+    "movieId": "HO00008334",
+    "date": "2025-09-24T19:00:00",
+    "screenName": "Xtremescreen 01",
+    "operator": "CUR",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 41254,
+    "cinemaId": "CURCIN",
+    "movieId": "HO00008334",
+    "date": "2025-09-24T19:30:00",
+    "screenName": "Lux 01",
+    "operator": "CURLP",
     "error": true,
     "error_msg": "HTTP 403"
   }

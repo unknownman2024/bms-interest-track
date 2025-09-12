@@ -36114,7 +36114,8 @@
     "screenName": "Cinema 08",
     "operator": "HIG",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 274707,
@@ -36124,7 +36125,8 @@
     "screenName": "Cinema 08",
     "operator": "TAY",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 518130,
@@ -36132,6 +36134,57 @@
     "movieId": "HO00010666",
     "date": "2025-09-15T18:00:00",
     "screenName": "Cinema 08",
+    "operator": "HIG",
+    "error": true,
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
+  },
+  {
+    "id": 121564,
+    "cinemaId": "GHLCIN",
+    "movieId": "HO00010233",
+    "date": "2025-09-15T14:45:00",
+    "screenName": "HOYTS LUX 2",
+    "operator": "GHL",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 121558,
+    "cinemaId": "GHLCIN",
+    "movieId": "HO00009618",
+    "date": "2025-09-15T18:00:00",
+    "screenName": "HOYTS LUX 2",
+    "operator": "GHLLP",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 78711,
+    "cinemaId": "KYPCIN",
+    "movieId": "HO00009618",
+    "date": "2025-09-15T17:45:00",
+    "screenName": "Cinema 09 LUX",
+    "operator": "KYPLP",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 362681,
+    "cinemaId": "VGDCIN",
+    "movieId": "HO00009618",
+    "date": "2025-09-15T20:00:00",
+    "screenName": "HOYTS LUX 04",
+    "operator": "VGDDS",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 518137,
+    "cinemaId": "HIGPNT",
+    "movieId": "HO00010707",
+    "date": "2025-09-15T18:10:00",
+    "screenName": "Cinema 05",
     "operator": "HIG",
     "error": true,
     "error_msg": "HTTP 403"

@@ -36259,5 +36259,55 @@
     "price": 26.0,
     "error": false,
     "last_error": "HTTP 403"
+  },
+  {
+    "id": 518134,
+    "cinemaId": "HIGPNT",
+    "movieId": "HO00008335",
+    "date": "2025-09-17T21:15:00",
+    "screenName": "HOYTS LUX 02",
+    "operator": "HIGDS",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 518132,
+    "cinemaId": "HIGPNT",
+    "movieId": "HO00010666",
+    "date": "2025-09-17T18:00:00",
+    "screenName": "Cinema 08",
+    "operator": "HIG",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 518135,
+    "cinemaId": "HIGPNT",
+    "movieId": "HO00010707",
+    "date": "2025-09-17T18:00:00",
+    "screenName": "Cinema 05",
+    "operator": "HIG",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 121566,
+    "cinemaId": "GHLCIN",
+    "movieId": "HO00010233",
+    "date": "2025-09-17T15:15:00",
+    "screenName": "HOYTS LUX 2",
+    "operator": "GHL",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 362683,
+    "cinemaId": "VGDCIN",
+    "movieId": "HO00009618",
+    "date": "2025-09-17T18:00:00",
+    "screenName": "HOYTS LUX 04",
+    "operator": "VGDDS",
+    "error": true,
+    "error_msg": "HTTP 403"
   }
 ]
