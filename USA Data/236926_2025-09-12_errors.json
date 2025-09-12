@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 12:09:43 AM",
+  "last_updated": "2025-09-13 01:00:12 AM",
   "errors": [
     {
       "state": "MA",
@@ -24168,66 +24168,6 @@
     },
     {
       "state": "TX",
-      "city": "Granbury",
-      "zip": "76048",
-      "theater_name": "Cinergy Cinemas Granbury",
-      "chainName": "Cinergy Entertainment",
-      "chainCode": "CNRGY",
-      "showtime_id": 513391067,
-      "date": "2025-09-12+14:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Granbury",
-      "zip": "76048",
-      "theater_name": "Cinergy Cinemas Granbury",
-      "chainName": "Cinergy Entertainment",
-      "chainCode": "CNRGY",
-      "showtime_id": 513391068,
-      "date": "2025-09-12+16:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Granbury",
-      "zip": "76048",
-      "theater_name": "Cinergy Cinemas Granbury",
-      "chainName": "Cinergy Entertainment",
-      "chainCode": "CNRGY",
-      "showtime_id": 513391069,
-      "date": "2025-09-12+19:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Granbury",
-      "zip": "76048",
-      "theater_name": "Cinergy Cinemas Granbury",
-      "chainName": "Cinergy Entertainment",
-      "chainCode": "CNRGY",
-      "showtime_id": 513391091,
-      "date": "2025-09-12+22:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
       "city": "Mineral Wells",
       "zip": "76067",
       "theater_name": "Hometown Cinemas - Mineral Wells",
@@ -28667,21 +28607,6 @@
       }
     },
     {
-      "state": "AZ",
-      "city": "Mesa",
-      "zip": "85204",
-      "theater_name": "AMC Mesa Grand 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515719468,
-      "date": "2025-09-12+21:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "OR",
       "city": "Baker City",
       "zip": "97814",
@@ -29155,6 +29080,81 @@
       "chainCode": "VZ",
       "showtime_id": 515876285,
       "date": "2025-09-12+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Savannah",
+      "zip": "31420",
+      "theater_name": "AMC CLASSIC Savannah 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515877854,
+      "date": "2025-09-12+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Gibsonton",
+      "zip": "33534",
+      "theater_name": "AMC Riverview 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515873514,
+      "date": "2025-09-12+12:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Seymour",
+      "zip": "47274",
+      "theater_name": "Showplace Seymour",
+      "chainName": "Showplace Cinemas",
+      "chainCode": "SHOW",
+      "showtime_id": 515879643,
+      "date": "2025-09-12+15:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Seymour",
+      "zip": "47274",
+      "theater_name": "Showplace Seymour",
+      "chainName": "Showplace Cinemas",
+      "chainCode": "SHOW",
+      "showtime_id": 515879644,
+      "date": "2025-09-12+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Seymour",
+      "zip": "47274",
+      "theater_name": "Showplace Seymour",
+      "chainName": "Showplace Cinemas",
+      "chainCode": "SHOW",
+      "showtime_id": 515879645,
+      "date": "2025-09-12+21:35",
       "format": "Standard",
       "language": "Unknown",
       "error": {
