@@ -1826,14 +1826,13 @@
     "screenName": "Cinema 01",
     "operator": "SUN",
     "total": 96,
-    "sold": 0,
-    "available": 96,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 94,
+    "occupancy": 2.08,
     "max_gross": 2400.0,
-    "total_gross": 0.0,
+    "total_gross": 50.0,
     "price": 25.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 41678,
@@ -5036,8 +5035,7 @@
     "max_gross": 5980.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 293006,
@@ -7754,8 +7752,7 @@
     "max_gross": 6500.0,
     "total_gross": 0.0,
     "price": 25.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 358990,
@@ -9663,7 +9660,7 @@
     "total_gross": 0.0,
     "price": 28.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 336044,
@@ -10221,7 +10218,7 @@
     "total_gross": 0.0,
     "price": 28.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 336052,
@@ -10814,8 +10811,7 @@
     "max_gross": 5040.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 517464,
@@ -10983,19 +10979,18 @@
     "id": 517659,
     "cinemaId": "HIGPNT",
     "movieId": "HO00010666",
-    "date": "2025-09-15T21:00:00",
+    "date": "2025-09-15T21:15:00",
     "typeId": "ONYX",
     "screenName": "Cinema 05",
     "operator": "HIG",
     "total": 190,
-    "sold": 0,
-    "available": 190,
-    "occupancy": 0.0,
+    "sold": 5,
+    "available": 185,
+    "occupancy": 2.63,
     "max_gross": 5510.0,
-    "total_gross": 0.0,
+    "total_gross": 145.0,
     "price": 29.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 43299,
@@ -13855,8 +13850,7 @@
     "max_gross": 7616.0,
     "total_gross": 0.0,
     "price": 17.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 245337,
@@ -16483,8 +16477,7 @@
     "max_gross": 5600.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 69922,
@@ -21607,14 +21600,13 @@
     "screenName": "Cinema 08",
     "operator": "TAY",
     "total": 150,
-    "sold": 0,
-    "available": 150,
-    "occupancy": 0.0,
+    "sold": 7,
+    "available": 143,
+    "occupancy": 4.67,
     "max_gross": 4200.0,
-    "total_gross": 0.0,
+    "total_gross": 196.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 172192,
@@ -25159,8 +25151,7 @@
     "max_gross": 2940.0,
     "total_gross": 0.0,
     "price": 21.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 330733,
@@ -30109,8 +30100,7 @@
     "max_gross": 3920.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 272823,
@@ -36067,8 +36057,7 @@
     "max_gross": 2496.0,
     "total_gross": 0.0,
     "price": 19.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 282798,
@@ -36104,7 +36093,7 @@
     "total_gross": 0.0,
     "price": 27.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 517448,
@@ -36133,11 +36122,17 @@
     "cinemaId": "HIGPNT",
     "movieId": "HO00010666",
     "date": "2025-09-15T18:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 08",
     "operator": "HIG",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 210,
+    "sold": 2,
+    "available": 208,
+    "occupancy": 0.95,
+    "max_gross": 5880.0,
+    "total_gross": 56.0,
+    "price": 28.0,
+    "error": false
   },
   {
     "id": 121564,

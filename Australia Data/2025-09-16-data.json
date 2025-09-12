@@ -2399,14 +2399,13 @@
     "screenName": "Cinema 10",
     "operator": "WET",
     "total": 140,
-    "sold": 0,
-    "available": 140,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 138,
+    "occupancy": 1.43,
     "max_gross": 3920.0,
-    "total_gross": 0.0,
+    "total_gross": 56.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 429289,
@@ -2459,8 +2458,7 @@
     "max_gross": 2400.0,
     "total_gross": 0.0,
     "price": 25.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 372628,
@@ -4961,8 +4959,7 @@
     "max_gross": 5980.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 500153,
@@ -8939,8 +8936,7 @@
     "max_gross": 3332.0,
     "total_gross": 56.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 336100,
@@ -9173,8 +9169,7 @@
     "max_gross": 6500.0,
     "total_gross": 0.0,
     "price": 25.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 517527,
@@ -11656,8 +11651,7 @@
     "max_gross": 5040.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 377658,
@@ -12016,8 +12010,7 @@
     "max_gross": 2548.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 517534,
@@ -13463,7 +13456,7 @@
     "id": 517660,
     "cinemaId": "HIGPNT",
     "movieId": "HO00010666",
-    "date": "2025-09-16T21:00:00",
+    "date": "2025-09-16T21:10:00",
     "typeId": "ONYX",
     "screenName": "Cinema 05",
     "operator": "HIG",
@@ -13474,8 +13467,7 @@
     "max_gross": 5510.0,
     "total_gross": 0.0,
     "price": 29.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 334485,
@@ -17290,8 +17282,7 @@
     "max_gross": 7616.0,
     "total_gross": 0.0,
     "price": 17.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 41719,
@@ -21106,8 +21097,7 @@
     "max_gross": 5600.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 41484,
@@ -24490,8 +24480,7 @@
     "max_gross": 2940.0,
     "total_gross": 0.0,
     "price": 21.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 286647,
@@ -24580,8 +24569,7 @@
     "max_gross": 4200.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 409312,
@@ -36064,8 +36052,7 @@
     "max_gross": 2496.0,
     "total_gross": 0.0,
     "price": 19.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 312243,
@@ -36342,11 +36329,17 @@
     "cinemaId": "HIGPNT",
     "movieId": "HO00010666",
     "date": "2025-09-16T18:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 08",
     "operator": "HIG",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 210,
+    "sold": 0,
+    "available": 210,
+    "occupancy": 0.0,
+    "max_gross": 5880.0,
+    "total_gross": 0.0,
+    "price": 28.0,
+    "error": false
   },
   {
     "id": 121565,
