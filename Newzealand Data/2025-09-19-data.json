@@ -1520,6 +1520,17 @@
     "screenName": "Xtremescreen 01",
     "operator": "CHC",
     "error": true,
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
+  },
+  {
+    "id": 276567,
+    "cinemaId": "1004",
+    "movieId": "HO00008179",
+    "date": "2025-09-19T21:10:00",
+    "screenName": "Cinema 5",
+    "operator": "NTH",
+    "error": true,
     "error_msg": "HTTP 403"
   }
 ]
