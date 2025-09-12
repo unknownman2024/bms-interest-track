@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 09:10:00 PM",
+  "last_updated": "2025-09-12 10:12:24 PM",
   "errors": [
     {
       "state": "MA",
@@ -15008,21 +15008,6 @@
       "theater_name": "Regency Commerce 14",
       "chainName": "Regency Theatres",
       "chainCode": "RGCY",
-      "showtime_id": 515482189,
-      "date": "2025-09-12+15:55",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "City Of Commerce",
-      "zip": "90022",
-      "theater_name": "Regency Commerce 14",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
       "showtime_id": 515482190,
       "date": "2025-09-12+18:45",
       "format": "Standard",
@@ -16364,6 +16349,51 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Roswell",
+      "zip": "30076",
+      "theater_name": "Aurora Cineplex",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515874159,
+      "date": "2025-09-12+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Roswell",
+      "zip": "30076",
+      "theater_name": "Aurora Cineplex",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515874160,
+      "date": "2025-09-12+21:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Round Rock",
+      "zip": "78681",
+      "theater_name": "Flix Brewhouse Round Rock",
+      "chainName": "Flix Brewhouse",
+      "chainCode": "FLIX",
+      "showtime_id": 515874534,
+      "date": "2025-09-12+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500
       }
     }
   ]
