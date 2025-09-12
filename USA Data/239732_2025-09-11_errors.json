@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 04:45:11 AM",
+  "last_updated": "2025-09-12 06:22:07 AM",
   "errors": [
     {
       "state": "MA",
@@ -16574,6 +16574,216 @@
       "language": "English",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Bensalem",
+      "zip": "19020",
+      "theater_name": "AMC Woodhaven 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515862359,
+      "date": "2025-09-11+19:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Gaithersburg",
+      "zip": "20878",
+      "theater_name": "Cinepolis Luxury Cinema Gaithersburg",
+      "chainName": "Cinepolis",
+      "chainCode": "CPLS",
+      "showtime_id": 515864990,
+      "date": "2025-09-11+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Morgantown",
+      "zip": "26501",
+      "theater_name": "AMC Morgantown 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515863328,
+      "date": "2025-09-11+20:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Daphne",
+      "zip": "36526",
+      "theater_name": "AMC CLASSIC Jubilee Square 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515862086,
+      "date": "2025-09-11+20:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Chicago",
+      "zip": "60611",
+      "theater_name": "AMC DINE-IN 600 North Michigan 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515862242,
+      "date": "2025-09-11+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Walker",
+      "zip": "49544",
+      "theater_name": "AMC Grand Rapids 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515860244,
+      "date": "2025-09-11+20:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Coon Rapids",
+      "zip": "55433",
+      "theater_name": "AMC Coon Rapids 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515854417,
+      "date": "2025-09-11+17:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Coon Rapids",
+      "zip": "55433",
+      "theater_name": "AMC Coon Rapids 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515854418,
+      "date": "2025-09-11+18:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Coon Rapids",
+      "zip": "55433",
+      "theater_name": "AMC Coon Rapids 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515854414,
+      "date": "2025-09-11+16:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Rapid City",
+      "zip": "57701",
+      "theater_name": "AMC CLASSIC Rapid City 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515863324,
+      "date": "2025-09-11+19:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Rapid City",
+      "zip": "57701",
+      "theater_name": "AMC CLASSIC Rapid City 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515863323,
+      "date": "2025-09-11+19:35",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "ND",
+      "city": "Minot",
+      "zip": "58701",
+      "theater_name": "AMC Dakota Square 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515858821,
+      "date": "2025-09-11+18:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Novato",
+      "zip": "94945",
+      "theater_name": "Cinemark Century Rowland Plaza",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515862039,
+      "date": "2025-09-11+16:55",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Manteca",
+      "zip": "95337",
+      "theater_name": "AMC Manteca 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515863497,
+      "date": "2025-09-11+19:25",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
       }
     }
   ]
