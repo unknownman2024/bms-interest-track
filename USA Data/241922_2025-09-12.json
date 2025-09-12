@@ -10,11 +10,11 @@
     "date": "2025-09-12+21:50",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 3,
-    "occupancy": 7.14,
-    "totalAvailableSeatCount": 39,
+    "totalSeatSold": 5,
+    "occupancy": 11.9,
+    "totalAvailableSeatCount": 37,
     "totalSeatCount": 42,
-    "grossRevenueUSD": 51.15,
+    "grossRevenueUSD": 85.25,
     "adultTicketPrice": 17.05
   },
   {
@@ -190,11 +190,26 @@
     "date": "2025-09-12+22:55",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 12,
-    "occupancy": 17.65,
-    "totalAvailableSeatCount": 56,
+    "totalSeatSold": 11,
+    "occupancy": 16.18,
+    "totalAvailableSeatCount": 57,
     "totalSeatCount": 68,
-    "grossRevenueUSD": 165.0,
+    "grossRevenueUSD": 151.25,
     "adultTicketPrice": 13.75
+  },
+  {
+    "state": "MI",
+    "city": "Livonia",
+    "zip": "48152",
+    "theater_name": "AMC Livonia 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 0,
+    "date": "2025-09-12+12:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 404
+    }
   }
 ]
