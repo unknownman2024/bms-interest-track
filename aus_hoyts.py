@@ -6,6 +6,7 @@ import json
 from collections import defaultdict
 from tqdm.asyncio import tqdm_asyncio
 from tabulate import tabulate
+from brotli import decompress   # test import
 
 # ---------------- CONFIG ----------------
 ALL_MOVIES = False  # set True to fetch all movies
