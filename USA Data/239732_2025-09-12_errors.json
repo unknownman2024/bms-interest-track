@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 07:17:14 PM",
+  "last_updated": "2025-09-12 07:57:53 PM",
   "errors": [
     {
       "state": "CT",
@@ -32039,6 +32039,21 @@
       "language": "Japanese",
       "error": {
         "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Austin",
+      "zip": "78759",
+      "theater_name": "Regal Gateway 4DX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515872654,
+      "date": "2025-09-13+00:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
       }
     }
   ]
