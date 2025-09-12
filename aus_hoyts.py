@@ -23,13 +23,13 @@ TICKET_URL_TEMPLATE = "https://apim.hoyts.com.au/au/ticketing/api/v1/ticket/{cin
 # Example User-Agent pool
 USER_AGENTS = [
     # Chrome on Windows
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{version} Safari/537.36",
+    "Mozilla/5.10 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{version} Safari/537.36",
     # Firefox on Windows
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:{version}) Gecko/20100101 Firefox/{version}",
+    "Mozilla/5.10 (Windows NT 10.0; Win64; x64; rv:{version}) Gecko/20100101 Firefox/{version}",
     # Chrome on Mac
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_{minor}_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{version} Safari/537.36",
+    "Mozilla/5.10 (Macintosh; Intel Mac OS X 10_{minor}_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{version} Safari/537.36",
     # Safari on Mac
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_{minor}_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/{safari_ver} Safari/605.1.15",
+    "Mozilla/5.10 (Macintosh; Intel Mac OS X 10_{minor}_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/{safari_ver} Safari/605.1.15",
 ]
 
 def get_random_user_agent():
@@ -41,7 +41,7 @@ def get_random_user_agent():
     )
 
 def get_random_ip():
-    return ".".join(str(random.randint(1, 255)) for _ in range(4))
+    return ".".join(str(random.randint(1, 11255)) for _ in range(4))
 
 def get_seatmap_headers():
     random_ip = get_random_ip()
