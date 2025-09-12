@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 02:52:51 AM",
+  "last_updated": "2025-09-13 04:47:24 AM",
   "errors": [
     {
       "state": "CT",
@@ -31952,21 +31952,6 @@
       }
     },
     {
-      "state": "GA",
-      "city": "Bethlehem",
-      "zip": "30620",
-      "theater_name": "AMC Bethlehem 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515873448,
-      "date": "2025-09-12+22:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400
-      }
-    },
-    {
       "state": "IL",
       "city": "New Lenox",
       "zip": "60451",
@@ -32193,21 +32178,6 @@
     },
     {
       "state": "FL",
-      "city": "Jacksonville",
-      "zip": "32225",
-      "theater_name": "AMC Regency 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515873464,
-      "date": "2025-09-12+20:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
       "city": "Pembroke Pines",
       "zip": "33026",
       "theater_name": "AMC Pembroke Lakes 9",
@@ -32264,51 +32234,6 @@
       "language": "English",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "CT",
-      "city": "Trumbull",
-      "zip": "06611",
-      "theater_name": "AMC Marquis 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515883067,
-      "date": "2025-09-12+20:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CT",
-      "city": "Trumbull",
-      "zip": "06611",
-      "theater_name": "AMC Marquis 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515883065,
-      "date": "2025-09-12+19:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CT",
-      "city": "Trumbull",
-      "zip": "06611",
-      "theater_name": "AMC Marquis 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515883066,
-      "date": "2025-09-12+23:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -32564,6 +32489,246 @@
       "language": "English",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Bronx",
+      "zip": "10451",
+      "theater_name": "Regal Concourse 10",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515894801,
+      "date": "2025-09-12+18:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Springfield",
+      "zip": "19064",
+      "theater_name": "AMC Marple 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515885807,
+      "date": "2025-09-12+18:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Tunkhannock",
+      "zip": "18657",
+      "theater_name": "Dietrich Theater",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515896492,
+      "date": "2025-09-12+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Tunkhannock",
+      "zip": "18657",
+      "theater_name": "Dietrich Theater",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515896495,
+      "date": "2025-09-12+21:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Chapel Hill",
+      "zip": "27514",
+      "theater_name": "Silverspot Cinema Chapel Hill 13",
+      "chainName": "Silverspot Cinemas",
+      "chainCode": "SLVR",
+      "showtime_id": 515896224,
+      "date": "2025-09-12+18:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Charlotte",
+      "zip": "28277",
+      "theater_name": "Regal Stonecrest at Piper Glen 4DX, IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515892803,
+      "date": "2025-09-12+18:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Oldsmar",
+      "zip": "34677",
+      "theater_name": "AMC Woodlands Square 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515898733,
+      "date": "2025-09-12+23:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Jackson",
+      "zip": "38305",
+      "theater_name": "Hollywood Cinema 16",
+      "chainName": "Cinema Management Group Inc",
+      "chainCode": "CMGI",
+      "showtime_id": 515896236,
+      "date": "2025-09-12+19:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Bourbonnais",
+      "zip": "60914",
+      "theater_name": "Cinemark Bourbonnais Movies 10",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515890971,
+      "date": "2025-09-12+15:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Jackson",
+      "zip": "49202",
+      "theater_name": "GQT Jackson 10",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 515896353,
+      "date": "2025-09-12+22:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Willmar",
+      "zip": "56201",
+      "theater_name": "Golden Ticket Cinemas Kandi 6",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 515903375,
+      "date": "2025-09-12+22:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "El Paso",
+      "zip": "79936",
+      "theater_name": "Cinemark Tinseltown Las Palmas XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515902278,
+      "date": "2025-09-12+22:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "TX",
+      "city": "El Paso",
+      "zip": "79936",
+      "theater_name": "Cinemark Tinseltown Las Palmas XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515902277,
+      "date": "2025-09-12+22:55",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Anaheim",
+      "zip": "92802",
+      "theater_name": "AMC Anaheim GardenWalk 6  ",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515895243,
+      "date": "2025-09-12+15:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Lake Elsinore",
+      "zip": "92530",
+      "theater_name": "UEC Theatres Diamond 8",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515905065,
+      "date": "2025-09-12+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Lake Elsinore",
+      "zip": "92530",
+      "theater_name": "UEC Theatres Diamond 8",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515905066,
+      "date": "2025-09-12+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
       }
     }
   ]
