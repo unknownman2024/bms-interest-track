@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 09:06:56 PM",
+  "last_updated": "2025-09-12 10:08:06 PM",
   "errors": [
     {
       "state": "MA",
@@ -28949,6 +28949,66 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Roswell",
+      "zip": "30076",
+      "theater_name": "Aurora Cineplex",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515874157,
+      "date": "2025-09-12+19:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Roswell",
+      "zip": "30076",
+      "theater_name": "Aurora Cineplex",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515874158,
+      "date": "2025-09-12+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Lakeville",
+      "zip": "55044",
+      "theater_name": "Emagine Lakeville ",
+      "chainName": "Emagine",
+      "chainCode": "EMAG",
+      "showtime_id": 515874178,
+      "date": "2025-09-12+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "SD",
+      "city": "Brookings",
+      "zip": "57006",
+      "theater_name": "Brookings Cinema 8",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515873742,
+      "date": "2025-09-12+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
       }
     }
   ]
