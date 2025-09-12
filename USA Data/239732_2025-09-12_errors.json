@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 11:56:36 PM",
+  "last_updated": "2025-09-13 12:56:47 AM",
   "errors": [
     {
       "state": "CT",
@@ -32102,21 +32102,6 @@
       }
     },
     {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60639",
-      "theater_name": "AMC Galewood Crossings 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515875399,
-      "date": "2025-09-12+20:30",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "IA",
       "city": "Council Bluffs",
       "zip": "51501",
@@ -32232,6 +32217,126 @@
       "date": "2025-09-12+19:15",
       "format": "Standard",
       "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Teaneck",
+      "zip": "07666",
+      "theater_name": "Teaneck Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515878382,
+      "date": "2025-09-12+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philidelphia",
+      "zip": "19121",
+      "theater_name": "AMC Broadstreet 7",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515877826,
+      "date": "2025-09-12+13:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Indian Trail",
+      "zip": "28079",
+      "theater_name": "Stone Theatres Sun Valley 14 Cinemas",
+      "chainName": "Stone Theatres",
+      "chainCode": "STON",
+      "showtime_id": 515880425,
+      "date": "2025-09-12+21:50",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "theater_name": "AMC Regency 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515873464,
+      "date": "2025-09-12+20:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pembroke Pines",
+      "zip": "33026",
+      "theater_name": "AMC Pembroke Lakes 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515878024,
+      "date": "2025-09-12+22:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Willoughby",
+      "zip": "44094",
+      "theater_name": "Regal Willoughby Commons",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515878851,
+      "date": "2025-09-12+14:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Baker City",
+      "zip": "97814",
+      "theater_name": "Eltrym Theater",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515879395,
+      "date": "2025-09-12+15:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Baker City",
+      "zip": "97814",
+      "theater_name": "Eltrym Theater",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515879397,
+      "date": "2025-09-12+19:00",
+      "format": "Standard",
+      "language": "English",
       "error": {
         "status": 400
       }
