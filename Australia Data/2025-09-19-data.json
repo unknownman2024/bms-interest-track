@@ -4979,7 +4979,8 @@
     "screenName": "HOYTS LUX 04",
     "operator": "VGDDS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 362696,
@@ -4989,7 +4990,8 @@
     "screenName": "HOYTS LUX 03",
     "operator": "VGDDS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 362620,
@@ -4999,7 +5001,8 @@
     "screenName": "HOYTS LUX 02",
     "operator": "VGDDS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 362701,
@@ -5009,7 +5012,8 @@
     "screenName": "HOYTS LUX 04",
     "operator": "VGDDS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 362619,
@@ -5019,7 +5023,8 @@
     "screenName": "HOYTS LUX 02",
     "operator": "VGDDS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 362714,
@@ -5029,7 +5034,8 @@
     "screenName": "HOYTS LUX 01",
     "operator": "VGDDS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 362697,
@@ -5039,7 +5045,8 @@
     "screenName": "HOYTS LUX 03",
     "operator": "VGDDS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 362698,
@@ -5049,7 +5056,8 @@
     "screenName": "HOYTS LUX 03",
     "operator": "VGDDS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 362716,
@@ -5059,7 +5067,8 @@
     "screenName": "HOYTS LUX 02",
     "operator": "VGDDS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 362702,
@@ -5069,7 +5078,8 @@
     "screenName": "HOYTS LUX 04",
     "operator": "VGDDS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 362703,
@@ -5079,7 +5089,8 @@
     "screenName": "HOYTS LUX 04",
     "operator": "VGDDS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 362717,
@@ -5089,7 +5100,8 @@
     "screenName": "HOYTS LUX 02",
     "operator": "VGDDS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 362715,
@@ -5099,7 +5111,8 @@
     "screenName": "HOYTS LUX 01",
     "operator": "VGDDS",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 362699,
@@ -5108,6 +5121,127 @@
     "date": "2025-09-19T21:45:00",
     "screenName": "HOYTS LUX 03",
     "operator": "VGDDS",
+    "error": true,
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
+  },
+  {
+    "id": 312577,
+    "cinemaId": "CHWOOD",
+    "movieId": "HO00010700",
+    "date": "2025-09-19T20:50:00",
+    "screenName": "Cinema 02",
+    "operator": "CHW",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 312391,
+    "cinemaId": "CHWOOD",
+    "movieId": "HO00010689",
+    "date": "2025-09-19T21:40:00",
+    "screenName": "Cinema 08",
+    "operator": "CHW",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 312382,
+    "cinemaId": "CHWOOD",
+    "movieId": "HO00010689",
+    "date": "2025-09-19T18:30:00",
+    "screenName": "Cinema 03",
+    "operator": "CHW",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 422382,
+    "cinemaId": "EASTLN",
+    "movieId": "HO00010246",
+    "date": "2025-09-19T10:30:00",
+    "screenName": "Xtremescreen 07",
+    "operator": "EASLP",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 422362,
+    "cinemaId": "EASTLN",
+    "movieId": "HO00010233",
+    "date": "2025-09-19T15:00:00",
+    "screenName": "Xtremescreen 03",
+    "operator": "EAS",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 422367,
+    "cinemaId": "EASTLN",
+    "movieId": "HO00010233",
+    "date": "2025-09-19T18:00:00",
+    "screenName": "DBOX 02",
+    "operator": "EAS",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 422404,
+    "cinemaId": "EASTLN",
+    "movieId": "HO00010233",
+    "date": "2025-09-19T20:00:00",
+    "screenName": "Cinema 05",
+    "operator": "EAS",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 422377,
+    "cinemaId": "EASTLN",
+    "movieId": "HO00010233",
+    "date": "2025-09-19T21:20:00",
+    "screenName": "Xtremescreen 03",
+    "operator": "EAS",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 70091,
+    "cinemaId": "CROCIN",
+    "movieId": "HO00010184",
+    "date": "2025-09-19T11:15:00",
+    "screenName": "Cinema 03",
+    "operator": "CRO",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 70092,
+    "cinemaId": "CROCIN",
+    "movieId": "HO00009403",
+    "date": "2025-09-19T11:45:00",
+    "screenName": "Sapphire Lounge 05",
+    "operator": "CRO",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 70101,
+    "cinemaId": "CROCIN",
+    "movieId": "HO00010184",
+    "date": "2025-09-19T15:45:00",
+    "screenName": "Cinema 02",
+    "operator": "CRO",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 70107,
+    "cinemaId": "CROCIN",
+    "movieId": "HO00009403",
+    "date": "2025-09-19T18:15:00",
+    "screenName": "Cinema 02",
+    "operator": "CRO",
     "error": true,
     "error_msg": "HTTP 403"
   }

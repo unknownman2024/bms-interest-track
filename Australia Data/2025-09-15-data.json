@@ -36193,5 +36193,35 @@
     "error": true,
     "error_msg": "HTTP 403",
     "last_error": "HTTP 403"
+  },
+  {
+    "id": 389590,
+    "cinemaId": "ERINAF",
+    "movieId": "HO00010233",
+    "date": "2025-09-15T16:00:00",
+    "screenName": "Cinema 07",
+    "operator": "ERI",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 389589,
+    "cinemaId": "ERINAF",
+    "movieId": "HO00010233",
+    "date": "2025-09-15T10:40:00",
+    "screenName": "Cinema 08",
+    "operator": "ERI",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 274991,
+    "cinemaId": "TAYLOR",
+    "movieId": "HO00010233",
+    "date": "2025-09-15T00:35:00",
+    "screenName": "Cinema 02",
+    "operator": "TAY",
+    "error": true,
+    "error_msg": "HTTP 403"
   }
 ]
