@@ -52,7 +52,14 @@ def get_seatmap_headers():
         "Referer": "https://www.hoyts.com.au/",
         "Origin": "https://www.hoyts.com.au",
         "Connection": "keep-alive",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "same-site",
+        "DNT": "1",
+        "Pragma": "no-cache",
+        "Cache-Control": "no-cache",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
     }
+
 
 HEADERS = get_seatmap_headers()
 
