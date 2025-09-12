@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 04:59:39 AM",
+  "last_updated": "2025-09-12 07:26:30 AM",
   "errors": [
     {
       "state": "MA",
@@ -5155,6 +5155,96 @@
       "chainCode": "DPLC",
       "showtime_id": 515860832,
       "date": "2025-09-11+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Lexington",
+      "zip": "40503",
+      "theater_name": "Cinemark Fayette Mall and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515864749,
+      "date": "2025-09-11+21:35",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "UT",
+      "city": "West Valley",
+      "zip": "84120",
+      "theater_name": "Cinemark West Valley and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515867000,
+      "date": "2025-09-11+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Norwalk",
+      "zip": "90650",
+      "theater_name": "AMC Norwalk 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515862383,
+      "date": "2025-09-11+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92108",
+      "theater_name": "AMC Mission Valley 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515866348,
+      "date": "2025-09-11+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Novato",
+      "zip": "94945",
+      "theater_name": "Cinemark Century Rowland Plaza",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515862041,
+      "date": "2025-09-11+23:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Red Bluff",
+      "zip": "96080",
+      "theater_name": "Prime Cinemas Red Bluff",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515866132,
+      "date": "2025-09-11+19:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
