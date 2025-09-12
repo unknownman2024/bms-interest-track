@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 11:01:43 PM",
+  "last_updated": "2025-09-13 12:09:43 AM",
   "errors": [
     {
       "state": "MA",
@@ -24273,66 +24273,6 @@
     },
     {
       "state": "TX",
-      "city": "Lake Worth",
-      "zip": "76135",
-      "theater_name": "Texas Movie Bistro",
-      "chainName": "Texas Movie Bistro",
-      "chainCode": "TXMB",
-      "showtime_id": 513197405,
-      "date": "2025-09-12+14:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Lake Worth",
-      "zip": "76135",
-      "theater_name": "Texas Movie Bistro",
-      "chainName": "Texas Movie Bistro",
-      "chainCode": "TXMB",
-      "showtime_id": 513197404,
-      "date": "2025-09-12+16:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Lake Worth",
-      "zip": "76135",
-      "theater_name": "Texas Movie Bistro",
-      "chainName": "Texas Movie Bistro",
-      "chainCode": "TXMB",
-      "showtime_id": 513197403,
-      "date": "2025-09-12+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Lake Worth",
-      "zip": "76135",
-      "theater_name": "Texas Movie Bistro",
-      "chainName": "Texas Movie Bistro",
-      "chainCode": "TXMB",
-      "showtime_id": 513197406,
-      "date": "2025-09-12+22:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
       "city": "Bryan",
       "zip": "77808",
       "theater_name": "Bryan Premiere LUX Cine 15 IMAX & Pizza Pub",
@@ -29114,6 +29054,111 @@
       "language": "Unknown",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "NH",
+      "city": "Gilford",
+      "zip": "03246",
+      "theater_name": "Gilford Cinema 8",
+      "chainName": "Scene One Entertainment",
+      "chainCode": "BOWT",
+      "showtime_id": 515877558,
+      "date": "2025-09-12+12:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philadelphia",
+      "zip": "19106",
+      "theater_name": "Landmark Ritz Five",
+      "chainName": "Landmark",
+      "chainCode": "L",
+      "showtime_id": 515877477,
+      "date": "2025-09-12+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Monroeville",
+      "zip": "15146",
+      "theater_name": "Cinemark Monroeville Mall and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515877333,
+      "date": "2025-09-12+19:25",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Bonita Springs",
+      "zip": "34135",
+      "theater_name": "Prado Stadium 12",
+      "chainName": "Prado Theatre",
+      "chainCode": "PRDO",
+      "showtime_id": 515877277,
+      "date": "2025-09-12+16:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Kent",
+      "zip": "44240",
+      "theater_name": "Kent Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515876283,
+      "date": "2025-09-12+14:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Kent",
+      "zip": "44240",
+      "theater_name": "Kent Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515876284,
+      "date": "2025-09-12+17:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Kent",
+      "zip": "44240",
+      "theater_name": "Kent Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515876285,
+      "date": "2025-09-12+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
       }
     }
   ]
