@@ -244,11 +244,11 @@
     "date": "2025-09-11+22:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 94,
+    "totalSeatSold": 3,
+    "occupancy": 3.19,
+    "totalAvailableSeatCount": 91,
     "totalSeatCount": 94,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 43.14,
     "adultTicketPrice": 14.38
   },
   {
@@ -457,11 +457,11 @@
     "date": "2025-09-11+22:10",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 3,
-    "occupancy": 1.32,
-    "totalAvailableSeatCount": 225,
+    "totalSeatSold": 10,
+    "occupancy": 4.39,
+    "totalAvailableSeatCount": 218,
     "totalSeatCount": 228,
-    "grossRevenueUSD": 47.97,
+    "grossRevenueUSD": 159.9,
     "adultTicketPrice": 15.99
   },
   {
@@ -760,11 +760,11 @@
     "date": "2025-09-11+22:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 98,
+    "totalSeatSold": 5,
+    "occupancy": 5.1,
+    "totalAvailableSeatCount": 93,
     "totalSeatCount": 98,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 72.15,
     "adultTicketPrice": 14.43
   },
   {
@@ -1228,11 +1228,11 @@
     "date": "2025-09-11+22:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 4,
-    "occupancy": 2.61,
-    "totalAvailableSeatCount": 149,
+    "totalSeatSold": 6,
+    "occupancy": 3.92,
+    "totalAvailableSeatCount": 147,
     "totalSeatCount": 153,
-    "grossRevenueUSD": 55.8,
+    "grossRevenueUSD": 83.7,
     "adultTicketPrice": 13.95
   },
   {
@@ -1336,11 +1336,11 @@
     "date": "2025-09-11+22:25",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 57,
+    "totalSeatSold": 3,
+    "occupancy": 5.26,
+    "totalAvailableSeatCount": 54,
     "totalSeatCount": 57,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 38.28,
     "adultTicketPrice": 12.76
   },
   {
@@ -1642,11 +1642,11 @@
     "date": "2025-09-11+20:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 6,
-    "occupancy": 15.38,
-    "totalAvailableSeatCount": 33,
+    "totalSeatSold": 4,
+    "occupancy": 10.26,
+    "totalAvailableSeatCount": 35,
     "totalSeatCount": 39,
-    "grossRevenueUSD": 85.02,
+    "grossRevenueUSD": 56.68,
     "adultTicketPrice": 14.17
   },
   {
@@ -1966,11 +1966,11 @@
     "date": "2025-09-11+22:55",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 6,
-    "occupancy": 13.04,
-    "totalAvailableSeatCount": 40,
+    "totalSeatSold": 12,
+    "occupancy": 26.09,
+    "totalAvailableSeatCount": 34,
     "totalSeatCount": 46,
-    "grossRevenueUSD": 82.5,
+    "grossRevenueUSD": 165.0,
     "adultTicketPrice": 13.75
   },
   {
@@ -2000,6 +2000,21 @@
     "chainCode": "HRKN",
     "showtime_id": 515046029,
     "date": "2025-09-11+20:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "UT",
+    "city": "West Valley",
+    "zip": "84120",
+    "theater_name": "Cinemark West Valley and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 515867008,
+    "date": "2025-09-11+13:50",
     "format": "Standard",
     "language": "Hindi",
     "error": {
