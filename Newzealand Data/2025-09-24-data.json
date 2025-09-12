@@ -779,7 +779,8 @@
     "max_gross": 5278.5,
     "total_gross": 0.0,
     "price": 25.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 410"
   },
   {
     "id": 469090,
@@ -1334,11 +1335,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "CHC",
     "total": 384,
-    "sold": 2,
-    "available": 382,
-    "occupancy": 0.52,
+    "sold": 3,
+    "available": 381,
+    "occupancy": 0.78,
     "max_gross": 8832.0,
-    "total_gross": 46.0,
+    "total_gross": 69.0,
     "price": 23.0,
     "error": false
   },
@@ -1391,6 +1392,23 @@
     "max_gross": 1792.0,
     "total_gross": 0.0,
     "price": 16.0,
+    "error": false
+  },
+  {
+    "id": 169425,
+    "cinemaId": "HAMCIN",
+    "movieId": "HO00007822",
+    "date": "2025-09-24T19:30:00",
+    "typeId": "STANDARD",
+    "screenName": "METRO 6",
+    "operator": "HAM",
+    "total": 42,
+    "sold": 0,
+    "available": 42,
+    "occupancy": 0.0,
+    "max_gross": 1029.0,
+    "total_gross": 0.0,
+    "price": 24.5,
     "error": false
   }
 ]

@@ -1306,7 +1306,8 @@
     "max_gross": 3300.0,
     "total_gross": 0.0,
     "price": 16.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 316481,
@@ -4060,7 +4061,8 @@
     "max_gross": 32250.0,
     "total_gross": 0.0,
     "price": 30.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 500"
   },
   {
     "id": 469348,
@@ -5210,11 +5212,11 @@
     "screenName": "HOYTS LUX 09",
     "operator": "TERLP",
     "total": 95,
-    "sold": 0,
-    "available": 95,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 93,
+    "occupancy": 2.11,
     "max_gross": 2565.0,
-    "total_gross": 0.0,
+    "total_gross": 54.0,
     "price": 27.0,
     "error": false
   },
@@ -5533,11 +5535,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "ORM",
     "total": 286,
-    "sold": 0,
-    "available": 286,
-    "occupancy": 0.0,
+    "sold": 1,
+    "available": 285,
+    "occupancy": 0.35,
     "max_gross": 9295.0,
-    "total_gross": 0.0,
+    "total_gross": 32.5,
     "price": 32.5,
     "error": false
   },
@@ -6111,11 +6113,11 @@
     "screenName": "Cinema 5",
     "operator": "TER",
     "total": 216,
-    "sold": 2,
-    "available": 214,
-    "occupancy": 0.93,
+    "sold": 3,
+    "available": 213,
+    "occupancy": 1.39,
     "max_gross": 5292.0,
-    "total_gross": 49.0,
+    "total_gross": 73.5,
     "price": 24.5,
     "error": false
   },
