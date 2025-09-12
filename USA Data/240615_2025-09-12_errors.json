@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 11:04:41 PM",
+  "last_updated": "2025-09-13 12:15:11 AM",
   "errors": [
     {
       "state": "MA",
@@ -13653,66 +13653,6 @@
     },
     {
       "state": "TX",
-      "city": "Lake Worth",
-      "zip": "76135",
-      "theater_name": "Texas Movie Bistro",
-      "chainName": "Texas Movie Bistro",
-      "chainCode": "TXMB",
-      "showtime_id": 515776045,
-      "date": "2025-09-12+14:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Lake Worth",
-      "zip": "76135",
-      "theater_name": "Texas Movie Bistro",
-      "chainName": "Texas Movie Bistro",
-      "chainCode": "TXMB",
-      "showtime_id": 515426463,
-      "date": "2025-09-12+16:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Lake Worth",
-      "zip": "76135",
-      "theater_name": "Texas Movie Bistro",
-      "chainName": "Texas Movie Bistro",
-      "chainCode": "TXMB",
-      "showtime_id": 515426455,
-      "date": "2025-09-12+19:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Lake Worth",
-      "zip": "76135",
-      "theater_name": "Texas Movie Bistro",
-      "chainName": "Texas Movie Bistro",
-      "chainCode": "TXMB",
-      "showtime_id": 515426456,
-      "date": "2025-09-12+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
       "city": "Bryan",
       "zip": "77808",
       "theater_name": "Bryan Premiere LUX Cine 15 IMAX & Pizza Pub",
@@ -16394,6 +16334,66 @@
       "language": "Unknown",
       "error": {
         "status": 500
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Framingham",
+      "zip": "01701",
+      "theater_name": "AMC DINE-IN Framingham 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515520441,
+      "date": "2025-09-12+10:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Framingham",
+      "zip": "01701",
+      "theater_name": "AMC DINE-IN Framingham 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 513240655,
+      "date": "2025-09-12+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Lynbrook",
+      "zip": "11563",
+      "theater_name": "Regal Lynbrook & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515878926,
+      "date": "2025-09-12+22:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Oxnard",
+      "zip": "93030",
+      "theater_name": "Plaza Cinemas 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "showtime_id": 515415511,
+      "date": "2025-09-12+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
       }
     }
   ]
