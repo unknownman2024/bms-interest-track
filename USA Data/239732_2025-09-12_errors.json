@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 04:02:08 PM",
+  "last_updated": "2025-09-12 05:00:32 PM",
   "errors": [
     {
       "state": "CT",
@@ -30722,21 +30722,6 @@
       }
     },
     {
-      "state": "GA",
-      "city": "Atlanta",
-      "zip": "30326",
-      "theater_name": "AMC Phipps Plaza 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515790128,
-      "date": "2025-09-13+00:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "CA",
       "city": "Calexico",
       "zip": "92231",
@@ -32144,6 +32129,21 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Atlanta",
+      "zip": "30326",
+      "theater_name": "AMC Phipps Plaza 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515872371,
+      "date": "2025-09-13+00:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
       }
     }
   ]
