@@ -1,4 +1,20 @@
 {
-  "last_updated": "2025-09-12 10:49:01 PM",
-  "errors": []
+  "last_updated": "2025-09-12 11:56:22 PM",
+  "errors": [
+    {
+      "state": "IL",
+      "city": "Skokie",
+      "zip": "60077",
+      "theater_name": "AMC Village Crossing 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 0,
+      "date": "2025-09-19+20:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    }
+  ]
 }
