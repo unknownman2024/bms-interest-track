@@ -14,7 +14,8 @@
     "max_gross": 2520.0,
     "total_gross": 0.0,
     "price": 36.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 403"
   },
   {
     "id": 313488,
@@ -31,7 +32,8 @@
     "max_gross": 3240.0,
     "total_gross": 0.0,
     "price": 36.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 403"
   },
   {
     "id": 313500,
@@ -48,7 +50,8 @@
     "max_gross": 3240.0,
     "total_gross": 0.0,
     "price": 36.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 403"
   },
   {
     "id": 313490,
@@ -65,7 +68,8 @@
     "max_gross": 2520.0,
     "total_gross": 0.0,
     "price": 36.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 403"
   },
   {
     "id": 313493,
@@ -82,7 +86,8 @@
     "max_gross": 2520.0,
     "total_gross": 0.0,
     "price": 36.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 403"
   },
   {
     "id": 313496,
@@ -99,7 +104,8 @@
     "max_gross": 3240.0,
     "total_gross": 0.0,
     "price": 36.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 403"
   },
   {
     "id": 313498,
@@ -116,7 +122,8 @@
     "max_gross": 2520.0,
     "total_gross": 0.0,
     "price": 36.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 403"
   },
   {
     "id": 313501,
@@ -133,7 +140,8 @@
     "max_gross": 3240.0,
     "total_gross": 0.0,
     "price": 36.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 403"
   },
   {
     "id": 313494,
@@ -150,7 +158,8 @@
     "max_gross": 2520.0,
     "total_gross": 0.0,
     "price": 36.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 403"
   },
   {
     "id": 313495,
@@ -167,7 +176,8 @@
     "max_gross": 2625.0,
     "total_gross": 0.0,
     "price": 37.5,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 403"
   },
   {
     "id": 313497,
@@ -184,6 +194,57 @@
     "max_gross": 3240.0,
     "total_gross": 0.0,
     "price": 36.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 403"
+  },
+  {
+    "id": 422085,
+    "cinemaId": "EASTLN",
+    "movieId": "HO00009813",
+    "date": "2025-09-22T18:40:00",
+    "screenName": "HOYTS LUX 03",
+    "operator": "EASLP",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 422109,
+    "cinemaId": "EASTLN",
+    "movieId": "HO00010553",
+    "date": "2025-09-22T19:30:00",
+    "screenName": "HOYTS LUX 02",
+    "operator": "EASLP",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 422082,
+    "cinemaId": "EASTLN",
+    "movieId": "HO00009618",
+    "date": "2025-09-22T18:00:00",
+    "screenName": "HOYTS LUX 01",
+    "operator": "EASLP",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 422083,
+    "cinemaId": "EASTLN",
+    "movieId": "HO00009813",
+    "date": "2025-09-22T20:45:00",
+    "screenName": "HOYTS LUX 01",
+    "operator": "EASLP",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 422086,
+    "cinemaId": "EASTLN",
+    "movieId": "HO00008335",
+    "date": "2025-09-22T21:15:00",
+    "screenName": "HOYTS LUX 03",
+    "operator": "EASLP",
+    "error": true,
+    "error_msg": "HTTP 403"
   }
 ]
