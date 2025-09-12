@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12 11:37:32 AM",
+  "last_updated": "2025-09-12 12:58:53 PM",
   "errors": [
     {
       "state": "CT",
@@ -25907,21 +25907,6 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Pasadena",
-      "zip": "91106",
-      "theater_name": "Regency Academy 6 Theater",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515550569,
-      "date": "2025-09-12+17:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
       "state": "MA",
       "city": "Sturbridge",
       "zip": "01566",
@@ -32159,6 +32144,21 @@
       "language": "English",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Mountain View",
+      "zip": "94040",
+      "theater_name": "Alamo Drafthouse Mountain View",
+      "chainName": "Alamo Drafthouse Cinemas",
+      "chainCode": "ALAM",
+      "showtime_id": 515871766,
+      "date": "2025-09-12+17:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
       }
     }
   ]
