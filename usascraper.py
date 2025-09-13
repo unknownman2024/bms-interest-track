@@ -51,14 +51,27 @@ KNOWN_LANGUAGES = [
     "Bengali",
 ]
 
+
 FORMAT_KEYWORDS = [
-    "RPX",
+    "Superscreen DLX",
+    "Ultrascreen DLX",
+    "CINÉ XL®",
     "D-Box",
     "IMAX",
     "EMX",
-    "Sony Digital Cinema",
+    "FDX",
+    "DFX",
     "4DX",
+    "ACX",
+    "PTX",
+    "RPX",
+    "EPEX",
+    "Sony Digital Cinema",
+    "Grand Screen",
     "ScreenX",
+    "XL at AMC",
+    "Premium Large Format",
+    "Monster Screen®",
     "XD",
     "Dolby Cinema",
 ]
