@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-14 12:16:21 AM",
+  "last_updated": "2025-09-14 03:10:27 AM",
   "errors": [
     {
       "state": "MA",
@@ -209,6 +209,36 @@
       "language": "Telugu",
       "error": {
         "status": 500
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Auburn Hills",
+      "zip": "48326",
+      "theater_name": "AMC Star Great Lakes 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515936188,
+      "date": "2025-09-25+19:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75033",
+      "theater_name": "CUT! by Cinemark Frisco - Dine-in Theatre, Kitchen",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515938605,
+      "date": "2025-09-25+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
       }
     }
   ]
