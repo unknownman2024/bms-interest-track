@@ -869,14 +869,13 @@
     "screenName": "Xtremescreen 06",
     "operator": "HIG",
     "total": 316,
-    "sold": 41,
-    "available": 275,
-    "occupancy": 12.97,
+    "sold": 43,
+    "available": 273,
+    "occupancy": 13.61,
     "max_gross": 10744.0,
-    "total_gross": 1394.0,
+    "total_gross": 1462.0,
     "price": 34.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 422047,
@@ -962,7 +961,8 @@
     "max_gross": 8277.0,
     "total_gross": 0.0,
     "price": 31.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 248862,
@@ -996,7 +996,8 @@
     "max_gross": 3933.0,
     "total_gross": 0.0,
     "price": 28.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 318557,
@@ -1082,7 +1083,8 @@
     "max_gross": 4590.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 141395,
@@ -1110,14 +1112,13 @@
     "screenName": "Xtremescreen 09",
     "operator": "WAR",
     "total": 330,
-    "sold": 4,
-    "available": 326,
-    "occupancy": 1.21,
+    "sold": 6,
+    "available": 324,
+    "occupancy": 1.82,
     "max_gross": 9900.0,
-    "total_gross": 120.0,
+    "total_gross": 180.0,
     "price": 30.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 409484,
@@ -1145,11 +1146,11 @@
     "screenName": "Xtremescreen 05",
     "operator": "BEL",
     "total": 160,
-    "sold": 20,
-    "available": 140,
-    "occupancy": 12.5,
+    "sold": 25,
+    "available": 135,
+    "occupancy": 15.62,
     "max_gross": 5040.0,
-    "total_gross": 630.0,
+    "total_gross": 787.5,
     "price": 31.5,
     "error": false
   },
