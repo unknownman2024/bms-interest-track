@@ -1,0 +1,80 @@
+{
+  "last_updated": "2025-09-13 09:21:26 AM",
+  "errors": [
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515878131,
+      "date": "2025-10-01+12:20",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515878132,
+      "date": "2025-10-01+16:10",
+      "format": "Standard",
+      "language": "Kannada",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515878133,
+      "date": "2025-10-01+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Buford",
+      "zip": "30519",
+      "theater_name": "Regal Mall of Georgia IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515920990,
+      "date": "2025-10-01+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Bellevue",
+      "zip": "98008",
+      "theater_name": "Regal Crossroads - Bellevue",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515909016,
+      "date": "2025-10-01+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "exception": ""
+      }
+    }
+  ]
+}
