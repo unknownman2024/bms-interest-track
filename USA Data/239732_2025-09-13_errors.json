@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 09:03:46 PM",
+  "last_updated": "2025-09-13 10:00:29 PM",
   "errors": [
     {
       "state": "MA",
@@ -13598,21 +13598,6 @@
       "theater_name": "CMX Miami Lakes 13",
       "chainName": "CMX Cinemas",
       "chainCode": "COBB",
-      "showtime_id": 512256410,
-      "date": "2025-09-13+18:50",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami Lakes",
-      "zip": "33014",
-      "theater_name": "CMX Miami Lakes 13",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
       "showtime_id": 512256409,
       "date": "2025-09-13+15:30",
       "format": "Standard",
@@ -26748,36 +26733,6 @@
     },
     {
       "state": "OK",
-      "city": "Oklahoma City",
-      "zip": "73127",
-      "theater_name": "Icon Cinema Oklahoma City",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 515381301,
-      "date": "2025-09-13+18:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "OK",
-      "city": "Oklahoma City",
-      "zip": "73127",
-      "theater_name": "Icon Cinema Oklahoma City",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 515220976,
-      "date": "2025-09-13+19:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "OK",
       "city": "Moore",
       "zip": "73160",
       "theater_name": "Regal Warren Moore 4DX & IMAX",
@@ -35219,6 +35174,201 @@
       "language": "English",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Salisbury",
+      "zip": "01952",
+      "theater_name": "Vision Max Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515928652,
+      "date": "2025-09-13+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Salisbury",
+      "zip": "01952",
+      "theater_name": "Vision Max Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515928651,
+      "date": "2025-09-13+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Salisbury",
+      "zip": "01952",
+      "theater_name": "Vision Max Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515928650,
+      "date": "2025-09-13+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Geneseo",
+      "zip": "14454",
+      "theater_name": "Geneseo Theaters",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515928389,
+      "date": "2025-09-13+12:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Geneseo",
+      "zip": "14454",
+      "theater_name": "Geneseo Theaters",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515928388,
+      "date": "2025-09-13+15:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Carrollton",
+      "zip": "30116",
+      "theater_name": "Regal Carrollton",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515928541,
+      "date": "2025-09-13+20:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mounds View",
+      "zip": "55112",
+      "theater_name": "AMC CLASSIC Mounds View 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515928086,
+      "date": "2025-09-13+18:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mounds View",
+      "zip": "55112",
+      "theater_name": "AMC CLASSIC Mounds View 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515928085,
+      "date": "2025-09-13+14:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Grand Prairie",
+      "zip": "75052",
+      "theater_name": "Cinemark Grand Prairie",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515928506,
+      "date": "2025-09-13+10:05",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Fort Worth",
+      "zip": "76116",
+      "theater_name": "Cinemark Rave Ridgmar 13 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515928331,
+      "date": "2025-09-13+09:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Fort Worth",
+      "zip": "76116",
+      "theater_name": "Cinemark Rave Ridgmar 13 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515928339,
+      "date": "2025-09-13+10:35",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Spring",
+      "zip": "77388",
+      "theater_name": "AMC Spring 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515928104,
+      "date": "2025-09-13+16:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Abilene",
+      "zip": "79606",
+      "theater_name": "Cinemark Century Abilene 12",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515928322,
+      "date": "2025-09-13+10:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
       }
     }
   ]
