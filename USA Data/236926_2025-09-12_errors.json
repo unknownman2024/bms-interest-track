@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 04:57:32 AM",
+  "last_updated": "2025-09-13 06:58:51 AM",
   "errors": [
     {
       "state": "MA",
@@ -29410,6 +29410,96 @@
       "chainCode": "CNMK",
       "showtime_id": 515904477,
       "date": "2025-09-12+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Plattsburgh",
+      "zip": "12901",
+      "theater_name": "Regal Champlain Centre",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515909015,
+      "date": "2025-09-12+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Ann Arbor",
+      "zip": "48104",
+      "theater_name": "State Theatre",
+      "chainName": "Agile Ticketing",
+      "chainCode": "AGLE",
+      "showtime_id": 512968218,
+      "date": "2025-09-12+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Muncie",
+      "zip": "47303",
+      "theater_name": "AMC Showplace Muncie 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515907499,
+      "date": "2025-09-12+23:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Bartlesville",
+      "zip": "74005",
+      "theater_name": "Regal Bartlesville Movies",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515905759,
+      "date": "2025-09-12+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "El Paso",
+      "zip": "79928",
+      "theater_name": "Gamescape by Cinemark at El Paso",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515906404,
+      "date": "2025-09-12+17:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Surprise",
+      "zip": "85374",
+      "theater_name": "AMC Surprise Pointe 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515903165,
+      "date": "2025-09-12+16:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
