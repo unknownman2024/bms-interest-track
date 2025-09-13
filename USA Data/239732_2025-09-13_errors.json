@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 10:00:29 PM",
+  "last_updated": "2025-09-13 10:58:17 PM",
   "errors": [
     {
       "state": "MA",
@@ -13585,36 +13585,6 @@
       "chainCode": "COBB",
       "showtime_id": 512256408,
       "date": "2025-09-13+12:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami Lakes",
-      "zip": "33014",
-      "theater_name": "CMX Miami Lakes 13",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 512256409,
-      "date": "2025-09-13+15:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami Lakes",
-      "zip": "33014",
-      "theater_name": "CMX Miami Lakes 13",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 512256411,
-      "date": "2025-09-13+22:15",
       "format": "Standard",
       "language": "English",
       "error": {
@@ -35252,21 +35222,6 @@
       }
     },
     {
-      "state": "GA",
-      "city": "Carrollton",
-      "zip": "30116",
-      "theater_name": "Regal Carrollton",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515928541,
-      "date": "2025-09-13+20:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "MN",
       "city": "Mounds View",
       "zip": "55112",
@@ -35367,6 +35322,111 @@
       "date": "2025-09-13+10:40",
       "format": "Standard",
       "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515928725,
+      "date": "2025-09-13+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515929154,
+      "date": "2025-09-13+18:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Columbia",
+      "zip": "65203",
+      "theater_name": "GQT Forum 8",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 515601420,
+      "date": "2025-09-13+20:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Wichita",
+      "zip": "67206",
+      "theater_name": "Regal Warren East",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515928832,
+      "date": "2025-09-13+18:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NE",
+      "city": "Fremont",
+      "zip": "68025",
+      "theater_name": "Fremont Theaters",
+      "chainName": "Three Rau's Entertainment",
+      "chainCode": "RAU",
+      "showtime_id": 515929675,
+      "date": "2025-09-13+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Harahan",
+      "zip": "70123",
+      "theater_name": "AMC Elmwood Palace 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515928819,
+      "date": "2025-09-13+20:50",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Lake Worth",
+      "zip": "76135",
+      "theater_name": "Texas Movie Bistro",
+      "chainName": "Texas Movie Bistro",
+      "chainCode": "TXMB",
+      "showtime_id": 515929288,
+      "date": "2025-09-13+10:15",
+      "format": "Standard",
+      "language": "Unknown",
       "error": {
         "status": 404
       }
