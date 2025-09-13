@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 04:59:36 AM",
+  "last_updated": "2025-09-13 07:25:04 AM",
   "errors": [
     {
       "state": "MA",
@@ -16277,21 +16277,6 @@
       }
     },
     {
-      "state": "NY",
-      "city": "Lynbrook",
-      "zip": "11563",
-      "theater_name": "Regal Lynbrook & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515878926,
-      "date": "2025-09-12+22:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "CA",
       "city": "Oxnard",
       "zip": "93030",
@@ -16349,6 +16334,66 @@
       "language": "Unknown",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Chicago",
+      "zip": "60611",
+      "theater_name": "AMC River East 21",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515886176,
+      "date": "2025-09-12+16:05",
+      "format": "Standard",
+      "language": "Spanish",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "El Paso",
+      "zip": "79928",
+      "theater_name": "Gamescape by Cinemark at El Paso",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515906406,
+      "date": "2025-09-12+16:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fort Bragg",
+      "zip": "95437",
+      "theater_name": "Coast Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515909921,
+      "date": "2025-09-12+16:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fort Bragg",
+      "zip": "95437",
+      "theater_name": "Coast Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515909922,
+      "date": "2025-09-12+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
       }
     }
   ]
