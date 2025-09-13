@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 09:04:05 AM",
+  "last_updated": "2025-09-13 09:37:13 AM",
   "errors": [
     {
       "state": "MA",
@@ -29318,36 +29318,6 @@
       "theater_name": "City Base Entertainment",
       "chainName": "City Base Cinema",
       "chainCode": "CBC",
-      "showtime_id": 515724262,
-      "date": "2025-09-13+20:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78223",
-      "theater_name": "City Base Entertainment",
-      "chainName": "City Base Cinema",
-      "chainCode": "CBC",
-      "showtime_id": 515724258,
-      "date": "2025-09-13+21:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78223",
-      "theater_name": "City Base Entertainment",
-      "chainName": "City Base Cinema",
-      "chainCode": "CBC",
       "showtime_id": 515724276,
       "date": "2025-09-13+10:30",
       "format": "Standard",
@@ -35207,21 +35177,6 @@
       }
     },
     {
-      "state": "CO",
-      "city": "Lakewood",
-      "zip": "80226",
-      "theater_name": "Cinemark Century Bel Mar 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515904331,
-      "date": "2025-09-13+21:50",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 404
-      }
-    },
-    {
       "state": "WA",
       "city": "Spokane",
       "zip": "99201",
@@ -35652,6 +35607,96 @@
       "date": "2025-09-13+20:30",
       "format": "Standard",
       "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Bluefield",
+      "zip": "24701",
+      "theater_name": "Golden Ticket Bluefield 8",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 515922900,
+      "date": "2025-09-13+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Bluefield",
+      "zip": "24701",
+      "theater_name": "Golden Ticket Bluefield 8",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 515922901,
+      "date": "2025-09-13+22:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Hinesville",
+      "zip": "31313",
+      "theater_name": "Liberty Cinemas",
+      "chainName": "Georgia Theatre Company",
+      "chainCode": "GRGA",
+      "showtime_id": 515921632,
+      "date": "2025-09-13+20:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Polson",
+      "zip": "59860",
+      "theater_name": "Showboat Cinemas",
+      "chainName": "Polson Theatres",
+      "chainCode": "POLS",
+      "showtime_id": 515921998,
+      "date": "2025-09-13+13:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Polson",
+      "zip": "59860",
+      "theater_name": "Showboat Cinemas",
+      "chainName": "Polson Theatres",
+      "chainCode": "POLS",
+      "showtime_id": 515921999,
+      "date": "2025-09-13+16:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Polson",
+      "zip": "59860",
+      "theater_name": "Showboat Cinemas",
+      "chainName": "Polson Theatres",
+      "chainCode": "POLS",
+      "showtime_id": 515922000,
+      "date": "2025-09-13+19:15",
+      "format": "Standard",
+      "language": "English",
       "error": {
         "status": 400
       }
