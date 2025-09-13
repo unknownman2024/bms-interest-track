@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 08:28:32 AM",
+  "last_updated": "2025-09-13 09:04:01 AM",
   "errors": [
     {
       "state": "MA",
@@ -14703,36 +14703,6 @@
     },
     {
       "state": "NM",
-      "city": "Albuquerque",
-      "zip": "87123",
-      "theater_name": "Icon Cinema 4 Hills",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 515336387,
-      "date": "2025-09-12+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NM",
-      "city": "Albuquerque",
-      "zip": "87123",
-      "theater_name": "Icon Cinema 4 Hills",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 515374301,
-      "date": "2025-09-12+22:10",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NM",
       "city": "Espanola",
       "zip": "87532",
       "theater_name": "Dreamcatcher Cinema 10",
@@ -16390,6 +16360,21 @@
       "chainCode": "CNMK",
       "showtime_id": 515918829,
       "date": "2025-09-12+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Batesville",
+      "zip": "72501",
+      "theater_name": "Oaks 7 VIP Cinema",
+      "chainName": "Cinema Hosting",
+      "chainCode": "CHST",
+      "showtime_id": 515921651,
+      "date": "2025-09-12+21:35",
       "format": "Standard",
       "language": "Unknown",
       "error": {
