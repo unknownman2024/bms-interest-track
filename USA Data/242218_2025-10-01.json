@@ -1789,7 +1789,7 @@
     "chainName": "Regal",
     "chainCode": "REGL",
     "showtime_id": 515895017,
-    "date": "2025-10-01+16:20",
+    "date": "2025-10-01+20:15",
     "format": "Standard",
     "language": "Telugu",
     "totalSeatSold": 0,
@@ -9631,11 +9631,11 @@
     "date": "2025-10-01+18:00",
     "format": "RPX",
     "language": "Kannada",
-    "totalSeatSold": 2,
-    "occupancy": 0.69,
-    "totalAvailableSeatCount": 288,
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 290,
     "totalSeatCount": 290,
-    "grossRevenueUSD": 56.0,
+    "grossRevenueUSD": 0.0,
     "adultTicketPrice": 28.0
   },
   {
@@ -10951,5 +10951,23 @@
     "totalSeatCount": 47,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 21.2
+  },
+  {
+    "state": "NJ",
+    "city": "Mays Landing",
+    "zip": "08330",
+    "theater_name": "Regal Hamilton Commons",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 515926469,
+    "date": "2025-10-01+12:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 113,
+    "totalSeatCount": 113,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 21.33
   }
 ]
