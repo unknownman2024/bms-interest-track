@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 04:39:14 AM",
+  "last_updated": "2025-09-13 05:42:23 AM",
   "errors": [
     {
       "state": "MA",
@@ -28578,21 +28578,6 @@
     },
     {
       "state": "TX",
-      "city": "Houston",
-      "zip": "77036",
-      "theater_name": "America Cinemas Houston",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 515465253,
-      "date": "2025-09-13+20:30",
-      "format": "Standard",
-      "language": "Spanish",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
       "city": "Katy",
       "zip": "77449",
       "theater_name": "Cinemark Katy and XD",
@@ -35309,6 +35294,141 @@
       "language": "Unknown",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Abingdon",
+      "zip": "24210",
+      "theater_name": "Abingdon Cinemall",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515349794,
+      "date": "2025-09-13+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Abingdon",
+      "zip": "24210",
+      "theater_name": "Abingdon Cinemall",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515349795,
+      "date": "2025-09-13+19:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Mooresville",
+      "zip": "46158",
+      "theater_name": "Showtime Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515910485,
+      "date": "2025-09-13+12:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Mooresville",
+      "zip": "46158",
+      "theater_name": "Showtime Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515910482,
+      "date": "2025-09-13+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Mooresville",
+      "zip": "46158",
+      "theater_name": "Showtime Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515910483,
+      "date": "2025-09-13+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Lake Elsinore",
+      "zip": "92530",
+      "theater_name": "UEC Theatres Diamond 8",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515908826,
+      "date": "2025-09-13+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Lake Elsinore",
+      "zip": "92530",
+      "theater_name": "UEC Theatres Diamond 8",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515908827,
+      "date": "2025-09-13+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Lake Elsinore",
+      "zip": "92530",
+      "theater_name": "UEC Theatres Diamond 8",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515908828,
+      "date": "2025-09-13+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Lake Elsinore",
+      "zip": "92530",
+      "theater_name": "UEC Theatres Diamond 8",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515908829,
+      "date": "2025-09-13+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
       }
     }
   ]
