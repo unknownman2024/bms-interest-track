@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 10:58:17 PM",
+  "last_updated": "2025-09-14 12:00:43 AM",
   "errors": [
     {
       "state": "MA",
@@ -35298,21 +35298,6 @@
     },
     {
       "state": "TX",
-      "city": "Spring",
-      "zip": "77388",
-      "theater_name": "AMC Spring 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515928104,
-      "date": "2025-09-13+16:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "TX",
       "city": "Abilene",
       "zip": "79606",
       "theater_name": "Cinemark Century Abilene 12",
@@ -35372,21 +35357,6 @@
       }
     },
     {
-      "state": "KS",
-      "city": "Wichita",
-      "zip": "67206",
-      "theater_name": "Regal Warren East",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515928832,
-      "date": "2025-09-13+18:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "NE",
       "city": "Fremont",
       "zip": "68025",
@@ -35427,6 +35397,96 @@
       "date": "2025-09-13+10:15",
       "format": "Standard",
       "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Fort Lauderdale",
+      "zip": "33306",
+      "theater_name": "AMC DINE-IN Coral Ridge 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515928808,
+      "date": "2025-09-13+12:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Fort Lauderdale",
+      "zip": "33306",
+      "theater_name": "AMC DINE-IN Coral Ridge 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515930678,
+      "date": "2025-09-13+22:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Bloomington",
+      "zip": "47404",
+      "theater_name": "AMC CLASSIC Bloomington 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515928726,
+      "date": "2025-09-13+22:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Billings",
+      "zip": "59102",
+      "theater_name": "AMC Shiloh 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515930689,
+      "date": "2025-09-13+20:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Forney",
+      "zip": "75126",
+      "theater_name": "AMC CLASSIC Forney 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515930540,
+      "date": "2025-09-13+22:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Brighton",
+      "zip": "80601",
+      "theater_name": "AMC Showplace Brighton 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515930694,
+      "date": "2025-09-13+11:30",
+      "format": "Standard",
+      "language": "English",
       "error": {
         "status": 404
       }
