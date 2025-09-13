@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-14 12:00:43 AM",
+  "last_updated": "2025-09-14 12:57:10 AM",
   "errors": [
     {
       "state": "MA",
@@ -35489,6 +35489,171 @@
       "language": "English",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Dalton",
+      "zip": "30721",
+      "theater_name": "AMC CLASSIC Walnut Square 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515931832,
+      "date": "2025-09-13+21:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Fort Lauderdale",
+      "zip": "33304",
+      "theater_name": "Paradigm Cinemas: Gateway Fort Lauderdale",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515933400,
+      "date": "2025-09-13+13:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Bartlett",
+      "zip": "38133",
+      "theater_name": "Malco Stage Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 515933495,
+      "date": "2025-09-13+13:35",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Shawnee",
+      "zip": "74804",
+      "theater_name": "Cinema Centre 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515931795,
+      "date": "2025-09-13+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "New Braunfels",
+      "zip": "78130",
+      "theater_name": "EVO Cinemas Creekside Town Center",
+      "chainName": "Evo Entertainment",
+      "chainCode": "EVO",
+      "showtime_id": 515932810,
+      "date": "2025-09-13+13:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Sunnyside",
+      "zip": "98944",
+      "theater_name": "Grand Cinemas Yakima Valley",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515933504,
+      "date": "2025-09-13+13:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Sunnyside",
+      "zip": "98944",
+      "theater_name": "Grand Cinemas Yakima Valley",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515933505,
+      "date": "2025-09-13+20:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Sunnyside",
+      "zip": "98944",
+      "theater_name": "Grand Cinemas Yakima Valley",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515933514,
+      "date": "2025-09-13+14:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Sunnyside",
+      "zip": "98944",
+      "theater_name": "Grand Cinemas Yakima Valley",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515933506,
+      "date": "2025-09-13+16:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Sunnyside",
+      "zip": "98944",
+      "theater_name": "Grand Cinemas Yakima Valley",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515933516,
+      "date": "2025-09-13+18:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Sunnyside",
+      "zip": "98944",
+      "theater_name": "Grand Cinemas Yakima Valley",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515933515,
+      "date": "2025-09-13+21:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
       }
     }
   ]
