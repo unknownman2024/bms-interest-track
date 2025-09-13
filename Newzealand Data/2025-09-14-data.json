@@ -7716,5 +7716,25 @@
     "price": 27.0,
     "error": false,
     "last_error": "HTTP 403"
+  },
+  {
+    "id": 68822,
+    "cinemaId": "ORMCIN",
+    "movieId": "HO00007811",
+    "date": "2025-09-14T21:10:00",
+    "screenName": "Cinema 03",
+    "operator": "ORM",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 68823,
+    "cinemaId": "ORMCIN",
+    "movieId": "HO00007811",
+    "date": "2025-09-14T17:20:00",
+    "screenName": "Cinema 06",
+    "operator": "ORM",
+    "error": true,
+    "error_msg": "HTTP 403"
   }
 ]
