@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 08:52:22 AM",
+  "last_updated": "2025-09-13 09:40:06 AM",
   "errors": [
     {
       "state": "CT",
@@ -33355,6 +33355,351 @@
       "chainCode": "CNMK",
       "showtime_id": 515918830,
       "date": "2025-09-12+19:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Plainville",
+      "zip": "06062",
+      "theater_name": "AMC Plainville 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515921827,
+      "date": "2025-09-12+23:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MA",
+      "city": "North Dartmouth",
+      "zip": "02747",
+      "theater_name": "AMC Dartmouth Mall 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515918423,
+      "date": "2025-09-12+23:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Poughkeepsie",
+      "zip": "12601",
+      "theater_name": "Regal Galleria Mall",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515921716,
+      "date": "2025-09-12+22:25",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Lynbrook",
+      "zip": "11563",
+      "theater_name": "Regal Lynbrook & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515921235,
+      "date": "2025-09-12+23:10",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "PA",
+      "city": "York",
+      "zip": "17408",
+      "theater_name": "Regal West Manchester",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515921641,
+      "date": "2025-09-12+23:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Lancaster",
+      "zip": "17603",
+      "theater_name": "Regal Manor",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515921237,
+      "date": "2025-09-12+23:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Lancaster",
+      "zip": "17603",
+      "theater_name": "Regal Manor",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515921238,
+      "date": "2025-09-12+23:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Owings Mills",
+      "zip": "21117",
+      "theater_name": "AMC Owings Mills 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515920923,
+      "date": "2025-09-12+22:47",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Hunt Valley",
+      "zip": "21030",
+      "theater_name": "Regal Hunt Valley",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515920979,
+      "date": "2025-09-12+22:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Conyers",
+      "zip": "30013",
+      "theater_name": "AMC Conyers Crossing 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515920985,
+      "date": "2025-09-12+22:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Hiram",
+      "zip": "30141",
+      "theater_name": "AMC Hiram 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515920034,
+      "date": "2025-09-12+22:35",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Miami",
+      "zip": "33175",
+      "theater_name": "AMC Tamiami 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515921867,
+      "date": "2025-09-12+23:10",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Memphis",
+      "zip": "38117",
+      "theater_name": "Malco Paradiso Cinema Grill & IMAX",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 515921989,
+      "date": "2025-09-12+22:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Jackson",
+      "zip": "38305",
+      "theater_name": "Hollywood Cinema 16",
+      "chainName": "Cinema Management Group Inc",
+      "chainCode": "CMGI",
+      "showtime_id": 515922229,
+      "date": "2025-09-12+21:50",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Columbus",
+      "zip": "43219",
+      "theater_name": "AMC Dine-in Easton Town Center 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515919848,
+      "date": "2025-09-12+22:50",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Fort Wayne",
+      "zip": "46825",
+      "theater_name": "Regal Coldwater Crossing",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515921823,
+      "date": "2025-09-12+23:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Willoughby",
+      "zip": "44094",
+      "theater_name": "Regal Willoughby Commons",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515921134,
+      "date": "2025-09-12+22:35",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peru",
+      "zip": "61354",
+      "theater_name": "AMC Peru Mall 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515921825,
+      "date": "2025-09-12+22:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Batesville",
+      "zip": "72501",
+      "theater_name": "Oaks 7 VIP Cinema",
+      "chainName": "Cinema Hosting",
+      "chainCode": "CHST",
+      "showtime_id": 515921650,
+      "date": "2025-09-12+11:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Batesville",
+      "zip": "72501",
+      "theater_name": "Oaks 7 VIP Cinema",
+      "chainName": "Cinema Hosting",
+      "chainCode": "CHST",
+      "showtime_id": 515921649,
+      "date": "2025-09-12+14:55",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Fort Worth",
+      "zip": "76120",
+      "theater_name": "AMC Eastchase 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515921124,
+      "date": "2025-09-12+22:45",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Fort Worth",
+      "zip": "76102",
+      "theater_name": "AMC Palace 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515920980,
+      "date": "2025-09-12+22:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Mateo",
+      "zip": "94401",
+      "theater_name": "Cinemark Century San Mateo 12",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515922600,
+      "date": "2025-09-12+19:15",
       "format": "Standard",
       "language": "English",
       "error": {
