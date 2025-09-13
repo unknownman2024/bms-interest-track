@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-14 12:57:10 AM",
+  "last_updated": "2025-09-14 01:57:24 AM",
   "errors": [
     {
       "state": "MA",
@@ -13600,21 +13600,6 @@
       "chainCode": "AMC",
       "showtime_id": 515828815,
       "date": "2025-09-13+22:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Miami",
-      "zip": "33130",
-      "theater_name": "CMX Brickell Dine-In",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 515836940,
-      "date": "2025-09-13+17:30",
       "format": "Standard",
       "language": "English",
       "error": {
@@ -35654,6 +35639,111 @@
       "language": "English",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Cortland",
+      "zip": "13045",
+      "theater_name": "Crown City Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515935878,
+      "date": "2025-09-13+15:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Cortland",
+      "zip": "13045",
+      "theater_name": "Crown City Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515935879,
+      "date": "2025-09-13+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Coral Gables",
+      "zip": "33146",
+      "theater_name": "Landmark at Merrick Park",
+      "chainName": "Landmark",
+      "chainCode": "L",
+      "showtime_id": 515935598,
+      "date": "2025-09-13+18:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Valley View",
+      "zip": "44125",
+      "theater_name": "Cinemark Valley View and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515933815,
+      "date": "2025-09-13+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Lake In The Hills",
+      "zip": "60156",
+      "theater_name": "AMC Lake In The Hills 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515932726,
+      "date": "2025-09-13+14:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tucson",
+      "zip": "85741",
+      "theater_name": "AMC Loews Foothills 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515935151,
+      "date": "2025-09-13+22:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89119",
+      "theater_name": "AMC Town Square 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515932864,
+      "date": "2025-09-13+14:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
       }
     }
   ]
