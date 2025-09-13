@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 07:25:04 AM",
+  "last_updated": "2025-09-13 08:28:32 AM",
   "errors": [
     {
       "state": "MA",
@@ -8207,21 +8207,6 @@
       }
     },
     {
-      "state": "TN",
-      "city": "Jackson",
-      "zip": "38305",
-      "theater_name": "Hollywood Cinema 16",
-      "chainName": "Cinema Management Group Inc",
-      "chainCode": "CMGI",
-      "showtime_id": 515137417,
-      "date": "2025-09-12+21:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "MS",
       "city": "Philadelphia",
       "zip": "39350",
@@ -16394,6 +16379,21 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Lubbock",
+      "zip": "79423",
+      "theater_name": "Cinemark Tinseltown Lubbock and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515918829,
+      "date": "2025-09-12+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
       }
     }
   ]
