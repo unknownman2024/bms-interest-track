@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 10:38:03 AM",
+  "last_updated": "2025-09-13 11:39:07 AM",
   "errors": [
     {
       "state": "CT",
@@ -33807,6 +33807,36 @@
       "date": "2025-09-12+21:10",
       "format": "Standard",
       "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Aurora",
+      "zip": "80012",
+      "theater_name": "Cinemark Century Aurora and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515924631,
+      "date": "2025-09-12+22:50",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "West Covina",
+      "zip": "91790",
+      "theater_name": "Regal Edwards West Covina & ScreenX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515924961,
+      "date": "2025-09-12+22:45",
+      "format": "Standard",
+      "language": "Japanese",
       "error": {
         "status": 404
       }
