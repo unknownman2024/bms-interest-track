@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 11:58:08 PM",
+  "last_updated": "2025-09-14 12:49:24 AM",
   "errors": [
     {
       "state": "DE",
@@ -314,6 +314,21 @@
       "language": "Telugu",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Charlotte",
+      "zip": "28262",
+      "theater_name": "Regal Starlight - Charlotte",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515933015,
+      "date": "2025-09-13+21:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
       }
     }
   ]
