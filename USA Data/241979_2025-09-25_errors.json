@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 09:11:07 PM",
+  "last_updated": "2025-09-14 12:16:21 AM",
   "errors": [
     {
       "state": "MA",
@@ -160,6 +160,51 @@
       "chainCode": "AMC",
       "showtime_id": 515920926,
       "date": "2025-09-25+19:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Morrisville",
+      "zip": "27560",
+      "theater_name": "AMC Park Place 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515928738,
+      "date": "2025-09-25+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Fort Wayne",
+      "zip": "46804",
+      "theater_name": "AMC Jefferson Point 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515931865,
+      "date": "2025-09-25+20:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Skokie",
+      "zip": "60077",
+      "theater_name": "AMC Village Crossing 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515929202,
+      "date": "2025-09-25+20:45",
       "format": "Standard",
       "language": "Telugu",
       "error": {
