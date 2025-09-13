@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-14 01:52:50 AM",
+  "last_updated": "2025-09-14 02:49:32 AM",
   "errors": [
     {
       "state": "DE",
@@ -197,21 +197,6 @@
       }
     },
     {
-      "state": "MI",
-      "city": "Sterling Heights",
-      "zip": "48314",
-      "theater_name": "AMC Forum 30",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515917132,
-      "date": "2025-09-13+19:40",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "WA",
       "city": "Monroe",
       "zip": "98272",
@@ -329,6 +314,21 @@
       "language": "Telugu",
       "error": {
         "status": 500
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515898986,
+      "date": "2025-09-13+20:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
       }
     }
   ]
