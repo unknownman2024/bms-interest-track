@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 07:57:27 AM",
+  "last_updated": "2025-09-13 09:04:05 AM",
   "errors": [
     {
       "state": "MA",
@@ -35493,21 +35493,6 @@
     },
     {
       "state": "GA",
-      "city": "Carrollton",
-      "zip": "30116",
-      "theater_name": "Regal Carrollton",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515912034,
-      "date": "2025-09-13+17:55",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "GA",
       "city": "LaGrange",
       "zip": "30240",
       "theater_name": "AMC CLASSIC LaGrange 10",
@@ -35562,6 +35547,111 @@
       "date": "2025-09-13+19:50",
       "format": "Standard",
       "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Sanford",
+      "zip": "27330",
+      "theater_name": "Spring Lane Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515918583,
+      "date": "2025-09-13+14:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Sanford",
+      "zip": "27330",
+      "theater_name": "Spring Lane Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515918584,
+      "date": "2025-09-13+17:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Sanford",
+      "zip": "27330",
+      "theater_name": "Spring Lane Cinemas",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 515918585,
+      "date": "2025-09-13+20:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Greenacres",
+      "zip": "33463",
+      "theater_name": "Phoenix Theatres Lake Worth 8",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 515919566,
+      "date": "2025-09-13+19:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Morristown",
+      "zip": "37813",
+      "theater_name": "AMC CLASSIC College Square 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515919671,
+      "date": "2025-09-13+12:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Madisonville",
+      "zip": "42431",
+      "theater_name": "Golden Ticket Cinemas Capitol 8",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 515919672,
+      "date": "2025-09-13+15:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Laughlin",
+      "zip": "89029",
+      "theater_name": "Brenden Avi 8",
+      "chainName": "Brenden Theatres",
+      "chainCode": "BRND",
+      "showtime_id": 515919868,
+      "date": "2025-09-13+20:30",
+      "format": "Standard",
+      "language": "Unknown",
       "error": {
         "status": 400
       }
