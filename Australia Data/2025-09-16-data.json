@@ -2405,7 +2405,8 @@
     "max_gross": 3920.0,
     "total_gross": 56.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 429289,
@@ -3531,14 +3532,13 @@
     "screenName": "Cinema 07",
     "operator": "WES",
     "total": 225,
-    "sold": 4,
-    "available": 221,
-    "occupancy": 1.78,
+    "sold": 16,
+    "available": 209,
+    "occupancy": 7.11,
     "max_gross": 6300.0,
-    "total_gross": 112.0,
+    "total_gross": 448.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 248761,
@@ -3914,7 +3914,8 @@
     "max_gross": 6300.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 358482,
@@ -8933,8 +8934,7 @@
     "max_gross": 3332.0,
     "total_gross": 56.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 336100,
@@ -17280,8 +17280,7 @@
     "max_gross": 7616.0,
     "total_gross": 0.0,
     "price": 17.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 41719,
@@ -29458,11 +29457,11 @@
     "screenName": "Cinema 10",
     "operator": "BEL",
     "total": 84,
-    "sold": 12,
-    "available": 72,
-    "occupancy": 14.29,
+    "sold": 18,
+    "available": 66,
+    "occupancy": 21.43,
     "max_gross": 2310.0,
-    "total_gross": 330.0,
+    "total_gross": 495.0,
     "price": 27.5,
     "error": false
   },
@@ -36050,8 +36049,7 @@
     "max_gross": 2496.0,
     "total_gross": 0.0,
     "price": 19.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 312243,
