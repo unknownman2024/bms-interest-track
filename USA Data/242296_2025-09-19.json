@@ -100,11 +100,11 @@
     "date": "2025-09-19+19:10",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 11,
-    "occupancy": 20.75,
-    "totalAvailableSeatCount": 42,
+    "totalSeatSold": 13,
+    "occupancy": 24.53,
+    "totalAvailableSeatCount": 40,
     "totalSeatCount": 53,
-    "grossRevenueUSD": 169.07,
+    "grossRevenueUSD": 199.81,
     "adultTicketPrice": 15.37
   },
   {
@@ -229,5 +229,23 @@
     "totalSeatCount": 157,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 13.96
+  },
+  {
+    "state": "TX",
+    "city": "Sugar Land",
+    "zip": "77479",
+    "theater_name": "AMC First Colony 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 515929194,
+    "date": "2025-09-19+22:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 1,
+    "occupancy": 0.53,
+    "totalAvailableSeatCount": 186,
+    "totalSeatCount": 187,
+    "grossRevenueUSD": 14.06,
+    "adultTicketPrice": 14.06
   }
 ]
