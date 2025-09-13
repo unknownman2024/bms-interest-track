@@ -5833,9 +5833,12 @@
     "date": "2025-10-01+18:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 428,
+    "totalSeatCount": 428,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 21.2
   },
   {
     "state": "GA",
@@ -10420,9 +10423,12 @@
     "date": "2025-10-01+18:30",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "exception": ""
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 209,
+    "totalSeatCount": 209,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 17.51
   },
   {
     "state": "WA",

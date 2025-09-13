@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 09:21:26 AM",
+  "last_updated": "2025-09-13 09:51:18 AM",
   "errors": [
     {
       "state": "GA",
@@ -44,36 +44,6 @@
       "language": "Telugu",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Buford",
-      "zip": "30519",
-      "theater_name": "Regal Mall of Georgia IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515920990,
-      "date": "2025-10-01+18:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Bellevue",
-      "zip": "98008",
-      "theater_name": "Regal Crossroads - Bellevue",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515909016,
-      "date": "2025-10-01+18:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
       }
     }
   ]
