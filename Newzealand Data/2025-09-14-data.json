@@ -7725,7 +7725,8 @@
     "screenName": "Cinema 03",
     "operator": "ORM",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 68823,
@@ -7734,6 +7735,17 @@
     "date": "2025-09-14T17:20:00",
     "screenName": "Cinema 06",
     "operator": "ORM",
+    "error": true,
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
+  },
+  {
+    "id": 169691,
+    "cinemaId": "HAMCIN",
+    "movieId": "HO00007794",
+    "date": "2025-09-14T12:20:00",
+    "screenName": "METRO 5",
+    "operator": "HAM",
     "error": true,
     "error_msg": "HTTP 403"
   }
