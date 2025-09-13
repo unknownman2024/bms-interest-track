@@ -1,4 +1,4 @@
-name: USA Baaghi 4 Scraper
+name: USA KantaraCh1 Scraper
 
 on:
   workflow_dispatch:   # manual run
@@ -30,7 +30,7 @@ jobs:
           AUTHORIZATION_TOKEN: ${{ secrets.AUTHORIZATION_TOKEN }}
           SESSION_ID: ${{ secrets.SESSION_ID }}
         run: |
-          python usa3.py
+          python usakantara3.py
 
       - name: Commit & Push results
         run: |
