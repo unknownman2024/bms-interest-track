@@ -13,10 +13,11 @@ from datetime import datetime, date
 from zoneinfo import ZoneInfo
 
 # CONFIG
-RELEASE_DATE = date(2025, 9, 5)
-TARGET_MOVIE_ID = 241922
+RELEASE_DATE = date(2025, 10, 1)
+TARGET_MOVIE_ID = 242218
 
 # Change for different movie
+# 242218 for Kantara1
 # 241922 for Baaghi4
 # 241979 for OG
 # 241378 for coolie
