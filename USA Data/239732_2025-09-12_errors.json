@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 09:40:06 AM",
+  "last_updated": "2025-09-13 10:38:03 AM",
   "errors": [
     {
       "state": "CT",
@@ -33700,6 +33700,111 @@
       "chainCode": "CNMK",
       "showtime_id": 515922600,
       "date": "2025-09-12+19:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Norman",
+      "zip": "73072",
+      "theater_name": "AMC Robinson Crossing 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515923419,
+      "date": "2025-09-12+23:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Lakewood",
+      "zip": "80226",
+      "theater_name": "Cinemark Century Bel Mar 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515923485,
+      "date": "2025-09-12+22:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Spokane",
+      "zip": "99201",
+      "theater_name": "AMC River Park Square 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515923375,
+      "date": "2025-09-12+22:35",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Surprise",
+      "zip": "85374",
+      "theater_name": "AMC Surprise Pointe 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515922921,
+      "date": "2025-09-12+21:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Monterey Park",
+      "zip": "91754",
+      "theater_name": "AMC Atlantic Times Square 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515922920,
+      "date": "2025-09-12+22:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Livermore",
+      "zip": "94550",
+      "theater_name": "Livermore 13 Cinema",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 515923314,
+      "date": "2025-09-12+20:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Vacaville",
+      "zip": "95688",
+      "theater_name": "Brenden Vacaville 16 & JBX",
+      "chainName": "Brenden Theatres",
+      "chainCode": "BRND",
+      "showtime_id": 515923413,
+      "date": "2025-09-12+21:10",
       "format": "Standard",
       "language": "English",
       "error": {
