@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 07:49:29 AM",
+  "last_updated": "2025-09-13 08:52:22 AM",
   "errors": [
     {
       "state": "CT",
@@ -23388,21 +23388,6 @@
     },
     {
       "state": "CA",
-      "city": "Brea",
-      "zip": "92821",
-      "theater_name": "Regal Edwards Brea East",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515482779,
-      "date": "2025-09-12+21:10",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
       "city": "Porterville",
       "zip": "93257",
       "theater_name": "Galaxy Porterville 9",
@@ -32867,21 +32852,6 @@
       }
     },
     {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60611",
-      "theater_name": "AMC River East 21",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515913941,
-      "date": "2025-09-12+22:45",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "MI",
       "city": "Walker",
       "zip": "49544",
@@ -33115,6 +33085,276 @@
       "chainCode": "REGL",
       "showtime_id": 515916570,
       "date": "2025-09-12+18:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Southington",
+      "zip": "06489",
+      "theater_name": "AMC Southington 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515919909,
+      "date": "2025-09-12+22:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Piscataway",
+      "zip": "08854",
+      "theater_name": "Rutgers Cinema",
+      "chainName": "Rutgers Cinema",
+      "chainCode": "RTGR",
+      "showtime_id": 515920071,
+      "date": "2025-09-12+23:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Hunt Valley",
+      "zip": "21030",
+      "theater_name": "Regal Hunt Valley",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515919316,
+      "date": "2025-09-12+22:40",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Plymouth Meeting",
+      "zip": "19462",
+      "theater_name": "AMC Plymouth Meeting Mall 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515918399,
+      "date": "2025-09-12+22:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Beltsville",
+      "zip": "20705",
+      "theater_name": "AMC Center Park 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515918414,
+      "date": "2025-09-12+22:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Fayetteville",
+      "zip": "28303",
+      "theater_name": "AMC Fayetteville 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515918522,
+      "date": "2025-09-12+22:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Charlotte",
+      "zip": "28262",
+      "theater_name": "Regal Starlight - Charlotte",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515920425,
+      "date": "2025-09-12+22:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Charlotte",
+      "zip": "28273",
+      "theater_name": "Ayrsley Grand Cinemas",
+      "chainName": "Southeast Cinemas",
+      "chainCode": "SEC",
+      "showtime_id": 515920424,
+      "date": "2025-09-12+22:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515918722,
+      "date": "2025-09-12+22:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Boca Raton",
+      "zip": "33431",
+      "theater_name": "Cinemark Bistro Boca Raton and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515919867,
+      "date": "2025-09-12+22:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33634",
+      "theater_name": "AMC Veterans 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515918478,
+      "date": "2025-09-13+00:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Memphis",
+      "zip": "38117",
+      "theater_name": "Malco Paradiso Cinema Grill & IMAX",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 515918854,
+      "date": "2025-09-12+21:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Pickerington",
+      "zip": "43147",
+      "theater_name": "Marcus Pickerington Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 515920694,
+      "date": "2025-09-12+22:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Pickerington",
+      "zip": "43147",
+      "theater_name": "Marcus Pickerington Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 515920695,
+      "date": "2025-09-12+22:35",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Willoughby",
+      "zip": "44094",
+      "theater_name": "Regal Willoughby Commons",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515919650,
+      "date": "2025-09-12+22:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Sioux City",
+      "zip": "51101",
+      "theater_name": "ACX Promenade Cinema 14",
+      "chainName": "Main Street Theatres",
+      "chainCode": "MAIN",
+      "showtime_id": 515918841,
+      "date": "2025-09-12+21:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Sioux City",
+      "zip": "51101",
+      "theater_name": "ACX Promenade Cinema 14",
+      "chainName": "Main Street Theatres",
+      "chainCode": "MAIN",
+      "showtime_id": 515920825,
+      "date": "2025-09-12+21:50",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Leandro",
+      "zip": "94578",
+      "theater_name": "Cinemark Century Bayfair Mall 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515918830,
+      "date": "2025-09-12+19:30",
       "format": "Standard",
       "language": "English",
       "error": {
