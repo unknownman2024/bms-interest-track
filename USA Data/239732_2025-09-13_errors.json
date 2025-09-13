@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 05:42:23 AM",
+  "last_updated": "2025-09-13 07:57:27 AM",
   "errors": [
     {
       "state": "MA",
@@ -27303,21 +27303,6 @@
     },
     {
       "state": "OK",
-      "city": "Moore",
-      "zip": "73160",
-      "theater_name": "Regal Warren Moore 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515349737,
-      "date": "2025-09-13+15:50",
-      "format": "Premium Large Format",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OK",
       "city": "Ardmore",
       "zip": "73401",
       "theater_name": "AMC CLASSIC Ardmore 8",
@@ -35057,36 +35042,6 @@
       }
     },
     {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78232",
-      "theater_name": "Regal Northwoods",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515892067,
-      "date": "2025-09-13+23:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78232",
-      "theater_name": "Regal Northwoods",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515892068,
-      "date": "2025-09-13+22:55",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "PA",
       "city": "Tunkhannock",
       "zip": "18657",
@@ -35252,21 +35207,6 @@
       }
     },
     {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79936",
-      "theater_name": "Cinemark Tinseltown Las Palmas XD and ScreenX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515904445,
-      "date": "2025-09-13+22:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "CO",
       "city": "Lakewood",
       "zip": "80226",
@@ -35427,6 +35367,201 @@
       "date": "2025-09-13+22:00",
       "format": "Standard",
       "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Sturbridge",
+      "zip": "01566",
+      "theater_name": "Entertainment Cinemas - Sturbridge Luxury Cinemas",
+      "chainName": "Entertainment Cinemas",
+      "chainCode": "ENTR",
+      "showtime_id": 515915531,
+      "date": "2025-09-13+12:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Sturbridge",
+      "zip": "01566",
+      "theater_name": "Entertainment Cinemas - Sturbridge Luxury Cinemas",
+      "chainName": "Entertainment Cinemas",
+      "chainCode": "ENTR",
+      "showtime_id": 515915532,
+      "date": "2025-09-13+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Sturbridge",
+      "zip": "01566",
+      "theater_name": "Entertainment Cinemas - Sturbridge Luxury Cinemas",
+      "chainName": "Entertainment Cinemas",
+      "chainCode": "ENTR",
+      "showtime_id": 515915533,
+      "date": "2025-09-13+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NH",
+      "city": "Gilford",
+      "zip": "03246",
+      "theater_name": "Gilford Cinema 8",
+      "chainName": "Scene One Entertainment",
+      "chainCode": "BOWT",
+      "showtime_id": 515917409,
+      "date": "2025-09-13+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Turnersville",
+      "zip": "08012",
+      "theater_name": "Regal Cross Keys",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515917821,
+      "date": "2025-09-13+21:35",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Oswego",
+      "zip": "13126",
+      "theater_name": "Oswego Cinema",
+      "chainName": "Zurich Cinemas",
+      "chainCode": "ZURC",
+      "showtime_id": 515913337,
+      "date": "2025-09-13+12:50",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Rochester",
+      "zip": "14623",
+      "theater_name": "Movies 10",
+      "chainName": "Dipson Theatres",
+      "chainCode": "DPSN",
+      "showtime_id": 515916730,
+      "date": "2025-09-13+20:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Williamsport",
+      "zip": "17701",
+      "theater_name": "AMC CLASSIC Williamsport 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515915396,
+      "date": "2025-09-13+19:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Carrollton",
+      "zip": "30116",
+      "theater_name": "Regal Carrollton",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515912034,
+      "date": "2025-09-13+17:55",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "GA",
+      "city": "LaGrange",
+      "zip": "30240",
+      "theater_name": "AMC CLASSIC LaGrange 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515915389,
+      "date": "2025-09-13+13:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "LaGrange",
+      "zip": "30240",
+      "theater_name": "AMC CLASSIC LaGrange 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515915390,
+      "date": "2025-09-13+21:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "LaGrange",
+      "zip": "30240",
+      "theater_name": "AMC CLASSIC LaGrange 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515915387,
+      "date": "2025-09-13+11:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lakeland",
+      "zip": "33803",
+      "theater_name": "CMX Lakeside Village 18 & IMAX",
+      "chainName": "CMX Cinemas",
+      "chainCode": "COBB",
+      "showtime_id": 515917863,
+      "date": "2025-09-13+19:50",
+      "format": "Standard",
+      "language": "English",
       "error": {
         "status": 400
       }
