@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-14 01:57:24 AM",
+  "last_updated": "2025-09-14 02:54:29 AM",
   "errors": [
     {
       "state": "MA",
@@ -35744,6 +35744,36 @@
       "language": "Japanese",
       "error": {
         "status": 500
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Inver Grove Heights",
+      "zip": "55077",
+      "theater_name": "AMC Inver Grove 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515936189,
+      "date": "2025-09-13+16:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Inver Grove Heights",
+      "zip": "55077",
+      "theater_name": "AMC Inver Grove 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515936190,
+      "date": "2025-09-13+20:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
       }
     }
   ]
