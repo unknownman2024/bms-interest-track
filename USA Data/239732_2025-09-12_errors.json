@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 04:47:24 AM",
+  "last_updated": "2025-09-13 06:22:10 AM",
   "errors": [
     {
       "state": "CT",
@@ -31952,21 +31952,6 @@
       }
     },
     {
-      "state": "IL",
-      "city": "New Lenox",
-      "zip": "60451",
-      "theater_name": "AMC New Lenox 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515874112,
-      "date": "2025-09-12+21:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "MN",
       "city": "Coon Rapids",
       "zip": "55433",
@@ -32177,21 +32162,6 @@
       }
     },
     {
-      "state": "FL",
-      "city": "Pembroke Pines",
-      "zip": "33026",
-      "theater_name": "AMC Pembroke Lakes 9",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515878024,
-      "date": "2025-09-12+22:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400
-      }
-    },
-    {
       "state": "OH",
       "city": "Willoughby",
       "zip": "44094",
@@ -32277,36 +32247,6 @@
       "date": "2025-09-12+21:30",
       "format": "Standard",
       "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Evansville",
-      "zip": "47712",
-      "theater_name": "AMC Evansville 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515883070,
-      "date": "2025-09-12+23:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Evansville",
-      "zip": "47712",
-      "theater_name": "AMC Evansville 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515883071,
-      "date": "2025-09-12+21:45",
-      "format": "Standard",
-      "language": "Japanese",
       "error": {
         "status": 500
       }
@@ -32657,36 +32597,6 @@
       }
     },
     {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79936",
-      "theater_name": "Cinemark Tinseltown Las Palmas XD and ScreenX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515902278,
-      "date": "2025-09-12+22:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79936",
-      "theater_name": "Cinemark Tinseltown Las Palmas XD and ScreenX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515902277,
-      "date": "2025-09-12+22:55",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "CA",
       "city": "Anaheim",
       "zip": "92802",
@@ -32729,6 +32639,366 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10023",
+      "theater_name": "AMC Lincoln Square 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515865220,
+      "date": "2025-09-12+18:30",
+      "format": "IMAX",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Plattsburgh",
+      "zip": "12901",
+      "theater_name": "Regal Champlain Centre",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515909011,
+      "date": "2025-09-12+20:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "DC",
+      "city": "Washington",
+      "zip": "20001",
+      "theater_name": "Regal Gallery Place & 4DX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515907984,
+      "date": "2025-09-12+23:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Hyattsville",
+      "zip": "20782",
+      "theater_name": "Regal Hyattsville Royale",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515852982,
+      "date": "2025-09-12+20:10",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Midlothian",
+      "zip": "23113",
+      "theater_name": "AMC DINE-IN Midlothian 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515883854,
+      "date": "2025-09-12+19:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515886219,
+      "date": "2025-09-12+18:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Colonial Heights",
+      "zip": "23834",
+      "theater_name": "Regal Southpark Mall",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515908836,
+      "date": "2025-09-12+19:35",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WV",
+      "city": "Nitro",
+      "zip": "25313",
+      "theater_name": "Regal Nitro",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515906280,
+      "date": "2025-09-12+20:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Jacksonville",
+      "zip": "28546",
+      "theater_name": "AMC CLASSIC Jacksonville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515893796,
+      "date": "2025-09-12+20:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Jacksonville",
+      "zip": "28546",
+      "theater_name": "AMC CLASSIC Jacksonville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515893794,
+      "date": "2025-09-12+22:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Jacksonville",
+      "zip": "28546",
+      "theater_name": "AMC CLASSIC Jacksonville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515893795,
+      "date": "2025-09-12+21:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Columbia",
+      "zip": "29212",
+      "theater_name": "AMC Harbison 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515905633,
+      "date": "2025-09-12+19:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Albany",
+      "zip": "31707",
+      "theater_name": "AMC CLASSIC Albany 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515913527,
+      "date": "2025-09-12+20:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Fort Myers",
+      "zip": "33913",
+      "theater_name": "Regal Gulf Coast & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515907236,
+      "date": "2025-09-12+19:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MS",
+      "city": "Southaven",
+      "zip": "38671",
+      "theater_name": "Malco Desoto Cinema Grill",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 515910845,
+      "date": "2025-09-12+18:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Jackson",
+      "zip": "38305",
+      "theater_name": "Empire 8",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 515910963,
+      "date": "2025-09-12+18:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Indianapolis",
+      "zip": "46229",
+      "theater_name": "AMC Washington Square 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515913568,
+      "date": "2025-09-12+23:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Chicago",
+      "zip": "60611",
+      "theater_name": "AMC River East 21",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515913941,
+      "date": "2025-09-12+22:45",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Walker",
+      "zip": "49544",
+      "theater_name": "AMC Grand Rapids 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515894415,
+      "date": "2025-09-12+20:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Pasadena",
+      "zip": "77503",
+      "theater_name": "Cinemark Hollywood Pasadena and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515910928,
+      "date": "2025-09-12+18:35",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515888147,
+      "date": "2025-09-12+16:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Chandler",
+      "zip": "85226",
+      "theater_name": "Harkins Chandler Fashion 20",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 515915185,
+      "date": "2025-09-12+16:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Lake Elsinore",
+      "zip": "92530",
+      "theater_name": "UEC Theatres Diamond 8",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515908821,
+      "date": "2025-09-12+22:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fresno",
+      "zip": "93720",
+      "theater_name": "Regal Edwards Fresno ScreenX, 4DX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515910746,
+      "date": "2025-09-12+22:25",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 500
       }
     }
   ]
