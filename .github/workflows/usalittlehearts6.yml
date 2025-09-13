@@ -3,7 +3,7 @@ name: USA Little Hearts Scraper
 on:
   workflow_dispatch:   # manual run
   schedule:
-    - cron: "0 */1 * * *"    # every hour at :00 UTC (6:30 PM, 7:30 PM IST...)
+    - cron: "0 */3 * * *"    # every hour at :00 UTC (6:30 PM, 7:30 PM IST...)
 
 jobs:
   run-scraper:
