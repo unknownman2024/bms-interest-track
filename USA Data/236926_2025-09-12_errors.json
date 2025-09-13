@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 06:58:51 AM",
+  "last_updated": "2025-09-13 08:24:46 AM",
   "errors": [
     {
       "state": "MA",
@@ -29500,6 +29500,96 @@
       "chainCode": "AMC",
       "showtime_id": 515903165,
       "date": "2025-09-12+16:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Sunrise",
+      "zip": "33351",
+      "theater_name": "AMC Sunrise 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515918518,
+      "date": "2025-09-13+00:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "El Paso",
+      "zip": "79925",
+      "theater_name": "Cinemark Cielo Vista Mall 14 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515916926,
+      "date": "2025-09-12+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515650229,
+      "date": "2025-09-12+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 513250607,
+      "date": "2025-09-12+13:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 513250603,
+      "date": "2025-09-12+16:10",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 513250604,
+      "date": "2025-09-12+19:00",
       "format": "Standard",
       "language": "Unknown",
       "error": {
