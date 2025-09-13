@@ -5034,8 +5034,7 @@
     "max_gross": 5980.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 293006,
@@ -7752,7 +7751,8 @@
     "max_gross": 6500.0,
     "total_gross": 0.0,
     "price": 25.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 358990,
@@ -16469,11 +16469,11 @@
     "screenName": "Cinema 08",
     "operator": "CDS",
     "total": 200,
-    "sold": 9,
-    "available": 191,
-    "occupancy": 4.5,
+    "sold": 11,
+    "available": 189,
+    "occupancy": 5.5,
     "max_gross": 5600.0,
-    "total_gross": 252.0,
+    "total_gross": 308.0,
     "price": 28.0,
     "error": false
   },
@@ -25148,8 +25148,7 @@
     "max_gross": 2940.0,
     "total_gross": 0.0,
     "price": 21.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 330733,
@@ -33997,11 +33996,11 @@
     "screenName": "Cinema 10",
     "operator": "BEL",
     "total": 84,
-    "sold": 31,
-    "available": 53,
-    "occupancy": 36.9,
+    "sold": 34,
+    "available": 50,
+    "occupancy": 40.48,
     "max_gross": 2310.0,
-    "total_gross": 852.5,
+    "total_gross": 935.0,
     "price": 27.5,
     "error": false
   },
@@ -36088,7 +36087,8 @@
     "max_gross": 4320.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 517448,
@@ -36121,11 +36121,11 @@
     "screenName": "Cinema 08",
     "operator": "HIG",
     "total": 210,
-    "sold": 4,
-    "available": 206,
-    "occupancy": 1.9,
+    "sold": 10,
+    "available": 200,
+    "occupancy": 4.76,
     "max_gross": 5880.0,
-    "total_gross": 112.0,
+    "total_gross": 280.0,
     "price": 28.0,
     "error": false
   },
