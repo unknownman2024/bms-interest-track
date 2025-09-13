@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13 01:03:21 PM",
+  "last_updated": "2025-09-13 02:05:43 PM",
   "errors": [
     {
       "state": "MA",
@@ -31833,21 +31833,6 @@
     },
     {
       "state": "CA",
-      "city": "Fontana",
-      "zip": "92335",
-      "theater_name": "Regency Fontana 8",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515387349,
-      "date": "2025-09-13+21:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
       "city": "Rialto",
       "zip": "92376",
       "theater_name": "Cinemark Bistro Renaissance Marketplace and XD",
@@ -35875,6 +35860,66 @@
       "chainCode": "RTSIND",
       "showtime_id": 515925236,
       "date": "2025-09-13+13:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Abilene",
+      "zip": "79606",
+      "theater_name": "Abilene Premiere LUX Cine 10 - Abilene Mall",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 515926450,
+      "date": "2025-09-13+21:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Yakima",
+      "zip": "98902",
+      "theater_name": "Yakima Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515926092,
+      "date": "2025-09-13+12:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Yakima",
+      "zip": "98902",
+      "theater_name": "Yakima Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515926091,
+      "date": "2025-09-13+15:35",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Yakima",
+      "zip": "98902",
+      "theater_name": "Yakima Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515926090,
+      "date": "2025-09-13+19:05",
       "format": "Standard",
       "language": "English",
       "error": {
