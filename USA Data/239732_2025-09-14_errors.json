@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-14 12:59:35 PM",
+  "last_updated": "2025-09-14 02:03:03 PM",
   "errors": [
     {
       "state": "MA",
@@ -2147,21 +2147,6 @@
       }
     },
     {
-      "state": "NJ",
-      "city": "Sewell",
-      "zip": "08080",
-      "theater_name": "Regal UA Washington Township",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511357584,
-      "date": "2025-09-14+15:40",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
-      }
-    },
-    {
       "state": "PA",
       "city": "Philadelphia",
       "zip": "19106",
@@ -3160,36 +3145,6 @@
       "chainCode": "RTSIND",
       "showtime_id": 515649587,
       "date": "2025-09-14+12:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Scranton",
-      "zip": "18503",
-      "theater_name": "Scranton Art Haus",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 515929671,
-      "date": "2025-09-14+16:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Scranton",
-      "zip": "18503",
-      "theater_name": "Scranton Art Haus",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 515929672,
-      "date": "2025-09-14+19:00",
       "format": "Standard",
       "language": "English",
       "error": {
@@ -7623,21 +7578,6 @@
     },
     {
       "state": "NC",
-      "city": "Charlotte",
-      "zip": "28273",
-      "theater_name": "Ayrsley Grand Cinemas",
-      "chainName": "Southeast Cinemas",
-      "chainCode": "SEC",
-      "showtime_id": 512300701,
-      "date": "2025-09-14+18:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
-      }
-    },
-    {
-      "state": "NC",
       "city": "Shelby",
       "zip": "28152",
       "theater_name": "AMC CLASSIC Shelby 10",
@@ -8519,66 +8459,6 @@
       "language": "English",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Seneca",
-      "zip": "29678",
-      "theater_name": "Seneca Premiere LUX Cine 8",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 513212990,
-      "date": "2025-09-14+15:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Seneca",
-      "zip": "29678",
-      "theater_name": "Seneca Premiere LUX Cine 8",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 513212989,
-      "date": "2025-09-14+19:10",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Seneca",
-      "zip": "29678",
-      "theater_name": "Seneca Premiere LUX Cine 8",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 514249907,
-      "date": "2025-09-14+11:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Seneca",
-      "zip": "29678",
-      "theater_name": "Seneca Premiere LUX Cine 8",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 515496071,
-      "date": "2025-09-14+18:55",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -11553,66 +11433,6 @@
     },
     {
       "state": "FL",
-      "city": "Port Orange",
-      "zip": "32128",
-      "theater_name": "Regal Pavilion & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515536560,
-      "date": "2025-09-14+12:00",
-      "format": "RPX",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Port Orange",
-      "zip": "32128",
-      "theater_name": "Regal Pavilion & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511355290,
-      "date": "2025-09-14+19:05",
-      "format": "RPX",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Port Orange",
-      "zip": "32128",
-      "theater_name": "Regal Pavilion & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511355291,
-      "date": "2025-09-14+22:30",
-      "format": "RPX",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Port Orange",
-      "zip": "32128",
-      "theater_name": "Regal Pavilion & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511355293,
-      "date": "2025-09-14+21:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
       "city": "New Smyrna",
       "zip": "32168",
       "theater_name": "AMC CLASSIC New Smyrna 12",
@@ -11838,396 +11658,6 @@
     },
     {
       "state": "FL",
-      "city": "Oviedo",
-      "zip": "32765",
-      "theater_name": "Regal Oviedo Mall",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511378766,
-      "date": "2025-09-14+11:45",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Oviedo",
-      "zip": "32765",
-      "theater_name": "Regal Oviedo Mall",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515546863,
-      "date": "2025-09-14+18:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Oviedo",
-      "zip": "32765",
-      "theater_name": "Regal Oviedo Mall",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511378764,
-      "date": "2025-09-14+19:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Oviedo",
-      "zip": "32765",
-      "theater_name": "Regal Oviedo Mall",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515546873,
-      "date": "2025-09-14+20:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Oviedo",
-      "zip": "32765",
-      "theater_name": "Regal Oviedo Mall",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511378763,
-      "date": "2025-09-14+22:35",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Oviedo",
-      "zip": "32765",
-      "theater_name": "Regal Oviedo Mall",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515546817,
-      "date": "2025-09-14+12:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Oviedo",
-      "zip": "32765",
-      "theater_name": "Regal Oviedo Mall",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511378765,
-      "date": "2025-09-14+15:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Apopka",
-      "zip": "32703",
-      "theater_name": "Regal Wekiva Riverwalk",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 512166633,
-      "date": "2025-09-14+22:30",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Apopka",
-      "zip": "32703",
-      "theater_name": "Regal Wekiva Riverwalk",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515936530,
-      "date": "2025-09-14+14:50",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Apopka",
-      "zip": "32703",
-      "theater_name": "Regal Wekiva Riverwalk",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 512166635,
-      "date": "2025-09-14+15:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Winter Park",
-      "zip": "32789",
-      "theater_name": "Regal Winter Park Village & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511361705,
-      "date": "2025-09-14+11:40",
-      "format": "RPX",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Winter Park",
-      "zip": "32789",
-      "theater_name": "Regal Winter Park Village & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511361704,
-      "date": "2025-09-14+19:00",
-      "format": "RPX",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Winter Park",
-      "zip": "32789",
-      "theater_name": "Regal Winter Park Village & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515574857,
-      "date": "2025-09-14+13:45",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Winter Park",
-      "zip": "32789",
-      "theater_name": "Regal Winter Park Village & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515574853,
-      "date": "2025-09-14+16:20",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Winter Park",
-      "zip": "32789",
-      "theater_name": "Regal Winter Park Village & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511361707,
-      "date": "2025-09-14+18:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Winter Park",
-      "zip": "32789",
-      "theater_name": "Regal Winter Park Village & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515574854,
-      "date": "2025-09-14+20:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Winter Park",
-      "zip": "32789",
-      "theater_name": "Regal Winter Park Village & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515574852,
-      "date": "2025-09-14+12:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Orlando",
-      "zip": "32828",
-      "theater_name": "Regal Waterford Lakes 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 512202209,
-      "date": "2025-09-14+14:20",
-      "format": "IMAX",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Orlando",
-      "zip": "32828",
-      "theater_name": "Regal Waterford Lakes 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 512202210,
-      "date": "2025-09-14+21:40",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Orlando",
-      "zip": "32828",
-      "theater_name": "Regal Waterford Lakes 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 512202199,
-      "date": "2025-09-14+22:40",
-      "format": "4DX",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Orlando",
-      "zip": "32828",
-      "theater_name": "Regal Waterford Lakes 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 512202201,
-      "date": "2025-09-14+15:20",
-      "format": "4DX",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Orlando",
-      "zip": "32828",
-      "theater_name": "Regal Waterford Lakes 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515932565,
-      "date": "2025-09-14+15:15",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Orlando",
-      "zip": "32828",
-      "theater_name": "Regal Waterford Lakes 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515605380,
-      "date": "2025-09-14+15:50",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Orlando",
-      "zip": "32828",
-      "theater_name": "Regal Waterford Lakes 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 512202250,
-      "date": "2025-09-14+20:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Orlando",
-      "zip": "32828",
-      "theater_name": "Regal Waterford Lakes 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515903517,
-      "date": "2025-09-14+22:20",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Orlando",
-      "zip": "32828",
-      "theater_name": "Regal Waterford Lakes 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 512202252,
-      "date": "2025-09-14+12:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
       "city": "Orlando",
       "zip": "32803",
       "theater_name": "Orlando Premiere 14 Fashion Square",
@@ -12297,96 +11727,6 @@
       "date": "2025-09-14+12:30",
       "format": "Standard",
       "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Orlando",
-      "zip": "32819",
-      "theater_name": "Regal Pointe Orlando 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511383725,
-      "date": "2025-09-14+10:40",
-      "format": "IMAX",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Orlando",
-      "zip": "32819",
-      "theater_name": "Regal Pointe Orlando 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511383723,
-      "date": "2025-09-14+18:00",
-      "format": "IMAX",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Orlando",
-      "zip": "32819",
-      "theater_name": "Regal Pointe Orlando 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511383726,
-      "date": "2025-09-14+21:40",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Orlando",
-      "zip": "32819",
-      "theater_name": "Regal Pointe Orlando 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515933098,
-      "date": "2025-09-14+23:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Orlando",
-      "zip": "32819",
-      "theater_name": "Regal Pointe Orlando 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511383728,
-      "date": "2025-09-14+19:00",
-      "format": "4DX",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Orlando",
-      "zip": "32819",
-      "theater_name": "Regal Pointe Orlando 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511383727,
-      "date": "2025-09-14+22:40",
-      "format": "4DX",
-      "language": "Japanese",
       "error": {
         "status": 500
       }
@@ -12509,51 +11849,6 @@
       "language": "English",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Kissimmee",
-      "zip": "34741",
-      "theater_name": "Regal The Loop & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511337202,
-      "date": "2025-09-14+16:25",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Panama City",
-      "zip": "32406",
-      "theater_name": "Regal Regency - Panama City",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511434183,
-      "date": "2025-09-14+16:20",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Panama City",
-      "zip": "32406",
-      "theater_name": "Regal Regency - Panama City",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511434187,
-      "date": "2025-09-14+22:40",
-      "format": "4DX",
-      "language": "Japanese",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -15903,141 +15198,6 @@
     },
     {
       "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle ScreenX, 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 512174368,
-      "date": "2025-09-14+22:20",
-      "format": "4DX",
-      "language": "Japanese",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle ScreenX, 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515518281,
-      "date": "2025-09-14+12:55",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle ScreenX, 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515518152,
-      "date": "2025-09-14+19:50",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle ScreenX, 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515518142,
-      "date": "2025-09-14+12:20",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle ScreenX, 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 512174367,
-      "date": "2025-09-14+13:20",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle ScreenX, 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515518280,
-      "date": "2025-09-14+15:55",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle ScreenX, 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515518143,
-      "date": "2025-09-14+19:20",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle ScreenX, 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 512174370,
-      "date": "2025-09-14+20:20",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37922",
-      "theater_name": "Regal Pinnacle ScreenX, 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515518160,
-      "date": "2025-09-14+18:25",
-      "format": "RPX",
-      "language": "Japanese",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TN",
       "city": "Maryville",
       "zip": "37801",
       "theater_name": "AMC Foothills 12",
@@ -16094,456 +15254,6 @@
       "language": "English",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Oak Ridge",
-      "zip": "37830",
-      "theater_name": "Cinemark Tinseltown Oak Ridge",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 511932401,
-      "date": "2025-09-14+13:30",
-      "format": "D-Box",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Oak Ridge",
-      "zip": "37830",
-      "theater_name": "Cinemark Tinseltown Oak Ridge",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 511932403,
-      "date": "2025-09-14+10:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Oak Ridge",
-      "zip": "37830",
-      "theater_name": "Cinemark Tinseltown Oak Ridge",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515640670,
-      "date": "2025-09-14+14:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Oak Ridge",
-      "zip": "37830",
-      "theater_name": "Cinemark Tinseltown Oak Ridge",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 511932402,
-      "date": "2025-09-14+17:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Oak Ridge",
-      "zip": "37830",
-      "theater_name": "Cinemark Tinseltown Oak Ridge",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515640671,
-      "date": "2025-09-14+18:05",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Oak Ridge",
-      "zip": "37830",
-      "theater_name": "Cinemark Tinseltown Oak Ridge",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 511932404,
-      "date": "2025-09-14+20:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Oak Ridge",
-      "zip": "37830",
-      "theater_name": "Cinemark Tinseltown Oak Ridge",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515640672,
-      "date": "2025-09-14+21:35",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Oak Ridge",
-      "zip": "37830",
-      "theater_name": "Cinemark Tinseltown Oak Ridge",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515928962,
-      "date": "2025-09-14+09:50",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Oak Ridge",
-      "zip": "37830",
-      "theater_name": "Cinemark Tinseltown Oak Ridge",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515640664,
-      "date": "2025-09-14+10:55",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Oak Ridge",
-      "zip": "37830",
-      "theater_name": "Cinemark Tinseltown Oak Ridge",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515640668,
-      "date": "2025-09-14+12:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Oak Ridge",
-      "zip": "37830",
-      "theater_name": "Cinemark Tinseltown Oak Ridge",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515928961,
-      "date": "2025-09-14+13:25",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Oak Ridge",
-      "zip": "37830",
-      "theater_name": "Cinemark Tinseltown Oak Ridge",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 511932405,
-      "date": "2025-09-14+13:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Oak Ridge",
-      "zip": "37830",
-      "theater_name": "Cinemark Tinseltown Oak Ridge",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515640669,
-      "date": "2025-09-14+15:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Oak Ridge",
-      "zip": "37830",
-      "theater_name": "Cinemark Tinseltown Oak Ridge",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515640667,
-      "date": "2025-09-14+19:10",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Oak Ridge",
-      "zip": "37830",
-      "theater_name": "Cinemark Tinseltown Oak Ridge",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 511932406,
-      "date": "2025-09-14+10:00",
-      "format": "D-Box",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Oak Ridge",
-      "zip": "37830",
-      "theater_name": "Cinemark Tinseltown Oak Ridge",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 511932407,
-      "date": "2025-09-14+17:00",
-      "format": "D-Box",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Oak Ridge",
-      "zip": "37830",
-      "theater_name": "Cinemark Tinseltown Oak Ridge",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 511932408,
-      "date": "2025-09-14+20:30",
-      "format": "D-Box",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37919",
-      "theater_name": "Regal Downtown West Cinema",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515610709,
-      "date": "2025-09-14+12:15",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37919",
-      "theater_name": "Regal Downtown West Cinema",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515610714,
-      "date": "2025-09-14+13:30",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37919",
-      "theater_name": "Regal Downtown West Cinema",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515610715,
-      "date": "2025-09-14+17:05",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37919",
-      "theater_name": "Regal Downtown West Cinema",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515610716,
-      "date": "2025-09-14+20:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37919",
-      "theater_name": "Regal Cinebarre West Town Mall",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511363498,
-      "date": "2025-09-14+11:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37919",
-      "theater_name": "Regal Cinebarre West Town Mall",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515772633,
-      "date": "2025-09-14+12:40",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37919",
-      "theater_name": "Regal Cinebarre West Town Mall",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515772631,
-      "date": "2025-09-14+13:40",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37919",
-      "theater_name": "Regal Cinebarre West Town Mall",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515772640,
-      "date": "2025-09-14+16:20",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37919",
-      "theater_name": "Regal Cinebarre West Town Mall",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515772638,
-      "date": "2025-09-14+17:20",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37919",
-      "theater_name": "Regal Cinebarre West Town Mall",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511363496,
-      "date": "2025-09-14+18:20",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37919",
-      "theater_name": "Regal Cinebarre West Town Mall",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515772629,
-      "date": "2025-09-14+10:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37919",
-      "theater_name": "Regal Cinebarre West Town Mall",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511363497,
-      "date": "2025-09-14+14:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Knoxville",
-      "zip": "37919",
-      "theater_name": "Regal Cinebarre West Town Mall",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515772644,
-      "date": "2025-09-14+19:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -17102,126 +15812,6 @@
       }
     },
     {
-      "state": "MS",
-      "city": "Hattiesburg",
-      "zip": "39401",
-      "theater_name": "The Grand 18 - Hattiesburg",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 515714952,
-      "date": "2025-09-14+14:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MS",
-      "city": "Hattiesburg",
-      "zip": "39401",
-      "theater_name": "The Grand 18 - Hattiesburg",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 515269975,
-      "date": "2025-09-14+14:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MS",
-      "city": "Hattiesburg",
-      "zip": "39401",
-      "theater_name": "The Grand 18 - Hattiesburg",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 512245867,
-      "date": "2025-09-14+16:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MS",
-      "city": "Hattiesburg",
-      "zip": "39401",
-      "theater_name": "The Grand 18 - Hattiesburg",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 515714964,
-      "date": "2025-09-14+17:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MS",
-      "city": "Hattiesburg",
-      "zip": "39401",
-      "theater_name": "The Grand 18 - Hattiesburg",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 515269976,
-      "date": "2025-09-14+18:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MS",
-      "city": "Hattiesburg",
-      "zip": "39401",
-      "theater_name": "The Grand 18 - Hattiesburg",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 512245868,
-      "date": "2025-09-14+20:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MS",
-      "city": "Hattiesburg",
-      "zip": "39401",
-      "theater_name": "The Grand 18 - Hattiesburg",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 515714980,
-      "date": "2025-09-14+21:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MS",
-      "city": "Brookhaven",
-      "zip": "39601",
-      "theater_name": "Regal UA Westbrook",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515924980,
-      "date": "2025-09-14+20:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "LA",
       "city": "Slidell",
       "zip": "70460",
@@ -17582,51 +16172,6 @@
       }
     },
     {
-      "state": "IN",
-      "city": "Jeffersonville",
-      "zip": "47130",
-      "theater_name": "Xscape Theatres Jeffersonville 12",
-      "chainName": "Xscape Theatres",
-      "chainCode": "XSCP",
-      "showtime_id": 512253616,
-      "date": "2025-09-14+21:10",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IN",
-      "city": "New Albany",
-      "zip": "47150",
-      "theater_name": "New Albany 16",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 515139100,
-      "date": "2025-09-14+12:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IN",
-      "city": "New Albany",
-      "zip": "47150",
-      "theater_name": "New Albany 16",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 515139086,
-      "date": "2025-09-14+18:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "KY",
       "city": "Lexington",
       "zip": "40503",
@@ -17636,51 +16181,6 @@
       "showtime_id": 512193437,
       "date": "2025-09-14+22:20",
       "format": "D-Box",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "KY",
-      "city": "Lexington",
-      "zip": "40509",
-      "theater_name": "Regal Hamburg Pavilion IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511945369,
-      "date": "2025-09-14+11:40",
-      "format": "IMAX",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "KY",
-      "city": "Lexington",
-      "zip": "40509",
-      "theater_name": "Regal Hamburg Pavilion IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515602902,
-      "date": "2025-09-14+12:40",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "KY",
-      "city": "Lexington",
-      "zip": "40509",
-      "theater_name": "Regal Hamburg Pavilion IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511945380,
-      "date": "2025-09-14+13:20",
-      "format": "Standard",
       "language": "English",
       "error": {
         "status": 500
@@ -17729,66 +16229,6 @@
       "language": "English",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "KY",
-      "city": "Danville",
-      "zip": "40422",
-      "theater_name": "Danville Cinemas 8",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 515491702,
-      "date": "2025-09-14+10:05",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "KY",
-      "city": "Danville",
-      "zip": "40422",
-      "theater_name": "Danville Cinemas 8",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 515491701,
-      "date": "2025-09-14+13:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "KY",
-      "city": "Danville",
-      "zip": "40422",
-      "theater_name": "Danville Cinemas 8",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 515491699,
-      "date": "2025-09-14+21:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "KY",
-      "city": "Danville",
-      "zip": "40422",
-      "theater_name": "Danville Cinemas 8",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 515489660,
-      "date": "2025-09-14+12:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -17909,21 +16349,6 @@
       "language": "English",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "KY",
-      "city": "Wilder",
-      "zip": "41076",
-      "theater_name": "Regal Wilder",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 514091358,
-      "date": "2025-09-14+15:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
       }
     },
     {
@@ -19053,246 +17478,6 @@
     },
     {
       "state": "OH",
-      "city": "North Canton",
-      "zip": "44720",
-      "theater_name": "Cinemark Tinseltown North Canton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515500627,
-      "date": "2025-09-14+10:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "North Canton",
-      "zip": "44720",
-      "theater_name": "Cinemark Tinseltown North Canton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515928623,
-      "date": "2025-09-14+10:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "North Canton",
-      "zip": "44720",
-      "theater_name": "Cinemark Tinseltown North Canton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515500650,
-      "date": "2025-09-14+18:35",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "North Canton",
-      "zip": "44720",
-      "theater_name": "Cinemark Tinseltown North Canton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515500651,
-      "date": "2025-09-14+22:10",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "North Canton",
-      "zip": "44720",
-      "theater_name": "Cinemark Tinseltown North Canton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 511932455,
-      "date": "2025-09-14+13:05",
-      "format": "D-Box",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "North Canton",
-      "zip": "44720",
-      "theater_name": "Cinemark Tinseltown North Canton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 511932456,
-      "date": "2025-09-14+16:40",
-      "format": "D-Box",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "North Canton",
-      "zip": "44720",
-      "theater_name": "Cinemark Tinseltown North Canton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 511932457,
-      "date": "2025-09-14+20:15",
-      "format": "D-Box",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "North Canton",
-      "zip": "44720",
-      "theater_name": "Cinemark Tinseltown North Canton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 511932458,
-      "date": "2025-09-14+09:30",
-      "format": "D-Box",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Massillon",
-      "zip": "44646",
-      "theater_name": "Regal Massillon",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511277300,
-      "date": "2025-09-14+12:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Massillon",
-      "zip": "44646",
-      "theater_name": "Regal Massillon",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511277299,
-      "date": "2025-09-14+19:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Massillon",
-      "zip": "44646",
-      "theater_name": "Regal Massillon",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515615711,
-      "date": "2025-09-14+09:50",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Massillon",
-      "zip": "44646",
-      "theater_name": "Regal Massillon",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511277301,
-      "date": "2025-09-14+15:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Massillon",
-      "zip": "44646",
-      "theater_name": "Regal Massillon",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515615705,
-      "date": "2025-09-14+16:10",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Massillon",
-      "zip": "44646",
-      "theater_name": "Regal Massillon",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515615719,
-      "date": "2025-09-14+19:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Massillon",
-      "zip": "44646",
-      "theater_name": "Regal Massillon",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515615718,
-      "date": "2025-09-14+22:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Massillon",
-      "zip": "44646",
-      "theater_name": "Regal Massillon",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515615720,
-      "date": "2025-09-14+22:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
       "city": "Lebanon",
       "zip": "45036",
       "theater_name": "Colony Square 7 Cinemas",
@@ -19315,186 +17500,6 @@
       "chainCode": "RPUB",
       "showtime_id": 515896312,
       "date": "2025-09-14+18:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Liberty Township",
-      "zip": "45069",
-      "theater_name": "CMX Liberty Luxury",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 512261239,
-      "date": "2025-09-14+11:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Liberty Township",
-      "zip": "45069",
-      "theater_name": "CMX Liberty Luxury",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 515505645,
-      "date": "2025-09-14+16:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Liberty Township",
-      "zip": "45069",
-      "theater_name": "CMX Liberty Luxury",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 512261241,
-      "date": "2025-09-14+15:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Liberty Township",
-      "zip": "45069",
-      "theater_name": "CMX Liberty Luxury",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 515505647,
-      "date": "2025-09-14+19:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Liberty Township",
-      "zip": "45069",
-      "theater_name": "CMX Liberty Luxury",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 512261242,
-      "date": "2025-09-14+22:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Liberty Township",
-      "zip": "45069",
-      "theater_name": "CMX Liberty Luxury",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 512261247,
-      "date": "2025-09-14+11:30",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Liberty Township",
-      "zip": "45069",
-      "theater_name": "CMX Liberty Luxury",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 512261248,
-      "date": "2025-09-14+15:00",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Liberty Township",
-      "zip": "45069",
-      "theater_name": "CMX Liberty Luxury",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 512261249,
-      "date": "2025-09-14+18:30",
-      "format": "D-Box",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Miamisburg ",
-      "zip": "45342",
-      "theater_name": "Cinépolis Dayton",
-      "chainName": "Cinepolis",
-      "chainCode": "CPLS",
-      "showtime_id": 515348268,
-      "date": "2025-09-14+12:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Miamisburg ",
-      "zip": "45342",
-      "theater_name": "Cinépolis Dayton",
-      "chainName": "Cinepolis",
-      "chainCode": "CPLS",
-      "showtime_id": 515348269,
-      "date": "2025-09-14+16:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Miamisburg ",
-      "zip": "45342",
-      "theater_name": "Cinépolis Dayton",
-      "chainName": "Cinepolis",
-      "chainCode": "CPLS",
-      "showtime_id": 512287471,
-      "date": "2025-09-14+20:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Mason",
-      "zip": "45040",
-      "theater_name": "Regal Deerfield Town Center & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515553415,
-      "date": "2025-09-14+16:45",
       "format": "Standard",
       "language": "English",
       "error": {
@@ -21104,21 +19109,6 @@
       "language": "Japanese",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Melrose Park",
-      "zip": "60160",
-      "theater_name": "Cinemark Melrose Park",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515556705,
-      "date": "2025-09-14+10:10",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 403
       }
     },
     {
@@ -23129,21 +21119,6 @@
       "language": "English",
       "error": {
         "exception": ""
-      }
-    },
-    {
-      "state": "IL",
-      "city": "South Barrington",
-      "zip": "60010",
-      "theater_name": "AMC South Barrington 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515431907,
-      "date": "2025-09-14+19:45",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 403
       }
     },
     {
@@ -28683,21 +26658,6 @@
     },
     {
       "state": "TX",
-      "city": "Dallas",
-      "zip": "75238",
-      "theater_name": "Regal UA Galaxy Theatre & ScreenX - Dallas",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515604001,
-      "date": "2025-09-14+16:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
       "city": "Grand Prairie",
       "zip": "75052",
       "theater_name": "Grand Prairie Premiere LUX Cine 10 & Pizza Pub",
@@ -28983,21 +26943,6 @@
     },
     {
       "state": "TX",
-      "city": "Ft. Worth",
-      "zip": "76137",
-      "theater_name": "Regal Fossil Creek",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515408715,
-      "date": "2025-09-14+18:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 400
-      }
-    },
-    {
-      "state": "TX",
       "city": "Mineral Wells",
       "zip": "76067",
       "theater_name": "Hometown Cinemas - Mineral Wells",
@@ -29144,36 +27089,6 @@
       "language": "English",
       "error": {
         "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77036",
-      "theater_name": "America Cinemas Houston",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 515465366,
-      "date": "2025-09-14+12:30",
-      "format": "Standard",
-      "language": "Spanish",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77036",
-      "theater_name": "America Cinemas Houston",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 515465367,
-      "date": "2025-09-14+14:00",
-      "format": "Standard",
-      "language": "Spanish",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -30338,143 +28253,8 @@
       "theater_name": "Alamo Drafthouse Laredo",
       "chainName": "Alamo Drafthouse Cinemas",
       "chainCode": "ALAM",
-      "showtime_id": 511296732,
-      "date": "2025-09-14+11:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Laredo",
-      "zip": "78045",
-      "theater_name": "Alamo Drafthouse Laredo",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 511296730,
-      "date": "2025-09-14+15:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Laredo",
-      "zip": "78045",
-      "theater_name": "Alamo Drafthouse Laredo",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 511296728,
-      "date": "2025-09-14+18:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Laredo",
-      "zip": "78045",
-      "theater_name": "Alamo Drafthouse Laredo",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 511296726,
-      "date": "2025-09-14+22:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Laredo",
-      "zip": "78045",
-      "theater_name": "Alamo Drafthouse Laredo",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 511296733,
-      "date": "2025-09-14+10:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Laredo",
-      "zip": "78045",
-      "theater_name": "Alamo Drafthouse Laredo",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
       "showtime_id": 511296731,
       "date": "2025-09-14+14:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Laredo",
-      "zip": "78045",
-      "theater_name": "Alamo Drafthouse Laredo",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 511296729,
-      "date": "2025-09-14+17:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Laredo",
-      "zip": "78045",
-      "theater_name": "Alamo Drafthouse Laredo",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 511296727,
-      "date": "2025-09-14+21:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "New Braunfels",
-      "zip": "78130",
-      "theater_name": "Santikos Entertainment New Braunfels",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 512295110,
-      "date": "2025-09-14+13:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "New Braunfels",
-      "zip": "78130",
-      "theater_name": "Santikos Entertainment New Braunfels",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 515750972,
-      "date": "2025-09-14+13:45",
       "format": "Standard",
       "language": "English",
       "error": {
@@ -30500,116 +28280,11 @@
       "state": "TX",
       "city": "New Braunfels",
       "zip": "78130",
-      "theater_name": "Santikos Entertainment New Braunfels",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 515750980,
-      "date": "2025-09-14+21:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "New Braunfels",
-      "zip": "78130",
-      "theater_name": "Santikos Entertainment New Braunfels",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 512295113,
-      "date": "2025-09-14+14:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "New Braunfels",
-      "zip": "78130",
-      "theater_name": "Santikos Entertainment New Braunfels",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 512295105,
-      "date": "2025-09-14+21:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "New Braunfels",
-      "zip": "78130",
-      "theater_name": "EVO Cinemas Creekside Town Center",
-      "chainName": "Evo Entertainment",
-      "chainCode": "EVO",
-      "showtime_id": 512398728,
-      "date": "2025-09-14+11:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "New Braunfels",
-      "zip": "78130",
       "theater_name": "EVO Cinemas Creekside Town Center",
       "chainName": "Evo Entertainment",
       "chainCode": "EVO",
       "showtime_id": 512398724,
       "date": "2025-09-14+11:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "New Braunfels",
-      "zip": "78130",
-      "theater_name": "EVO Cinemas Creekside Town Center",
-      "chainName": "Evo Entertainment",
-      "chainCode": "EVO",
-      "showtime_id": 512398725,
-      "date": "2025-09-14+15:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "New Braunfels",
-      "zip": "78130",
-      "theater_name": "EVO Cinemas Creekside Town Center",
-      "chainName": "Evo Entertainment",
-      "chainCode": "EVO",
-      "showtime_id": 512398726,
-      "date": "2025-09-14+18:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "New Braunfels",
-      "zip": "78130",
-      "theater_name": "EVO Cinemas Creekside Town Center",
-      "chainName": "Evo Entertainment",
-      "chainCode": "EVO",
-      "showtime_id": 514991255,
-      "date": "2025-09-14+20:15",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -30653,53 +28328,8 @@
       "theater_name": "Santikos Cibolo",
       "chainName": "Santikos Theaters",
       "chainCode": "STKO",
-      "showtime_id": 512209551,
-      "date": "2025-09-14+17:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cibolo",
-      "zip": "78108",
-      "theater_name": "Santikos Cibolo",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 512209550,
-      "date": "2025-09-14+20:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cibolo",
-      "zip": "78108",
-      "theater_name": "Santikos Cibolo",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
       "showtime_id": 515752756,
       "date": "2025-09-14+21:50",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cibolo",
-      "zip": "78108",
-      "theater_name": "Santikos Cibolo",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 515752742,
-      "date": "2025-09-14+17:45",
       "format": "Standard",
       "language": "English",
       "error": {
@@ -30758,40 +28388,10 @@
       "theater_name": "EVO Entertainment Schertz + EVX",
       "chainName": "Evo Entertainment",
       "chainCode": "EVO",
-      "showtime_id": 515071870,
-      "date": "2025-09-14+14:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Schertz",
-      "zip": "78154",
-      "theater_name": "EVO Entertainment Schertz + EVX",
-      "chainName": "Evo Entertainment",
-      "chainCode": "EVO",
       "showtime_id": 515328084,
       "date": "2025-09-14+21:15",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Live Oak",
-      "zip": "78233",
-      "theater_name": "Regal Live Oak & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511308697,
-      "date": "2025-09-14+19:00",
-      "format": "IMAX",
-      "language": "Japanese",
       "error": {
         "status": 500
       }
@@ -30835,21 +28435,6 @@
       "chainCode": "REGL",
       "showtime_id": 515573930,
       "date": "2025-09-14+12:30",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Live Oak",
-      "zip": "78233",
-      "theater_name": "Regal Live Oak & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515573936,
-      "date": "2025-09-14+13:30",
       "format": "Standard",
       "language": "Japanese",
       "error": {
@@ -31189,36 +28774,6 @@
     {
       "state": "TX",
       "city": "San Antonio",
-      "zip": "78209",
-      "theater_name": "Regal Alamo Quarry",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 513265963,
-      "date": "2025-09-14+13:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78209",
-      "theater_name": "Regal Alamo Quarry",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515434322,
-      "date": "2025-09-14+14:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
       "zip": "78216",
       "theater_name": "Alamo Drafthouse Park North",
       "chainName": "Alamo Drafthouse Cinemas",
@@ -31233,96 +28788,6 @@
     },
     {
       "state": "TX",
-      "city": "San Marcos",
-      "zip": "78666",
-      "theater_name": "EVO Entertainment San Marcos",
-      "chainName": "Evo Entertainment",
-      "chainCode": "EVO",
-      "showtime_id": 515735683,
-      "date": "2025-09-14+14:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Marcos",
-      "zip": "78666",
-      "theater_name": "EVO Entertainment San Marcos",
-      "chainName": "Evo Entertainment",
-      "chainCode": "EVO",
-      "showtime_id": 512248571,
-      "date": "2025-09-14+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Marcos",
-      "zip": "78666",
-      "theater_name": "EVO Entertainment San Marcos",
-      "chainName": "Evo Entertainment",
-      "chainCode": "EVO",
-      "showtime_id": 515735685,
-      "date": "2025-09-14+21:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Marcos",
-      "zip": "78666",
-      "theater_name": "EVO Entertainment San Marcos",
-      "chainName": "Evo Entertainment",
-      "chainCode": "EVO",
-      "showtime_id": 512248570,
-      "date": "2025-09-14+21:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Kyle",
-      "zip": "78640",
-      "theater_name": "EVO Entertainment + EVX + IMAX - Kyle ",
-      "chainName": "Evo Entertainment",
-      "chainCode": "EVO",
-      "showtime_id": 515647219,
-      "date": "2025-09-14+15:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Kyle",
-      "zip": "78640",
-      "theater_name": "EVO Entertainment + EVX + IMAX - Kyle ",
-      "chainName": "Evo Entertainment",
-      "chainCode": "EVO",
-      "showtime_id": 512247762,
-      "date": "2025-09-14+20:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
       "city": "Austin",
       "zip": "78748",
       "theater_name": "Cinemark Southpark Meadows",
@@ -31331,51 +28796,6 @@
       "showtime_id": 514210454,
       "date": "2025-09-14+18:15",
       "format": "D-Box",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78749",
-      "theater_name": "Alamo Drafthouse Cinema Slaughter Lane",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 511383179,
-      "date": "2025-09-14+14:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78749",
-      "theater_name": "Alamo Drafthouse Cinema Slaughter Lane",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 515321303,
-      "date": "2025-09-14+15:05",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78749",
-      "theater_name": "Alamo Drafthouse Cinema Slaughter Lane",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 511383180,
-      "date": "2025-09-14+18:20",
-      "format": "Standard",
       "language": "English",
       "error": {
         "status": 500
@@ -31454,21 +28874,6 @@
       "language": "Unknown",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Abilene",
-      "zip": "79606",
-      "theater_name": "Abilene Premiere LUX Cine 10 - Abilene Mall",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 515926451,
-      "date": "2025-09-14+20:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -32148,861 +29553,6 @@
     },
     {
       "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84101",
-      "theater_name": "Megaplex Theatres Salt Lake City – The Gateway",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515342681,
-      "date": "2025-09-14+15:10",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Salt Lake City",
-      "zip": "84101",
-      "theater_name": "Megaplex Theatres Salt Lake City – The Gateway",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 512291507,
-      "date": "2025-09-14+17:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Lehi",
-      "zip": "84043",
-      "theater_name": "Megaplex Theatres Lehi - Thanksgiving Point",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515911058,
-      "date": "2025-09-14+11:50",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Vineyard",
-      "zip": "84058",
-      "theater_name": "Megaplex Theatres Vineyard - Geneva",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 512284054,
-      "date": "2025-09-14+22:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Riverton",
-      "zip": "84096",
-      "theater_name": "Cinemark Riverton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 512296464,
-      "date": "2025-09-14+18:30",
-      "format": "D-Box",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Riverton",
-      "zip": "84096",
-      "theater_name": "Cinemark Riverton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 512296465,
-      "date": "2025-09-14+15:00",
-      "format": "D-Box",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Riverton",
-      "zip": "84096",
-      "theater_name": "Cinemark Riverton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 512296466,
-      "date": "2025-09-14+22:00",
-      "format": "D-Box",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Riverton",
-      "zip": "84096",
-      "theater_name": "Cinemark Riverton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 514347220,
-      "date": "2025-09-14+12:00",
-      "format": "Cinemark XD",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Riverton",
-      "zip": "84096",
-      "theater_name": "Cinemark Riverton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 514347221,
-      "date": "2025-09-14+15:30",
-      "format": "Cinemark XD",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Riverton",
-      "zip": "84096",
-      "theater_name": "Cinemark Riverton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 512323633,
-      "date": "2025-09-14+19:00",
-      "format": "Cinemark XD",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Riverton",
-      "zip": "84096",
-      "theater_name": "Cinemark Riverton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 512323634,
-      "date": "2025-09-14+22:30",
-      "format": "D-Box",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Riverton",
-      "zip": "84096",
-      "theater_name": "Cinemark Riverton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 512323635,
-      "date": "2025-09-14+22:30",
-      "format": "Cinemark XD",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Riverton",
-      "zip": "84096",
-      "theater_name": "Cinemark Riverton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 514347222,
-      "date": "2025-09-14+12:00",
-      "format": "D-Box",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Riverton",
-      "zip": "84096",
-      "theater_name": "Cinemark Riverton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 514347223,
-      "date": "2025-09-14+15:30",
-      "format": "D-Box",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Riverton",
-      "zip": "84096",
-      "theater_name": "Cinemark Riverton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 512323636,
-      "date": "2025-09-14+19:00",
-      "format": "D-Box",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Sandy",
-      "zip": "84070",
-      "theater_name": "Megaplex Theatres Sandy - Jordan Commons",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 512271396,
-      "date": "2025-09-14+15:30",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Sandy",
-      "zip": "84070",
-      "theater_name": "Megaplex Theatres Sandy - Jordan Commons",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 512271420,
-      "date": "2025-09-14+22:30",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Sandy",
-      "zip": "84070",
-      "theater_name": "Megaplex Theatres Sandy - Jordan Commons",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 512271403,
-      "date": "2025-09-14+12:00",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Sandy",
-      "zip": "84070",
-      "theater_name": "Megaplex Theatres Sandy - Jordan Commons",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515456309,
-      "date": "2025-09-14+18:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Sandy",
-      "zip": "84070",
-      "theater_name": "Megaplex Theatres Sandy - Jordan Commons",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 512265922,
-      "date": "2025-09-14+22:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Sandy",
-      "zip": "84070",
-      "theater_name": "Megaplex Theatres Sandy - Jordan Commons",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 512271406,
-      "date": "2025-09-14+14:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Sandy",
-      "zip": "84070",
-      "theater_name": "Megaplex Theatres Sandy - Jordan Commons",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 512271398,
-      "date": "2025-09-14+21:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Sandy",
-      "zip": "84070",
-      "theater_name": "Megaplex Theatres Sandy - Jordan Commons",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 512271417,
-      "date": "2025-09-14+11:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Sandy",
-      "zip": "84070",
-      "theater_name": "Megaplex Theatres Sandy - Jordan Commons",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 512271401,
-      "date": "2025-09-14+18:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Sandy",
-      "zip": "84070",
-      "theater_name": "Megaplex Theatres Sandy - Jordan Commons",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515456323,
-      "date": "2025-09-14+10:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Sandy",
-      "zip": "84070",
-      "theater_name": "Megaplex Theatres Sandy - Jordan Commons",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515456345,
-      "date": "2025-09-14+12:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Sandy",
-      "zip": "84070",
-      "theater_name": "Megaplex Theatres Sandy - Jordan Commons",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 513022171,
-      "date": "2025-09-14+17:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Sandy",
-      "zip": "84070",
-      "theater_name": "Megaplex Theatres Sandy - Jordan Commons",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515456336,
-      "date": "2025-09-14+20:50",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Sandy",
-      "zip": "84070",
-      "theater_name": "Megaplex Theatres Sandy - Jordan Commons",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515456339,
-      "date": "2025-09-14+13:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Sandy",
-      "zip": "84070",
-      "theater_name": "Megaplex Theatres Sandy - Jordan Commons",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515456340,
-      "date": "2025-09-14+15:50",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Sandy",
-      "zip": "84070",
-      "theater_name": "Megaplex Theatres Sandy - Jordan Commons",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515456344,
-      "date": "2025-09-14+19:05",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Sandy",
-      "zip": "84070",
-      "theater_name": "Megaplex Theatres Sandy - Jordan Commons",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 513022178,
-      "date": "2025-09-14+20:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Sandy",
-      "zip": "84070",
-      "theater_name": "Megaplex Theatres Sandy - Jordan Commons",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515456324,
-      "date": "2025-09-14+22:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 512146575,
-      "date": "2025-09-14+11:20",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 512146573,
-      "date": "2025-09-14+14:40",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 512146552,
-      "date": "2025-09-14+21:15",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515421915,
-      "date": "2025-09-14+10:50",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515919905,
-      "date": "2025-09-14+12:50",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515421932,
-      "date": "2025-09-14+14:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515790123,
-      "date": "2025-09-14+20:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515421916,
-      "date": "2025-09-14+10:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515421940,
-      "date": "2025-09-14+12:10",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515924982,
-      "date": "2025-09-14+12:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515421959,
-      "date": "2025-09-14+13:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515421930,
-      "date": "2025-09-14+15:10",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515421943,
-      "date": "2025-09-14+15:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515915987,
-      "date": "2025-09-14+16:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515915989,
-      "date": "2025-09-14+16:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515421945,
-      "date": "2025-09-14+18:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515428314,
-      "date": "2025-09-14+18:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515912610,
-      "date": "2025-09-14+18:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515421938,
-      "date": "2025-09-14+19:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515421952,
-      "date": "2025-09-14+19:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515924710,
-      "date": "2025-09-14+19:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515421970,
-      "date": "2025-09-14+20:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "South Jordan",
-      "zip": "84095",
-      "theater_name": "Megaplex Theatres South Jordan - The District",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515912618,
-      "date": "2025-09-14+20:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
-      "city": "Holladay",
-      "zip": "84117",
-      "theater_name": "Megaplex Luxury Theatres at Cottonwood",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 515234134,
-      "date": "2025-09-14+10:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "UT",
       "city": "Tooele",
       "zip": "84074",
       "theater_name": "UEC Theatres Tooele",
@@ -33077,81 +29627,6 @@
       }
     },
     {
-      "state": "UT",
-      "city": "Park City",
-      "zip": "84098",
-      "theater_name": "Megaplex at Park City",
-      "chainName": "Megaplex Theatres",
-      "chainCode": "MEGA",
-      "showtime_id": 512066169,
-      "date": "2025-09-14+17:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Phoenix",
-      "zip": "85015",
-      "theater_name": "Harkins Christown 14",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 515751619,
-      "date": "2025-09-14+19:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Phoenix",
-      "zip": "85015",
-      "theater_name": "Harkins Christown 14",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 515919563,
-      "date": "2025-09-14+21:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Phoenix",
-      "zip": "85015",
-      "theater_name": "Harkins Christown 14",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 511348368,
-      "date": "2025-09-14+14:50",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Phoenix",
-      "zip": "85033",
-      "theater_name": "America Cinemas Phoenix",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 512522986,
-      "date": "2025-09-14+14:00",
-      "format": "Standard",
-      "language": "Spanish",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "AZ",
       "city": "Phoenix",
       "zip": "85033",
@@ -33160,36 +29635,6 @@
       "chainCode": "RTSIND",
       "showtime_id": 515382770,
       "date": "2025-09-14+15:30",
-      "format": "Standard",
-      "language": "Spanish",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Phoenix",
-      "zip": "85033",
-      "theater_name": "America Cinemas Phoenix",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 512522985,
-      "date": "2025-09-14+17:00",
-      "format": "Standard",
-      "language": "Spanish",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Phoenix",
-      "zip": "85033",
-      "theater_name": "America Cinemas Phoenix",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 515382771,
-      "date": "2025-09-14+18:30",
       "format": "Standard",
       "language": "Spanish",
       "error": {
@@ -33224,171 +29669,6 @@
       "language": "Spanish",
       "error": {
         "exception": ""
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Scottsdale",
-      "zip": "85251",
-      "theater_name": "Harkins Camelview 14 at Fashion Square",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 511352199,
-      "date": "2025-09-14+11:10",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Scottsdale",
-      "zip": "85251",
-      "theater_name": "Harkins Camelview 14 at Fashion Square",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 515766272,
-      "date": "2025-09-14+17:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Scottsdale",
-      "zip": "85251",
-      "theater_name": "Harkins Camelview 14 at Fashion Square",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 515766299,
-      "date": "2025-09-14+18:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Scottsdale",
-      "zip": "85251",
-      "theater_name": "Harkins Camelview 14 at Fashion Square",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 515766300,
-      "date": "2025-09-14+20:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Peoria",
-      "zip": "85345",
-      "theater_name": "Harkins Park West 14",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 515790780,
-      "date": "2025-09-14+10:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Peoria",
-      "zip": "85345",
-      "theater_name": "Harkins Park West 14",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 515790783,
-      "date": "2025-09-14+20:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Peoria",
-      "zip": "85345",
-      "theater_name": "Harkins Park West 14",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 515790771,
-      "date": "2025-09-14+18:00",
-      "format": "CINÉ XL®",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Avondale",
-      "zip": "85392",
-      "theater_name": "Harkins Gateway Pavilions 18",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 515764141,
-      "date": "2025-09-14+18:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Avondale",
-      "zip": "85392",
-      "theater_name": "Harkins Gateway Pavilions 18",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 511377743,
-      "date": "2025-09-14+19:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Avondale",
-      "zip": "85392",
-      "theater_name": "Harkins Gateway Pavilions 18",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 515764118,
-      "date": "2025-09-14+19:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Avondale",
-      "zip": "85392",
-      "theater_name": "Harkins Gateway Pavilions 18",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 511377742,
-      "date": "2025-09-14+15:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -33938,54 +30218,9 @@
       "theater_name": "Icon Cinema 4 Hills",
       "chainName": "RTSIND",
       "chainCode": "RTSIND",
-      "showtime_id": 512358983,
-      "date": "2025-09-14+12:35",
-      "format": "Premium Large Format",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NM",
-      "city": "Albuquerque",
-      "zip": "87123",
-      "theater_name": "Icon Cinema 4 Hills",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
       "showtime_id": 512358984,
       "date": "2025-09-14+15:50",
       "format": "Premium Large Format",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NM",
-      "city": "Albuquerque",
-      "zip": "87123",
-      "theater_name": "Icon Cinema 4 Hills",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 512358985,
-      "date": "2025-09-14+19:05",
-      "format": "Premium Large Format",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NM",
-      "city": "Albuquerque",
-      "zip": "87123",
-      "theater_name": "Icon Cinema 4 Hills",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 515374350,
-      "date": "2025-09-14+12:50",
-      "format": "Standard",
       "language": "English",
       "error": {
         "exception": ""
@@ -34015,36 +30250,6 @@
       "chainCode": "RTSIND",
       "showtime_id": 513278142,
       "date": "2025-09-14+19:25",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NM",
-      "city": "Albuquerque",
-      "zip": "87123",
-      "theater_name": "Icon Cinema 4 Hills",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 515374367,
-      "date": "2025-09-14+10:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "NM",
-      "city": "Albuquerque",
-      "zip": "87123",
-      "theater_name": "Icon Cinema 4 Hills",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 515374368,
-      "date": "2025-09-14+13:55",
       "format": "Standard",
       "language": "English",
       "error": {
@@ -34184,21 +30389,6 @@
       "language": "Unknown",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Los Angeles",
-      "zip": "90015",
-      "theater_name": "Regal LA Live & 4DX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511338576,
-      "date": "2025-09-14+14:20",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -34544,21 +30734,6 @@
       "language": "English",
       "error": {
         "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Buena Park",
-      "zip": "90620",
-      "theater_name": "Krikorian Premiere Theatres",
-      "chainName": "Krikorian Premiere Theatres",
-      "chainCode": "KRK",
-      "showtime_id": 512290312,
-      "date": "2025-09-14+15:50",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -35853,51 +32028,6 @@
     },
     {
       "state": "CA",
-      "city": "Sacramento",
-      "zip": "95823",
-      "theater_name": "Regal UA Laguna Village",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515143634,
-      "date": "2025-09-14+14:20",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95823",
-      "theater_name": "Regal UA Laguna Village",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511349859,
-      "date": "2025-09-14+20:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95823",
-      "theater_name": "Regal UA Laguna Village",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515143629,
-      "date": "2025-09-14+12:35",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
       "city": "Davis",
       "zip": "95616",
       "theater_name": "Davis Varsity Theatre",
@@ -36149,21 +32279,6 @@
       "language": "Unknown",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Chico",
-      "zip": "95926",
-      "theater_name": "Cinemark Tinseltown Chico 14 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 512137213,
-      "date": "2025-09-14+22:05",
-      "format": "Cinemark XD",
-      "language": "English",
-      "error": {
-        "status": 403
       }
     },
     {
@@ -37212,6 +33327,636 @@
       "date": "2025-09-14+16:45",
       "format": "Standard",
       "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Great Falls",
+      "zip": "59404",
+      "theater_name": "AMC CLASSIC Great Falls 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515340436,
+      "date": "2025-09-14+12:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Great Falls",
+      "zip": "59404",
+      "theater_name": "AMC CLASSIC Great Falls 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515340451,
+      "date": "2025-09-14+14:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Great Falls",
+      "zip": "59404",
+      "theater_name": "AMC CLASSIC Great Falls 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 511493488,
+      "date": "2025-09-14+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Great Falls",
+      "zip": "59404",
+      "theater_name": "AMC CLASSIC Great Falls 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 513345791,
+      "date": "2025-09-14+21:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Great Falls",
+      "zip": "59404",
+      "theater_name": "AMC CLASSIC Great Falls 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515340435,
+      "date": "2025-09-14+15:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Great Falls",
+      "zip": "59404",
+      "theater_name": "AMC CLASSIC Great Falls 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515340450,
+      "date": "2025-09-14+17:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Great Falls",
+      "zip": "59404",
+      "theater_name": "AMC CLASSIC Great Falls 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515837505,
+      "date": "2025-09-14+20:25",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Lawton",
+      "zip": "73505",
+      "theater_name": "AMC Patriot 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515599340,
+      "date": "2025-09-14+10:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Lawton",
+      "zip": "73505",
+      "theater_name": "AMC Patriot 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 511923012,
+      "date": "2025-09-14+14:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Lawton",
+      "zip": "73505",
+      "theater_name": "AMC Patriot 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515599309,
+      "date": "2025-09-14+13:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Lawton",
+      "zip": "73505",
+      "theater_name": "AMC Patriot 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 511923007,
+      "date": "2025-09-14+17:45",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Lawton",
+      "zip": "73505",
+      "theater_name": "AMC Patriot 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515599341,
+      "date": "2025-09-14+18:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Lawton",
+      "zip": "73505",
+      "theater_name": "AMC Patriot 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 511923003,
+      "date": "2025-09-14+21:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Lawton",
+      "zip": "73505",
+      "theater_name": "AMC Patriot 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515599342,
+      "date": "2025-09-14+22:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Lawton",
+      "zip": "73505",
+      "theater_name": "VASKA Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515654029,
+      "date": "2025-09-14+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Lawton",
+      "zip": "73505",
+      "theater_name": "VASKA Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515654021,
+      "date": "2025-09-14+17:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Lawton",
+      "zip": "73505",
+      "theater_name": "VASKA Theatre",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515920688,
+      "date": "2025-09-14+20:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Bryan",
+      "zip": "77808",
+      "theater_name": "Bryan Premiere LUX Cine 15 IMAX & Pizza Pub",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 512179353,
+      "date": "2025-09-14+12:15",
+      "format": "IMAX",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Bryan",
+      "zip": "77808",
+      "theater_name": "Bryan Premiere LUX Cine 15 IMAX & Pizza Pub",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 512179357,
+      "date": "2025-09-14+19:15",
+      "format": "IMAX",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Bryan",
+      "zip": "77808",
+      "theater_name": "Bryan Premiere LUX Cine 15 IMAX & Pizza Pub",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 512179355,
+      "date": "2025-09-14+15:45",
+      "format": "IMAX",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Bryan",
+      "zip": "77808",
+      "theater_name": "Bryan Premiere LUX Cine 15 IMAX & Pizza Pub",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 512179359,
+      "date": "2025-09-14+22:45",
+      "format": "IMAX",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Bryan",
+      "zip": "77808",
+      "theater_name": "Bryan Premiere LUX Cine 15 IMAX & Pizza Pub",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 512179352,
+      "date": "2025-09-14+11:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Bryan",
+      "zip": "77808",
+      "theater_name": "Bryan Premiere LUX Cine 15 IMAX & Pizza Pub",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 514394841,
+      "date": "2025-09-14+14:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Bryan",
+      "zip": "77808",
+      "theater_name": "Bryan Premiere LUX Cine 15 IMAX & Pizza Pub",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 512179356,
+      "date": "2025-09-14+18:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Bryan",
+      "zip": "77808",
+      "theater_name": "Bryan Premiere LUX Cine 15 IMAX & Pizza Pub",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 514394842,
+      "date": "2025-09-14+21:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Bryan",
+      "zip": "77808",
+      "theater_name": "Bryan Premiere LUX Cine 15 IMAX & Pizza Pub",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 514394839,
+      "date": "2025-09-14+11:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Bryan",
+      "zip": "77808",
+      "theater_name": "Bryan Premiere LUX Cine 15 IMAX & Pizza Pub",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 512179354,
+      "date": "2025-09-14+15:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Bryan",
+      "zip": "77808",
+      "theater_name": "Bryan Premiere LUX Cine 15 IMAX & Pizza Pub",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 514394840,
+      "date": "2025-09-14+18:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Bryan",
+      "zip": "77808",
+      "theater_name": "Bryan Premiere LUX Cine 15 IMAX & Pizza Pub",
+      "chainName": "Premiere Cinemas",
+      "chainCode": "PRCM",
+      "showtime_id": 512179358,
+      "date": "2025-09-14+22:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Rio Grande City",
+      "zip": "78582",
+      "theater_name": "AMC CLASSIC Rio Grande 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515754211,
+      "date": "2025-09-14+12:30",
+      "format": "Standard",
+      "language": "Spanish",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Rio Grande City",
+      "zip": "78582",
+      "theater_name": "AMC CLASSIC Rio Grande 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515754199,
+      "date": "2025-09-14+12:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Rio Grande City",
+      "zip": "78582",
+      "theater_name": "AMC CLASSIC Rio Grande 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515754212,
+      "date": "2025-09-14+16:05",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Rio Grande City",
+      "zip": "78582",
+      "theater_name": "AMC CLASSIC Rio Grande 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515754200,
+      "date": "2025-09-14+19:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Rio Grande City",
+      "zip": "78582",
+      "theater_name": "AMC CLASSIC Rio Grande 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515754201,
+      "date": "2025-09-14+15:35",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Rio Grande City",
+      "zip": "78582",
+      "theater_name": "AMC CLASSIC Rio Grande 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515754198,
+      "date": "2025-09-14+18:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Rio Grande City",
+      "zip": "78582",
+      "theater_name": "AMC CLASSIC Rio Grande 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515754213,
+      "date": "2025-09-14+19:40",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Payson",
+      "zip": "85541",
+      "theater_name": "Sawmill Theatre",
+      "chainName": "Sawmill Theatre",
+      "chainCode": "SAWM",
+      "showtime_id": 515302498,
+      "date": "2025-09-14+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Payson",
+      "zip": "85541",
+      "theater_name": "Sawmill Theatre",
+      "chainName": "Sawmill Theatre",
+      "chainCode": "SAWM",
+      "showtime_id": 515302503,
+      "date": "2025-09-14+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Payson",
+      "zip": "85541",
+      "theater_name": "Sawmill Theatre",
+      "chainName": "Sawmill Theatre",
+      "chainCode": "SAWM",
+      "showtime_id": 515302507,
+      "date": "2025-09-14+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Elko",
+      "zip": "89801",
+      "theater_name": "UEC Theatres Elko Cinema 6",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515856909,
+      "date": "2025-09-14+11:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Elko",
+      "zip": "89801",
+      "theater_name": "UEC Theatres Elko Cinema 6",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515856911,
+      "date": "2025-09-14+17:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NV",
+      "city": "Elko",
+      "zip": "89801",
+      "theater_name": "UEC Theatres Elko Cinema 6",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 515856910,
+      "date": "2025-09-14+14:15",
+      "format": "Standard",
+      "language": "Unknown",
       "error": {
         "status": 400
       }
