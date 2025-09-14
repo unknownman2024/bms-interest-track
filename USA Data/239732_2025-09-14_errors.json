@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-14 10:01:07 PM",
+  "last_updated": "2025-09-14 10:58:18 PM",
   "errors": [
     {
       "state": "MA",
@@ -32399,6 +32399,66 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Willoughby",
+      "zip": "44094",
+      "theater_name": "Regal Willoughby Commons",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515953244,
+      "date": "2025-09-14+13:35",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Walker",
+      "zip": "49544",
+      "theater_name": "AMC Grand Rapids 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515952560,
+      "date": "2025-09-14+11:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Beaver Dam",
+      "zip": "53916",
+      "theater_name": "Beaver Dam Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515953247,
+      "date": "2025-09-14+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77089",
+      "theater_name": "AMC Gulf Pointe 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515952715,
+      "date": "2025-09-14+10:15",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
       }
     }
   ]
