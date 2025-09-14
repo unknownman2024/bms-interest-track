@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-15 03:49:54 AM",
+  "last_updated": "2025-09-15 04:47:20 AM",
   "errors": [
     {
       "state": "MA",
@@ -14275,21 +14275,6 @@
       "chainCode": "AMC",
       "showtime_id": 515746727,
       "date": "2025-09-14+15:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 400
-      }
-    },
-    {
-      "state": "AL",
-      "city": "Dothan",
-      "zip": "36303",
-      "theater_name": "AMC CLASSIC Dothan 6",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512372510,
-      "date": "2025-09-14+20:00",
       "format": "Standard",
       "language": "Japanese",
       "error": {
@@ -32245,6 +32230,21 @@
       "chainCode": "RTSIND",
       "showtime_id": 515957167,
       "date": "2025-09-14+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Pico Rivera",
+      "zip": "90660",
+      "theater_name": "Cinépolis Pico Rivera",
+      "chainName": "Cinepolis",
+      "chainCode": "CPLS",
+      "showtime_id": 515957594,
+      "date": "2025-09-14+21:05",
       "format": "Standard",
       "language": "Unknown",
       "error": {
