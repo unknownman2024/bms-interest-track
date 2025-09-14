@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-14 03:10:27 AM",
+  "last_updated": "2025-09-14 07:48:53 AM",
   "errors": [
     {
       "state": "MA",
@@ -227,18 +227,33 @@
       }
     },
     {
-      "state": "TX",
-      "city": "Frisco",
-      "zip": "75033",
-      "theater_name": "CUT! by Cinemark Frisco - Dine-in Theatre, Kitchen",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 515938605,
-      "date": "2025-09-25+18:00",
+      "state": "VA",
+      "city": "Ashburn",
+      "zip": "20147",
+      "theater_name": "AMC Loudoun Station 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515945035,
+      "date": "2025-09-25+19:45",
       "format": "Standard",
       "language": "Telugu",
       "error": {
-        "status": 403
+        "status": 500
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Springfield",
+      "zip": "62711",
+      "theater_name": "AMC Springfield 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515946242,
+      "date": "2025-09-25+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
       }
     }
   ]
