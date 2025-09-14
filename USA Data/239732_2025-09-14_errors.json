@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-14 07:11:10 PM",
+  "last_updated": "2025-09-14 08:00:56 PM",
   "errors": [
     {
       "state": "MA",
@@ -25518,21 +25518,6 @@
     },
     {
       "state": "OK",
-      "city": "Oklahoma City",
-      "zip": "73127",
-      "theater_name": "Icon Cinema Oklahoma City",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 515381443,
-      "date": "2025-09-14+21:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "OK",
       "city": "Moore",
       "zip": "73160",
       "theater_name": "Regal Warren Moore 4DX & IMAX",
@@ -26378,53 +26363,8 @@
       "theater_name": "Burleson Premiere LUX Cine 14 Burleson Commons",
       "chainName": "Premiere Cinemas",
       "chainCode": "PRCM",
-      "showtime_id": 515741478,
-      "date": "2025-09-14+13:20",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Burleson",
-      "zip": "76028",
-      "theater_name": "Burleson Premiere LUX Cine 14 Burleson Commons",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
       "showtime_id": 515741448,
       "date": "2025-09-14+15:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Burleson",
-      "zip": "76028",
-      "theater_name": "Burleson Premiere LUX Cine 14 Burleson Commons",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 515741477,
-      "date": "2025-09-14+16:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Burleson",
-      "zip": "76028",
-      "theater_name": "Burleson Premiere LUX Cine 14 Burleson Commons",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 515741450,
-      "date": "2025-09-14+19:50",
       "format": "Standard",
       "language": "Unknown",
       "error": {
@@ -26470,21 +26410,6 @@
       "chainCode": "PRCM",
       "showtime_id": 515741447,
       "date": "2025-09-14+14:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Burleson",
-      "zip": "76028",
-      "theater_name": "Burleson Premiere LUX Cine 14 Burleson Commons",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
-      "showtime_id": 515741479,
-      "date": "2025-09-14+16:15",
       "format": "Standard",
       "language": "English",
       "error": {
@@ -26744,36 +26669,6 @@
       "language": "English",
       "error": {
         "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77036",
-      "theater_name": "America Cinemas Houston",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 515465354,
-      "date": "2025-09-14+20:30",
-      "format": "Standard",
-      "language": "Spanish",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77036",
-      "theater_name": "America Cinemas Houston",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 515465368,
-      "date": "2025-09-14+21:50",
-      "format": "Standard",
-      "language": "Spanish",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -32757,6 +32652,21 @@
       "date": "2025-09-14+11:05",
       "format": "Standard",
       "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Waldorf",
+      "zip": "20603",
+      "theater_name": "AMC St. Charles Town Ctr. 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515952337,
+      "date": "2025-09-14+20:45",
+      "format": "Standard",
+      "language": "Japanese",
       "error": {
         "status": 404
       }
