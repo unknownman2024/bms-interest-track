@@ -10209,11 +10209,11 @@
     "screenName": "Cinema 04",
     "operator": "DOC",
     "total": 91,
-    "sold": 10,
-    "available": 81,
-    "occupancy": 10.99,
+    "sold": 12,
+    "available": 79,
+    "occupancy": 13.19,
     "max_gross": 2548.0,
-    "total_gross": 280.0,
+    "total_gross": 336.0,
     "price": 28.0,
     "error": false
   },
@@ -21603,7 +21603,8 @@
     "max_gross": 4200.0,
     "total_gross": 1008.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 172192,
