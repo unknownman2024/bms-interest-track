@@ -1832,8 +1832,7 @@
     "max_gross": 2400.0,
     "total_gross": 500.0,
     "price": 25.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 41678,
@@ -3266,11 +3265,11 @@
     "screenName": "Cinema 04",
     "operator": "WES",
     "total": 180,
-    "sold": 60,
-    "available": 120,
-    "occupancy": 33.33,
+    "sold": 59,
+    "available": 121,
+    "occupancy": 32.78,
     "max_gross": 5040.0,
-    "total_gross": 1680.0,
+    "total_gross": 1652.0,
     "price": 28.0,
     "error": false
   },
@@ -10988,8 +10987,7 @@
     "max_gross": 5510.0,
     "total_gross": 609.0,
     "price": 29.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 43299,
@@ -13849,8 +13847,7 @@
     "max_gross": 7616.0,
     "total_gross": 17.0,
     "price": 17.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 245337,
@@ -20346,7 +20343,8 @@
     "max_gross": 3780.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 435996,
@@ -21605,8 +21603,7 @@
     "max_gross": 4200.0,
     "total_gross": 1008.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 172192,
@@ -30094,11 +30091,11 @@
     "screenName": "Cinema 10",
     "operator": "WET",
     "total": 140,
-    "sold": 7,
-    "available": 133,
-    "occupancy": 5.0,
+    "sold": 9,
+    "available": 131,
+    "occupancy": 6.43,
     "max_gross": 3920.0,
-    "total_gross": 196.0,
+    "total_gross": 252.0,
     "price": 28.0,
     "error": false
   },
@@ -36049,11 +36046,11 @@
     "screenName": "Cinema 06",
     "operator": "FHL",
     "total": 128,
-    "sold": 2,
-    "available": 126,
-    "occupancy": 1.56,
+    "sold": 3,
+    "available": 125,
+    "occupancy": 2.34,
     "max_gross": 2496.0,
-    "total_gross": 39.0,
+    "total_gross": 58.5,
     "price": 19.5,
     "error": false
   },
