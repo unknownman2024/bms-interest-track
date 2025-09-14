@@ -10,11 +10,11 @@
     "date": "2025-09-14+21:30",
     "format": "Standard",
     "language": "Tamil",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 47,
+    "totalSeatSold": 1,
+    "occupancy": 2.13,
+    "totalAvailableSeatCount": 46,
     "totalSeatCount": 47,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 17.05,
     "adultTicketPrice": 17.05
   },
   {
@@ -919,5 +919,20 @@
     "totalSeatCount": 161,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 15.45
+  },
+  {
+    "state": "NC",
+    "city": "Concord",
+    "zip": "28027",
+    "theater_name": "AMC Concord Mills 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 0,
+    "date": "2025-09-14+21:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 404
+    }
   }
 ]
