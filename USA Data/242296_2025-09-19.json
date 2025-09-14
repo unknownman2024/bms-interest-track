@@ -100,11 +100,11 @@
     "date": "2025-09-19+19:10",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 13,
-    "occupancy": 24.53,
-    "totalAvailableSeatCount": 40,
+    "totalSeatSold": 15,
+    "occupancy": 28.3,
+    "totalAvailableSeatCount": 38,
     "totalSeatCount": 53,
-    "grossRevenueUSD": 199.81,
+    "grossRevenueUSD": 230.55,
     "adultTicketPrice": 15.37
   },
   {
@@ -223,11 +223,11 @@
     "date": "2025-09-19+21:40",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 2,
-    "occupancy": 1.27,
-    "totalAvailableSeatCount": 155,
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 157,
     "totalSeatCount": 157,
-    "grossRevenueUSD": 27.92,
+    "grossRevenueUSD": 0.0,
     "adultTicketPrice": 13.96
   },
   {
@@ -298,5 +298,23 @@
     "error": {
       "status": 400
     }
+  },
+  {
+    "state": "CA",
+    "city": "Bakersfield",
+    "zip": "93304",
+    "theater_name": "Reading Cinemas Valley Plaza with IMAX",
+    "chainName": "Reading Theaters",
+    "chainCode": "READ",
+    "showtime_id": 515947708,
+    "date": "2025-09-19+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 98,
+    "totalSeatCount": 98,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 10.0
   }
 ]
