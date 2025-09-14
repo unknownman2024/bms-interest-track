@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-14 06:27:54 AM",
+  "last_updated": "2025-09-14 08:03:48 AM",
   "errors": [
     {
       "state": "MA",
@@ -35852,21 +35852,6 @@
       }
     },
     {
-      "state": "PA",
-      "city": "North Wales",
-      "zip": "19454",
-      "theater_name": "AMC 309 Cinema 9 ",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515942645,
-      "date": "2025-09-13+22:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "NC",
       "city": "Greenville",
       "zip": "27834",
@@ -35894,21 +35879,6 @@
       "language": "English",
       "error": {
         "status": 404
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Conyers",
-      "zip": "30013",
-      "theater_name": "AMC Conyers Crossing 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515940226,
-      "date": "2025-09-13+22:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -36010,6 +35980,96 @@
       "chainCode": "CNMK",
       "showtime_id": 515942658,
       "date": "2025-09-13+23:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Ashland",
+      "zip": "41101",
+      "theater_name": "Cinemark Ashland",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515946032,
+      "date": "2025-09-13+18:40",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Charlotte",
+      "zip": "28273",
+      "theater_name": "AMC Carolina Pavilion 22",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515945482,
+      "date": "2025-09-13+22:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Orlando",
+      "zip": "32819",
+      "theater_name": "Cinemark Orlando and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515946073,
+      "date": "2025-09-13+21:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Willmar",
+      "zip": "56201",
+      "theater_name": "Golden Ticket Cinemas Kandi 6",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 515946833,
+      "date": "2025-09-13+22:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Portland",
+      "zip": "97215",
+      "theater_name": "Academy Theater",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515945778,
+      "date": "2025-09-13+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Bellevue",
+      "zip": "98004",
+      "theater_name": "Cinemark Reserve Lincoln Square Dine-In – 21+",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515946026,
+      "date": "2025-09-13+23:00",
       "format": "Standard",
       "language": "English",
       "error": {
