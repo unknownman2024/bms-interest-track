@@ -266,7 +266,8 @@
     "max_gross": 2808.0,
     "total_gross": 0.0,
     "price": 19.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 359138,
@@ -317,8 +318,7 @@
     "max_gross": 6666.0,
     "total_gross": 1155.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 517683,
@@ -352,7 +352,8 @@
     "max_gross": 8277.0,
     "total_gross": 651.0,
     "price": 31.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 429527,
@@ -472,7 +473,8 @@
     "max_gross": 3770.0,
     "total_gross": 1160.0,
     "price": 29.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 331086,
@@ -523,8 +525,7 @@
     "max_gross": 7656.0,
     "total_gross": 1947.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 286792,
@@ -575,8 +576,7 @@
     "max_gross": 5040.0,
     "total_gross": 2583.0,
     "price": 31.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 41806,
@@ -661,7 +661,8 @@
     "max_gross": 13464.0,
     "total_gross": 6204.0,
     "price": 33.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 43468,
@@ -678,7 +679,8 @@
     "max_gross": 5700.0,
     "total_gross": 0.0,
     "price": 28.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 358981,
@@ -689,11 +691,11 @@
     "screenName": "Xtremescreen 05",
     "operator": "WES",
     "total": 408,
-    "sold": 182,
-    "available": 226,
-    "occupancy": 44.61,
+    "sold": 184,
+    "available": 224,
+    "occupancy": 45.1,
     "max_gross": 13464.0,
-    "total_gross": 6006.0,
+    "total_gross": 6072.0,
     "price": 33.0,
     "error": false
   },
