@@ -5034,7 +5034,8 @@
     "max_gross": 5980.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 293006,
@@ -21603,8 +21604,7 @@
     "max_gross": 4200.0,
     "total_gross": 1008.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 172192,
@@ -34003,7 +34003,8 @@
     "max_gross": 2310.0,
     "total_gross": 935.0,
     "price": 27.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 312203,
@@ -36122,11 +36123,11 @@
     "screenName": "Cinema 08",
     "operator": "HIG",
     "total": 210,
-    "sold": 52,
-    "available": 158,
-    "occupancy": 24.76,
+    "sold": 54,
+    "available": 156,
+    "occupancy": 25.71,
     "max_gross": 5880.0,
-    "total_gross": 1456.0,
+    "total_gross": 1512.0,
     "price": 28.0,
     "error": false
   },

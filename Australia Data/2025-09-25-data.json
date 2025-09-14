@@ -283,8 +283,7 @@
     "max_gross": 14280.0,
     "total_gross": 270.0,
     "price": 30.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 500724,
@@ -318,7 +317,8 @@
     "max_gross": 6666.0,
     "total_gross": 1155.0,
     "price": 33.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 517683,
@@ -380,11 +380,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "BMW",
     "total": 134,
-    "sold": 48,
-    "available": 86,
-    "occupancy": 35.82,
+    "sold": 52,
+    "available": 82,
+    "occupancy": 38.81,
     "max_gross": 3886.0,
-    "total_gross": 1392.0,
+    "total_gross": 1508.0,
     "price": 29.0,
     "error": false
   },
@@ -437,7 +437,8 @@
     "max_gross": 3933.0,
     "total_gross": 712.5,
     "price": 28.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 318556,
@@ -488,8 +489,7 @@
     "max_gross": 4590.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 313530,
@@ -523,7 +523,8 @@
     "max_gross": 7656.0,
     "total_gross": 1947.0,
     "price": 33.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 286792,
@@ -574,7 +575,8 @@
     "max_gross": 5040.0,
     "total_gross": 2583.0,
     "price": 31.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 41806,
@@ -625,8 +627,7 @@
     "max_gross": 8316.0,
     "total_gross": 2574.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 272951,
