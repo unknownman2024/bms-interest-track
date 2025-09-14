@@ -10959,11 +10959,11 @@
     "screenName": "Cinema 04",
     "operator": "WES",
     "total": 180,
-    "sold": 85,
-    "available": 95,
-    "occupancy": 47.22,
+    "sold": 83,
+    "available": 97,
+    "occupancy": 46.11,
     "max_gross": 4860.0,
-    "total_gross": 2295.0,
+    "total_gross": 2241.0,
     "price": 27.0,
     "error": false
   },
@@ -11102,11 +11102,11 @@
     "screenName": "Cinema 10",
     "operator": "WES",
     "total": 140,
-    "sold": 66,
-    "available": 74,
-    "occupancy": 47.14,
+    "sold": 72,
+    "available": 68,
+    "occupancy": 51.43,
     "max_gross": 3780.0,
-    "total_gross": 1782.0,
+    "total_gross": 1944.0,
     "price": 27.0,
     "error": false
   },
@@ -13637,14 +13637,13 @@
     "screenName": "Xtremescreen 05",
     "operator": "WES",
     "total": 408,
-    "sold": 217,
-    "available": 191,
-    "occupancy": 53.19,
+    "sold": 220,
+    "available": 188,
+    "occupancy": 53.92,
     "max_gross": 11016.0,
-    "total_gross": 5859.0,
+    "total_gross": 5940.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 301601,
@@ -15712,7 +15711,8 @@
     "max_gross": 7020.0,
     "total_gross": 2673.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 358879,
@@ -19884,7 +19884,8 @@
     "max_gross": 12096.0,
     "total_gross": 1863.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 73277,
@@ -19919,8 +19920,7 @@
     "max_gross": 5130.0,
     "total_gross": 2808.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 248711,
@@ -27271,14 +27271,13 @@
     "screenName": "Cinema 04",
     "operator": "SLY",
     "total": 140,
-    "sold": 78,
-    "available": 62,
-    "occupancy": 55.71,
+    "sold": 85,
+    "available": 55,
+    "occupancy": 60.71,
     "max_gross": 3780.0,
-    "total_gross": 2106.0,
+    "total_gross": 2295.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 435933,
@@ -30805,7 +30804,8 @@
     "max_gross": 3969.0,
     "total_gross": 1890.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 389100,
@@ -31056,8 +31056,7 @@
     "max_gross": 2457.0,
     "total_gross": 1080.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 141238,
@@ -33102,11 +33101,11 @@
     "screenName": "Cinema 02",
     "operator": "BEL",
     "total": 96,
-    "sold": 62,
-    "available": 34,
-    "occupancy": 64.58,
+    "sold": 70,
+    "available": 26,
+    "occupancy": 72.92,
     "max_gross": 2592.0,
-    "total_gross": 1674.0,
+    "total_gross": 1890.0,
     "price": 27.0,
     "error": false
   },
@@ -34421,8 +34420,7 @@
     "max_gross": 2808.0,
     "total_gross": 918.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 29933,
@@ -37578,7 +37576,8 @@
     "max_gross": 4320.0,
     "total_gross": 2268.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "HTTP 410"
   },
   {
     "id": 346743,
@@ -37589,11 +37588,11 @@
     "screenName": "Cinema 08",
     "operator": "BEL",
     "total": 91,
-    "sold": 54,
-    "available": 37,
-    "occupancy": 59.34,
+    "sold": 52,
+    "available": 39,
+    "occupancy": 57.14,
     "max_gross": 2457.0,
-    "total_gross": 1458.0,
+    "total_gross": 1404.0,
     "price": 27.0,
     "error": false
   }
