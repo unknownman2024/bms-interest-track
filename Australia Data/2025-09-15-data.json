@@ -1826,11 +1826,11 @@
     "screenName": "Cinema 01",
     "operator": "SUN",
     "total": 96,
-    "sold": 6,
-    "available": 90,
-    "occupancy": 6.25,
+    "sold": 8,
+    "available": 88,
+    "occupancy": 8.33,
     "max_gross": 2400.0,
-    "total_gross": 150.0,
+    "total_gross": 200.0,
     "price": 25.0,
     "error": false
   },
@@ -5034,7 +5034,8 @@
     "max_gross": 5980.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 293006,
@@ -7751,8 +7752,7 @@
     "max_gross": 6500.0,
     "total_gross": 0.0,
     "price": 25.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 358990,
@@ -9659,7 +9659,8 @@
     "max_gross": 3332.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 336044,
@@ -10216,7 +10217,8 @@
     "max_gross": 2548.0,
     "total_gross": 56.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 336052,
@@ -10982,11 +10984,11 @@
     "screenName": "Cinema 05",
     "operator": "HIG",
     "total": 190,
-    "sold": 13,
-    "available": 177,
-    "occupancy": 6.84,
+    "sold": 15,
+    "available": 175,
+    "occupancy": 7.89,
     "max_gross": 5510.0,
-    "total_gross": 377.0,
+    "total_gross": 435.0,
     "price": 29.0,
     "error": false
   },
@@ -13848,8 +13850,7 @@
     "max_gross": 7616.0,
     "total_gross": 0.0,
     "price": 17.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 245337,
@@ -36121,11 +36122,11 @@
     "screenName": "Cinema 08",
     "operator": "HIG",
     "total": 210,
-    "sold": 14,
-    "available": 196,
-    "occupancy": 6.67,
+    "sold": 16,
+    "available": 194,
+    "occupancy": 7.62,
     "max_gross": 5880.0,
-    "total_gross": 392.0,
+    "total_gross": 448.0,
     "price": 28.0,
     "error": false
   },

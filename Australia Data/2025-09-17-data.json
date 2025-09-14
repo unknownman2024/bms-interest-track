@@ -3060,11 +3060,11 @@
     "screenName": "Cinema 01",
     "operator": "FHL",
     "total": 128,
-    "sold": 0,
-    "available": 128,
-    "occupancy": 0.0,
+    "sold": 4,
+    "available": 124,
+    "occupancy": 3.12,
     "max_gross": 2496.0,
-    "total_gross": 0.0,
+    "total_gross": 78.0,
     "price": 19.5,
     "error": false
   },
@@ -14382,8 +14382,7 @@
     "max_gross": 3332.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 245505,
@@ -19388,15 +19387,15 @@
     "id": 313191,
     "cinemaId": "CHDSTN",
     "movieId": "HO00010666",
-    "date": "2025-09-17T20:40:00",
+    "date": "2025-09-17T21:15:00",
     "typeId": "STANDARD",
-    "screenName": "Cinema 05",
+    "screenName": "Cinema 09",
     "operator": "CDS",
-    "total": 240,
+    "total": 84,
     "sold": 0,
-    "available": 240,
+    "available": 84,
     "occupancy": 0.0,
-    "max_gross": 6720.0,
+    "max_gross": 2352.0,
     "total_gross": 0.0,
     "price": 28.0,
     "error": false
@@ -31900,14 +31899,13 @@
     "screenName": "Cinema 10",
     "operator": "BEL",
     "total": 84,
-    "sold": 2,
-    "available": 82,
-    "occupancy": 2.38,
+    "sold": 4,
+    "available": 80,
+    "occupancy": 4.76,
     "max_gross": 2310.0,
-    "total_gross": 55.0,
+    "total_gross": 110.0,
     "price": 27.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 78376,
@@ -36272,7 +36270,8 @@
     "max_gross": 5880.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 518135,

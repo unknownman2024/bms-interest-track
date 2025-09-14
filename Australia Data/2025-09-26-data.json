@@ -858,8 +858,7 @@
     "max_gross": 14280.0,
     "total_gross": 0.0,
     "price": 30.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 517684,
@@ -876,8 +875,7 @@
     "max_gross": 10744.0,
     "total_gross": 1462.0,
     "price": 34.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 422047,
@@ -945,7 +943,8 @@
     "max_gross": 5071.5,
     "total_gross": 1008.0,
     "price": 31.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 378331,
@@ -1031,7 +1030,8 @@
     "max_gross": 9452.0,
     "total_gross": 1122.0,
     "price": 34.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 318210,
@@ -1083,7 +1083,8 @@
     "max_gross": 4590.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 141395,
@@ -1094,11 +1095,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "DOC",
     "total": 408,
-    "sold": 16,
-    "available": 392,
-    "occupancy": 3.92,
+    "sold": 24,
+    "available": 384,
+    "occupancy": 5.88,
     "max_gross": 13872.0,
-    "total_gross": 544.0,
+    "total_gross": 816.0,
     "price": 34.0,
     "error": false
   },
@@ -1146,11 +1147,11 @@
     "screenName": "Xtremescreen 05",
     "operator": "BEL",
     "total": 160,
-    "sold": 39,
-    "available": 121,
-    "occupancy": 24.38,
+    "sold": 43,
+    "available": 117,
+    "occupancy": 26.88,
     "max_gross": 5040.0,
-    "total_gross": 1228.5,
+    "total_gross": 1354.5,
     "price": 31.5,
     "error": false
   },
@@ -1214,13 +1215,12 @@
     "screenName": "Xtremescreen 05",
     "operator": "WES",
     "total": 408,
-    "sold": 119,
-    "available": 289,
-    "occupancy": 29.17,
+    "sold": 125,
+    "available": 283,
+    "occupancy": 30.64,
     "max_gross": 13464.0,
-    "total_gross": 3927.0,
+    "total_gross": 4125.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   }
 ]
