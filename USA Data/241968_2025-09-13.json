@@ -10,11 +10,11 @@
     "date": "2025-09-13+21:30",
     "format": "Standard",
     "language": "Tamil",
-    "totalSeatSold": 15,
-    "occupancy": 31.91,
-    "totalAvailableSeatCount": 32,
+    "totalSeatSold": 13,
+    "occupancy": 27.66,
+    "totalAvailableSeatCount": 34,
     "totalSeatCount": 47,
-    "grossRevenueUSD": 255.75,
+    "grossRevenueUSD": 221.65,
     "adultTicketPrice": 17.05
   },
   {
@@ -28,11 +28,11 @@
     "date": "2025-09-13+22:20",
     "format": "Standard",
     "language": "Tamil",
-    "totalSeatSold": 1,
-    "occupancy": 0.98,
-    "totalAvailableSeatCount": 101,
+    "totalSeatSold": 4,
+    "occupancy": 3.92,
+    "totalAvailableSeatCount": 98,
     "totalSeatCount": 102,
-    "grossRevenueUSD": 13.32,
+    "grossRevenueUSD": 53.28,
     "adultTicketPrice": 13.32
   },
   {
@@ -82,11 +82,11 @@
     "date": "2025-09-13+21:30",
     "format": "Standard",
     "language": "Tamil",
-    "totalSeatSold": 3,
-    "occupancy": 2.33,
-    "totalAvailableSeatCount": 126,
+    "totalSeatSold": 20,
+    "occupancy": 15.5,
+    "totalAvailableSeatCount": 109,
     "totalSeatCount": 129,
-    "grossRevenueUSD": 46.35,
+    "grossRevenueUSD": 309.0,
     "adultTicketPrice": 15.45
   },
   {
@@ -172,11 +172,11 @@
     "date": "2025-09-13+22:00",
     "format": "Standard",
     "language": "Tamil",
-    "totalSeatSold": 5,
-    "occupancy": 8.62,
-    "totalAvailableSeatCount": 53,
+    "totalSeatSold": 12,
+    "occupancy": 20.69,
+    "totalAvailableSeatCount": 46,
     "totalSeatCount": 58,
-    "grossRevenueUSD": 72.15,
+    "grossRevenueUSD": 173.16,
     "adultTicketPrice": 14.43
   },
   {
@@ -439,11 +439,11 @@
     "date": "2025-09-13+21:35",
     "format": "Standard",
     "language": "Tamil",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 89,
+    "totalSeatSold": 3,
+    "occupancy": 3.37,
+    "totalAvailableSeatCount": 86,
     "totalSeatCount": 89,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 26.97,
     "adultTicketPrice": 8.99
   },
   {
@@ -871,11 +871,11 @@
     "date": "2025-09-13+21:35",
     "format": "Standard",
     "language": "Tamil",
-    "totalSeatSold": 6,
-    "occupancy": 4.14,
-    "totalAvailableSeatCount": 139,
+    "totalSeatSold": 7,
+    "occupancy": 4.83,
+    "totalAvailableSeatCount": 138,
     "totalSeatCount": 145,
-    "grossRevenueUSD": 97.5,
+    "grossRevenueUSD": 113.75,
     "adultTicketPrice": 16.25
   },
   {
@@ -943,11 +943,11 @@
     "date": "2025-09-13+19:05",
     "format": "Standard",
     "language": "Tamil",
-    "totalSeatSold": 19,
-    "occupancy": 5.18,
-    "totalAvailableSeatCount": 348,
+    "totalSeatSold": 38,
+    "occupancy": 10.35,
+    "totalAvailableSeatCount": 329,
     "totalSeatCount": 367,
-    "grossRevenueUSD": 298.49,
+    "grossRevenueUSD": 596.98,
     "adultTicketPrice": 15.71
   },
   {
@@ -985,5 +985,35 @@
     "totalSeatCount": 123,
     "grossRevenueUSD": 15.74,
     "adultTicketPrice": 15.74
+  },
+  {
+    "state": "FL",
+    "city": "Tampa",
+    "zip": "33647",
+    "theater_name": "AMC Highwoods 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 515510607,
+    "date": "2025-09-13+17:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Tampa",
+    "zip": "33647",
+    "theater_name": "AMC Highwoods 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 515510608,
+    "date": "2025-09-13+22:00",
+    "format": "Standard",
+    "language": "Tamil",
+    "error": {
+      "status": 400
+    }
   }
 ]
