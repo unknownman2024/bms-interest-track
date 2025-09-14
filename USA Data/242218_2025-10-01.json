@@ -3304,11 +3304,11 @@
     "date": "2025-10-01+18:00",
     "format": "IMAX",
     "language": "Kannada",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 238,
+    "totalSeatSold": 2,
+    "occupancy": 0.84,
+    "totalAvailableSeatCount": 236,
     "totalSeatCount": 238,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 50.0,
     "adultTicketPrice": 25.0
   },
   {
@@ -7111,11 +7111,11 @@
     "date": "2025-10-01+14:55",
     "format": "Standard",
     "language": "Kannada",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 256,
+    "totalSeatSold": 1,
+    "occupancy": 0.39,
+    "totalAvailableSeatCount": 255,
     "totalSeatCount": 256,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 22.4,
     "adultTicketPrice": 22.4
   },
   {
@@ -8389,11 +8389,11 @@
     "date": "2025-10-01+18:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 1,
-    "occupancy": 1.82,
-    "totalAvailableSeatCount": 54,
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 55,
     "totalSeatCount": 55,
-    "grossRevenueUSD": 21.66,
+    "grossRevenueUSD": 0.0,
     "adultTicketPrice": 21.66
   },
   {
@@ -8425,11 +8425,11 @@
     "date": "2025-10-01+16:45",
     "format": "Standard",
     "language": "Kannada",
-    "totalSeatSold": 1,
-    "occupancy": 1.47,
-    "totalAvailableSeatCount": 67,
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 68,
     "totalSeatCount": 68,
-    "grossRevenueUSD": 12.37,
+    "grossRevenueUSD": 0.0,
     "adultTicketPrice": 12.37
   },
   {
@@ -10621,11 +10621,11 @@
     "date": "2025-10-01+18:50",
     "format": "IMAX",
     "language": "Kannada",
-    "totalSeatSold": 10,
-    "occupancy": 3.76,
-    "totalAvailableSeatCount": 256,
+    "totalSeatSold": 17,
+    "occupancy": 6.39,
+    "totalAvailableSeatCount": 249,
     "totalSeatCount": 266,
-    "grossRevenueUSD": 262.5,
+    "grossRevenueUSD": 446.25,
     "adultTicketPrice": 26.25
   },
   {
@@ -14710,5 +14710,20 @@
     "totalSeatCount": 48,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 20.6
+  },
+  {
+    "state": "KS",
+    "city": "Overland Park",
+    "zip": "66223",
+    "theater_name": "AMC DINE-IN Prairiefire 17",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 0,
+    "date": "2025-10-01+20:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 404
+    }
   }
 ]
