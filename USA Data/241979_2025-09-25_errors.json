@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-14 09:09:59 PM",
+  "last_updated": "2025-09-15 12:16:33 AM",
   "errors": [
     {
       "state": "MA",
@@ -265,6 +265,36 @@
       "chainCode": "AMC",
       "showtime_id": 515949685,
       "date": "2025-09-25+19:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Jacksonville",
+      "zip": "28546",
+      "theater_name": "AMC CLASSIC Jacksonville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515953150,
+      "date": "2025-09-25+18:55",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Walker",
+      "zip": "49544",
+      "theater_name": "AMC Grand Rapids 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515953221,
+      "date": "2025-09-25+19:00",
       "format": "Standard",
       "language": "Telugu",
       "error": {
