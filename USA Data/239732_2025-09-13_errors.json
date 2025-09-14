@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-14 04:49:42 AM",
+  "last_updated": "2025-09-14 06:27:54 AM",
   "errors": [
     {
       "state": "MA",
@@ -26688,21 +26688,6 @@
     },
     {
       "state": "OK",
-      "city": "Moore",
-      "zip": "73160",
-      "theater_name": "Regal Warren Moore 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515334279,
-      "date": "2025-09-13+19:30",
-      "format": "Premium Large Format",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OK",
       "city": "Ardmore",
       "zip": "73401",
       "theater_name": "AMC CLASSIC Ardmore 8",
@@ -35830,6 +35815,201 @@
       "chainCode": "AMC",
       "showtime_id": 515940101,
       "date": "2025-09-13+17:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Wayne",
+      "zip": "07470",
+      "theater_name": "AMC Wayne 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515940097,
+      "date": "2025-09-13+18:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Philidelphia",
+      "zip": "19121",
+      "theater_name": "AMC Broadstreet 7",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515932728,
+      "date": "2025-09-13+19:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "PA",
+      "city": "North Wales",
+      "zip": "19454",
+      "theater_name": "AMC 309 Cinema 9 ",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515942645,
+      "date": "2025-09-13+22:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greenville",
+      "zip": "27834",
+      "theater_name": "AMC Fire Tower 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515939007,
+      "date": "2025-09-13+19:20",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Charlotte",
+      "zip": "28277",
+      "theater_name": "Regal Stonecrest at Piper Glen 4DX, IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515942690,
+      "date": "2025-09-13+19:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Conyers",
+      "zip": "30013",
+      "theater_name": "AMC Conyers Crossing 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515940226,
+      "date": "2025-09-13+22:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Port Charlotte",
+      "zip": "33948",
+      "theater_name": "Regal Town Center - Port Charlotte",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515944187,
+      "date": "2025-09-13+20:10",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Columbus",
+      "zip": "43219",
+      "theater_name": "AMC Dine-in Easton Town Center 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515943873,
+      "date": "2025-09-13+20:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Indianapolis",
+      "zip": "46229",
+      "theater_name": "AMC Washington Square 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515942643,
+      "date": "2025-09-13+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Quincy",
+      "zip": "62301",
+      "theater_name": "AMC CLASSIC Quincy 6",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515942548,
+      "date": "2025-09-13+21:15",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515939048,
+      "date": "2025-09-13+19:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Weslaco",
+      "zip": "78596",
+      "theater_name": "Cinemark Weslaco Movies 10",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515945106,
+      "date": "2025-09-13+14:35",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Rocklin",
+      "zip": "95765",
+      "theater_name": "Cinemark Century Blue Oaks Theatres and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515942658,
+      "date": "2025-09-13+23:10",
       "format": "Standard",
       "language": "English",
       "error": {
