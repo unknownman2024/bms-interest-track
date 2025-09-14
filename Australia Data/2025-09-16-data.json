@@ -3698,7 +3698,8 @@
     "max_gross": 5040.0,
     "total_gross": 504.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 301631,
@@ -13458,11 +13459,11 @@
     "screenName": "Cinema 05",
     "operator": "HIG",
     "total": 190,
-    "sold": 25,
-    "available": 165,
-    "occupancy": 13.16,
+    "sold": 21,
+    "available": 169,
+    "occupancy": 11.05,
     "max_gross": 5510.0,
-    "total_gross": 725.0,
+    "total_gross": 609.0,
     "price": 29.0,
     "error": false
   },
@@ -17278,8 +17279,7 @@
     "max_gross": 7616.0,
     "total_gross": 0.0,
     "price": 17.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 41719,
@@ -34572,7 +34572,8 @@
     "max_gross": 2808.0,
     "total_gross": 81.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 213050,
@@ -36334,7 +36335,8 @@
     "max_gross": 5880.0,
     "total_gross": 448.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 121565,
