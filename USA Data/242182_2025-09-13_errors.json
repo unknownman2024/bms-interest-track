@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-14 04:50:41 AM",
+  "last_updated": "2025-09-14 07:10:00 AM",
   "errors": [
     {
       "state": "DE",
@@ -325,6 +325,51 @@
       "chainCode": "AMC",
       "showtime_id": 515898986,
       "date": "2025-09-13+20:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Orlando",
+      "zip": "32819",
+      "theater_name": "Cinemark Orlando and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515943594,
+      "date": "2025-09-13+19:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515929907,
+      "date": "2025-09-13+19:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515929908,
+      "date": "2025-09-13+21:15",
       "format": "Standard",
       "language": "Telugu",
       "error": {
