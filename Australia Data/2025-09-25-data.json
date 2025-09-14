@@ -330,11 +330,11 @@
     "screenName": "Xtremescreen 06",
     "operator": "HIG",
     "total": 316,
-    "sold": 147,
-    "available": 169,
-    "occupancy": 46.52,
+    "sold": 149,
+    "available": 167,
+    "occupancy": 47.15,
     "max_gross": 10428.0,
-    "total_gross": 4851.0,
+    "total_gross": 4917.0,
     "price": 33.0,
     "error": false
   },
@@ -353,7 +353,8 @@
     "max_gross": 8277.0,
     "total_gross": 651.0,
     "price": 31.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 429527,
@@ -432,11 +433,11 @@
     "screenName": "Xtremescreen 05",
     "operator": "RED",
     "total": 138,
-    "sold": 22,
-    "available": 116,
-    "occupancy": 15.94,
+    "sold": 25,
+    "available": 113,
+    "occupancy": 18.12,
     "max_gross": 3933.0,
-    "total_gross": 627.0,
+    "total_gross": 712.5,
     "price": 28.5,
     "error": false
   },
@@ -449,11 +450,11 @@
     "screenName": "Xtremescreen 03",
     "operator": "MTD",
     "total": 198,
-    "sold": 1,
-    "available": 197,
-    "occupancy": 0.51,
+    "sold": 2,
+    "available": 196,
+    "occupancy": 1.01,
     "max_gross": 6336.0,
-    "total_gross": 32.0,
+    "total_gross": 64.0,
     "price": 32.0,
     "error": false
   },
@@ -466,14 +467,13 @@
     "screenName": "Xtremescreen 7",
     "operator": "SUN",
     "total": 130,
-    "sold": 36,
-    "available": 94,
-    "occupancy": 27.69,
+    "sold": 38,
+    "available": 92,
+    "occupancy": 29.23,
     "max_gross": 3770.0,
-    "total_gross": 1044.0,
+    "total_gross": 1102.0,
     "price": 29.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 331086,
@@ -501,11 +501,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "CDS",
     "total": 278,
-    "sold": 98,
-    "available": 180,
-    "occupancy": 35.25,
+    "sold": 99,
+    "available": 179,
+    "occupancy": 35.61,
     "max_gross": 9174.0,
-    "total_gross": 3234.0,
+    "total_gross": 3267.0,
     "price": 33.0,
     "error": false
   },
@@ -518,11 +518,11 @@
     "screenName": "Xtremescreen 10",
     "operator": "NOR",
     "total": 232,
-    "sold": 56,
-    "available": 176,
-    "occupancy": 24.14,
+    "sold": 59,
+    "available": 173,
+    "occupancy": 25.43,
     "max_gross": 7656.0,
-    "total_gross": 1848.0,
+    "total_gross": 1947.0,
     "price": 33.0,
     "error": false
   },
@@ -541,7 +541,8 @@
     "max_gross": 4232.0,
     "total_gross": 1265.0,
     "price": 23.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 141394,
@@ -552,11 +553,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "DOC",
     "total": 408,
-    "sold": 186,
-    "available": 222,
-    "occupancy": 45.59,
+    "sold": 193,
+    "available": 215,
+    "occupancy": 47.3,
     "max_gross": 13464.0,
-    "total_gross": 6138.0,
+    "total_gross": 6369.0,
     "price": 33.0,
     "error": false
   },
@@ -592,7 +593,8 @@
     "max_gross": 9900.0,
     "total_gross": 60.0,
     "price": 30.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 78699,
@@ -626,7 +628,8 @@
     "max_gross": 8316.0,
     "total_gross": 2508.0,
     "price": 33.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 272951,
@@ -688,11 +691,11 @@
     "screenName": "Xtremescreen 05",
     "operator": "WES",
     "total": 408,
-    "sold": 174,
-    "available": 234,
-    "occupancy": 42.65,
+    "sold": 182,
+    "available": 226,
+    "occupancy": 44.61,
     "max_gross": 13464.0,
-    "total_gross": 5742.0,
+    "total_gross": 6006.0,
     "price": 33.0,
     "error": false
   },
@@ -722,11 +725,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "WES",
     "total": 264,
-    "sold": 66,
-    "available": 198,
-    "occupancy": 25.0,
+    "sold": 77,
+    "available": 187,
+    "occupancy": 29.17,
     "max_gross": 8712.0,
-    "total_gross": 2178.0,
+    "total_gross": 2541.0,
     "price": 33.0,
     "error": false
   }
