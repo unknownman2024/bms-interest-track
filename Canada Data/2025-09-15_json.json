@@ -63,11 +63,11 @@
     "date": "2025-09-15",
     "time": "6:30pm",
     "total": 175,
-    "available": 175,
+    "available": 174,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0.0,
-    "gross_with_tax": 0.0,
+    "sold": 1,
+    "gross": 11.5,
+    "gross_with_tax": 14.25,
     "per_ticket": {
       "net": 11.5,
       "tax": 1.5,
@@ -871,6 +871,120 @@
       "tax": 0.0,
       "fee": 1.0,
       "grand": 11.75
+    }
+  },
+  {
+    "venue": "albion",
+    "movie": "Abir Gulaal - Hindi",
+    "perfIx": "14466",
+    "date": "2025-09-15",
+    "time": "9:15pm",
+    "total": 251,
+    "available": 251,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 10.62,
+      "tax": 1.38,
+      "fee": 1.25,
+      "grand": 13.25
+    }
+  },
+  {
+    "venue": "albion",
+    "movie": "Lokah Chapter: 1- Malayalam",
+    "perfIx": "14463",
+    "date": "2025-09-15",
+    "time": "9:45pm",
+    "total": 408,
+    "available": 408,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.81,
+      "tax": 2.19,
+      "fee": 1.25,
+      "grand": 20.25
+    }
+  },
+  {
+    "venue": "albion",
+    "movie": "Lokah Chapter: 1- Malayalam",
+    "perfIx": "14478",
+    "date": "2025-09-15",
+    "time": "3:15pm",
+    "total": 251,
+    "available": 251,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.81,
+      "tax": 2.19,
+      "fee": 1.25,
+      "grand": 20.25
+    }
+  },
+  {
+    "venue": "albion",
+    "movie": "Madharasi - Tamil",
+    "perfIx": "14470",
+    "date": "2025-09-15",
+    "time": "6:30pm",
+    "total": 408,
+    "available": 408,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.81,
+      "tax": 2.19,
+      "fee": 1.25,
+      "grand": 20.25
+    }
+  },
+  {
+    "venue": "albion",
+    "movie": "Mirai  -Telugu",
+    "perfIx": "14469",
+    "date": "2025-09-15",
+    "time": "3:15pm",
+    "total": 408,
+    "available": 408,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.81,
+      "tax": 2.19,
+      "fee": 1.25,
+      "grand": 20.25
+    }
+  },
+  {
+    "venue": "albion",
+    "movie": "Mirai  -Telugu",
+    "perfIx": "14479",
+    "date": "2025-09-15",
+    "time": "6:00pm",
+    "total": 251,
+    "available": 251,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.81,
+      "tax": 2.19,
+      "fee": 1.25,
+      "grand": 20.25
     }
   }
 ]
