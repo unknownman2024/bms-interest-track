@@ -2123,7 +2123,16 @@
     "max_gross": 1925.0,
     "total_gross": 0.0,
     "price": 25.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
+  },
+  {
+    "id": 517975,
+    "cinemaId": "HIGPNT",
+    "movieId": "HO00010666",
+    "date": "2025-09-24T21:00:00",
+    "screenName": "Cinema 07",
+    "operator": "HIG",
+    "error": true,
+    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   }
 ]

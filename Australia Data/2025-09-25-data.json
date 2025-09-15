@@ -266,8 +266,7 @@
     "max_gross": 2808.0,
     "total_gross": 0.0,
     "price": 19.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 359138,
@@ -465,11 +464,11 @@
     "screenName": "Xtremescreen 7",
     "operator": "SUN",
     "total": 130,
-    "sold": 44,
-    "available": 86,
-    "occupancy": 33.85,
+    "sold": 42,
+    "available": 88,
+    "occupancy": 32.31,
     "max_gross": 3770.0,
-    "total_gross": 1276.0,
+    "total_gross": 1218.0,
     "price": 29.0,
     "error": false
   },
@@ -516,14 +515,13 @@
     "screenName": "Xtremescreen 10",
     "operator": "NOR",
     "total": 232,
-    "sold": 63,
-    "available": 169,
-    "occupancy": 27.16,
+    "sold": 65,
+    "available": 167,
+    "occupancy": 28.02,
     "max_gross": 7656.0,
-    "total_gross": 2079.0,
+    "total_gross": 2145.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 286792,
@@ -591,7 +589,8 @@
     "max_gross": 9900.0,
     "total_gross": 120.0,
     "price": 30.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 78699,
@@ -625,7 +624,8 @@
     "max_gross": 8316.0,
     "total_gross": 2838.0,
     "price": 33.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 272951,
@@ -659,7 +659,8 @@
     "max_gross": 13464.0,
     "total_gross": 6435.0,
     "price": 33.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 43468,
@@ -728,7 +729,8 @@
     "max_gross": 8712.0,
     "total_gross": 2937.0,
     "price": 33.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 429973,
@@ -773,11 +775,11 @@
     "screenName": "Xtremescreen 7",
     "operator": "SUN",
     "total": 130,
-    "sold": 0,
-    "available": 130,
-    "occupancy": 0.0,
+    "sold": 9,
+    "available": 121,
+    "occupancy": 6.92,
     "max_gross": 3770.0,
-    "total_gross": 0.0,
+    "total_gross": 261.0,
     "price": 29.0,
     "error": false
   },
@@ -790,11 +792,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "DOC",
     "total": 408,
-    "sold": 82,
-    "available": 326,
-    "occupancy": 20.1,
+    "sold": 88,
+    "available": 320,
+    "occupancy": 21.57,
     "max_gross": 13464.0,
-    "total_gross": 2706.0,
+    "total_gross": 2904.0,
     "price": 33.0,
     "error": false
   }

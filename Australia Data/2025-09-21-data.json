@@ -8598,5 +8598,15 @@
     "total_gross": 0.0,
     "price": 25.0,
     "error": false
+  },
+  {
+    "id": 517795,
+    "cinemaId": "HIGPNT",
+    "movieId": "HO00010666",
+    "date": "2025-09-21T20:50:00",
+    "screenName": "Cinema 07",
+    "operator": "HIG",
+    "error": true,
+    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   }
 ]
