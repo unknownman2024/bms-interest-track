@@ -10,11 +10,11 @@
     "date": "2025-09-18+21:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 89,
+    "totalSeatSold": 2,
+    "occupancy": 2.25,
+    "totalAvailableSeatCount": 87,
     "totalSeatCount": 89,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 28.98,
     "adultTicketPrice": 14.49
   },
   {
@@ -82,11 +82,11 @@
     "date": "2025-09-18+20:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 2,
-    "occupancy": 2.04,
-    "totalAvailableSeatCount": 96,
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 98,
     "totalSeatCount": 98,
-    "grossRevenueUSD": 21.62,
+    "grossRevenueUSD": 0.0,
     "adultTicketPrice": 10.81
   },
   {
@@ -118,11 +118,11 @@
     "date": "2025-09-18+18:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 50,
-    "occupancy": 47.17,
-    "totalAvailableSeatCount": 56,
+    "totalSeatSold": 51,
+    "occupancy": 48.11,
+    "totalAvailableSeatCount": 55,
     "totalSeatCount": 106,
-    "grossRevenueUSD": 874.5,
+    "grossRevenueUSD": 891.99,
     "adultTicketPrice": 17.49
   },
   {
@@ -139,5 +139,41 @@
     "error": {
       "status": 404
     }
+  },
+  {
+    "state": "GA",
+    "city": "Duluth",
+    "zip": "30097",
+    "theater_name": "Regal Medlock Crossing & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 515969381,
+    "date": "2025-09-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 100,
+    "totalSeatCount": 100,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 18.31
+  },
+  {
+    "state": "WA",
+    "city": "Redmond",
+    "zip": "98052",
+    "theater_name": "Regal Bella Bottega",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 515996562,
+    "date": "2025-09-18+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 123,
+    "totalSeatCount": 123,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 15.74
   }
 ]
