@@ -5393,11 +5393,11 @@
     "screenName": "Cinema 03",
     "operator": "CDS",
     "total": 230,
-    "sold": 0,
-    "available": 230,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 228,
+    "occupancy": 0.87,
     "max_gross": 5980.0,
-    "total_gross": 0.0,
+    "total_gross": 52.0,
     "price": 26.0,
     "error": false
   },
@@ -5416,7 +5416,8 @@
     "max_gross": 2475.0,
     "total_gross": 0.0,
     "price": 25.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 273099,
