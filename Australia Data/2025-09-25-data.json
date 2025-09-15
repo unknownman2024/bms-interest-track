@@ -266,8 +266,7 @@
     "max_gross": 2808.0,
     "total_gross": 0.0,
     "price": 19.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 359138,
@@ -295,11 +294,11 @@
     "screenName": "Xtreme 01",
     "operator": "CAR",
     "total": 326,
-    "sold": 108,
-    "available": 218,
-    "occupancy": 33.13,
+    "sold": 110,
+    "available": 216,
+    "occupancy": 33.74,
     "max_gross": 10106.0,
-    "total_gross": 3348.0,
+    "total_gross": 3410.0,
     "price": 31.0,
     "error": false
   },
@@ -499,14 +498,13 @@
     "screenName": "Xtremescreen 01",
     "operator": "CDS",
     "total": 278,
-    "sold": 101,
-    "available": 177,
-    "occupancy": 36.33,
+    "sold": 117,
+    "available": 161,
+    "occupancy": 42.09,
     "max_gross": 9174.0,
-    "total_gross": 3333.0,
+    "total_gross": 3861.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 409483,
@@ -534,11 +532,11 @@
     "screenName": "Xtremescreen 08",
     "operator": "SLY",
     "total": 184,
-    "sold": 59,
-    "available": 125,
-    "occupancy": 32.07,
+    "sold": 64,
+    "available": 120,
+    "occupancy": 34.78,
     "max_gross": 4232.0,
-    "total_gross": 1357.0,
+    "total_gross": 1472.0,
     "price": 23.0,
     "error": false
   },
@@ -551,11 +549,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "DOC",
     "total": 408,
-    "sold": 193,
-    "available": 215,
-    "occupancy": 47.3,
+    "sold": 196,
+    "available": 212,
+    "occupancy": 48.04,
     "max_gross": 13464.0,
-    "total_gross": 6369.0,
+    "total_gross": 6468.0,
     "price": 33.0,
     "error": false
   },
@@ -591,8 +589,7 @@
     "max_gross": 9900.0,
     "total_gross": 60.0,
     "price": 30.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 78699,
@@ -609,7 +606,8 @@
     "max_gross": 14256.0,
     "total_gross": 1155.0,
     "price": 33.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 274720,
@@ -654,11 +652,11 @@
     "screenName": "Xtremescreen 05",
     "operator": "WES",
     "total": 408,
-    "sold": 188,
-    "available": 220,
-    "occupancy": 46.08,
+    "sold": 193,
+    "available": 215,
+    "occupancy": 47.3,
     "max_gross": 13464.0,
-    "total_gross": 6204.0,
+    "total_gross": 6369.0,
     "price": 33.0,
     "error": false
   },
@@ -694,7 +692,8 @@
     "max_gross": 13464.0,
     "total_gross": 6204.0,
     "price": 33.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 358980,
@@ -722,11 +721,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "WES",
     "total": 264,
-    "sold": 87,
-    "available": 177,
-    "occupancy": 32.95,
+    "sold": 89,
+    "available": 175,
+    "occupancy": 33.71,
     "max_gross": 8712.0,
-    "total_gross": 2871.0,
+    "total_gross": 2937.0,
     "price": 33.0,
     "error": false
   },
@@ -752,10 +751,17 @@
     "cinemaId": "BELCON",
     "movieId": "HO00010652",
     "date": "2025-09-25T21:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 03",
     "operator": "BEL",
-    "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 104,
+    "sold": 3,
+    "available": 101,
+    "occupancy": 2.88,
+    "max_gross": 2860.0,
+    "total_gross": 82.5,
+    "price": 27.5,
+    "error": false
   },
   {
     "id": 249161,
@@ -772,6 +778,17 @@
     "max_gross": 3770.0,
     "total_gross": 0.0,
     "price": 29.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+  },
+  {
+    "id": 141655,
+    "cinemaId": "DOCCIN",
+    "movieId": "HO00010652",
+    "date": "2025-09-25T17:30:00",
+    "screenName": "Xtremescreen 01",
+    "operator": "DOC",
+    "error": true,
+    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   }
 ]

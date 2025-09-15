@@ -858,8 +858,7 @@
     "max_gross": 14280.0,
     "total_gross": 0.0,
     "price": 30.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 517684,
@@ -944,8 +943,7 @@
     "max_gross": 5071.5,
     "total_gross": 1071.0,
     "price": 31.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 378331,
@@ -1082,8 +1080,7 @@
     "max_gross": 4590.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 141395,
@@ -1094,11 +1091,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "DOC",
     "total": 408,
-    "sold": 28,
-    "available": 380,
-    "occupancy": 6.86,
+    "sold": 40,
+    "available": 368,
+    "occupancy": 9.8,
     "max_gross": 13872.0,
-    "total_gross": 952.0,
+    "total_gross": 1360.0,
     "price": 34.0,
     "error": false
   },
@@ -1145,11 +1142,11 @@
     "screenName": "Xtremescreen 05",
     "operator": "BEL",
     "total": 160,
-    "sold": 50,
-    "available": 110,
-    "occupancy": 31.25,
+    "sold": 54,
+    "available": 106,
+    "occupancy": 33.75,
     "max_gross": 5040.0,
-    "total_gross": 1575.0,
+    "total_gross": 1701.0,
     "price": 31.5,
     "error": false
   },
@@ -1213,12 +1210,29 @@
     "screenName": "Xtremescreen 05",
     "operator": "WES",
     "total": 408,
-    "sold": 127,
-    "available": 281,
-    "occupancy": 31.13,
+    "sold": 133,
+    "available": 275,
+    "occupancy": 32.6,
     "max_gross": 13464.0,
-    "total_gross": 4191.0,
+    "total_gross": 4389.0,
     "price": 33.0,
+    "error": false
+  },
+  {
+    "id": 141656,
+    "cinemaId": "DOCCIN",
+    "movieId": "HO00010652",
+    "date": "2025-09-26T17:30:00",
+    "typeId": "XTREME",
+    "screenName": "Xtremescreen 01",
+    "operator": "DOC",
+    "total": 408,
+    "sold": 0,
+    "available": 408,
+    "occupancy": 0.0,
+    "max_gross": 13872.0,
+    "total_gross": 0.0,
+    "price": 34.0,
     "error": false
   }
 ]
