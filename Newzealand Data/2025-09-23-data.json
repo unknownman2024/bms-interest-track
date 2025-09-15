@@ -1216,5 +1216,15 @@
     "price": 30.5,
     "error": false,
     "last_error": "HTTP 403"
+  },
+  {
+    "id": 400735,
+    "cinemaId": "1012",
+    "movieId": "HO00007793",
+    "date": "2025-09-23T12:00:00",
+    "screenName": "HOYTS LUX 03",
+    "operator": "BOTLP",
+    "error": true,
+    "error_msg": "HTTP 403"
   }
 ]
