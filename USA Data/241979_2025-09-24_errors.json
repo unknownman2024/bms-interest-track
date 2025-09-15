@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-16 12:48:26 AM",
+  "last_updated": "2025-09-16 01:17:06 AM",
   "errors": [
     {
       "state": "IL",
@@ -807,6 +807,66 @@
       "date": "2025-09-24+18:00",
       "format": "Standard",
       "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Herndon",
+      "zip": "20170",
+      "theater_name": "AMC Worldgate 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515986642,
+      "date": "2025-09-24+16:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Herndon",
+      "zip": "20170",
+      "theater_name": "AMC Worldgate 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515986641,
+      "date": "2025-09-24+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Lawrenceville",
+      "zip": "30043",
+      "theater_name": "AMC Colonial 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515986283,
+      "date": "2025-09-24+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Lawrenceville",
+      "zip": "30043",
+      "theater_name": "AMC Colonial 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515986284,
+      "date": "2025-09-24+18:00",
+      "format": "Standard",
+      "language": "Unknown",
       "error": {
         "status": 500
       }
