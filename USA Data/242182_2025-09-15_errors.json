@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-15 10:51:53 PM",
+  "last_updated": "2025-09-16 12:03:18 AM",
   "errors": [
     {
       "state": "PA",
@@ -119,6 +119,21 @@
       "language": "Telugu",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75033",
+      "theater_name": "CUT! by Cinemark Frisco - Dine-in Theatre, Kitchen",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515969803,
+      "date": "2025-09-15+11:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
       }
     }
   ]
