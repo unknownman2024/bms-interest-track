@@ -5199,5 +5199,39 @@
     "operator": "SUN",
     "error": true,
     "error_msg": "HTTP 403"
+  },
+  {
+    "id": 313596,
+    "cinemaId": "CHDSTN",
+    "movieId": "HO00010666",
+    "date": "2025-09-18T20:25:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 03",
+    "operator": "CDS",
+    "total": 230,
+    "sold": 0,
+    "available": 230,
+    "occupancy": 0.0,
+    "max_gross": 6440.0,
+    "total_gross": 0.0,
+    "price": 28.0,
+    "error": false
+  },
+  {
+    "id": 141637,
+    "cinemaId": "DOCCIN",
+    "movieId": "HO00010666",
+    "date": "2025-09-18T21:10:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 06",
+    "operator": "DOC",
+    "total": 98,
+    "sold": 0,
+    "available": 98,
+    "occupancy": 0.0,
+    "max_gross": 2744.0,
+    "total_gross": 0.0,
+    "price": 28.0,
+    "error": false
   }
 ]

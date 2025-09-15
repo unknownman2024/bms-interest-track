@@ -8529,5 +8529,32 @@
     "operator": "BMW",
     "error": true,
     "error_msg": "HTTP 403"
+  },
+  {
+    "id": 313667,
+    "cinemaId": "CHDSTN",
+    "movieId": "HO00010666",
+    "date": "2025-09-21T21:00:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 03",
+    "operator": "CDS",
+    "total": 230,
+    "sold": 0,
+    "available": 230,
+    "occupancy": 0.0,
+    "max_gross": 5980.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
+  },
+  {
+    "id": 141457,
+    "cinemaId": "DOCCIN",
+    "movieId": "HO00010666",
+    "date": "2025-09-21T21:10:00",
+    "screenName": "Cinema 06",
+    "operator": "DOC",
+    "error": true,
+    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   }
 ]

@@ -2055,5 +2055,32 @@
     "error": true,
     "error_msg": "HTTP 403",
     "last_error": "HTTP 403"
+  },
+  {
+    "id": 313848,
+    "cinemaId": "CHDSTN",
+    "movieId": "HO00010666",
+    "date": "2025-09-24T21:30:00",
+    "screenName": "Cinema 03",
+    "operator": "CDS",
+    "error": true,
+    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+  },
+  {
+    "id": 141577,
+    "cinemaId": "DOCCIN",
+    "movieId": "HO00010666",
+    "date": "2025-09-24T21:10:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 06",
+    "operator": "DOC",
+    "total": 98,
+    "sold": 0,
+    "available": 98,
+    "occupancy": 0.0,
+    "max_gross": 2548.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   }
 ]
