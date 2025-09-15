@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-15 11:52:53 PM",
+  "last_updated": "2025-09-16 12:53:08 AM",
   "errors": [
     {
       "state": "MA",
@@ -13973,21 +13973,6 @@
       "theater_name": "AMC Southern Hills 12",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 515388549,
-      "date": "2025-09-15+15:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IA",
-      "city": "Sioux City",
-      "zip": "51106",
-      "theater_name": "AMC Southern Hills 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
       "showtime_id": 511626437,
       "date": "2025-09-15+19:00",
       "format": "Standard",
@@ -19082,21 +19067,6 @@
       }
     },
     {
-      "state": "CO",
-      "city": "Centennial",
-      "zip": "80122",
-      "theater_name": "Regal SouthGlenn",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515477789,
-      "date": "2025-09-15+17:10",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "ID",
       "city": "Chubbuck",
       "zip": "83202",
@@ -21777,6 +21747,51 @@
       "date": "2025-09-15+18:30",
       "format": "Standard",
       "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "ME",
+      "city": "Orono",
+      "zip": "04473",
+      "theater_name": "Black Bear Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515972115,
+      "date": "2025-09-15+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Crestwood",
+      "zip": "60148",
+      "theater_name": "AMC Crestwood 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515975262,
+      "date": "2025-09-15+13:00",
+      "format": "Dolby Cinema",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NE",
+      "city": "Omaha",
+      "zip": "68106",
+      "theater_name": "ACX Aksarben Cinema",
+      "chainName": "Main Street Theatres",
+      "chainCode": "MAIN",
+      "showtime_id": 515978893,
+      "date": "2025-09-15+13:30",
+      "format": "Standard",
+      "language": "English",
       "error": {
         "status": 404
       }
