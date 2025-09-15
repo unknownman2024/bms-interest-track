@@ -7,7 +7,8 @@
     "screenName": "METRO 2",
     "operator": "HAM",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 316633,
@@ -17,7 +18,8 @@
     "screenName": "Cinema 2",
     "operator": "RIC",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 400720,
@@ -27,6 +29,7 @@
     "screenName": "Cinema 4",
     "operator": "BOT",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   }
 ]
