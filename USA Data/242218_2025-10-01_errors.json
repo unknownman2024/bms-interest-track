@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-16 01:51:12 AM",
+  "last_updated": "2025-09-16 02:49:27 AM",
   "errors": [
     {
       "state": "GA",
@@ -74,6 +74,36 @@
       "language": "Telugu",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Concord",
+      "zip": "28027",
+      "theater_name": "AMC Concord Mills 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515991268,
+      "date": "2025-10-01+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Concord",
+      "zip": "28027",
+      "theater_name": "AMC Concord Mills 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515991269,
+      "date": "2025-10-01+22:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
       }
     }
   ]
