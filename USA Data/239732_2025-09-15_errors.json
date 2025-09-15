@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-15 01:57:32 PM",
+  "last_updated": "2025-09-15 02:58:09 PM",
   "errors": [
     {
       "state": "MA",
@@ -5129,21 +5129,6 @@
       "language": "Japanese",
       "error": {
         "status": 500
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Charlotte",
-      "zip": "28273",
-      "theater_name": "Ayrsley Grand Cinemas",
-      "chainName": "Southeast Cinemas",
-      "chainCode": "SEC",
-      "showtime_id": 515528347,
-      "date": "2025-09-15+15:30",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -18888,21 +18873,6 @@
     },
     {
       "state": "OK",
-      "city": "Moore",
-      "zip": "73160",
-      "theater_name": "Regal Warren Moore 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511288744,
-      "date": "2025-09-15+22:40",
-      "format": "4DX",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "OK",
       "city": "Norman",
       "zip": "73072",
       "theater_name": "AMC Robinson Crossing 6",
@@ -20734,51 +20704,6 @@
     {
       "state": "TX",
       "city": "San Antonio",
-      "zip": "78238",
-      "theater_name": "Regal Cielo Vista & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511349448,
-      "date": "2025-09-15+18:30",
-      "format": "RPX",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78238",
-      "theater_name": "Regal Cielo Vista & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511349449,
-      "date": "2025-09-15+15:00",
-      "format": "RPX",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78238",
-      "theater_name": "Regal Cielo Vista & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515513419,
-      "date": "2025-09-15+20:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
       "zip": "78230",
       "theater_name": "Santikos Northwest 14",
       "chainName": "Santikos Theaters",
@@ -21108,156 +21033,6 @@
     },
     {
       "state": "TX",
-      "city": "Laredo",
-      "zip": "78045",
-      "theater_name": "Alamo Drafthouse Laredo",
-      "chainName": "Alamo Drafthouse Cinemas",
-      "chainCode": "ALAM",
-      "showtime_id": 515569186,
-      "date": "2025-09-15+21:10",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "New Braunfels",
-      "zip": "78130",
-      "theater_name": "Santikos Entertainment New Braunfels",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 512295114,
-      "date": "2025-09-15+14:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "New Braunfels",
-      "zip": "78130",
-      "theater_name": "Santikos Entertainment New Braunfels",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 512295115,
-      "date": "2025-09-15+17:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "New Braunfels",
-      "zip": "78130",
-      "theater_name": "Santikos Entertainment New Braunfels",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 512295122,
-      "date": "2025-09-15+21:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "New Braunfels",
-      "zip": "78130",
-      "theater_name": "Santikos Entertainment New Braunfels",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 512295117,
-      "date": "2025-09-15+13:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "New Braunfels",
-      "zip": "78130",
-      "theater_name": "Santikos Entertainment New Braunfels",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 515750998,
-      "date": "2025-09-15+13:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "New Braunfels",
-      "zip": "78130",
-      "theater_name": "Santikos Entertainment New Braunfels",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 512295116,
-      "date": "2025-09-15+16:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "New Braunfels",
-      "zip": "78130",
-      "theater_name": "Santikos Entertainment New Braunfels",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 515751006,
-      "date": "2025-09-15+21:15",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "New Braunfels",
-      "zip": "78130",
-      "theater_name": "EVO Cinemas Creekside Town Center",
-      "chainName": "Evo Entertainment",
-      "chainCode": "EVO",
-      "showtime_id": 512398738,
-      "date": "2025-09-15+18:00",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "New Braunfels",
-      "zip": "78130",
-      "theater_name": "EVO Cinemas Creekside Town Center",
-      "chainName": "Evo Entertainment",
-      "chainCode": "EVO",
-      "showtime_id": 512398734,
-      "date": "2025-09-15+18:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
       "city": "New Braunfels",
       "zip": "78130",
       "theater_name": "Stars & Stripes Drive-In - New Braunfels",
@@ -21462,66 +21237,6 @@
       "date": "2025-09-15+21:15",
       "format": "Standard",
       "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Schertz",
-      "zip": "78154",
-      "theater_name": "EVO Entertainment Schertz + EVX",
-      "chainName": "Evo Entertainment",
-      "chainCode": "EVO",
-      "showtime_id": 512248720,
-      "date": "2025-09-15+09:15",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Schertz",
-      "zip": "78154",
-      "theater_name": "EVO Entertainment Schertz + EVX",
-      "chainName": "Evo Entertainment",
-      "chainCode": "EVO",
-      "showtime_id": 512248708,
-      "date": "2025-09-15+12:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Schertz",
-      "zip": "78154",
-      "theater_name": "EVO Entertainment Schertz + EVX",
-      "chainName": "Evo Entertainment",
-      "chainCode": "EVO",
-      "showtime_id": 512248738,
-      "date": "2025-09-15+11:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Schertz",
-      "zip": "78154",
-      "theater_name": "EVO Entertainment Schertz + EVX",
-      "chainName": "Evo Entertainment",
-      "chainCode": "EVO",
-      "showtime_id": 515328062,
-      "date": "2025-09-15+21:30",
-      "format": "Standard",
-      "language": "Unknown",
       "error": {
         "status": 500
       }
@@ -21764,291 +21479,6 @@
       "language": "English",
       "error": {
         "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78209",
-      "theater_name": "Regal Alamo Quarry",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515434339,
-      "date": "2025-09-15+12:05",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78209",
-      "theater_name": "Regal Alamo Quarry",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515434346,
-      "date": "2025-09-15+13:50",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78209",
-      "theater_name": "Regal Alamo Quarry",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511343906,
-      "date": "2025-09-15+15:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78209",
-      "theater_name": "Regal Alamo Quarry",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515434350,
-      "date": "2025-09-15+16:25",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78209",
-      "theater_name": "Regal Alamo Quarry",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515434338,
-      "date": "2025-09-15+18:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78209",
-      "theater_name": "Regal Alamo Quarry",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515434348,
-      "date": "2025-09-15+21:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78209",
-      "theater_name": "Regal Alamo Quarry",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515434337,
-      "date": "2025-09-15+21:55",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78209",
-      "theater_name": "Regal Alamo Quarry",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511343905,
-      "date": "2025-09-15+11:40",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78218",
-      "theater_name": "Santikos Galaxy",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 512291870,
-      "date": "2025-09-15+14:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78218",
-      "theater_name": "Santikos Galaxy",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 512291868,
-      "date": "2025-09-15+17:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78218",
-      "theater_name": "Santikos Galaxy",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 515782897,
-      "date": "2025-09-15+17:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78218",
-      "theater_name": "Santikos Galaxy",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 512291867,
-      "date": "2025-09-15+20:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78218",
-      "theater_name": "Santikos Galaxy",
-      "chainName": "Santikos Theaters",
-      "chainCode": "STKO",
-      "showtime_id": 515782898,
-      "date": "2025-09-15+20:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Live Oak",
-      "zip": "78233",
-      "theater_name": "Regal Live Oak & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511308701,
-      "date": "2025-09-15+19:00",
-      "format": "IMAX",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Live Oak",
-      "zip": "78233",
-      "theater_name": "Regal Live Oak & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511308702,
-      "date": "2025-09-15+15:30",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Live Oak",
-      "zip": "78233",
-      "theater_name": "Regal Live Oak & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515573959,
-      "date": "2025-09-15+13:30",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Live Oak",
-      "zip": "78233",
-      "theater_name": "Regal Live Oak & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515573954,
-      "date": "2025-09-15+16:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Live Oak",
-      "zip": "78233",
-      "theater_name": "Regal Live Oak & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511308751,
-      "date": "2025-09-15+16:30",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Live Oak",
-      "zip": "78233",
-      "theater_name": "Regal Live Oak & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511308752,
-      "date": "2025-09-15+20:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -22409,81 +21839,6 @@
       "language": "English",
       "error": {
         "status": 500
-      }
-    },
-    {
-      "state": "CO",
-      "city": "Colorado Springs",
-      "zip": "80907",
-      "theater_name": "Roadhouse Cinemas - Colorado Springs",
-      "chainName": "RoadHouse Cinemas",
-      "chainCode": "ROAD",
-      "showtime_id": 515464277,
-      "date": "2025-09-15+13:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CO",
-      "city": "Colorado Springs",
-      "zip": "80907",
-      "theater_name": "Roadhouse Cinemas - Colorado Springs",
-      "chainName": "RoadHouse Cinemas",
-      "chainCode": "ROAD",
-      "showtime_id": 515464252,
-      "date": "2025-09-15+20:25",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CO",
-      "city": "Colorado Springs",
-      "zip": "80907",
-      "theater_name": "Roadhouse Cinemas - Colorado Springs",
-      "chainName": "RoadHouse Cinemas",
-      "chainCode": "ROAD",
-      "showtime_id": 515464257,
-      "date": "2025-09-15+11:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CO",
-      "city": "Colorado Springs",
-      "zip": "80907",
-      "theater_name": "Roadhouse Cinemas - Colorado Springs",
-      "chainName": "RoadHouse Cinemas",
-      "chainCode": "ROAD",
-      "showtime_id": 515464258,
-      "date": "2025-09-15+14:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CO",
-      "city": "Colorado Springs",
-      "zip": "80907",
-      "theater_name": "Roadhouse Cinemas - Colorado Springs",
-      "chainName": "RoadHouse Cinemas",
-      "chainCode": "ROAD",
-      "showtime_id": 515464259,
-      "date": "2025-09-15+18:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -25317,6 +24672,36 @@
       "date": "2025-09-15+19:15",
       "format": "Standard",
       "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NE",
+      "city": "McCook",
+      "zip": "69001",
+      "theater_name": "Carver Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515602473,
+      "date": "2025-09-15+15:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NE",
+      "city": "McCook",
+      "zip": "69001",
+      "theater_name": "Carver Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515602475,
+      "date": "2025-09-15+18:30",
+      "format": "Standard",
+      "language": "English",
       "error": {
         "status": 400
       }
