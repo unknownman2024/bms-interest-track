@@ -5416,8 +5416,7 @@
     "max_gross": 2475.0,
     "total_gross": 0.0,
     "price": 25.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 273099,
@@ -5451,6 +5450,23 @@
     "max_gross": 4368.0,
     "total_gross": 0.0,
     "price": 26.0,
+    "error": false
+  },
+  {
+    "id": 287256,
+    "cinemaId": "SLYCIN",
+    "movieId": "HO00010666",
+    "date": "2025-09-19T20:30:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 03",
+    "operator": "SLY",
+    "total": 96,
+    "sold": 0,
+    "available": 96,
+    "occupancy": 0.0,
+    "max_gross": 1824.0,
+    "total_gross": 0.0,
+    "price": 19.0,
     "error": false
   }
 ]
