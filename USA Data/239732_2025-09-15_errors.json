@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-16 03:45:14 AM",
+  "last_updated": "2025-09-16 04:45:59 AM",
   "errors": [
     {
       "state": "MA",
@@ -18428,21 +18428,6 @@
       "theater_name": "Bryan Premiere LUX Cine 15 IMAX & Pizza Pub",
       "chainName": "Premiere Cinemas",
       "chainCode": "PRCM",
-      "showtime_id": 515814051,
-      "date": "2025-09-15+22:30",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Bryan",
-      "zip": "77808",
-      "theater_name": "Bryan Premiere LUX Cine 15 IMAX & Pizza Pub",
-      "chainName": "Premiere Cinemas",
-      "chainCode": "PRCM",
       "showtime_id": 515814057,
       "date": "2025-09-15+12:00",
       "format": "IMAX",
@@ -21704,6 +21689,36 @@
       "language": "Japanese",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Lake Elsinore",
+      "zip": "92530",
+      "theater_name": "UEC Theatres Diamond 8",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 516038216,
+      "date": "2025-09-15+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Lake Elsinore",
+      "zip": "92530",
+      "theater_name": "UEC Theatres Diamond 8",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 516038217,
+      "date": "2025-09-15+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
       }
     }
   ]
