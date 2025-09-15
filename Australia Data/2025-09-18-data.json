@@ -5277,11 +5277,11 @@
     "screenName": "Cinema 10",
     "operator": "HIG",
     "total": 168,
-    "sold": 0,
-    "available": 168,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 166,
+    "occupancy": 1.19,
     "max_gross": 4704.0,
-    "total_gross": 0.0,
+    "total_gross": 56.0,
     "price": 28.0,
     "error": false
   },
@@ -5358,10 +5358,16 @@
     "cinemaId": "SUNBNK",
     "movieId": "HO00010666",
     "date": "2025-09-18T21:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 08",
     "operator": "SUN",
-    "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte",
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 96,
+    "sold": 0,
+    "available": 96,
+    "occupancy": 0.0,
+    "max_gross": 2400.0,
+    "total_gross": 0.0,
+    "price": 25.0,
+    "error": false
   }
 ]
