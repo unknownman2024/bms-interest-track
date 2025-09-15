@@ -659,5 +659,32 @@
     "total_gross": 0.0,
     "price": 26.0,
     "error": false
+  },
+  {
+    "id": 318751,
+    "cinemaId": "MTDRTT",
+    "movieId": "HO00010666",
+    "date": "2025-09-22T21:15:00",
+    "screenName": "Cinema 02",
+    "operator": "MTD",
+    "error": true,
+    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+  },
+  {
+    "id": 273142,
+    "cinemaId": "SOUTHL",
+    "movieId": "HO00010666",
+    "date": "2025-09-22T20:30:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 07",
+    "operator": "SOU",
+    "total": 77,
+    "sold": 0,
+    "available": 77,
+    "occupancy": 0.0,
+    "max_gross": 1925.0,
+    "total_gross": 0.0,
+    "price": 25.0,
+    "error": false
   }
 ]

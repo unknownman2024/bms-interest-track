@@ -962,5 +962,39 @@
     "total_gross": 0.0,
     "price": 26.0,
     "error": false
+  },
+  {
+    "id": 318793,
+    "cinemaId": "MTDRTT",
+    "movieId": "HO00010666",
+    "date": "2025-09-23T21:15:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 02",
+    "operator": "MTD",
+    "total": 99,
+    "sold": 0,
+    "available": 99,
+    "occupancy": 0.0,
+    "max_gross": 2475.0,
+    "total_gross": 0.0,
+    "price": 25.0,
+    "error": false
+  },
+  {
+    "id": 273181,
+    "cinemaId": "SOUTHL",
+    "movieId": "HO00010666",
+    "date": "2025-09-23T20:30:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 07",
+    "operator": "SOU",
+    "total": 77,
+    "sold": 0,
+    "available": 77,
+    "occupancy": 0.0,
+    "max_gross": 1925.0,
+    "total_gross": 0.0,
+    "price": 25.0,
+    "error": false
   }
 ]

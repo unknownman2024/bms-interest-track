@@ -351,8 +351,7 @@
     "max_gross": 8277.0,
     "total_gross": 775.0,
     "price": 31.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 429527,
@@ -455,7 +454,8 @@
     "max_gross": 6336.0,
     "total_gross": 64.0,
     "price": 32.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 248861,
@@ -540,7 +540,8 @@
     "max_gross": 4232.0,
     "total_gross": 1472.0,
     "price": 23.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 141394,
@@ -654,11 +655,11 @@
     "screenName": "Xtremescreen 05",
     "operator": "WES",
     "total": 408,
-    "sold": 193,
-    "available": 215,
-    "occupancy": 47.3,
+    "sold": 191,
+    "available": 217,
+    "occupancy": 46.81,
     "max_gross": 13464.0,
-    "total_gross": 6369.0,
+    "total_gross": 6303.0,
     "price": 33.0,
     "error": false
   },
@@ -705,11 +706,11 @@
     "screenName": "Cinema 06",
     "operator": "WES",
     "total": 242,
-    "sold": 61,
-    "available": 181,
-    "occupancy": 25.21,
+    "sold": 63,
+    "available": 179,
+    "occupancy": 26.03,
     "max_gross": 6776.0,
-    "total_gross": 1708.0,
+    "total_gross": 1764.0,
     "price": 28.0,
     "error": false
   },
@@ -728,7 +729,8 @@
     "max_gross": 8712.0,
     "total_gross": 2937.0,
     "price": 33.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 429973,
@@ -790,11 +792,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "DOC",
     "total": 408,
-    "sold": 66,
-    "available": 342,
-    "occupancy": 16.18,
+    "sold": 70,
+    "available": 338,
+    "occupancy": 17.16,
     "max_gross": 13464.0,
-    "total_gross": 2178.0,
+    "total_gross": 2310.0,
     "price": 33.0,
     "error": false
   }

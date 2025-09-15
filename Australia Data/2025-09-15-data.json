@@ -1826,14 +1826,13 @@
     "screenName": "Cinema 01",
     "operator": "SUN",
     "total": 96,
-    "sold": 27,
-    "available": 69,
-    "occupancy": 28.12,
+    "sold": 31,
+    "available": 65,
+    "occupancy": 32.29,
     "max_gross": 2400.0,
-    "total_gross": 675.0,
+    "total_gross": 775.0,
     "price": 25.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 41678,
@@ -10809,7 +10808,8 @@
     "max_gross": 5040.0,
     "total_gross": 672.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 517464,
@@ -13848,7 +13848,8 @@
     "max_gross": 7616.0,
     "total_gross": 85.0,
     "price": 17.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 245337,
@@ -16469,11 +16470,11 @@
     "screenName": "Cinema 08",
     "operator": "CDS",
     "total": 200,
-    "sold": 64,
-    "available": 136,
-    "occupancy": 32.0,
+    "sold": 66,
+    "available": 134,
+    "occupancy": 33.0,
     "max_gross": 5600.0,
-    "total_gross": 1792.0,
+    "total_gross": 1848.0,
     "price": 28.0,
     "error": false
   },
@@ -30097,8 +30098,7 @@
     "max_gross": 3920.0,
     "total_gross": 588.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 272823,
@@ -34003,7 +34003,8 @@
     "max_gross": 2310.0,
     "total_gross": 962.5,
     "price": 27.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 312203,
@@ -36228,11 +36229,11 @@
     "screenName": "Cinema 07",
     "operator": "MTD",
     "total": 90,
-    "sold": 4,
-    "available": 86,
-    "occupancy": 4.44,
+    "sold": 7,
+    "available": 83,
+    "occupancy": 7.78,
     "max_gross": 2430.0,
-    "total_gross": 108.0,
+    "total_gross": 189.0,
     "price": 27.0,
     "error": false
   },
@@ -36262,11 +36263,11 @@
     "screenName": "Cinema 01",
     "operator": "TAY",
     "total": 160,
-    "sold": 0,
-    "available": 160,
-    "occupancy": 0.0,
+    "sold": 12,
+    "available": 148,
+    "occupancy": 7.5,
     "max_gross": 4480.0,
-    "total_gross": 0.0,
+    "total_gross": 336.0,
     "price": 28.0,
     "error": false
   }
