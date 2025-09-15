@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-15 10:52:38 AM",
+  "last_updated": "2025-09-15 12:04:58 PM",
   "errors": [
     {
       "state": "PA",
@@ -207,6 +207,36 @@
       "date": "2025-09-14+12:45",
       "format": "Standard",
       "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Fairfax",
+      "zip": "22030",
+      "theater_name": "Cinemark Fairfax Corner and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515961759,
+      "date": "2025-09-14+20:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75093",
+      "theater_name": "Cinemark West Plano and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515961947,
+      "date": "2025-09-14+22:25",
+      "format": "Standard",
+      "language": "Telugu",
       "error": {
         "status": 404
       }
