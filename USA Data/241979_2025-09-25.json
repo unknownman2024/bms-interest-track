@@ -6970,11 +6970,11 @@
     "date": "2025-09-25+20:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 9,
-    "occupancy": 12.16,
-    "totalAvailableSeatCount": 65,
+    "totalSeatSold": 11,
+    "occupancy": 14.86,
+    "totalAvailableSeatCount": 63,
     "totalSeatCount": 74,
-    "grossRevenueUSD": 189.0,
+    "grossRevenueUSD": 231.0,
     "adultTicketPrice": 21.0
   },
   {
@@ -8341,11 +8341,11 @@
     "date": "2025-09-25+21:55",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 23,
-    "occupancy": 23.47,
-    "totalAvailableSeatCount": 75,
+    "totalSeatSold": 26,
+    "occupancy": 26.53,
+    "totalAvailableSeatCount": 72,
     "totalSeatCount": 98,
-    "grossRevenueUSD": 483.0,
+    "grossRevenueUSD": 546.0,
     "adultTicketPrice": 21.0
   },
   {
@@ -9601,11 +9601,11 @@
     "date": "2025-09-25+18:20",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 11,
-    "occupancy": 14.47,
-    "totalAvailableSeatCount": 65,
+    "totalSeatSold": 13,
+    "occupancy": 17.11,
+    "totalAvailableSeatCount": 63,
     "totalSeatCount": 76,
-    "grossRevenueUSD": 220.0,
+    "grossRevenueUSD": 260.0,
     "adultTicketPrice": 20.0
   },
   {
@@ -10717,11 +10717,11 @@
     "date": "2025-09-25+20:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 92,
+    "totalSeatSold": 1,
+    "occupancy": 1.09,
+    "totalAvailableSeatCount": 91,
     "totalSeatCount": 92,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 20.6,
     "adultTicketPrice": 20.6
   },
   {
@@ -13057,5 +13057,20 @@
     "totalSeatCount": 94,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 18.0
+  },
+  {
+    "state": "KS",
+    "city": "Wichita",
+    "zip": "67226",
+    "theater_name": "AMC Northrock 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 515962111,
+    "date": "2025-09-25+18:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 500
+    }
   }
 ]
