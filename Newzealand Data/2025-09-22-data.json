@@ -1165,7 +1165,8 @@
     "screenName": "Cinema 4",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195158,
@@ -1175,7 +1176,8 @@
     "screenName": "Cinema 1",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195159,
@@ -1185,7 +1187,8 @@
     "screenName": "Cinema 4",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195150,
@@ -1195,7 +1198,8 @@
     "screenName": "Cinema 5",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195162,
@@ -1205,7 +1209,8 @@
     "screenName": "Cinema 2",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195163,
@@ -1215,7 +1220,8 @@
     "screenName": "Cinema 5",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195149,
@@ -1225,7 +1231,8 @@
     "screenName": "Cinema 1",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195155,
@@ -1235,7 +1242,8 @@
     "screenName": "Cinema 1",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195147,
@@ -1245,7 +1253,8 @@
     "screenName": "Cinema 5",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195161,
@@ -1255,7 +1264,8 @@
     "screenName": "Cinema 2",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195151,
@@ -1265,7 +1275,8 @@
     "screenName": "Cinema 5",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195152,
@@ -1275,7 +1286,8 @@
     "screenName": "Cinema 2",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195160,
@@ -1285,7 +1297,8 @@
     "screenName": "Cinema 1",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195154,
@@ -1295,7 +1308,8 @@
     "screenName": "Cinema 5",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195148,
@@ -1305,7 +1319,8 @@
     "screenName": "Cinema 2",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195153,
@@ -1315,7 +1330,8 @@
     "screenName": "Cinema 4",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195157,
@@ -1324,6 +1340,27 @@
     "date": "2025-09-22T19:40:00",
     "screenName": "Cinema 2",
     "operator": "HIB",
+    "error": true,
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
+  },
+  {
+    "id": 68637,
+    "cinemaId": "ORMCIN",
+    "movieId": "HO00008179",
+    "date": "2025-09-22T20:30:00",
+    "screenName": "Xtremescreen 01",
+    "operator": "ORM",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 68651,
+    "cinemaId": "ORMCIN",
+    "movieId": "HO00008179",
+    "date": "2025-09-22T17:20:00",
+    "screenName": "Cinema 05",
+    "operator": "ORM",
     "error": true,
     "error_msg": "HTTP 403"
   }

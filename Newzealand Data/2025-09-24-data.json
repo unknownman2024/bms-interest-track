@@ -1531,7 +1531,8 @@
     "screenName": "Cinema 2",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195192,
@@ -1541,7 +1542,8 @@
     "screenName": "Cinema 2",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195186,
@@ -1551,7 +1553,8 @@
     "screenName": "Cinema 1",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195185,
@@ -1561,7 +1564,8 @@
     "screenName": "Cinema 4",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195184,
@@ -1571,7 +1575,8 @@
     "screenName": "Cinema 1",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195197,
@@ -1581,7 +1586,8 @@
     "screenName": "Cinema 5",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195191,
@@ -1591,7 +1597,8 @@
     "screenName": "Cinema 4",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195181,
@@ -1601,7 +1608,8 @@
     "screenName": "Cinema 5",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195195,
@@ -1611,7 +1619,8 @@
     "screenName": "Cinema 1",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195182,
@@ -1621,7 +1630,8 @@
     "screenName": "Cinema 2",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195188,
@@ -1631,7 +1641,8 @@
     "screenName": "Cinema 4",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195189,
@@ -1641,7 +1652,8 @@
     "screenName": "Cinema 1",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195187,
@@ -1651,7 +1663,8 @@
     "screenName": "Cinema 3",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195193,
@@ -1661,7 +1674,8 @@
     "screenName": "Cinema 5",
     "operator": "HIB",
     "error": true,
-    "error_msg": "HTTP 403"
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
   },
   {
     "id": 195194,
@@ -1670,6 +1684,27 @@
     "date": "2025-09-24T10:00:00",
     "screenName": "Cinema 5",
     "operator": "HIB",
+    "error": true,
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
+  },
+  {
+    "id": 68709,
+    "cinemaId": "ORMCIN",
+    "movieId": "HO00008179",
+    "date": "2025-09-24T20:30:00",
+    "screenName": "Xtremescreen 01",
+    "operator": "ORM",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 68276,
+    "cinemaId": "ORMCIN",
+    "movieId": "HO00007822",
+    "date": "2025-09-24T19:30:00",
+    "screenName": "Cinema 05",
+    "operator": "ORM",
     "error": true,
     "error_msg": "HTTP 403"
   }
