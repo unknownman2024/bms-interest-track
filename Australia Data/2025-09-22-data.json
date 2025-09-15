@@ -641,7 +641,8 @@
     "max_gross": 5980.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 141498,
@@ -658,8 +659,7 @@
     "max_gross": 2548.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 318751,
@@ -693,8 +693,7 @@
     "max_gross": 1925.0,
     "total_gross": 0.0,
     "price": 25.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 517857,
@@ -753,10 +752,17 @@
     "cinemaId": "DOCCIN",
     "movieId": "HO00010700",
     "date": "2025-09-22T21:40:00",
+    "typeId": "XTREME",
     "screenName": "Xtremescreen 01",
     "operator": "DOC",
-    "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 408,
+    "sold": 0,
+    "available": 408,
+    "occupancy": 0.0,
+    "max_gross": 13464.0,
+    "total_gross": 0.0,
+    "price": 33.0,
+    "error": false
   },
   {
     "id": 78790,
@@ -766,37 +772,59 @@
     "screenName": "Cinema 03",
     "operator": "KYP",
     "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte",
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 318753,
     "cinemaId": "MTDRTT",
     "movieId": "HO00010700",
     "date": "2025-09-22T21:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 04",
     "operator": "MTD",
-    "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 200,
+    "sold": 0,
+    "available": 200,
+    "occupancy": 0.0,
+    "max_gross": 5400.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 43576,
     "cinemaId": "MIDCIN",
     "movieId": "HO00010700",
     "date": "2025-09-22T21:10:00",
+    "typeId": "XTREME",
     "screenName": "Xtremescreen 03",
     "operator": "MID",
-    "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 200,
+    "sold": 0,
+    "available": 200,
+    "occupancy": 0.0,
+    "max_gross": 5700.0,
+    "total_gross": 0.0,
+    "price": 28.5,
+    "error": false
   },
   {
     "id": 245649,
     "cinemaId": "BMWCIN",
     "movieId": "HO00010700",
     "date": "2025-09-22T21:00:00",
+    "typeId": "XTREME",
     "screenName": "Xtremescreen 01",
     "operator": "BMW",
-    "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 134,
+    "sold": 0,
+    "available": 134,
+    "occupancy": 0.0,
+    "max_gross": 3886.0,
+    "total_gross": 0.0,
+    "price": 29.0,
+    "error": false
   },
   {
     "id": 141489,
@@ -905,10 +933,17 @@
     "cinemaId": "TAYLOR",
     "movieId": "HO00010700",
     "date": "2025-09-22T20:45:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 05",
     "operator": "TAY",
-    "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 190,
+    "sold": 0,
+    "available": 190,
+    "occupancy": 0.0,
+    "max_gross": 5320.0,
+    "total_gross": 0.0,
+    "price": 28.0,
+    "error": false
   },
   {
     "id": 275100,
@@ -925,7 +960,8 @@
     "max_gross": 4160.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 378726,
@@ -959,7 +995,8 @@
     "max_gross": 3454.5,
     "total_gross": 0.0,
     "price": 23.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 429961,
@@ -1044,7 +1081,8 @@
     "max_gross": 5292.0,
     "total_gross": 63.0,
     "price": 31.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 500920,
@@ -1068,10 +1106,17 @@
     "cinemaId": "PENRTH",
     "movieId": "HO00010700",
     "date": "2025-09-22T20:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 08",
     "operator": "PEN",
-    "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 396,
+    "sold": 0,
+    "available": 396,
+    "occupancy": 0.0,
+    "max_gross": 9900.0,
+    "total_gross": 0.0,
+    "price": 25.0,
+    "error": false
   },
   {
     "id": 313917,
@@ -1112,20 +1157,34 @@
     "cinemaId": "ARNCIN",
     "movieId": "HO00010700",
     "date": "2025-09-22T14:00:00",
+    "typeId": "XTREME",
     "screenName": "Xtremescreen 06",
     "operator": "ARN",
-    "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 629,
+    "sold": 0,
+    "available": 629,
+    "occupancy": 0.0,
+    "max_gross": 11951.0,
+    "total_gross": 0.0,
+    "price": 19.0,
+    "error": false
   },
   {
     "id": 287315,
     "cinemaId": "SLYCIN",
     "movieId": "HO00010700",
     "date": "2025-09-22T15:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 02",
     "operator": "SLY",
-    "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 96,
+    "sold": 0,
+    "available": 96,
+    "occupancy": 0.0,
+    "max_gross": 2016.0,
+    "total_gross": 0.0,
+    "price": 21.0,
+    "error": false
   },
   {
     "id": 73750,
@@ -1194,5 +1253,42 @@
     "total_gross": 0.0,
     "price": 21.0,
     "error": false
+  },
+  {
+    "id": 422221,
+    "cinemaId": "EASTLN",
+    "movieId": "HO00010700",
+    "date": "2025-09-22T20:45:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 06",
+    "operator": "EAS",
+    "total": 147,
+    "sold": 0,
+    "available": 147,
+    "occupancy": 0.0,
+    "max_gross": 4116.0,
+    "total_gross": 0.0,
+    "price": 28.0,
+    "error": false
+  },
+  {
+    "id": 249059,
+    "cinemaId": "SUNBNK",
+    "movieId": "HO00010700",
+    "date": "2025-09-22T21:15:00",
+    "screenName": "Cinema 01",
+    "operator": "SUN",
+    "error": true,
+    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+  },
+  {
+    "id": 331409,
+    "cinemaId": "BANKTN",
+    "movieId": "HO00010700",
+    "date": "2025-09-22T20:45:00",
+    "screenName": "Cinema 04",
+    "operator": "BAN",
+    "error": true,
+    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   }
 ]

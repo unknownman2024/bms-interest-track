@@ -2180,10 +2180,17 @@
     "cinemaId": "CHDSTN",
     "movieId": "HO00010700",
     "date": "2025-09-24T21:30:00",
+    "typeId": "XTREME",
     "screenName": "Xtremescreen 01",
     "operator": "CDS",
-    "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 278,
+    "sold": 0,
+    "available": 278,
+    "occupancy": 0.0,
+    "max_gross": 9174.0,
+    "total_gross": 0.0,
+    "price": 33.0,
+    "error": false
   },
   {
     "id": 333582,
@@ -2302,7 +2309,8 @@
     "max_gross": 2450.0,
     "total_gross": 0.0,
     "price": 25.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 213308,
@@ -2404,7 +2412,8 @@
     "max_gross": 3948.0,
     "total_gross": 0.0,
     "price": 23.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 409745,
@@ -2499,7 +2508,8 @@
     "max_gross": 11951.0,
     "total_gross": 0.0,
     "price": 19.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 312582,
@@ -2533,7 +2543,8 @@
     "max_gross": 11951.0,
     "total_gross": 0.0,
     "price": 19.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 73713,
@@ -2594,6 +2605,58 @@
     "screenName": "Cinema 04",
     "operator": "BMW",
     "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte",
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+  },
+  {
+    "id": 422338,
+    "cinemaId": "EASTLN",
+    "movieId": "HO00010700",
+    "date": "2025-09-24T20:45:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 06",
+    "operator": "EAS",
+    "total": 147,
+    "sold": 0,
+    "available": 147,
+    "occupancy": 0.0,
+    "max_gross": 4116.0,
+    "total_gross": 0.0,
+    "price": 28.0,
+    "error": false
+  },
+  {
+    "id": 249097,
+    "cinemaId": "SUNBNK",
+    "movieId": "HO00010700",
+    "date": "2025-09-24T21:15:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 01",
+    "operator": "SUN",
+    "total": 96,
+    "sold": 0,
+    "available": 96,
+    "occupancy": 0.0,
+    "max_gross": 2400.0,
+    "total_gross": 0.0,
+    "price": 25.0,
+    "error": false
+  },
+  {
+    "id": 331440,
+    "cinemaId": "BANKTN",
+    "movieId": "HO00010700",
+    "date": "2025-09-24T20:45:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 04",
+    "operator": "BAN",
+    "total": 85,
+    "sold": 0,
+    "available": 85,
+    "occupancy": 0.0,
+    "max_gross": 2295.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   }
 ]
