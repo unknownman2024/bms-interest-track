@@ -3907,14 +3907,13 @@
     "screenName": "Cinema 07",
     "operator": "WES",
     "total": 225,
-    "sold": 76,
-    "available": 149,
-    "occupancy": 33.78,
+    "sold": 78,
+    "available": 147,
+    "occupancy": 34.67,
     "max_gross": 6300.0,
-    "total_gross": 2128.0,
+    "total_gross": 2184.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 358482,
@@ -4327,7 +4326,8 @@
     "max_gross": 6300.0,
     "total_gross": 196.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 301627,
@@ -9167,8 +9167,7 @@
     "max_gross": 6500.0,
     "total_gross": 100.0,
     "price": 25.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 517527,
@@ -17282,8 +17281,7 @@
     "max_gross": 7616.0,
     "total_gross": 119.0,
     "price": 17.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 41719,
@@ -21098,7 +21096,8 @@
     "max_gross": 5600.0,
     "total_gross": 504.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 41484,
@@ -36051,8 +36050,7 @@
     "max_gross": 2496.0,
     "total_gross": 156.0,
     "price": 19.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 312243,
@@ -36339,7 +36337,8 @@
     "max_gross": 5880.0,
     "total_gross": 1176.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 121565,
