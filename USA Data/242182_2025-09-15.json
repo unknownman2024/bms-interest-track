@@ -1246,11 +1246,11 @@
     "date": "2025-09-15+15:55",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 1,
-    "occupancy": 2.04,
-    "totalAvailableSeatCount": 48,
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 49,
     "totalSeatCount": 49,
-    "grossRevenueUSD": 16.0,
+    "grossRevenueUSD": 0.0,
     "adultTicketPrice": 16.0
   },
   {
@@ -7573,11 +7573,11 @@
     "date": "2025-09-15+10:50",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 50,
+    "totalSeatSold": 1,
+    "occupancy": 2.0,
+    "totalAvailableSeatCount": 49,
     "totalSeatCount": 50,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 13.99,
     "adultTicketPrice": 13.99
   },
   {
@@ -8527,11 +8527,11 @@
     "date": "2025-09-15+18:15",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 11,
-    "occupancy": 8.59,
-    "totalAvailableSeatCount": 117,
+    "totalSeatSold": 13,
+    "occupancy": 10.16,
+    "totalAvailableSeatCount": 115,
     "totalSeatCount": 128,
-    "grossRevenueUSD": 192.61,
+    "grossRevenueUSD": 227.63,
     "adultTicketPrice": 17.51
   },
   {
@@ -8635,11 +8635,11 @@
     "date": "2025-09-15+14:35",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 98,
+    "totalSeatSold": 3,
+    "occupancy": 3.06,
+    "totalAvailableSeatCount": 95,
     "totalSeatCount": 98,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 53.55,
     "adultTicketPrice": 17.85
   },
   {
@@ -8671,11 +8671,11 @@
     "date": "2025-09-15+21:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 5,
-    "occupancy": 5.1,
-    "totalAvailableSeatCount": 93,
+    "totalSeatSold": 7,
+    "occupancy": 7.14,
+    "totalAvailableSeatCount": 91,
     "totalSeatCount": 98,
-    "grossRevenueUSD": 89.25,
+    "grossRevenueUSD": 124.95,
     "adultTicketPrice": 17.85
   },
   {
@@ -8692,5 +8692,23 @@
     "error": {
       "status": 400
     }
+  },
+  {
+    "state": "CA",
+    "city": "Norwalk",
+    "zip": "90650",
+    "theater_name": "AMC Norwalk 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 515718919,
+    "date": "2025-09-15+21:50",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 41,
+    "totalSeatCount": 41,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 17.0
   }
 ]
