@@ -322,5 +322,15 @@
     "price": 29.0,
     "error": false,
     "last_error": "HTTP 403"
+  },
+  {
+    "id": 316632,
+    "cinemaId": "1005",
+    "movieId": "HO00008173",
+    "date": "2025-10-25T19:30:00",
+    "screenName": "Cinema 2",
+    "operator": "RIC",
+    "error": true,
+    "error_msg": "HTTP 403"
   }
 ]
