@@ -2224,7 +2224,8 @@
     "max_gross": 2744.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 141581,
@@ -2292,7 +2293,8 @@
     "max_gross": 4480.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 301964,
@@ -2309,8 +2311,7 @@
     "max_gross": 2450.0,
     "total_gross": 0.0,
     "price": 25.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 213308,
@@ -2378,7 +2379,8 @@
     "max_gross": 3978.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 429963,
@@ -2412,8 +2414,7 @@
     "max_gross": 3948.0,
     "total_gross": 0.0,
     "price": 23.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 409745,
@@ -2471,10 +2472,17 @@
     "cinemaId": "CAROUS",
     "movieId": "HO00010700",
     "date": "2025-09-24T21:20:00",
+    "typeId": "XTREME",
     "screenName": "Xtreme 09",
     "operator": "CAR",
-    "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 216,
+    "sold": 0,
+    "available": 216,
+    "occupancy": 0.0,
+    "max_gross": 6696.0,
+    "total_gross": 0.0,
+    "price": 31.0,
+    "error": false
   },
   {
     "id": 359331,
@@ -2508,8 +2516,7 @@
     "max_gross": 11951.0,
     "total_gross": 0.0,
     "price": 19.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 312582,
@@ -2543,8 +2550,7 @@
     "max_gross": 11951.0,
     "total_gross": 0.0,
     "price": 19.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 73713,
@@ -2561,7 +2567,8 @@
     "max_gross": 12996.0,
     "total_gross": 0.0,
     "price": 19.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 287367,
@@ -2602,11 +2609,17 @@
     "cinemaId": "BMWCIN",
     "movieId": "HO00010700",
     "date": "2025-09-24T21:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 04",
     "operator": "BMW",
-    "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte",
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 144,
+    "sold": 0,
+    "available": 144,
+    "occupancy": 0.0,
+    "max_gross": 3456.0,
+    "total_gross": 0.0,
+    "price": 24.0,
+    "error": false
   },
   {
     "id": 422338,
