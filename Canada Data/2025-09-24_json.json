@@ -161,8 +161,8 @@
     "available": 40,
     "blocked": 22,
     "sold": 40,
-    "gross": 1062,
-    "gross_with_tax": 1250,
+    "gross": 1062.0,
+    "gross_with_tax": 1250.0,
     "per_ticket": {
       "net": 26.55,
       "tax": 3.45,
@@ -200,7 +200,7 @@
     "blocked": 22,
     "sold": 36,
     "gross": 955.8,
-    "gross_with_tax": 1125,
+    "gross_with_tax": 1125.0,
     "per_ticket": {
       "net": 26.55,
       "tax": 3.45,
@@ -219,7 +219,7 @@
     "blocked": 15,
     "sold": 144,
     "gross": 3440.16,
-    "gross_with_tax": 4068,
+    "gross_with_tax": 4068.0,
     "per_ticket": {
       "net": 23.89,
       "tax": 3.11,
@@ -275,13 +275,13 @@
     "available": 89,
     "blocked": 1,
     "sold": 38,
-    "gross": 1026,
-    "gross_with_tax": 1064,
+    "gross": 1026.0,
+    "gross_with_tax": 1064.0,
     "per_ticket": {
-      "net": 27,
-      "tax": 0,
-      "fee": 1,
-      "grand": 28
+      "net": 27.0,
+      "tax": 0.0,
+      "fee": 1.0,
+      "grand": 28.0
     }
   },
   {
@@ -294,13 +294,13 @@
     "available": 32,
     "blocked": 5,
     "sold": 91,
-    "gross": 2457,
-    "gross_with_tax": 2548,
+    "gross": 2457.0,
+    "gross_with_tax": 2548.0,
     "per_ticket": {
-      "net": 27,
-      "tax": 0,
-      "fee": 1,
-      "grand": 28
+      "net": 27.0,
+      "tax": 0.0,
+      "fee": 1.0,
+      "grand": 28.0
     }
   },
   {
@@ -313,13 +313,13 @@
     "available": 78,
     "blocked": 3,
     "sold": 47,
-    "gross": 1269,
-    "gross_with_tax": 1316,
+    "gross": 1269.0,
+    "gross_with_tax": 1316.0,
     "per_ticket": {
-      "net": 27,
-      "tax": 0,
-      "fee": 1,
-      "grand": 28
+      "net": 27.0,
+      "tax": 0.0,
+      "fee": 1.0,
+      "grand": 28.0
     }
   },
   {
@@ -352,7 +352,7 @@
     "blocked": 33,
     "sold": 164,
     "gross": 3917.96,
-    "gross_with_tax": 4633,
+    "gross_with_tax": 4633.0,
     "per_ticket": {
       "net": 23.89,
       "tax": 3.11,
@@ -370,8 +370,8 @@
     "available": 75,
     "blocked": 28,
     "sold": 100,
-    "gross": 2389,
-    "gross_with_tax": 2825,
+    "gross": 2389.0,
+    "gross_with_tax": 2825.0,
     "per_ticket": {
       "net": 23.89,
       "tax": 3.11,
@@ -447,7 +447,7 @@
     "blocked": 97,
     "sold": 184,
     "gross": 4885.2,
-    "gross_with_tax": 5750,
+    "gross_with_tax": 5750.0,
     "per_ticket": {
       "net": 26.55,
       "tax": 3.45,
@@ -466,7 +466,7 @@
     "blocked": 96,
     "sold": 156,
     "gross": 4141.8,
-    "gross_with_tax": 4875,
+    "gross_with_tax": 4875.0,
     "per_ticket": {
       "net": 26.55,
       "tax": 3.45,
@@ -484,8 +484,8 @@
     "available": 86,
     "blocked": 0,
     "sold": 280,
-    "gross": 7434,
-    "gross_with_tax": 8750,
+    "gross": 7434.0,
+    "gross_with_tax": 8750.0,
     "per_ticket": {
       "net": 26.55,
       "tax": 3.45,
@@ -504,7 +504,7 @@
     "blocked": 0,
     "sold": 308,
     "gross": 8177.4,
-    "gross_with_tax": 9625,
+    "gross_with_tax": 9625.0,
     "per_ticket": {
       "net": 26.55,
       "tax": 3.45,
@@ -560,8 +560,8 @@
     "available": 18,
     "blocked": 133,
     "sold": 120,
-    "gross": 3186,
-    "gross_with_tax": 3750,
+    "gross": 3186.0,
+    "gross_with_tax": 3750.0,
     "per_ticket": {
       "net": 26.55,
       "tax": 3.45,
@@ -576,11 +576,11 @@
     "date": "2025-09-24",
     "time": "10:30pm",
     "total": 195,
-    "available": 123,
+    "available": 114,
     "blocked": 31,
-    "sold": 41,
-    "gross": 979.49,
-    "gross_with_tax": 1158.25,
+    "sold": 50,
+    "gross": 1194.5,
+    "gross_with_tax": 1412.5,
     "per_ticket": {
       "net": 23.89,
       "tax": 3.11,
@@ -599,7 +599,7 @@
     "blocked": 12,
     "sold": 32,
     "gross": 764.48,
-    "gross_with_tax": 904,
+    "gross_with_tax": 904.0,
     "per_ticket": {
       "net": 23.89,
       "tax": 3.11,
