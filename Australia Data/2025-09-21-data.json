@@ -8552,9 +8552,16 @@
     "cinemaId": "DOCCIN",
     "movieId": "HO00010666",
     "date": "2025-09-21T21:10:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 06",
     "operator": "DOC",
-    "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 98,
+    "sold": 0,
+    "available": 98,
+    "occupancy": 0.0,
+    "max_gross": 2548.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   }
 ]

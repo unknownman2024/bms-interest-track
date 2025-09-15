@@ -2061,10 +2061,17 @@
     "cinemaId": "CHDSTN",
     "movieId": "HO00010666",
     "date": "2025-09-24T21:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 03",
     "operator": "CDS",
-    "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 230,
+    "sold": 0,
+    "available": 230,
+    "occupancy": 0.0,
+    "max_gross": 5980.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 141577,
