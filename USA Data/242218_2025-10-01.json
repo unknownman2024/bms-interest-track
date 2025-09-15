@@ -12220,11 +12220,11 @@
     "date": "2025-10-01+18:00",
     "format": "RPX",
     "language": "Telugu",
-    "totalSeatSold": 5,
-    "occupancy": 2.38,
-    "totalAvailableSeatCount": 205,
+    "totalSeatSold": 4,
+    "occupancy": 1.9,
+    "totalAvailableSeatCount": 206,
     "totalSeatCount": 210,
-    "grossRevenueUSD": 149.3,
+    "grossRevenueUSD": 119.44,
     "adultTicketPrice": 29.86
   },
   {
@@ -15403,11 +15403,11 @@
     "date": "2025-10-01+20:40",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 202,
+    "totalSeatSold": 9,
+    "occupancy": 4.46,
+    "totalAvailableSeatCount": 193,
     "totalSeatCount": 202,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 193.95,
     "adultTicketPrice": 21.55
   },
   {
@@ -15619,9 +15619,12 @@
     "date": "2025-10-01+17:20",
     "format": "Standard",
     "language": "Kannada",
-    "error": {
-      "status": 403
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 100,
+    "totalSeatCount": 100,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 21.2
   },
   {
     "state": "KY",
@@ -15676,5 +15679,59 @@
     "totalSeatCount": 41,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 20.0
+  },
+  {
+    "state": "TX",
+    "city": "Tomball",
+    "zip": "77375",
+    "theater_name": "Regal Lone Star IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 515965432,
+    "date": "2025-10-01+11:25",
+    "format": "Standard",
+    "language": "Kannada",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 56,
+    "totalSeatCount": 56,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 21.65
+  },
+  {
+    "state": "TX",
+    "city": "Tomball",
+    "zip": "77375",
+    "theater_name": "Regal Lone Star IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 515965434,
+    "date": "2025-10-01+20:00",
+    "format": "Standard",
+    "language": "Kannada",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 56,
+    "totalSeatCount": 56,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 21.65
+  },
+  {
+    "state": "TX",
+    "city": "Tomball",
+    "zip": "77375",
+    "theater_name": "Regal Lone Star IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 515965433,
+    "date": "2025-10-01+15:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 56,
+    "totalSeatCount": 56,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 21.65
   }
 ]
