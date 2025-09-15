@@ -100,11 +100,11 @@
     "date": "2025-09-19+19:10",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 23,
-    "occupancy": 43.4,
-    "totalAvailableSeatCount": 30,
+    "totalSeatSold": 24,
+    "occupancy": 45.28,
+    "totalAvailableSeatCount": 29,
     "totalSeatCount": 53,
-    "grossRevenueUSD": 353.51,
+    "grossRevenueUSD": 368.88,
     "adultTicketPrice": 15.37
   },
   {
@@ -120,8 +120,8 @@
     "language": "Hindi",
     "totalSeatSold": 0,
     "occupancy": 0.0,
-    "totalAvailableSeatCount": 107,
-    "totalSeatCount": 107,
+    "totalAvailableSeatCount": 169,
+    "totalSeatCount": 169,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 15.0
   },
@@ -187,11 +187,11 @@
     "date": "2025-09-19+21:40",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 5,
-    "occupancy": 4.17,
-    "totalAvailableSeatCount": 115,
+    "totalSeatSold": 9,
+    "occupancy": 7.5,
+    "totalAvailableSeatCount": 111,
     "totalSeatCount": 120,
-    "grossRevenueUSD": 80.2,
+    "grossRevenueUSD": 144.36,
     "adultTicketPrice": 16.04
   },
   {
@@ -259,11 +259,11 @@
     "date": "2025-09-19+20:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 37,
-    "totalSeatCount": 37,
-    "grossRevenueUSD": 0.0,
+    "totalSeatSold": 4,
+    "occupancy": 10.0,
+    "totalAvailableSeatCount": 36,
+    "totalSeatCount": 40,
+    "grossRevenueUSD": 55.4,
     "adultTicketPrice": 13.85
   },
   {
@@ -474,8 +474,8 @@
     "language": "Hindi",
     "totalSeatSold": 0,
     "occupancy": 0.0,
-    "totalAvailableSeatCount": 79,
-    "totalSeatCount": 79,
+    "totalAvailableSeatCount": 77,
+    "totalSeatCount": 77,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 17.75
   },
@@ -514,5 +514,56 @@
     "totalSeatCount": 54,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 14.0
+  },
+  {
+    "state": "FL",
+    "city": "Ocoee",
+    "zip": "34761",
+    "theater_name": "AMC West Oaks 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 515990416,
+    "date": "2025-09-19+21:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 1,
+    "occupancy": 3.23,
+    "totalAvailableSeatCount": 30,
+    "totalSeatCount": 31,
+    "grossRevenueUSD": 12.24,
+    "adultTicketPrice": 12.24
+  },
+  {
+    "state": "IL",
+    "city": "Schaumburg",
+    "zip": "60173",
+    "theater_name": "AMC Loews Streets Of Woodfield 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 515992803,
+    "date": "2025-09-19+21:30",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 400
+    }
+  },
+  {
+    "state": "MO",
+    "city": "Cape Girardeau",
+    "zip": "63701",
+    "theater_name": "Marcus Cape West Cinema",
+    "chainName": "Marcus Theatres",
+    "chainCode": "MRCS",
+    "showtime_id": 515995476,
+    "date": "2025-09-19+21:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 56,
+    "totalSeatCount": 56,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 13.29
   }
 ]

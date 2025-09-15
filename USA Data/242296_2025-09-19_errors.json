@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-15 11:48:27 PM",
+  "last_updated": "2025-09-16 02:41:59 AM",
   "errors": [
     {
       "state": "IL",
@@ -27,6 +27,21 @@
       "date": "2025-09-19+21:30",
       "format": "Standard",
       "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Schaumburg",
+      "zip": "60173",
+      "theater_name": "AMC Loews Streets Of Woodfield 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515992803,
+      "date": "2025-09-19+21:30",
+      "format": "Standard",
+      "language": "Unknown",
       "error": {
         "status": 400
       }
