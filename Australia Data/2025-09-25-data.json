@@ -266,7 +266,8 @@
     "max_gross": 2808.0,
     "total_gross": 214.5,
     "price": 19.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 359138,
@@ -300,8 +301,7 @@
     "max_gross": 10106.0,
     "total_gross": 3565.0,
     "price": 31.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 422046,
@@ -329,11 +329,11 @@
     "screenName": "Xtremescreen 06",
     "operator": "HIG",
     "total": 316,
-    "sold": 152,
-    "available": 164,
-    "occupancy": 48.1,
+    "sold": 153,
+    "available": 163,
+    "occupancy": 48.42,
     "max_gross": 10428.0,
-    "total_gross": 5016.0,
+    "total_gross": 5049.0,
     "price": 33.0,
     "error": false
   },
@@ -642,8 +642,7 @@
     "max_gross": 5670.0,
     "total_gross": 189.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 358627,
@@ -694,7 +693,8 @@
     "max_gross": 13464.0,
     "total_gross": 6369.0,
     "price": 33.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 358980,
@@ -728,8 +728,7 @@
     "max_gross": 8712.0,
     "total_gross": 3333.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 429973,
@@ -746,8 +745,7 @@
     "max_gross": 6666.0,
     "total_gross": 132.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 346747,
@@ -764,8 +762,7 @@
     "max_gross": 2860.0,
     "total_gross": 522.5,
     "price": 27.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 249161,
