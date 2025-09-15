@@ -18013,11 +18013,11 @@
     "date": "2025-09-24+21:00",
     "format": "XD",
     "language": "Telugu",
-    "totalSeatSold": 202,
-    "occupancy": 70.14,
-    "totalAvailableSeatCount": 86,
+    "totalSeatSold": 204,
+    "occupancy": 70.83,
+    "totalAvailableSeatCount": 84,
     "totalSeatCount": 288,
-    "grossRevenueUSD": 6560.96,
+    "grossRevenueUSD": 6625.92,
     "adultTicketPrice": 32.48
   },
   {
@@ -20857,11 +20857,11 @@
     "date": "2025-09-24+16:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 19,
-    "occupancy": 21.11,
-    "totalAvailableSeatCount": 71,
+    "totalSeatSold": 21,
+    "occupancy": 23.33,
+    "totalAvailableSeatCount": 69,
     "totalSeatCount": 90,
-    "grossRevenueUSD": 514.71,
+    "grossRevenueUSD": 568.89,
     "adultTicketPrice": 27.09
   },
   {
@@ -23107,11 +23107,11 @@
     "date": "2025-09-24+15:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 30,
-    "occupancy": 22.22,
-    "totalAvailableSeatCount": 105,
+    "totalSeatSold": 29,
+    "occupancy": 21.48,
+    "totalAvailableSeatCount": 106,
     "totalSeatCount": 135,
-    "grossRevenueUSD": 787.5,
+    "grossRevenueUSD": 761.25,
     "adultTicketPrice": 26.25
   },
   {
@@ -28462,11 +28462,11 @@
     "date": "2025-09-24+18:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 52,
-    "occupancy": 54.74,
-    "totalAvailableSeatCount": 43,
+    "totalSeatSold": 54,
+    "occupancy": 56.84,
+    "totalAvailableSeatCount": 41,
     "totalSeatCount": 95,
-    "grossRevenueUSD": 1407.12,
+    "grossRevenueUSD": 1461.24,
     "adultTicketPrice": 27.06
   },
   {
@@ -30100,11 +30100,11 @@
     "date": "2025-09-24+18:40",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 33,
-    "occupancy": 15.94,
-    "totalAvailableSeatCount": 174,
+    "totalSeatSold": 34,
+    "occupancy": 16.43,
+    "totalAvailableSeatCount": 173,
     "totalSeatCount": 207,
-    "grossRevenueUSD": 825.0,
+    "grossRevenueUSD": 850.0,
     "adultTicketPrice": 25.0
   },
   {
@@ -31948,11 +31948,11 @@
     "date": "2025-09-24+21:30",
     "format": "FDX",
     "language": "Unknown",
-    "totalSeatSold": 158,
-    "occupancy": 55.24,
-    "totalAvailableSeatCount": 128,
+    "totalSeatSold": 163,
+    "occupancy": 56.99,
+    "totalAvailableSeatCount": 123,
     "totalSeatCount": 286,
-    "grossRevenueUSD": 5084.44,
+    "grossRevenueUSD": 5245.34,
     "adultTicketPrice": 32.18
   },
   {
@@ -32584,5 +32584,35 @@
     "totalSeatCount": 71,
     "grossRevenueUSD": 322.56,
     "adultTicketPrice": 26.88
+  },
+  {
+    "state": "KS",
+    "city": "Wichita",
+    "zip": "67226",
+    "theater_name": "AMC Northrock 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 515962110,
+    "date": "2025-09-24+13:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 500
+    }
+  },
+  {
+    "state": "KS",
+    "city": "Wichita",
+    "zip": "67226",
+    "theater_name": "AMC Northrock 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 515962109,
+    "date": "2025-09-24+18:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 500
+    }
   }
 ]
