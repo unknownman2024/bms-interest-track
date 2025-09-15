@@ -28,11 +28,11 @@
     "date": "2025-09-18+21:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 28,
-    "occupancy": 38.89,
-    "totalAvailableSeatCount": 44,
+    "totalSeatSold": 33,
+    "occupancy": 45.83,
+    "totalAvailableSeatCount": 39,
     "totalSeatCount": 72,
-    "grossRevenueUSD": 537.04,
+    "grossRevenueUSD": 632.94,
     "adultTicketPrice": 19.18
   },
   {
@@ -124,5 +124,20 @@
     "totalSeatCount": 106,
     "grossRevenueUSD": 734.58,
     "adultTicketPrice": 17.49
+  },
+  {
+    "state": "MA",
+    "city": "Methuen",
+    "zip": "01844",
+    "theater_name": "AMC Methuen 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 0,
+    "date": "2025-09-18+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 404
+    }
   }
 ]

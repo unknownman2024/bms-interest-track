@@ -1,4 +1,20 @@
 {
-  "last_updated": "2025-09-15 07:10:26 PM",
-  "errors": []
+  "last_updated": "2025-09-15 08:54:08 PM",
+  "errors": [
+    {
+      "state": "MA",
+      "city": "Methuen",
+      "zip": "01844",
+      "theater_name": "AMC Methuen 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 0,
+      "date": "2025-09-18+21:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    }
+  ]
 }
