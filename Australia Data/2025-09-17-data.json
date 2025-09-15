@@ -3066,8 +3066,7 @@
     "max_gross": 2496.0,
     "total_gross": 78.0,
     "price": 19.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 312268,
@@ -7907,8 +7906,7 @@
     "max_gross": 5980.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 362173,
@@ -11597,8 +11595,7 @@
     "max_gross": 5510.0,
     "total_gross": 58.0,
     "price": 29.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 517580,
@@ -19170,7 +19167,8 @@
     "max_gross": 3780.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 262183,
@@ -31911,8 +31909,7 @@
     "max_gross": 2310.0,
     "total_gross": 715.0,
     "price": 27.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 78376,
@@ -33368,7 +33365,8 @@
     "max_gross": 2808.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 274607,
@@ -36321,5 +36319,22 @@
     "error": true,
     "error_msg": "HTTP 403",
     "last_error": "HTTP 403"
+  },
+  {
+    "id": 318842,
+    "cinemaId": "MTDRTT",
+    "movieId": "HO00010666",
+    "date": "2025-09-17T18:10:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 07",
+    "operator": "MTD",
+    "total": 90,
+    "sold": 0,
+    "available": 90,
+    "occupancy": 0.0,
+    "max_gross": 2430.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   }
 ]
