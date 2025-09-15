@@ -8545,7 +8545,8 @@
     "max_gross": 5980.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 141457,
@@ -8579,7 +8580,8 @@
     "max_gross": 2475.0,
     "total_gross": 0.0,
     "price": 25.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 273105,
@@ -8630,6 +8632,23 @@
     "max_gross": 2660.0,
     "total_gross": 0.0,
     "price": 19.0,
+    "error": false
+  },
+  {
+    "id": 358872,
+    "cinemaId": "WESCIN",
+    "movieId": "HO00010666",
+    "date": "2025-09-21T19:30:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 03",
+    "operator": "WES",
+    "total": 180,
+    "sold": 0,
+    "available": 180,
+    "occupancy": 0.0,
+    "max_gross": 4680.0,
+    "total_gross": 0.0,
+    "price": 26.0,
     "error": false
   }
 ]

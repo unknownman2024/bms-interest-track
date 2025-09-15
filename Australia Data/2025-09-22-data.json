@@ -658,7 +658,8 @@
     "max_gross": 2548.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 318751,
@@ -676,7 +677,7 @@
     "total_gross": 0.0,
     "price": 25.0,
     "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "last_error": "HTTP 500"
   },
   {
     "id": 273142,
@@ -693,8 +694,7 @@
     "max_gross": 1925.0,
     "total_gross": 0.0,
     "price": 25.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 517857,
@@ -719,9 +719,33 @@
     "cinemaId": "SLYCIN",
     "movieId": "HO00010666",
     "date": "2025-09-22T20:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 06",
     "operator": "SLY",
-    "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 96,
+    "sold": 0,
+    "available": 96,
+    "occupancy": 0.0,
+    "max_gross": 1824.0,
+    "total_gross": 0.0,
+    "price": 19.0,
+    "error": false
+  },
+  {
+    "id": 358689,
+    "cinemaId": "WESCIN",
+    "movieId": "HO00010666",
+    "date": "2025-09-22T20:40:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 10",
+    "operator": "WES",
+    "total": 140,
+    "sold": 0,
+    "available": 140,
+    "occupancy": 0.0,
+    "max_gross": 3640.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   }
 ]
