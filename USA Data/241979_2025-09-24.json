@@ -352,11 +352,11 @@
     "date": "2025-09-24+14:30",
     "format": "RPX",
     "language": "Telugu",
-    "totalSeatSold": 52,
-    "occupancy": 14.44,
-    "totalAvailableSeatCount": 308,
+    "totalSeatSold": 51,
+    "occupancy": 14.17,
+    "totalAvailableSeatCount": 309,
     "totalSeatCount": 360,
-    "grossRevenueUSD": 1560.0,
+    "grossRevenueUSD": 1530.0,
     "adultTicketPrice": 30.0
   },
   {
@@ -586,11 +586,11 @@
     "date": "2025-09-24+15:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 75,
-    "occupancy": 58.14,
-    "totalAvailableSeatCount": 54,
+    "totalSeatSold": 76,
+    "occupancy": 58.91,
+    "totalAvailableSeatCount": 53,
     "totalSeatCount": 129,
-    "grossRevenueUSD": 1999.5,
+    "grossRevenueUSD": 2026.16,
     "adultTicketPrice": 26.66
   },
   {
@@ -16879,11 +16879,11 @@
     "date": "2025-09-24+18:10",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 4,
-    "occupancy": 4.49,
-    "totalAvailableSeatCount": 85,
+    "totalSeatSold": 9,
+    "occupancy": 10.11,
+    "totalAvailableSeatCount": 80,
     "totalSeatCount": 89,
-    "grossRevenueUSD": 103.0,
+    "grossRevenueUSD": 231.75,
     "adultTicketPrice": 25.75
   },
   {
@@ -19399,11 +19399,11 @@
     "date": "2025-09-24+15:00",
     "format": "XD",
     "language": "Telugu",
-    "totalSeatSold": 43,
-    "occupancy": 25.29,
-    "totalAvailableSeatCount": 127,
+    "totalSeatSold": 47,
+    "occupancy": 27.65,
+    "totalAvailableSeatCount": 123,
     "totalSeatCount": 170,
-    "grossRevenueUSD": 1386.75,
+    "grossRevenueUSD": 1515.75,
     "adultTicketPrice": 32.25
   },
   {
@@ -34519,5 +34519,59 @@
     "error": {
       "status": 500
     }
+  },
+  {
+    "state": "CA",
+    "city": "Long Beach",
+    "zip": "90808",
+    "theater_name": "Regal Edwards Long Beach ScreenX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 516233748,
+    "date": "2025-09-24+13:35",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 118,
+    "totalSeatCount": 118,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 25.0
+  },
+  {
+    "state": "CA",
+    "city": "Long Beach",
+    "zip": "90808",
+    "theater_name": "Regal Edwards Long Beach ScreenX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 516233747,
+    "date": "2025-09-24+18:20",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 137,
+    "totalSeatCount": 137,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 25.0
+  },
+  {
+    "state": "CA",
+    "city": "Long Beach",
+    "zip": "90808",
+    "theater_name": "Regal Edwards Long Beach ScreenX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 516233746,
+    "date": "2025-09-24+21:50",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 1,
+    "occupancy": 0.69,
+    "totalAvailableSeatCount": 143,
+    "totalSeatCount": 144,
+    "grossRevenueUSD": 25.0,
+    "adultTicketPrice": 25.0
   }
 ]
