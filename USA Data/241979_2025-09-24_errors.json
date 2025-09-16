@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-16 11:56:33 PM",
+  "last_updated": "2025-09-17 12:25:18 AM",
   "errors": [
     {
       "state": "IL",
@@ -2215,6 +2215,66 @@
       "chainCode": "AMC",
       "showtime_id": 516278414,
       "date": "2025-09-24+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Melbourne",
+      "zip": "32940",
+      "theater_name": "AMC Avenue 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516311871,
+      "date": "2025-09-24+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pompano Beach",
+      "zip": "33062",
+      "theater_name": "AMC Pompano Beach 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516310586,
+      "date": "2025-09-24+21:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Overland Park",
+      "zip": "66223",
+      "theater_name": "AMC DINE-IN Prairiefire 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516298820,
+      "date": "2025-09-24+20:30",
+      "format": "XL at AMC",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Kansas City",
+      "zip": "64151",
+      "theater_name": "AMC Barrywoods 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516310039,
+      "date": "2025-09-24+13:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
