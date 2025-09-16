@@ -9115,11 +9115,11 @@
     "date": "2025-09-25+18:35",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 3,
-    "occupancy": 6.0,
-    "totalAvailableSeatCount": 47,
+    "totalSeatSold": 6,
+    "occupancy": 12.0,
+    "totalAvailableSeatCount": 44,
     "totalSeatCount": 50,
-    "grossRevenueUSD": 60.0,
+    "grossRevenueUSD": 120.0,
     "adultTicketPrice": 20.0
   },
   {
@@ -12277,11 +12277,11 @@
     "date": "2025-09-25+18:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 13,
-    "occupancy": 11.5,
-    "totalAvailableSeatCount": 100,
+    "totalSeatSold": 15,
+    "occupancy": 13.27,
+    "totalAvailableSeatCount": 98,
     "totalSeatCount": 113,
-    "grossRevenueUSD": 281.45,
+    "grossRevenueUSD": 324.75,
     "adultTicketPrice": 21.65
   },
   {
@@ -14075,6 +14075,36 @@
     "chainCode": "AMC",
     "showtime_id": 516208161,
     "date": "2025-09-25+19:35",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 500
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Pensacola",
+    "zip": "32505",
+    "theater_name": "AMC CLASSIC Pensacola 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 516226371,
+    "date": "2025-09-25+19:25",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 500
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Covina",
+    "zip": "91722",
+    "theater_name": "AMC Covina 17",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 516227638,
+    "date": "2025-09-25+19:00",
     "format": "Standard",
     "language": "Telugu",
     "error": {
