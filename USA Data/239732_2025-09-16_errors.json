@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-17 01:50:00 AM",
+  "last_updated": "2025-09-17 02:47:47 AM",
   "errors": [
     {
       "state": "MA",
@@ -21458,21 +21458,6 @@
       "theater_name": "Regency Santa Paula 7",
       "chainName": "Regency Theatres",
       "chainCode": "RGCY",
-      "showtime_id": 515473895,
-      "date": "2025-09-16+16:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Paula",
-      "zip": "93060",
-      "theater_name": "Regency Santa Paula 7",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
       "showtime_id": 515473904,
       "date": "2025-09-16+19:40",
       "format": "Standard",
@@ -23339,6 +23324,51 @@
       "language": "English",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Kinston",
+      "zip": "28504",
+      "theater_name": "UEC Theatres Kinston",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 516404545,
+      "date": "2025-09-16+15:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IA",
+      "city": "West Burlington",
+      "zip": "52655",
+      "theater_name": "Westland Theatre",
+      "chainName": "CEC Theatres",
+      "chainCode": "CEC",
+      "showtime_id": 516412517,
+      "date": "2025-09-16+21:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fresno",
+      "zip": "93720",
+      "theater_name": "Regal Edwards Fresno ScreenX, 4DX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 516436065,
+      "date": "2025-09-16+19:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 500
       }
     }
   ]
