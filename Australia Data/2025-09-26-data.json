@@ -835,14 +835,13 @@
     "screenName": "Xtreme 01",
     "operator": "CAR",
     "total": 326,
-    "sold": 35,
-    "available": 291,
-    "occupancy": 10.74,
+    "sold": 37,
+    "available": 289,
+    "occupancy": 11.35,
     "max_gross": 10106.0,
-    "total_gross": 1085.0,
+    "total_gross": 1147.0,
     "price": 31.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 359139,
@@ -859,8 +858,7 @@
     "max_gross": 14280.0,
     "total_gross": 0.0,
     "price": 30.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 517684,
@@ -871,14 +869,13 @@
     "screenName": "Xtremescreen 06",
     "operator": "HIG",
     "total": 316,
-    "sold": 62,
-    "available": 254,
-    "occupancy": 19.62,
+    "sold": 60,
+    "available": 256,
+    "occupancy": 18.99,
     "max_gross": 10744.0,
-    "total_gross": 2108.0,
+    "total_gross": 2040.0,
     "price": 34.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 422047,
@@ -975,11 +972,11 @@
     "screenName": "Xtremescreen 7",
     "operator": "SUN",
     "total": 130,
-    "sold": 16,
-    "available": 114,
-    "occupancy": 12.31,
+    "sold": 19,
+    "available": 111,
+    "occupancy": 14.62,
     "max_gross": 3770.0,
-    "total_gross": 464.0,
+    "total_gross": 551.0,
     "price": 29.0,
     "error": false
   },
@@ -1015,7 +1012,8 @@
     "max_gross": 6336.0,
     "total_gross": 256.0,
     "price": 32.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 313531,
@@ -1026,11 +1024,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "CDS",
     "total": 278,
-    "sold": 40,
-    "available": 238,
-    "occupancy": 14.39,
+    "sold": 43,
+    "available": 235,
+    "occupancy": 15.47,
     "max_gross": 9452.0,
-    "total_gross": 1360.0,
+    "total_gross": 1462.0,
     "price": 34.0,
     "error": false
   },

@@ -5396,11 +5396,11 @@
     "screenName": "Cinema 06",
     "operator": "DOC",
     "total": 98,
-    "sold": 0,
-    "available": 98,
-    "occupancy": 0.0,
+    "sold": 3,
+    "available": 95,
+    "occupancy": 3.06,
     "max_gross": 2548.0,
-    "total_gross": 0.0,
+    "total_gross": 78.0,
     "price": 26.0,
     "error": false
   },
@@ -5413,11 +5413,11 @@
     "screenName": "Cinema 03",
     "operator": "CDS",
     "total": 230,
-    "sold": 10,
-    "available": 220,
-    "occupancy": 4.35,
+    "sold": 18,
+    "available": 212,
+    "occupancy": 7.83,
     "max_gross": 5980.0,
-    "total_gross": 260.0,
+    "total_gross": 468.0,
     "price": 26.0,
     "error": false
   },
@@ -5464,11 +5464,11 @@
     "screenName": "Cinema 10",
     "operator": "HIG",
     "total": 168,
-    "sold": 10,
-    "available": 158,
-    "occupancy": 5.95,
+    "sold": 14,
+    "available": 154,
+    "occupancy": 8.33,
     "max_gross": 4368.0,
-    "total_gross": 260.0,
+    "total_gross": 364.0,
     "price": 26.0,
     "error": false
   },
@@ -5515,14 +5515,13 @@
     "screenName": "Cinema 10",
     "operator": "WES",
     "total": 140,
-    "sold": 3,
-    "available": 137,
-    "occupancy": 2.14,
+    "sold": 10,
+    "available": 130,
+    "occupancy": 7.14,
     "max_gross": 3640.0,
-    "total_gross": 78.0,
+    "total_gross": 260.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 41898,
@@ -5607,7 +5606,8 @@
     "max_gross": 1800.0,
     "total_gross": 0.0,
     "price": 25.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 213329,
@@ -5624,7 +5624,8 @@
     "max_gross": 2496.0,
     "total_gross": 721.5,
     "price": 19.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 274965,
@@ -5652,11 +5653,11 @@
     "screenName": "Cinema 02",
     "operator": "TAY",
     "total": 160,
-    "sold": 20,
-    "available": 140,
-    "occupancy": 12.5,
+    "sold": 24,
+    "available": 136,
+    "occupancy": 15.0,
     "max_gross": 4480.0,
-    "total_gross": 560.0,
+    "total_gross": 672.0,
     "price": 28.0,
     "error": false
   },
@@ -5675,8 +5676,7 @@
     "max_gross": 5400.0,
     "total_gross": 405.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 378723,
@@ -5704,11 +5704,11 @@
     "screenName": "Cinema 09",
     "operator": "WET",
     "total": 147,
-    "sold": 4,
-    "available": 143,
-    "occupancy": 2.72,
+    "sold": 7,
+    "available": 140,
+    "occupancy": 4.76,
     "max_gross": 4116.0,
-    "total_gross": 112.0,
+    "total_gross": 196.0,
     "price": 28.0,
     "error": false
   },
@@ -5858,11 +5858,11 @@
     "screenName": "Xtremescreen 05",
     "operator": "WES",
     "total": 408,
-    "sold": 79,
-    "available": 329,
-    "occupancy": 19.36,
+    "sold": 84,
+    "available": 324,
+    "occupancy": 20.59,
     "max_gross": 13464.0,
-    "total_gross": 2607.0,
+    "total_gross": 2772.0,
     "price": 33.0,
     "error": false
   },
@@ -5949,8 +5949,7 @@
     "max_gross": 2744.0,
     "total_gross": 196.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 141609,
@@ -5967,8 +5966,7 @@
     "max_gross": 13464.0,
     "total_gross": 0.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 273102,
@@ -6036,6 +6034,23 @@
     "max_gross": 3672.0,
     "total_gross": 0.0,
     "price": 27.0,
+    "error": false
+  },
+  {
+    "id": 213395,
+    "cinemaId": "FHLCIN",
+    "movieId": "HO00010700",
+    "date": "2025-09-19T19:45:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 03",
+    "operator": "FHL",
+    "total": 144,
+    "sold": 0,
+    "available": 144,
+    "occupancy": 0.0,
+    "max_gross": 2808.0,
+    "total_gross": 0.0,
+    "price": 19.5,
     "error": false
   }
 ]
