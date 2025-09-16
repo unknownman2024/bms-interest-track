@@ -892,7 +892,8 @@
     "max_gross": 6868.0,
     "total_gross": 0.0,
     "price": 34.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 429528,
@@ -960,8 +961,7 @@
     "max_gross": 8277.0,
     "total_gross": 0.0,
     "price": 31.0,
-    "error": false,
-    "last_error": "HTTP 500"
+    "error": false
   },
   {
     "id": 248862,
@@ -1012,8 +1012,7 @@
     "max_gross": 6336.0,
     "total_gross": 256.0,
     "price": 32.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 313531,
@@ -1030,7 +1029,8 @@
     "max_gross": 9452.0,
     "total_gross": 1462.0,
     "price": 34.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 318210,
@@ -1082,8 +1082,7 @@
     "max_gross": 4590.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 141395,
@@ -1146,11 +1145,11 @@
     "screenName": "Xtremescreen 05",
     "operator": "BEL",
     "total": 160,
-    "sold": 64,
-    "available": 96,
-    "occupancy": 40.0,
+    "sold": 62,
+    "available": 98,
+    "occupancy": 38.75,
     "max_gross": 5040.0,
-    "total_gross": 2016.0,
+    "total_gross": 1953.0,
     "price": 31.5,
     "error": false
   },
@@ -1248,12 +1247,46 @@
     "screenName": "Xtremescreen 01",
     "operator": "CDS",
     "total": 278,
-    "sold": 0,
-    "available": 278,
-    "occupancy": 0.0,
+    "sold": 1,
+    "available": 277,
+    "occupancy": 0.36,
     "max_gross": 9452.0,
+    "total_gross": 34.0,
+    "price": 34.0,
+    "error": false
+  },
+  {
+    "id": 336786,
+    "cinemaId": "FRANKS",
+    "movieId": "HO00010652",
+    "date": "2025-09-26T21:15:00",
+    "typeId": "XTREME",
+    "screenName": "Xtremescreen 03",
+    "operator": "FRA",
+    "total": 114,
+    "sold": 0,
+    "available": 114,
+    "occupancy": 0.0,
+    "max_gross": 3876.0,
     "total_gross": 0.0,
     "price": 34.0,
+    "error": false
+  },
+  {
+    "id": 334753,
+    "cinemaId": "WODENP",
+    "movieId": "HO00010652",
+    "date": "2025-09-26T17:45:00",
+    "typeId": "XTREME",
+    "screenName": "Xtremescreen 04",
+    "operator": "WOD",
+    "total": 161,
+    "sold": 2,
+    "available": 159,
+    "occupancy": 1.24,
+    "max_gross": 5071.5,
+    "total_gross": 63.0,
+    "price": 31.5,
     "error": false
   }
 ]
