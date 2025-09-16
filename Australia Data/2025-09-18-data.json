@@ -2795,11 +2795,11 @@
     "screenName": "Cinema 07",
     "operator": "WES",
     "total": 225,
-    "sold": 19,
-    "available": 206,
-    "occupancy": 8.44,
+    "sold": 27,
+    "available": 198,
+    "occupancy": 12.0,
     "max_gross": 6300.0,
-    "total_gross": 532.0,
+    "total_gross": 756.0,
     "price": 28.0,
     "error": false
   },
@@ -5213,7 +5213,8 @@
     "max_gross": 6440.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 141637,
@@ -5230,7 +5231,8 @@
     "max_gross": 2744.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 318579,
@@ -5264,8 +5266,7 @@
     "max_gross": 5049.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 518102,
