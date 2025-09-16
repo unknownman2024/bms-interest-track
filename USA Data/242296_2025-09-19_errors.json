@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-16 11:49:21 PM",
+  "last_updated": "2025-09-17 02:44:01 AM",
   "errors": [
     {
       "state": "IL",
@@ -44,6 +44,51 @@
       "language": "Hindi",
       "error": {
         "status": 500
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 516411870,
+      "date": "2025-09-19+11:40",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Lawrenceville",
+      "zip": "30043",
+      "theater_name": "AMC Sugarloaf Mills 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516425589,
+      "date": "2025-09-19+12:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Monroe",
+      "zip": "98272",
+      "theater_name": "Galaxy Monroe",
+      "chainName": "Galaxy Theatres",
+      "chainCode": "GLXY",
+      "showtime_id": 516195758,
+      "date": "2025-09-19+20:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
       }
     }
   ]
