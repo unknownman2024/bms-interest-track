@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-17 12:51:49 AM",
+  "last_updated": "2025-09-17 01:50:00 AM",
   "errors": [
     {
       "state": "MA",
@@ -10068,21 +10068,6 @@
     },
     {
       "state": "FL",
-      "city": "Bonita Springs",
-      "zip": "34135",
-      "theater_name": "Prado Stadium 12",
-      "chainName": "Prado Theatre",
-      "chainCode": "PRDO",
-      "showtime_id": 512230487,
-      "date": "2025-09-16+15:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "FL",
       "city": "Naples",
       "zip": "34103",
       "theater_name": "CMX CinéBistro Coastland",
@@ -10090,51 +10075,6 @@
       "chainCode": "COBB",
       "showtime_id": 515455965,
       "date": "2025-09-16+12:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Naples",
-      "zip": "34103",
-      "theater_name": "CMX CinéBistro Coastland",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 515455968,
-      "date": "2025-09-16+18:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Naples",
-      "zip": "34103",
-      "theater_name": "CMX CinéBistro Coastland",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 515455966,
-      "date": "2025-09-16+16:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Naples",
-      "zip": "34103",
-      "theater_name": "CMX CinéBistro Coastland",
-      "chainName": "CMX Cinemas",
-      "chainCode": "COBB",
-      "showtime_id": 515455967,
-      "date": "2025-09-16+19:30",
       "format": "Standard",
       "language": "English",
       "error": {
@@ -23337,6 +23277,66 @@
       "date": "2025-09-16+18:30",
       "format": "Standard",
       "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Culpeper",
+      "zip": "22701",
+      "theater_name": "Regal Culpeper",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 516368831,
+      "date": "2025-09-16+15:45",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Hastings",
+      "zip": "49058",
+      "theater_name": "GQT Hastings 4",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 514424375,
+      "date": "2025-09-16+15:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Hastings",
+      "zip": "49058",
+      "theater_name": "GQT Hastings 4",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 514424374,
+      "date": "2025-09-16+18:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Willmar",
+      "zip": "56201",
+      "theater_name": "Golden Ticket Cinemas Kandi 6",
+      "chainName": "Golden Ticket Cinemas",
+      "chainCode": "GOLD",
+      "showtime_id": 516347883,
+      "date": "2025-09-16+15:30",
+      "format": "Standard",
+      "language": "English",
       "error": {
         "status": 400
       }
