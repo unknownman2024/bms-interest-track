@@ -5140,8 +5140,7 @@
     "max_gross": 2716.0,
     "total_gross": 84.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 312391,
@@ -5329,7 +5328,8 @@
     "max_gross": 2400.0,
     "total_gross": 550.0,
     "price": 25.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 248941,
@@ -5403,8 +5403,7 @@
     "max_gross": 2548.0,
     "total_gross": 78.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 313905,
@@ -5517,11 +5516,11 @@
     "screenName": "Cinema 10",
     "operator": "WES",
     "total": 140,
-    "sold": 15,
-    "available": 125,
-    "occupancy": 10.71,
+    "sold": 19,
+    "available": 121,
+    "occupancy": 13.57,
     "max_gross": 3640.0,
-    "total_gross": 390.0,
+    "total_gross": 494.0,
     "price": 26.0,
     "error": false
   },
@@ -5569,11 +5568,11 @@
     "screenName": "Xtremescreen 06",
     "operator": "BEL",
     "total": 168,
-    "sold": 44,
-    "available": 124,
-    "occupancy": 26.19,
+    "sold": 46,
+    "available": 122,
+    "occupancy": 27.38,
     "max_gross": 5292.0,
-    "total_gross": 1386.0,
+    "total_gross": 1449.0,
     "price": 31.5,
     "error": false
   },
@@ -5609,8 +5608,7 @@
     "max_gross": 1800.0,
     "total_gross": 50.0,
     "price": 25.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 213329,
@@ -5621,14 +5619,13 @@
     "screenName": "Cinema 02",
     "operator": "FHL",
     "total": 128,
-    "sold": 39,
-    "available": 89,
-    "occupancy": 30.47,
+    "sold": 44,
+    "available": 84,
+    "occupancy": 34.38,
     "max_gross": 2496.0,
-    "total_gross": 760.5,
+    "total_gross": 858.0,
     "price": 19.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 274965,
@@ -5645,7 +5642,8 @@
     "max_gross": 3900.0,
     "total_gross": 208.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 274955,
@@ -5662,7 +5660,8 @@
     "max_gross": 4480.0,
     "total_gross": 672.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 318642,
@@ -5679,7 +5678,8 @@
     "max_gross": 5400.0,
     "total_gross": 486.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 378723,
@@ -5690,11 +5690,11 @@
     "screenName": "Cinema 10",
     "operator": "TTP",
     "total": 153,
-    "sold": 11,
-    "available": 142,
-    "occupancy": 7.19,
+    "sold": 14,
+    "available": 139,
+    "occupancy": 9.15,
     "max_gross": 3978.0,
-    "total_gross": 286.0,
+    "total_gross": 364.0,
     "price": 26.0,
     "error": false
   },
@@ -5707,11 +5707,11 @@
     "screenName": "Cinema 09",
     "operator": "WET",
     "total": 147,
-    "sold": 7,
-    "available": 140,
-    "occupancy": 4.76,
+    "sold": 16,
+    "available": 131,
+    "occupancy": 10.88,
     "max_gross": 4116.0,
-    "total_gross": 196.0,
+    "total_gross": 448.0,
     "price": 28.0,
     "error": false
   },
@@ -5724,11 +5724,11 @@
     "screenName": "Cinema 09",
     "operator": "HIG",
     "total": 210,
-    "sold": 1,
-    "available": 209,
-    "occupancy": 0.48,
+    "sold": 7,
+    "available": 203,
+    "occupancy": 3.33,
     "max_gross": 5880.0,
-    "total_gross": 28.0,
+    "total_gross": 196.0,
     "price": 28.0,
     "error": false
   },
@@ -5747,7 +5747,8 @@
     "max_gross": 3125.5,
     "total_gross": 0.0,
     "price": 23.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 409647,
@@ -5764,8 +5765,7 @@
     "max_gross": 7590.0,
     "total_gross": 0.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 333449,
@@ -5782,8 +5782,7 @@
     "max_gross": 3445.0,
     "total_gross": 0.0,
     "price": 26.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 359374,
@@ -5817,7 +5816,8 @@
     "max_gross": 5700.0,
     "total_gross": 0.0,
     "price": 28.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 313662,
@@ -5828,14 +5828,13 @@
     "screenName": "Xtremescreen 01",
     "operator": "CDS",
     "total": 278,
-    "sold": 33,
-    "available": 245,
-    "occupancy": 11.87,
+    "sold": 40,
+    "available": 238,
+    "occupancy": 14.39,
     "max_gross": 9174.0,
-    "total_gross": 1089.0,
+    "total_gross": 1320.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 73596,
@@ -5880,14 +5879,13 @@
     "screenName": "Xtremescreen 01",
     "operator": "ARN",
     "total": 684,
-    "sold": 6,
-    "available": 678,
-    "occupancy": 0.88,
+    "sold": 16,
+    "available": 668,
+    "occupancy": 2.34,
     "max_gross": 12996.0,
-    "total_gross": 114.0,
+    "total_gross": 304.0,
     "price": 19.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 73597,
@@ -5915,11 +5913,11 @@
     "screenName": "Cinema 04",
     "operator": "SLY",
     "total": 140,
-    "sold": 18,
-    "available": 122,
-    "occupancy": 12.86,
+    "sold": 22,
+    "available": 118,
+    "occupancy": 15.71,
     "max_gross": 2940.0,
-    "total_gross": 378.0,
+    "total_gross": 462.0,
     "price": 21.0,
     "error": false
   },
@@ -5949,11 +5947,11 @@
     "screenName": "Cinema 08",
     "operator": "DOC",
     "total": 98,
-    "sold": 14,
-    "available": 84,
-    "occupancy": 14.29,
+    "sold": 19,
+    "available": 79,
+    "occupancy": 19.39,
     "max_gross": 2744.0,
-    "total_gross": 392.0,
+    "total_gross": 532.0,
     "price": 28.0,
     "error": false
   },
@@ -5966,11 +5964,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "DOC",
     "total": 408,
-    "sold": 3,
-    "available": 405,
-    "occupancy": 0.74,
+    "sold": 5,
+    "available": 403,
+    "occupancy": 1.23,
     "max_gross": 13464.0,
-    "total_gross": 99.0,
+    "total_gross": 165.0,
     "price": 33.0,
     "error": false
   },
@@ -6006,8 +6004,7 @@
     "max_gross": 6696.0,
     "total_gross": 217.0,
     "price": 31.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 422374,
@@ -6024,8 +6021,7 @@
     "max_gross": 4116.0,
     "total_gross": 224.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 331408,
@@ -6053,11 +6049,11 @@
     "screenName": "Cinema 03",
     "operator": "FHL",
     "total": 144,
-    "sold": 0,
-    "available": 144,
-    "occupancy": 0.0,
+    "sold": 5,
+    "available": 139,
+    "occupancy": 3.47,
     "max_gross": 2808.0,
-    "total_gross": 0.0,
+    "total_gross": 97.5,
     "price": 19.5,
     "error": false
   }
