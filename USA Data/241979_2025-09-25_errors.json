@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-17 12:20:42 AM",
+  "last_updated": "2025-09-17 03:11:38 AM",
   "errors": [
     {
       "state": "MA",
@@ -1002,6 +1002,81 @@
       "date": "2025-09-25+19:15",
       "format": "Standard",
       "language": "Unknown",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lake Buena Vista",
+      "zip": "32830",
+      "theater_name": "AMC DINE-IN Disney Springs™ 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516375544,
+      "date": "2025-09-25+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33634",
+      "theater_name": "AMC Veterans 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516463895,
+      "date": "2025-09-25+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Normal",
+      "zip": "61761",
+      "theater_name": "AMC CLASSIC Normal 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516349153,
+      "date": "2025-09-25+19:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Oklahoma City",
+      "zip": "73134",
+      "theater_name": "AMC Quail Springs Mall 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516442632,
+      "date": "2025-09-25+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Mesquite",
+      "zip": "75149",
+      "theater_name": "AMC DINE-IN Mesquite 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516441827,
+      "date": "2025-09-25+20:30",
+      "format": "Standard",
+      "language": "Telugu",
       "error": {
         "status": 500
       }
