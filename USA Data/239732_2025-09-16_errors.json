@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-16 09:57:18 PM",
+  "last_updated": "2025-09-16 10:54:39 PM",
   "errors": [
     {
       "state": "MA",
@@ -23547,6 +23547,51 @@
       "date": "2025-09-16+18:50",
       "format": "Standard",
       "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Bonita Springs",
+      "zip": "34135",
+      "theater_name": "Prado Stadium 12",
+      "chainName": "Prado Theatre",
+      "chainCode": "PRDO",
+      "showtime_id": 516263133,
+      "date": "2025-09-16+16:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Bonita Springs",
+      "zip": "34135",
+      "theater_name": "Prado Stadium 12",
+      "chainName": "Prado Theatre",
+      "chainCode": "PRDO",
+      "showtime_id": 516263132,
+      "date": "2025-09-16+19:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Laredo",
+      "zip": "78041",
+      "theater_name": "Cinemark Mall del Norte",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516272677,
+      "date": "2025-09-17+00:10",
+      "format": "Standard",
+      "language": "English",
       "error": {
         "status": 404
       }
