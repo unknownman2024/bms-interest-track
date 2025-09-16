@@ -8677,7 +8677,8 @@
     "max_gross": 8580.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 275049,
@@ -8899,8 +8900,7 @@
     "max_gross": 3454.5,
     "total_gross": 0.0,
     "price": 23.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 517791,
@@ -8934,8 +8934,7 @@
     "max_gross": 7590.0,
     "total_gross": 66.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 346589,
@@ -8986,7 +8985,8 @@
     "max_gross": 9900.0,
     "total_gross": 0.0,
     "price": 25.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 43775,
@@ -9105,8 +9105,7 @@
     "max_gross": 4232.0,
     "total_gross": 0.0,
     "price": 23.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 245614,
@@ -9228,5 +9227,22 @@
     "price": 28.0,
     "error": false,
     "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+  },
+  {
+    "id": 378750,
+    "cinemaId": "TTPLZA",
+    "movieId": "HO00010700",
+    "date": "2025-09-21T17:00:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 10",
+    "operator": "TTP",
+    "total": 153,
+    "sold": 0,
+    "available": 153,
+    "occupancy": 0.0,
+    "max_gross": 3978.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   }
 ]

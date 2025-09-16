@@ -8504,8 +8504,7 @@
     "max_gross": 2716.0,
     "total_gross": 56.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 312416,
@@ -8858,11 +8857,11 @@
     "screenName": "Cinema 07",
     "operator": "HIG",
     "total": 210,
-    "sold": 0,
-    "available": 210,
-    "occupancy": 0.0,
+    "sold": 5,
+    "available": 205,
+    "occupancy": 2.38,
     "max_gross": 5460.0,
-    "total_gross": 0.0,
+    "total_gross": 130.0,
     "price": 26.0,
     "error": false
   },
@@ -8881,8 +8880,7 @@
     "max_gross": 2660.0,
     "total_gross": 95.0,
     "price": 19.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 274755,
@@ -8916,7 +8914,8 @@
     "max_gross": 4232.0,
     "total_gross": 46.0,
     "price": 23.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 41808,
@@ -9046,14 +9045,13 @@
     "screenName": "Cinema 10",
     "operator": "TTP",
     "total": 153,
-    "sold": 7,
-    "available": 146,
-    "occupancy": 4.58,
+    "sold": 9,
+    "available": 144,
+    "occupancy": 5.88,
     "max_gross": 3978.0,
-    "total_gross": 182.0,
+    "total_gross": 234.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 429959,
@@ -9088,7 +9086,8 @@
     "max_gross": 5880.0,
     "total_gross": 56.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 172328,
@@ -9105,8 +9104,7 @@
     "max_gross": 3454.5,
     "total_gross": 0.0,
     "price": 23.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 409783,
@@ -9123,8 +9121,7 @@
     "max_gross": 7590.0,
     "total_gross": 0.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 333458,
@@ -9141,7 +9138,8 @@
     "max_gross": 3445.0,
     "total_gross": 0.0,
     "price": 26.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 501085,
@@ -9158,7 +9156,8 @@
     "max_gross": 6696.0,
     "total_gross": 310.0,
     "price": 31.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 359142,
@@ -9192,8 +9191,7 @@
     "max_gross": 5700.0,
     "total_gross": 0.0,
     "price": 28.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 313665,
@@ -9244,8 +9242,7 @@
     "max_gross": 11951.0,
     "total_gross": 0.0,
     "price": 19.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 359013,
@@ -9296,7 +9293,8 @@
     "max_gross": 12996.0,
     "total_gross": 0.0,
     "price": 19.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 287268,
@@ -9342,11 +9340,11 @@
     "screenName": "Cinema 08",
     "operator": "DOC",
     "total": 98,
-    "sold": 3,
-    "available": 95,
-    "occupancy": 3.06,
+    "sold": 5,
+    "available": 93,
+    "occupancy": 5.1,
     "max_gross": 2744.0,
-    "total_gross": 84.0,
+    "total_gross": 140.0,
     "price": 28.0,
     "error": false
   },
@@ -9465,6 +9463,40 @@
     "available": 140,
     "occupancy": 0.0,
     "max_gross": 3640.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
+  },
+  {
+    "id": 378749,
+    "cinemaId": "TTPLZA",
+    "movieId": "HO00010700",
+    "date": "2025-09-20T21:00:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 06",
+    "operator": "TTP",
+    "total": 160,
+    "sold": 0,
+    "available": 160,
+    "occupancy": 0.0,
+    "max_gross": 4160.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
+  },
+  {
+    "id": 378751,
+    "cinemaId": "TTPLZA",
+    "movieId": "HO00010700",
+    "date": "2025-09-20T17:00:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 10",
+    "operator": "TTP",
+    "total": 153,
+    "sold": 0,
+    "available": 153,
+    "occupancy": 0.0,
+    "max_gross": 3978.0,
     "total_gross": 0.0,
     "price": 26.0,
     "error": false
