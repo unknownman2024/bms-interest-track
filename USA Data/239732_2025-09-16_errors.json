@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-16 07:58:27 PM",
+  "last_updated": "2025-09-16 08:56:02 PM",
   "errors": [
     {
       "state": "MA",
@@ -3029,126 +3029,6 @@
       "language": "English",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Homestead",
-      "zip": "15120",
-      "theater_name": "AMC Waterfront 22",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512295383,
-      "date": "2025-09-16+18:05",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Homestead",
-      "zip": "15120",
-      "theater_name": "AMC Waterfront 22",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512295384,
-      "date": "2025-09-16+21:35",
-      "format": "IMAX",
-      "language": "Japanese",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Homestead",
-      "zip": "15120",
-      "theater_name": "AMC Waterfront 22",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512295385,
-      "date": "2025-09-16+14:25",
-      "format": "IMAX",
-      "language": "Japanese",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Homestead",
-      "zip": "15120",
-      "theater_name": "AMC Waterfront 22",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 513215886,
-      "date": "2025-09-16+19:45",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Homestead",
-      "zip": "15120",
-      "theater_name": "AMC Waterfront 22",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 513215887,
-      "date": "2025-09-16+16:10",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Homestead",
-      "zip": "15120",
-      "theater_name": "AMC Waterfront 22",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515218913,
-      "date": "2025-09-16+20:45",
-      "format": "Dolby Cinema",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Homestead",
-      "zip": "15120",
-      "theater_name": "AMC Waterfront 22",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515218915,
-      "date": "2025-09-16+13:35",
-      "format": "Dolby Cinema",
-      "language": "Japanese",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Homestead",
-      "zip": "15120",
-      "theater_name": "AMC Waterfront 22",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 515218914,
-      "date": "2025-09-16+17:10",
-      "format": "Dolby Cinema",
-      "language": "Japanese",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -23669,6 +23549,21 @@
       "language": "Japanese",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "NE",
+      "city": "Fremont",
+      "zip": "68025",
+      "theater_name": "Fremont Theaters",
+      "chainName": "Three Rau's Entertainment",
+      "chainCode": "RAU",
+      "showtime_id": 515297577,
+      "date": "2025-09-16+18:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
       }
     }
   ]
