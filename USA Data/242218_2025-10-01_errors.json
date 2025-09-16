@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-17 02:50:22 AM",
+  "last_updated": "2025-09-17 03:50:26 AM",
   "errors": [
     {
       "state": "GA",
@@ -104,6 +104,51 @@
       "language": "Telugu",
       "error": {
         "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "College Station",
+      "zip": "77845",
+      "theater_name": "Cinemark College Station and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516474924,
+      "date": "2025-10-01+14:20",
+      "format": "Standard",
+      "language": "Kannada",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "College Station",
+      "zip": "77845",
+      "theater_name": "Cinemark College Station and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516474925,
+      "date": "2025-10-01+18:20",
+      "format": "Standard",
+      "language": "Kannada",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "College Station",
+      "zip": "77845",
+      "theater_name": "Cinemark College Station and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516474926,
+      "date": "2025-10-01+22:15",
+      "format": "Standard",
+      "language": "Kannada",
+      "error": {
+        "status": 404
       }
     }
   ]
