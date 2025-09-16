@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-16 09:20:31 AM",
+  "last_updated": "2025-09-16 12:23:32 PM",
   "errors": [
     {
       "state": "MA",
@@ -820,6 +820,51 @@
       "chainCode": "AMC",
       "showtime_id": 516124374,
       "date": "2025-09-25+21:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fullerton",
+      "zip": "92832",
+      "theater_name": "AMC DINE-IN Fullerton 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516200952,
+      "date": "2025-09-25+22:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516222623,
+      "date": "2025-09-25+19:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Manteca",
+      "zip": "95337",
+      "theater_name": "AMC Manteca 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516208161,
+      "date": "2025-09-25+19:35",
       "format": "Standard",
       "language": "Telugu",
       "error": {
