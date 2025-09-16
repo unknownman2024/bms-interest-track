@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-16 09:16:38 PM",
+  "last_updated": "2025-09-17 12:20:42 AM",
   "errors": [
     {
       "state": "MA",
@@ -927,6 +927,81 @@
       "date": "2025-09-25+19:00",
       "format": "Standard",
       "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Alpharetta",
+      "zip": "30022",
+      "theater_name": "AMC DINE-IN North Point Mall 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516299731,
+      "date": "2025-09-25+14:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Alpharetta",
+      "zip": "30022",
+      "theater_name": "AMC DINE-IN North Point Mall 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516299732,
+      "date": "2025-09-25+18:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Alpharetta",
+      "zip": "30022",
+      "theater_name": "AMC DINE-IN North Point Mall 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516299733,
+      "date": "2025-09-25+22:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Columbus",
+      "zip": "31904",
+      "theater_name": "AMC Ritz 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516258480,
+      "date": "2025-09-25+19:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Melbourne",
+      "zip": "32940",
+      "theater_name": "AMC Avenue 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516311872,
+      "date": "2025-09-25+19:15",
+      "format": "Standard",
+      "language": "Unknown",
       "error": {
         "status": 500
       }
