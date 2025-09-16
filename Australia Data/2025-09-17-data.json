@@ -3066,8 +3066,7 @@
     "max_gross": 2496.0,
     "total_gross": 78.0,
     "price": 19.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 312268,
@@ -6228,11 +6227,11 @@
     "screenName": "Cinema 04",
     "operator": "WES",
     "total": 180,
-    "sold": 4,
-    "available": 176,
-    "occupancy": 2.22,
+    "sold": 8,
+    "available": 172,
+    "occupancy": 4.44,
     "max_gross": 5040.0,
-    "total_gross": 112.0,
+    "total_gross": 224.0,
     "price": 28.0,
     "error": false
   },
@@ -11596,7 +11595,8 @@
     "max_gross": 5510.0,
     "total_gross": 145.0,
     "price": 29.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 517580,
@@ -14383,7 +14383,8 @@
     "max_gross": 3332.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 245505,
@@ -30503,8 +30504,7 @@
     "max_gross": 2940.0,
     "total_gross": 0.0,
     "price": 21.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 286675,
@@ -31907,7 +31907,8 @@
     "max_gross": 2310.0,
     "total_gross": 687.5,
     "price": 27.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 78376,
@@ -32320,7 +32321,8 @@
     "max_gross": 4480.0,
     "total_gross": 224.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 362130,
@@ -36349,6 +36351,7 @@
     "max_gross": 2860.0,
     "total_gross": 0.0,
     "price": 27.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   }
 ]
