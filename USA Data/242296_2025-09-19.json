@@ -2629,11 +2629,11 @@
     "date": "2025-09-19+21:45",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 4,
-    "occupancy": 4.3,
-    "totalAvailableSeatCount": 89,
+    "totalSeatSold": 5,
+    "occupancy": 5.38,
+    "totalAvailableSeatCount": 88,
     "totalSeatCount": 93,
-    "grossRevenueUSD": 61.96,
+    "grossRevenueUSD": 77.45,
     "adultTicketPrice": 15.49
   },
   {
@@ -3130,9 +3130,12 @@
     "date": "2025-09-19+12:50",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 403
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 104,
+    "totalSeatCount": 104,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 13.99
   },
   {
     "state": "CA",
@@ -3169,5 +3172,41 @@
     "totalSeatCount": 169,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 15.49
+  },
+  {
+    "state": "VA",
+    "city": "Alexandria",
+    "zip": "22315",
+    "theater_name": "Regal Kingstowne ScreenX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 516233923,
+    "date": "2025-09-19+14:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 144,
+    "totalSeatCount": 144,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 11.99
+  },
+  {
+    "state": "VA",
+    "city": "Alexandria",
+    "zip": "22315",
+    "theater_name": "Regal Kingstowne ScreenX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 516233922,
+    "date": "2025-09-19+21:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 2,
+    "occupancy": 1.39,
+    "totalAvailableSeatCount": 142,
+    "totalSeatCount": 144,
+    "grossRevenueUSD": 29.98,
+    "adultTicketPrice": 14.99
   }
 ]
