@@ -909,8 +909,7 @@
     "max_gross": 6732.0,
     "total_gross": 231.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 245556,
@@ -938,11 +937,11 @@
     "screenName": "Xtremescreen 04",
     "operator": "WOD",
     "total": 161,
-    "sold": 38,
-    "available": 123,
-    "occupancy": 23.6,
+    "sold": 34,
+    "available": 127,
+    "occupancy": 21.12,
     "max_gross": 5071.5,
-    "total_gross": 1197.0,
+    "total_gross": 1071.0,
     "price": 31.5,
     "error": false
   },
@@ -1023,14 +1022,13 @@
     "screenName": "Xtremescreen 01",
     "operator": "CDS",
     "total": 278,
-    "sold": 43,
-    "available": 235,
-    "occupancy": 15.47,
+    "sold": 44,
+    "available": 234,
+    "occupancy": 15.83,
     "max_gross": 9452.0,
-    "total_gross": 1462.0,
+    "total_gross": 1496.0,
     "price": 34.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 318210,
@@ -1133,7 +1131,8 @@
     "max_gross": 7888.0,
     "total_gross": 68.0,
     "price": 34.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 346398,
@@ -1247,11 +1246,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "CDS",
     "total": 278,
-    "sold": 15,
-    "available": 263,
-    "occupancy": 5.4,
+    "sold": 19,
+    "available": 259,
+    "occupancy": 6.83,
     "max_gross": 9452.0,
-    "total_gross": 510.0,
+    "total_gross": 646.0,
     "price": 34.0,
     "error": false
   },
@@ -1281,11 +1280,11 @@
     "screenName": "Xtremescreen 04",
     "operator": "WOD",
     "total": 161,
-    "sold": 2,
-    "available": 159,
-    "occupancy": 1.24,
+    "sold": 4,
+    "available": 157,
+    "occupancy": 2.48,
     "max_gross": 5071.5,
-    "total_gross": 63.0,
+    "total_gross": 126.0,
     "price": 31.5,
     "error": false
   }
