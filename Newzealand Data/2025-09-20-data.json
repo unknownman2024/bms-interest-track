@@ -5752,5 +5752,25 @@
     "error": true,
     "error_msg": "HTTP 403",
     "last_error": "HTTP 403"
+  },
+  {
+    "id": 195250,
+    "cinemaId": "1011",
+    "movieId": "HO00007521",
+    "date": "2025-09-20T20:40:00",
+    "screenName": "Cinema 5",
+    "operator": "HIB",
+    "error": true,
+    "error_msg": "HTTP 403"
+  },
+  {
+    "id": 195248,
+    "cinemaId": "1011",
+    "movieId": "HO00008179",
+    "date": "2025-09-20T20:00:00",
+    "screenName": "Cinema 4",
+    "operator": "HIB",
+    "error": true,
+    "error_msg": "HTTP 403"
   }
 ]
