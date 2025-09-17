@@ -187,11 +187,11 @@
     "date": "2025-09-25+12:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 1,
-    "occupancy": 0.85,
-    "totalAvailableSeatCount": 116,
+    "totalSeatSold": 2,
+    "occupancy": 1.71,
+    "totalAvailableSeatCount": 115,
     "totalSeatCount": 117,
-    "grossRevenueUSD": 21.33,
+    "grossRevenueUSD": 42.66,
     "adultTicketPrice": 21.33
   },
   {
@@ -1735,11 +1735,11 @@
     "date": "2025-09-25+22:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 92,
+    "totalSeatSold": 3,
+    "occupancy": 3.26,
+    "totalAvailableSeatCount": 89,
     "totalSeatCount": 92,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 64.2,
     "adultTicketPrice": 21.4
   },
   {
@@ -2704,11 +2704,11 @@
     "date": "2025-09-25+20:55",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 87,
-    "occupancy": 46.77,
-    "totalAvailableSeatCount": 99,
+    "totalSeatSold": 85,
+    "occupancy": 45.7,
+    "totalAvailableSeatCount": 101,
     "totalSeatCount": 186,
-    "grossRevenueUSD": 1874.85,
+    "grossRevenueUSD": 1831.75,
     "adultTicketPrice": 21.55
   },
   {
@@ -12277,11 +12277,11 @@
     "date": "2025-09-25+18:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 18,
-    "occupancy": 15.93,
-    "totalAvailableSeatCount": 95,
+    "totalSeatSold": 21,
+    "occupancy": 18.58,
+    "totalAvailableSeatCount": 92,
     "totalSeatCount": 113,
-    "grossRevenueUSD": 389.7,
+    "grossRevenueUSD": 454.65,
     "adultTicketPrice": 21.65
   },
   {
@@ -14975,6 +14975,36 @@
     "chainCode": "AMC",
     "showtime_id": 516584211,
     "date": "2025-09-25+20:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 500
+    }
+  },
+  {
+    "state": "FL",
+    "city": "South Miami",
+    "zip": "33143",
+    "theater_name": "AMC Sunset Place 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 516587860,
+    "date": "2025-09-25+15:05",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 404
+    }
+  },
+  {
+    "state": "FL",
+    "city": "South Miami",
+    "zip": "33143",
+    "theater_name": "AMC Sunset Place 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 516587859,
+    "date": "2025-09-25+18:45",
     "format": "Standard",
     "language": "Telugu",
     "error": {
