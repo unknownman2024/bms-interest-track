@@ -2795,11 +2795,11 @@
     "screenName": "Cinema 07",
     "operator": "WES",
     "total": 225,
-    "sold": 27,
-    "available": 198,
-    "occupancy": 12.0,
+    "sold": 29,
+    "available": 196,
+    "occupancy": 12.89,
     "max_gross": 6300.0,
-    "total_gross": 756.0,
+    "total_gross": 812.0,
     "price": 28.0,
     "error": false
   },
@@ -2812,11 +2812,11 @@
     "screenName": "Xtremescreen 05",
     "operator": "WES",
     "total": 408,
-    "sold": 11,
-    "available": 397,
-    "occupancy": 2.7,
+    "sold": 12,
+    "available": 396,
+    "occupancy": 2.94,
     "max_gross": 13464.0,
-    "total_gross": 363.0,
+    "total_gross": 396.0,
     "price": 33.0,
     "error": false
   },
@@ -5332,7 +5332,8 @@
     "max_gross": 4480.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 333400,
