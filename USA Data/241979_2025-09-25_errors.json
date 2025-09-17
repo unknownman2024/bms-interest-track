@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-17 09:20:44 AM",
+  "last_updated": "2025-09-17 12:24:31 PM",
   "errors": [
     {
       "state": "MA",
@@ -1300,6 +1300,21 @@
       "chainCode": "AMC",
       "showtime_id": 516569286,
       "date": "2025-09-25+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Jose",
+      "zip": "95122",
+      "theater_name": "AMC Eastridge 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516584211,
+      "date": "2025-09-25+20:00",
       "format": "Standard",
       "language": "Telugu",
       "error": {
