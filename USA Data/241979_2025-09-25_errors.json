@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-17 09:15:41 PM",
+  "last_updated": "2025-09-18 12:23:54 AM",
   "errors": [
     {
       "state": "MA",
@@ -1360,6 +1360,36 @@
       "chainCode": "AMC",
       "showtime_id": 516590424,
       "date": "2025-09-25+22:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516593259,
+      "date": "2025-09-25+19:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Irving",
+      "zip": "75062",
+      "theater_name": "AMC Irving Mall 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516599692,
+      "date": "2025-09-25+19:10",
       "format": "Standard",
       "language": "Telugu",
       "error": {
