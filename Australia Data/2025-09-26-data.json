@@ -824,8 +824,7 @@
     "max_gross": 2952.0,
     "total_gross": 0.0,
     "price": 20.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 500725,
@@ -911,7 +910,8 @@
     "max_gross": 6732.0,
     "total_gross": 231.0,
     "price": 33.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 245556,
@@ -922,11 +922,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "BMW",
     "total": 134,
-    "sold": 5,
-    "available": 129,
-    "occupancy": 3.73,
+    "sold": 9,
+    "available": 125,
+    "occupancy": 6.72,
     "max_gross": 4020.0,
-    "total_gross": 150.0,
+    "total_gross": 270.0,
     "price": 30.0,
     "error": false
   },
@@ -962,7 +962,8 @@
     "max_gross": 8277.0,
     "total_gross": 0.0,
     "price": 31.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 248862,
@@ -979,8 +980,7 @@
     "max_gross": 3770.0,
     "total_gross": 667.0,
     "price": 29.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 262249,
@@ -1014,8 +1014,7 @@
     "max_gross": 6336.0,
     "total_gross": 256.0,
     "price": 32.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 313531,
@@ -1084,7 +1083,8 @@
     "max_gross": 4590.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 141395,
@@ -1153,8 +1153,7 @@
     "max_gross": 5040.0,
     "total_gross": 1953.0,
     "price": 31.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 272952,
@@ -1293,5 +1292,22 @@
     "price": 31.5,
     "error": false,
     "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+  },
+  {
+    "id": 359040,
+    "cinemaId": "WESCIN",
+    "movieId": "HO00010652",
+    "date": "2025-09-26T17:45:00",
+    "typeId": "XTREME",
+    "screenName": "Xtremescreen 05",
+    "operator": "WES",
+    "total": 408,
+    "sold": 4,
+    "available": 404,
+    "occupancy": 0.98,
+    "max_gross": 13464.0,
+    "total_gross": 132.0,
+    "price": 33.0,
+    "error": false
   }
 ]
