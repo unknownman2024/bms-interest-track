@@ -100,11 +100,11 @@
     "date": "2025-09-18+20:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 15,
-    "occupancy": 30.0,
-    "totalAvailableSeatCount": 35,
+    "totalSeatSold": 12,
+    "occupancy": 24.0,
+    "totalAvailableSeatCount": 38,
     "totalSeatCount": 50,
-    "grossRevenueUSD": 210.9,
+    "grossRevenueUSD": 168.72,
     "adultTicketPrice": 14.06
   },
   {
@@ -151,11 +151,11 @@
     "date": "2025-09-18+21:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 10,
-    "occupancy": 10.0,
-    "totalAvailableSeatCount": 90,
+    "totalSeatSold": 12,
+    "occupancy": 12.0,
+    "totalAvailableSeatCount": 88,
     "totalSeatCount": 100,
-    "grossRevenueUSD": 183.1,
+    "grossRevenueUSD": 219.72,
     "adultTicketPrice": 18.31
   },
   {
@@ -205,11 +205,11 @@
     "date": "2025-09-18+21:05",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 3,
-    "occupancy": 2.91,
-    "totalAvailableSeatCount": 100,
+    "totalSeatSold": 2,
+    "occupancy": 1.94,
+    "totalAvailableSeatCount": 101,
     "totalSeatCount": 103,
-    "grossRevenueUSD": 47.97,
+    "grossRevenueUSD": 31.98,
     "adultTicketPrice": 15.99
   },
   {
@@ -223,11 +223,11 @@
     "date": "2025-09-18+21:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 1,
-    "occupancy": 2.27,
-    "totalAvailableSeatCount": 43,
+    "totalSeatSold": 2,
+    "occupancy": 4.55,
+    "totalAvailableSeatCount": 42,
     "totalSeatCount": 44,
-    "grossRevenueUSD": 14.07,
+    "grossRevenueUSD": 28.14,
     "adultTicketPrice": 14.07
   },
   {
@@ -733,5 +733,23 @@
     "totalSeatCount": 165,
     "grossRevenueUSD": 221.0,
     "adultTicketPrice": 17.0
+  },
+  {
+    "state": "CA",
+    "city": "Fremont",
+    "zip": "94538",
+    "theater_name": "Cin\u00e9 Lounge Fremont 7",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 516607835,
+    "date": "2025-09-18+19:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 78,
+    "totalSeatCount": 78,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 12.75
   }
 ]
