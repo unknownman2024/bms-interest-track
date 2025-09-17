@@ -986,5 +986,43 @@
       "fee": 1.0,
       "grand": 17.0
     }
+  },
+  {
+    "venue": "central-parkway",
+    "movie": "Lokah Chapter: 1- Malayalam",
+    "perfIx": "18102",
+    "date": "2025-09-18",
+    "time": "10:00pm",
+    "total": 174,
+    "available": 174,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 11.5,
+      "tax": 1.5,
+      "fee": 1.25,
+      "grand": 14.25
+    }
+  },
+  {
+    "venue": "orleans",
+    "movie": "Thandakaaranyam- Tamil",
+    "perfIx": "910",
+    "date": "2025-09-19",
+    "time": "9:30pm",
+    "total": 213,
+    "available": 168,
+    "blocked": 45,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 13.27,
+      "tax": 1.73,
+      "fee": 1.25,
+      "grand": 16.25
+    }
   }
 ]
