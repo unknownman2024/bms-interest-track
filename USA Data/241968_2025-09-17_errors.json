@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-17 08:49:41 PM",
+  "last_updated": "2025-09-17 11:56:50 PM",
   "errors": [
     {
       "state": "FL",
@@ -29,6 +29,21 @@
       "language": "Tamil",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Charlotte",
+      "zip": "28273",
+      "theater_name": "AMC Carolina Pavilion 22",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 0,
+      "date": "2025-09-17+16:00",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 404
       }
     }
   ]

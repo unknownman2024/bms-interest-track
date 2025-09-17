@@ -28,11 +28,11 @@
     "date": "2025-09-17+20:55",
     "format": "Standard",
     "language": "Tamil",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 47,
+    "totalSeatSold": 1,
+    "occupancy": 2.13,
+    "totalAvailableSeatCount": 46,
     "totalSeatCount": 47,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 17.05,
     "adultTicketPrice": 17.05
   },
   {
@@ -154,11 +154,11 @@
     "date": "2025-09-17+16:20",
     "format": "Standard",
     "language": "Tamil",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 60,
+    "totalSeatSold": 1,
+    "occupancy": 1.67,
+    "totalAvailableSeatCount": 59,
     "totalSeatCount": 60,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 16.99,
     "adultTicketPrice": 16.99
   },
   {
@@ -580,11 +580,11 @@
     "date": "2025-09-17+17:45",
     "format": "Standard",
     "language": "Tamil",
-    "totalSeatSold": 4,
-    "occupancy": 3.39,
-    "totalAvailableSeatCount": 114,
+    "totalSeatSold": 7,
+    "occupancy": 5.93,
+    "totalAvailableSeatCount": 111,
     "totalSeatCount": 118,
-    "grossRevenueUSD": 35.96,
+    "grossRevenueUSD": 62.93,
     "adultTicketPrice": 8.99
   },
   {
@@ -688,11 +688,11 @@
     "date": "2025-09-17+16:10",
     "format": "Standard",
     "language": "Tamil",
-    "totalSeatSold": 3,
-    "occupancy": 6.98,
-    "totalAvailableSeatCount": 40,
+    "totalSeatSold": 4,
+    "occupancy": 9.3,
+    "totalAvailableSeatCount": 39,
     "totalSeatCount": 43,
-    "grossRevenueUSD": 42.18,
+    "grossRevenueUSD": 56.24,
     "adultTicketPrice": 14.06
   },
   {
@@ -760,11 +760,11 @@
     "date": "2025-09-17+11:30",
     "format": "Standard",
     "language": "Tamil",
-    "totalSeatSold": 2,
-    "occupancy": 4.44,
-    "totalAvailableSeatCount": 43,
+    "totalSeatSold": 10,
+    "occupancy": 22.22,
+    "totalAvailableSeatCount": 35,
     "totalSeatCount": 45,
-    "grossRevenueUSD": 24.5,
+    "grossRevenueUSD": 122.5,
     "adultTicketPrice": 12.25
   },
   {
@@ -964,5 +964,20 @@
     "totalSeatCount": 141,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 15.45
+  },
+  {
+    "state": "NC",
+    "city": "Charlotte",
+    "zip": "28273",
+    "theater_name": "AMC Carolina Pavilion 22",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 0,
+    "date": "2025-09-17+16:00",
+    "format": "Standard",
+    "language": "Tamil",
+    "error": {
+      "status": 404
+    }
   }
 ]
