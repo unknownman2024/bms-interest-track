@@ -933,9 +933,9 @@
     "id": 314024,
     "cinemaId": "CHDSTN",
     "movieId": "HO00010666",
-    "date": "2025-09-23T21:00:00",
+    "date": "2025-09-23T21:15:00",
     "typeId": "STANDARD",
-    "screenName": "Cinema 03",
+    "screenName": "Cinema 04",
     "operator": "CDS",
     "total": 220,
     "sold": 0,
@@ -1047,7 +1047,8 @@
     "max_gross": 5850.0,
     "total_gross": 78.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 172420,
@@ -1098,7 +1099,8 @@
     "max_gross": 12996.0,
     "total_gross": 0.0,
     "price": 19.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 333558,
@@ -1235,7 +1237,8 @@
     "max_gross": 1650.0,
     "total_gross": 0.0,
     "price": 25.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 213278,
@@ -1269,7 +1272,8 @@
     "max_gross": 4160.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 275132,
@@ -1355,7 +1359,8 @@
     "max_gross": 7590.0,
     "total_gross": 0.0,
     "price": 33.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 517914,
@@ -1559,8 +1564,7 @@
     "max_gross": 3886.0,
     "total_gross": 0.0,
     "price": 29.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 422512,
@@ -1588,11 +1592,11 @@
     "screenName": "Cinema 01",
     "operator": "SUN",
     "total": 96,
-    "sold": 4,
-    "available": 92,
-    "occupancy": 4.17,
+    "sold": 7,
+    "available": 89,
+    "occupancy": 7.29,
     "max_gross": 2400.0,
-    "total_gross": 100.0,
+    "total_gross": 175.0,
     "price": 25.0,
     "error": false
   },
