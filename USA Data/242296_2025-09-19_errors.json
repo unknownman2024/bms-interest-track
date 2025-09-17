@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-17 02:44:01 AM",
+  "last_updated": "2025-09-17 06:18:44 AM",
   "errors": [
     {
       "state": "IL",
@@ -62,21 +62,6 @@
       }
     },
     {
-      "state": "GA",
-      "city": "Lawrenceville",
-      "zip": "30043",
-      "theater_name": "AMC Sugarloaf Mills 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 516425589,
-      "date": "2025-09-19+12:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400
-      }
-    },
-    {
       "state": "WA",
       "city": "Monroe",
       "zip": "98272",
@@ -85,6 +70,36 @@
       "chainCode": "GLXY",
       "showtime_id": 516195758,
       "date": "2025-09-19+20:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27408",
+      "theater_name": "Red Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 516522543,
+      "date": "2025-09-19+14:20",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27408",
+      "theater_name": "Red Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 516522544,
+      "date": "2025-09-19+21:20",
       "format": "Standard",
       "language": "Hindi",
       "error": {
