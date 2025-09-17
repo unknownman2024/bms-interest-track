@@ -799,11 +799,11 @@
     "date": "2025-09-17+21:15",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 6,
-    "occupancy": 11.54,
-    "totalAvailableSeatCount": 46,
+    "totalSeatSold": 7,
+    "occupancy": 13.46,
+    "totalAvailableSeatCount": 45,
     "totalSeatCount": 52,
-    "grossRevenueUSD": 92.7,
+    "grossRevenueUSD": 108.15,
     "adultTicketPrice": 15.45
   },
   {
@@ -3424,11 +3424,11 @@
     "date": "2025-09-17+18:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 1,
-    "occupancy": 1.03,
-    "totalAvailableSeatCount": 96,
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 97,
     "totalSeatCount": 97,
-    "grossRevenueUSD": 12.96,
+    "grossRevenueUSD": 0.0,
     "adultTicketPrice": 12.96
   },
   {
@@ -4720,11 +4720,11 @@
     "date": "2025-09-17+14:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 71,
+    "totalSeatSold": 1,
+    "occupancy": 1.41,
+    "totalAvailableSeatCount": 70,
     "totalSeatCount": 71,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 12.6,
     "adultTicketPrice": 12.6
   },
   {
@@ -4936,11 +4936,11 @@
     "date": "2025-09-17+13:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 105,
+    "totalSeatSold": 1,
+    "occupancy": 0.95,
+    "totalAvailableSeatCount": 104,
     "totalSeatCount": 105,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 17.51,
     "adultTicketPrice": 17.51
   },
   {
@@ -5710,9 +5710,12 @@
     "date": "2025-09-17+22:20",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "exception": ""
-    }
+    "totalSeatSold": 6,
+    "occupancy": 5.56,
+    "totalAvailableSeatCount": 102,
+    "totalSeatCount": 108,
+    "grossRevenueUSD": 82.8,
+    "adultTicketPrice": 13.8
   },
   {
     "state": "TX",
@@ -7561,11 +7564,11 @@
     "date": "2025-09-17+21:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 4,
-    "occupancy": 4.3,
-    "totalAvailableSeatCount": 89,
+    "totalSeatSold": 7,
+    "occupancy": 7.53,
+    "totalAvailableSeatCount": 86,
     "totalSeatCount": 93,
-    "grossRevenueUSD": 68.0,
+    "grossRevenueUSD": 119.0,
     "adultTicketPrice": 17.0
   },
   {
@@ -8947,11 +8950,11 @@
     "date": "2025-09-17+11:20",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 3,
-    "occupancy": 6.12,
-    "totalAvailableSeatCount": 46,
+    "totalSeatSold": 2,
+    "occupancy": 4.08,
+    "totalAvailableSeatCount": 47,
     "totalSeatCount": 49,
-    "grossRevenueUSD": 48.0,
+    "grossRevenueUSD": 32.0,
     "adultTicketPrice": 16.0
   },
   {
@@ -9382,5 +9385,59 @@
     "error": {
       "status": 400
     }
+  },
+  {
+    "state": "GA",
+    "city": "Morrow",
+    "zip": "30260",
+    "theater_name": "AMC Southlake 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 515561931,
+    "date": "2025-09-17+22:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 39,
+    "totalSeatCount": 39,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 18.36
+  },
+  {
+    "state": "IL",
+    "city": "Chicago",
+    "zip": "60611",
+    "theater_name": "AMC River East 21",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 515595772,
+    "date": "2025-09-17+22:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 6,
+    "occupancy": 17.14,
+    "totalAvailableSeatCount": 29,
+    "totalSeatCount": 35,
+    "grossRevenueUSD": 114.24,
+    "adultTicketPrice": 19.04
+  },
+  {
+    "state": "AZ",
+    "city": "Flagstaff",
+    "zip": "86004",
+    "theater_name": "Harkins Flagstaff 16",
+    "chainName": "Harkins Theatres",
+    "chainCode": "HRKN",
+    "showtime_id": 515770765,
+    "date": "2025-09-17+20:50",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 2,
+    "occupancy": 1.96,
+    "totalAvailableSeatCount": 100,
+    "totalSeatCount": 102,
+    "grossRevenueUSD": 34.0,
+    "adultTicketPrice": 17.0
   }
 ]
