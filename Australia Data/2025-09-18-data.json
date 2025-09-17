@@ -5213,7 +5213,8 @@
     "max_gross": 6440.0,
     "total_gross": 28.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 141637,
@@ -5281,8 +5282,7 @@
     "max_gross": 4704.0,
     "total_gross": 56.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 429584,
