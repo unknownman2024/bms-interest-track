@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-18 12:54:10 AM",
+  "last_updated": "2025-09-18 01:50:43 AM",
   "errors": [
     {
       "state": "MA",
@@ -22332,6 +22332,21 @@
       "date": "2025-09-17+12:30",
       "format": "Dolby Cinema",
       "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Colorado Springs",
+      "zip": "80921",
+      "theater_name": "Icon Cinema Colorado Springs",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 516607552,
+      "date": "2025-09-17+13:30",
+      "format": "Standard",
+      "language": "English",
       "error": {
         "status": 404
       }
