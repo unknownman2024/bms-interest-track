@@ -937,11 +937,11 @@
     "typeId": "STANDARD",
     "screenName": "Cinema 03",
     "operator": "CDS",
-    "total": 230,
+    "total": 220,
     "sold": 0,
-    "available": 230,
+    "available": 220,
     "occupancy": 0.0,
-    "max_gross": 5980.0,
+    "max_gross": 5720.0,
     "total_gross": 0.0,
     "price": 26.0,
     "error": false
@@ -1012,7 +1012,8 @@
     "max_gross": 5460.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 287352,
@@ -1114,7 +1115,8 @@
     "max_gross": 3445.0,
     "total_gross": 0.0,
     "price": 26.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 273180,
@@ -1335,7 +1337,8 @@
     "max_gross": 4116.0,
     "total_gross": 84.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 409692,
@@ -1556,7 +1559,8 @@
     "max_gross": 3886.0,
     "total_gross": 0.0,
     "price": 29.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 422512,
