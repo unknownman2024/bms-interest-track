@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-17 11:53:46 PM",
+  "last_updated": "2025-09-18 12:54:10 AM",
   "errors": [
     {
       "state": "MA",
@@ -19883,21 +19883,6 @@
       "theater_name": "Regency Commerce 14",
       "chainName": "Regency Theatres",
       "chainCode": "RGCY",
-      "showtime_id": 515482432,
-      "date": "2025-09-17+19:05",
-      "format": "Standard",
-      "language": "Spanish",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "City Of Commerce",
-      "zip": "90022",
-      "theater_name": "Regency Commerce 14",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
       "showtime_id": 515482429,
       "date": "2025-09-17+13:25",
       "format": "Standard",
@@ -22256,6 +22241,96 @@
       "showtime_id": 515660639,
       "date": "2025-09-17+12:30",
       "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10023",
+      "theater_name": "AMC Lincoln Square 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515062717,
+      "date": "2025-09-17+12:00",
+      "format": "IMAX",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10023",
+      "theater_name": "AMC Lincoln Square 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515067476,
+      "date": "2025-09-17+12:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 514226445,
+      "date": "2025-09-17+12:00",
+      "format": "IMAX",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 511436993,
+      "date": "2025-09-17+13:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 514226449,
+      "date": "2025-09-17+13:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 514226448,
+      "date": "2025-09-17+12:30",
+      "format": "Dolby Cinema",
       "language": "Japanese",
       "error": {
         "status": 404
