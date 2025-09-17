@@ -1,15 +1,16 @@
 import asyncio
 import aiohttp
+import random
 import os
 import json
 from collections import defaultdict
 from tqdm.asyncio import tqdm_asyncio
 from tabulate import tabulate
-
+from brotli import decompress   # test import
 # ---------------- CONFIG ----------------
 ALL_MOVIES = True  # set True to fetch all movies
 TARGET_MOVIE_IDS = ["HO00010415", "HO00010548"]
-CONCURRENCY_LIMIT = 500   # max concurrent requests
+CONCURRENCY_LIMIT = 5  # max concurrent requests
 
 CINEMAS_URL = "https://apim.hoyts.co.nz/nz/cinemaapi/api/cinemas"
 MOVIES_URL = "https://apim.hoyts.co.nz/nz/cinemaapi/api/movies/"
@@ -17,11 +18,48 @@ SESSIONS_URL_TEMPLATE = "https://apim.hoyts.co.nz/nz/cinemaapi/api/sessions/{cin
 SEATS_URL_TEMPLATE = "https://apim.hoyts.co.nz/nz/ticketing/api/v1/ticket/seats/{cinema_id}/{session_id}"
 TICKET_URL_TEMPLATE = "https://apim.hoyts.co.nz/nz/ticketing/api/v1/ticket/{cinema_id}/{session_id}"
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0",
-    "Accept": "application/json",
-}
+# Example User-Agent pool
+USER_AGENTS = [
+    # Chrome on Windows
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{version} Safari/537.36",
+    # Firefox on Windows
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:{version}) Gecko/20100101 Firefox/{version}",
+    # Chrome on Mac
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_{minor}_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{version} Safari/537.36",
+    # Safari on Mac
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_{minor}_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/{safari_ver} Safari/605.1.15",
+]
 
+def get_random_user_agent():
+    template = random.choice(USER_AGENTS)
+    return template.format(
+        version=f"{random.randint(10,1020)}.0.{random.randint(1000,5000)}.{random.randint(0,150)}",
+        minor=random.randint(12, 15),
+        safari_ver=f"{random.randint(13,17)}.0.{random.randint(1,3)}",
+    )
+
+def get_random_ip():
+    return ".".join(str(random.randint(1, 255)) for _ in range(4))
+
+def get_seatmap_headers():
+    random_ip = get_random_ip()
+    return {
+        "User-Agent": get_random_user_agent(),
+        "Accept": "application/json, text/plain, */*",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://hoyts.co.nz/",
+        "Origin": "https://hoyts.co.nz/",
+        "Connection": "keep-alive",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "same-site",
+        "DNT": "1",
+        "Pragma": "no-cache",
+        "Cache-Control": "no-cache",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
+    }
+
+
+HEADERS = get_seatmap_headers()
 # ---------------- HELPERS ----------------
 async def fetch_json(session, url):
     try:
