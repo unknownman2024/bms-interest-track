@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-17 05:19:20 AM",
+  "last_updated": "2025-09-17 06:36:54 AM",
   "errors": [
     {
       "state": "IL",
@@ -3580,6 +3580,96 @@
       "chainCode": "AMC",
       "showtime_id": 516511323,
       "date": "2025-09-24+20:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27408",
+      "theater_name": "Red Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 516534264,
+      "date": "2025-09-24+14:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27408",
+      "theater_name": "Red Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 516534265,
+      "date": "2025-09-24+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27408",
+      "theater_name": "Red Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 516534263,
+      "date": "2025-09-24+20:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Glendale",
+      "zip": "85305",
+      "theater_name": "AMC Westgate 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516534603,
+      "date": "2025-09-24+15:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Glendale",
+      "zip": "85305",
+      "theater_name": "AMC Westgate 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516534604,
+      "date": "2025-09-24+22:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92108",
+      "theater_name": "AMC Mission Valley 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516533039,
+      "date": "2025-09-24+20:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
