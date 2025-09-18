@@ -841,8 +841,7 @@
     "max_gross": 10106.0,
     "total_gross": 1457.0,
     "price": 31.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 359139,
@@ -859,8 +858,7 @@
     "max_gross": 14280.0,
     "total_gross": 210.0,
     "price": 30.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 517684,
@@ -877,7 +875,8 @@
     "max_gross": 10744.0,
     "total_gross": 2414.0,
     "price": 34.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 422047,
@@ -911,8 +910,7 @@
     "max_gross": 6732.0,
     "total_gross": 231.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 245556,
@@ -1025,11 +1023,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "CDS",
     "total": 278,
-    "sold": 57,
-    "available": 221,
-    "occupancy": 20.5,
+    "sold": 56,
+    "available": 222,
+    "occupancy": 20.14,
     "max_gross": 9452.0,
-    "total_gross": 1938.0,
+    "total_gross": 1904.0,
     "price": 34.0,
     "error": false
   },
@@ -1100,7 +1098,8 @@
     "max_gross": 13872.0,
     "total_gross": 1700.0,
     "price": 34.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 41807,
@@ -1151,7 +1150,8 @@
     "max_gross": 5040.0,
     "total_gross": 1669.5,
     "price": 31.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 272952,
@@ -1185,8 +1185,7 @@
     "max_gross": 4232.0,
     "total_gross": 184.0,
     "price": 23.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 274721,
@@ -1203,8 +1202,7 @@
     "max_gross": 8568.0,
     "total_gross": 1190.0,
     "price": 34.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 358628,
@@ -1442,6 +1440,84 @@
     "max_gross": 7480.0,
     "total_gross": 0.0,
     "price": 27.5,
+    "error": false
+  },
+  {
+    "id": 501322,
+    "cinemaId": "CAROUS",
+    "movieId": "HO00010652",
+    "date": "2025-09-26T10:00:00",
+    "typeId": "XTREME",
+    "screenName": "Xtreme 09",
+    "operator": "CAR",
+    "total": 216,
+    "sold": 0,
+    "available": 216,
+    "occupancy": 0.0,
+    "max_gross": 6696.0,
+    "total_gross": 0.0,
+    "price": 31.0,
+    "error": false
+  },
+  {
+    "id": 501296,
+    "cinemaId": "CAROUS",
+    "movieId": "HO00010652",
+    "date": "2025-09-26T16:30:00",
+    "screenName": "Cinema 05",
+    "operator": "CAR",
+    "error": true,
+    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+  },
+  {
+    "id": 501299,
+    "cinemaId": "CAROUS",
+    "movieId": "HO00010652",
+    "date": "2025-09-26T17:45:00",
+    "typeId": "XTREME",
+    "screenName": "Xtreme 01",
+    "operator": "CAR",
+    "total": 326,
+    "sold": 0,
+    "available": 326,
+    "occupancy": 0.0,
+    "max_gross": 10106.0,
+    "total_gross": 0.0,
+    "price": 31.0,
+    "error": false
+  },
+  {
+    "id": 501310,
+    "cinemaId": "CAROUS",
+    "movieId": "HO00010652",
+    "date": "2025-09-26T20:00:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 05",
+    "operator": "CAR",
+    "total": 200,
+    "sold": 0,
+    "available": 200,
+    "occupancy": 0.0,
+    "max_gross": 5200.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
+  },
+  {
+    "id": 501327,
+    "cinemaId": "CAROUS",
+    "movieId": "HO00010652",
+    "date": "2025-09-26T19:00:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 10",
+    "operator": "CAR",
+    "total": 228,
+    "sold": 0,
+    "available": 228,
+    "occupancy": 0.0,
+    "max_gross": 5928.0,
+    "total_gross": 0.0,
+    "price": 26.0,
     "error": false
   }
 ]

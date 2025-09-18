@@ -1562,5 +1562,32 @@
     "total_gross": 0.0,
     "price": 31.5,
     "error": false
+  },
+  {
+    "id": 501378,
+    "cinemaId": "CAROUS",
+    "movieId": "HO00010652",
+    "date": "2025-09-27T21:15:00",
+    "screenName": "Xtreme 01",
+    "operator": "CAR",
+    "error": true,
+    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+  },
+  {
+    "id": 501359,
+    "cinemaId": "CAROUS",
+    "movieId": "HO00010652",
+    "date": "2025-09-27T17:45:00",
+    "typeId": "XTREME",
+    "screenName": "Xtreme 01",
+    "operator": "CAR",
+    "total": 326,
+    "sold": 0,
+    "available": 326,
+    "occupancy": 0.0,
+    "max_gross": 10106.0,
+    "total_gross": 0.0,
+    "price": 31.0,
+    "error": false
   }
 ]
