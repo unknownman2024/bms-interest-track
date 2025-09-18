@@ -5247,7 +5247,8 @@
     "max_gross": 5400.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 272989,
@@ -5378,11 +5379,11 @@
     "screenName": "Cinema 02",
     "operator": "BEL",
     "total": 96,
-    "sold": 5,
-    "available": 91,
-    "occupancy": 5.21,
+    "sold": 7,
+    "available": 89,
+    "occupancy": 7.29,
     "max_gross": 2640.0,
-    "total_gross": 137.5,
+    "total_gross": 192.5,
     "price": 27.5,
     "error": false
   },
@@ -5401,6 +5402,7 @@
     "max_gross": 4284.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   }
 ]

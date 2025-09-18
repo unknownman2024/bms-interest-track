@@ -1538,11 +1538,11 @@
     "screenName": "Xtremescreen 05",
     "operator": "BEL",
     "total": 160,
-    "sold": 9,
-    "available": 151,
-    "occupancy": 5.62,
+    "sold": 12,
+    "available": 148,
+    "occupancy": 7.5,
     "max_gross": 5040.0,
-    "total_gross": 283.5,
+    "total_gross": 378.0,
     "price": 31.5,
     "error": false
   },
@@ -1551,9 +1551,16 @@
     "cinemaId": "BELCON",
     "movieId": "HO00010652",
     "date": "2025-09-27T21:15:00",
+    "typeId": "XTREME",
     "screenName": "Xtremescreen 05",
     "operator": "BEL",
-    "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 160,
+    "sold": 0,
+    "available": 160,
+    "occupancy": 0.0,
+    "max_gross": 5040.0,
+    "total_gross": 0.0,
+    "price": 31.5,
+    "error": false
   }
 ]
