@@ -557,11 +557,11 @@
     "date": "2025-09-19",
     "time": "10:00pm",
     "total": 203,
-    "available": 160,
+    "available": 154,
     "blocked": 28,
-    "sold": 15,
-    "gross": 212.4,
-    "gross_with_tax": 258.75,
+    "sold": 21,
+    "gross": 297.36,
+    "gross_with_tax": 362.25,
     "per_ticket": {
       "net": 14.16,
       "tax": 1.84,
@@ -671,11 +671,11 @@
     "date": "2025-09-19",
     "time": "10:30pm",
     "total": 281,
-    "available": 262,
+    "available": 250,
     "blocked": 19,
-    "sold": 0,
-    "gross": 0.0,
-    "gross_with_tax": 0.0,
+    "sold": 12,
+    "gross": 201.72,
+    "gross_with_tax": 243.0,
     "per_ticket": {
       "net": 16.81,
       "tax": 2.19,
@@ -747,11 +747,11 @@
     "date": "2025-09-19",
     "time": "9:45pm",
     "total": 251,
-    "available": 249,
+    "available": 247,
     "blocked": 0,
-    "sold": 2,
-    "gross": 21.24,
-    "gross_with_tax": 26.5,
+    "sold": 4,
+    "gross": 42.48,
+    "gross_with_tax": 53.0,
     "per_ticket": {
       "net": 10.62,
       "tax": 1.38,
@@ -1013,11 +1013,11 @@
     "date": "2025-09-19",
     "time": "6:00pm",
     "total": 128,
-    "available": 119,
+    "available": 117,
     "blocked": 1,
-    "sold": 8,
-    "gross": 128.0,
-    "gross_with_tax": 136.0,
+    "sold": 10,
+    "gross": 160.0,
+    "gross_with_tax": 170.0,
     "per_ticket": {
       "net": 16.0,
       "tax": 0.0,
@@ -1099,6 +1099,44 @@
       "tax": 0.0,
       "fee": 1.0,
       "grand": 11.75
+    }
+  },
+  {
+    "venue": "garden-city",
+    "movie": "Downton Abbey: The Grand Finale- English",
+    "perfIx": "1518",
+    "date": "2025-09-19",
+    "time": "8:45pm",
+    "total": 156,
+    "available": 156,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.2,
+      "tax": 1.8,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "garden-city",
+    "movie": "Him- English",
+    "perfIx": "1477",
+    "date": "2025-09-19",
+    "time": "9:00pm",
+    "total": 199,
+    "available": 199,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.2,
+      "tax": 1.8,
+      "fee": 1.25,
+      "grand": 11.25
     }
   }
 ]
