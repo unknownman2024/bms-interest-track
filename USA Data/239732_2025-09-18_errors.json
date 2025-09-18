@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-18 02:49:35 PM",
+  "last_updated": "2025-09-18 03:52:11 PM",
   "errors": [
     {
       "state": "CT",
@@ -18618,51 +18618,6 @@
     },
     {
       "state": "CA",
-      "city": "Lancaster",
-      "zip": "93534",
-      "theater_name": "Regency Blvd Cinemas",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515369899,
-      "date": "2025-09-18+12:00",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Lancaster",
-      "zip": "93534",
-      "theater_name": "Regency Blvd Cinemas",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515369900,
-      "date": "2025-09-18+15:20",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Lancaster",
-      "zip": "93534",
-      "theater_name": "Regency Blvd Cinemas",
-      "chainName": "Regency Theatres",
-      "chainCode": "RGCY",
-      "showtime_id": 515369905,
-      "date": "2025-09-18+18:40",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
       "city": "Oxnard",
       "zip": "93030",
       "theater_name": "Plaza Cinemas 14",
@@ -19934,6 +19889,36 @@
       "language": "Unknown",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Sewell",
+      "zip": "08080",
+      "theater_name": "Regal UA Washington Township",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515713694,
+      "date": "2025-09-18+12:00",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Cherry Hill",
+      "zip": "08002",
+      "theater_name": "AMC Cherry Hill 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 512674593,
+      "date": "2025-09-18+20:30",
+      "format": "Standard",
+      "language": "Japanese",
+      "error": {
+        "status": 404
       }
     }
   ]
