@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-19 02:51:06 AM",
+  "last_updated": "2025-09-19 03:53:12 AM",
   "errors": [
     {
       "state": "NJ",
@@ -194,6 +194,21 @@
       "language": "Telugu",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Overland Park",
+      "zip": "66223",
+      "theater_name": "AMC DINE-IN Prairiefire 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516655797,
+      "date": "2025-09-18+16:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
       }
     }
   ]
