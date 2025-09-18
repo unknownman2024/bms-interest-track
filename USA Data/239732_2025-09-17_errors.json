@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-18 06:19:22 AM",
+  "last_updated": "2025-09-18 09:00:20 AM",
   "errors": [
     {
       "state": "MA",
@@ -22407,6 +22407,21 @@
       "date": "2025-09-17+15:15",
       "format": "Standard",
       "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85050",
+      "theater_name": "AMC Desert Ridge 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516632851,
+      "date": "2025-09-17+19:30",
+      "format": "Standard",
+      "language": "Unknown",
       "error": {
         "status": 404
       }
