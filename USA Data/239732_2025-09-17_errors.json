@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-18 04:53:45 AM",
+  "last_updated": "2025-09-18 06:19:22 AM",
   "errors": [
     {
       "state": "MA",
@@ -22360,6 +22360,51 @@
       "chainCode": "CWST",
       "showtime_id": 516616896,
       "date": "2025-09-17+13:05",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Salisbury",
+      "zip": "01952",
+      "theater_name": "Vision Max Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 516628159,
+      "date": "2025-09-17+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Dallas",
+      "zip": "75234",
+      "theater_name": "Cinemark Dallas XD and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516629233,
+      "date": "2025-09-17+18:20",
+      "format": "Standard",
+      "language": "Spanish",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Independence",
+      "zip": "97351",
+      "theater_name": "Independence Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 516629999,
+      "date": "2025-09-17+15:15",
       "format": "Standard",
       "language": "English",
       "error": {
