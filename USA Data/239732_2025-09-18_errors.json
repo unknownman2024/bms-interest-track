@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-18 08:51:05 PM",
+  "last_updated": "2025-09-18 09:51:27 PM",
   "errors": [
     {
       "state": "CT",
@@ -3254,96 +3254,6 @@
       "language": "English",
       "error": {
         "status": 400
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Fredericksburg",
-      "zip": "22401",
-      "theater_name": "Regal Fredericksburg & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511313847,
-      "date": "2025-09-18+12:10",
-      "format": "IMAX",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Fredericksburg",
-      "zip": "22401",
-      "theater_name": "Regal Fredericksburg & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511313851,
-      "date": "2025-09-18+15:30",
-      "format": "IMAX",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Fredericksburg",
-      "zip": "22401",
-      "theater_name": "Regal Fredericksburg & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511313848,
-      "date": "2025-09-18+14:40",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Fredericksburg",
-      "zip": "22401",
-      "theater_name": "Regal Fredericksburg & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511313846,
-      "date": "2025-09-18+18:00",
-      "format": "Standard",
-      "language": "Japanese",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Fredericksburg",
-      "zip": "22401",
-      "theater_name": "Regal Fredericksburg & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 515564836,
-      "date": "2025-09-18+13:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Fredericksburg",
-      "zip": "22401",
-      "theater_name": "Regal Fredericksburg & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 511313850,
-      "date": "2025-09-18+21:30",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -19244,6 +19154,21 @@
       "language": "Japanese",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33612",
+      "theater_name": "Sun-Ray Cinema",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 516641179,
+      "date": "2025-09-18+20:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
       }
     }
   ]
