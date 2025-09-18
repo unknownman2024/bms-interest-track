@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-18 04:52:02 AM",
+  "last_updated": "2025-09-18 06:56:44 AM",
   "errors": [
     {
       "state": "NJ",
@@ -134,6 +134,21 @@
       "language": "Telugu",
       "error": {
         "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Collierville",
+      "zip": "38017",
+      "theater_name": "Malco Collierville Cinema Grill & MXT",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 516629380,
+      "date": "2025-09-17+19:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 404
       }
     }
   ]
