@@ -8281,7 +8281,8 @@
     "max_gross": 2716.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 422162,
@@ -8780,7 +8781,8 @@
     "max_gross": 4480.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 301828,
@@ -8797,7 +8799,8 @@
     "max_gross": 1500.0,
     "total_gross": 50.0,
     "price": 25.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 213349,
@@ -8814,8 +8817,7 @@
     "max_gross": 2496.0,
     "total_gross": 117.0,
     "price": 19.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 275039,
@@ -9002,7 +9004,8 @@
     "max_gross": 5700.0,
     "total_gross": 0.0,
     "price": 28.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 313666,
@@ -9053,7 +9056,8 @@
     "max_gross": 11951.0,
     "total_gross": 0.0,
     "price": 19.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 73555,
@@ -9240,6 +9244,67 @@
     "max_gross": 3978.0,
     "total_gross": 52.0,
     "price": 26.0,
+    "error": false
+  },
+  {
+    "id": 359056,
+    "cinemaId": "WESCIN",
+    "movieId": "HO00010700",
+    "date": "2025-09-21T14:10:00",
+    "screenName": "Cinema 07",
+    "operator": "WES",
+    "error": true,
+    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+  },
+  {
+    "id": 359057,
+    "cinemaId": "WESCIN",
+    "movieId": "HO00010700",
+    "date": "2025-09-21T10:30:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 07",
+    "operator": "WES",
+    "total": 225,
+    "sold": 0,
+    "available": 225,
+    "occupancy": 0.0,
+    "max_gross": 6300.0,
+    "total_gross": 0.0,
+    "price": 28.0,
+    "error": false
+  },
+  {
+    "id": 359052,
+    "cinemaId": "WESCIN",
+    "movieId": "HO00010700",
+    "date": "2025-09-21T18:15:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 06",
+    "operator": "WES",
+    "total": 242,
+    "sold": 0,
+    "available": 242,
+    "occupancy": 0.0,
+    "max_gross": 6776.0,
+    "total_gross": 0.0,
+    "price": 28.0,
+    "error": false
+  },
+  {
+    "id": 359053,
+    "cinemaId": "WESCIN",
+    "movieId": "HO00010700",
+    "date": "2025-09-21T19:30:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 03",
+    "operator": "WES",
+    "total": 180,
+    "sold": 0,
+    "available": 180,
+    "occupancy": 0.0,
+    "max_gross": 5040.0,
+    "total_gross": 0.0,
+    "price": 28.0,
     "error": false
   }
 ]
