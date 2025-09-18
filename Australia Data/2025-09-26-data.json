@@ -824,7 +824,8 @@
     "max_gross": 2952.0,
     "total_gross": 0.0,
     "price": 20.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 500725,
@@ -858,7 +859,8 @@
     "max_gross": 14280.0,
     "total_gross": 210.0,
     "price": 30.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 517684,
@@ -926,8 +928,7 @@
     "max_gross": 4020.0,
     "total_gross": 420.0,
     "price": 30.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 334488,
@@ -944,8 +945,7 @@
     "max_gross": 5071.5,
     "total_gross": 1071.0,
     "price": 31.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 378331,
@@ -996,8 +996,7 @@
     "max_gross": 3933.0,
     "total_gross": 0.0,
     "price": 28.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 318557,
@@ -1025,11 +1024,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "CDS",
     "total": 278,
-    "sold": 51,
-    "available": 227,
-    "occupancy": 18.35,
+    "sold": 57,
+    "available": 221,
+    "occupancy": 20.5,
     "max_gross": 9452.0,
-    "total_gross": 1734.0,
+    "total_gross": 1938.0,
     "price": 34.0,
     "error": false
   },
@@ -1117,7 +1116,8 @@
     "max_gross": 9900.0,
     "total_gross": 180.0,
     "price": 30.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 409484,
@@ -1370,6 +1370,57 @@
     "available": 252,
     "occupancy": 0.0,
     "max_gross": 8568.0,
+    "total_gross": 0.0,
+    "price": 34.0,
+    "error": false
+  },
+  {
+    "id": 518267,
+    "cinemaId": "HIGPNT",
+    "movieId": "HO00010652",
+    "date": "2025-09-26T17:40:00",
+    "typeId": "STANDARD",
+    "screenName": "Xtremescreen 06",
+    "operator": "HIG",
+    "total": 316,
+    "sold": 0,
+    "available": 316,
+    "occupancy": 0.0,
+    "max_gross": 10744.0,
+    "total_gross": 0.0,
+    "price": 34.0,
+    "error": false
+  },
+  {
+    "id": 314244,
+    "cinemaId": "CHDSTN",
+    "movieId": "HO00010652",
+    "date": "2025-09-26T08:00:00",
+    "typeId": "XTREME",
+    "screenName": "Xtremescreen 01",
+    "operator": "CDS",
+    "total": 278,
+    "sold": 0,
+    "available": 278,
+    "occupancy": 0.0,
+    "max_gross": 9452.0,
+    "total_gross": 0.0,
+    "price": 34.0,
+    "error": false
+  },
+  {
+    "id": 314243,
+    "cinemaId": "CHDSTN",
+    "movieId": "HO00010652",
+    "date": "2025-09-26T11:40:00",
+    "typeId": "XTREME",
+    "screenName": "Xtremescreen 01",
+    "operator": "CDS",
+    "total": 278,
+    "sold": 0,
+    "available": 278,
+    "occupancy": 0.0,
+    "max_gross": 9452.0,
     "total_gross": 0.0,
     "price": 34.0,
     "error": false
