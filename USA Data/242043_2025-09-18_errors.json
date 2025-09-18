@@ -1,0 +1,65 @@
+{
+  "last_updated": "2025-09-18 02:55:55 PM",
+  "errors": [
+    {
+      "state": "NC",
+      "city": "Morrisville",
+      "zip": "27560",
+      "theater_name": "B&B Theatres Morrisville Park West 14",
+      "chainName": "B&B Theaters",
+      "chainCode": "BNBT",
+      "showtime_id": 516072290,
+      "date": "2025-09-18+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75025",
+      "theater_name": "Cinemark Legacy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516282614,
+      "date": "2025-09-18+21:55",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Orange",
+      "zip": "92867",
+      "theater_name": "Cinemark Century Orange and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516572517,
+      "date": "2025-09-18+19:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Monroe",
+      "zip": "98272",
+      "theater_name": "Galaxy Monroe",
+      "chainName": "Galaxy Theatres",
+      "chainCode": "GLXY",
+      "showtime_id": 516195947,
+      "date": "2025-09-18+17:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    }
+  ]
+}
