@@ -2818,7 +2818,8 @@
     "max_gross": 13464.0,
     "total_gross": 1023.0,
     "price": 33.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 358749,
@@ -5258,11 +5259,11 @@
     "screenName": "Cinema 02",
     "operator": "SOU",
     "total": 187,
-    "sold": 7,
-    "available": 180,
-    "occupancy": 3.74,
+    "sold": 8,
+    "available": 179,
+    "occupancy": 4.28,
     "max_gross": 5049.0,
-    "total_gross": 189.0,
+    "total_gross": 216.0,
     "price": 27.0,
     "error": false
   },
@@ -5298,8 +5299,7 @@
     "max_gross": 4116.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 287220,
