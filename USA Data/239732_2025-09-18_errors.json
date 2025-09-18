@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-18 11:48:49 PM",
+  "last_updated": "2025-09-19 12:49:20 AM",
   "errors": [
     {
       "state": "CT",
@@ -10383,36 +10383,6 @@
     },
     {
       "state": "IN",
-      "city": "Indianapolis",
-      "zip": "46278",
-      "theater_name": "AMC Traders Point 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 516311722,
-      "date": "2025-09-18+15:50",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Indianapolis",
-      "zip": "46278",
-      "theater_name": "AMC Traders Point 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 516311733,
-      "date": "2025-09-18+22:40",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 400
-      }
-    },
-    {
-      "state": "IN",
       "city": "Brownsburg",
       "zip": "46112",
       "theater_name": "GQT Brownsburg 8 GDX",
@@ -16503,36 +16473,6 @@
     },
     {
       "state": "CO",
-      "city": "Colorado Springs",
-      "zip": "80920",
-      "theater_name": "AMC Chapel Hills 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512106932,
-      "date": "2025-09-18+16:10",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CO",
-      "city": "Colorado Springs",
-      "zip": "80920",
-      "theater_name": "AMC Chapel Hills 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 512106933,
-      "date": "2025-09-18+19:45",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CO",
       "city": "Dillon",
       "zip": "80435",
       "theater_name": "Mitchell Theatres Skyline Cinema 8",
@@ -19244,6 +19184,66 @@
       "language": "English",
       "error": {
         "exception": ""
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "theater_name": "AMC Regency 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516644273,
+      "date": "2025-09-18+13:30",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Valparaiso",
+      "zip": "46383",
+      "theater_name": "Cinemark Valparaiso",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516649971,
+      "date": "2025-09-18+13:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Valparaiso",
+      "zip": "46383",
+      "theater_name": "Cinemark Valparaiso",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516649979,
+      "date": "2025-09-18+12:25",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Poplar Bluff",
+      "zip": "63901",
+      "theater_name": "AMC CLASSIC Poplar Bluff 8",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516649248,
+      "date": "2025-09-18+14:00",
+      "format": "Standard",
+      "language": "English",
+      "error": {
+        "status": 400
       }
     }
   ]
