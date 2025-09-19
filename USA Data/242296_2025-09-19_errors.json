@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-19 02:54:15 PM",
+  "last_updated": "2025-09-19 05:53:13 PM",
   "errors": [
     {
       "state": "IL",
@@ -145,6 +145,51 @@
       "chainCode": "AMC",
       "showtime_id": 516682514,
       "date": "2025-09-19+14:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Randolph",
+      "zip": "02368",
+      "theater_name": "Showcase Cinemas de Lux Randolph",
+      "chainName": "National Amusement",
+      "chainCode": "NATA",
+      "showtime_id": 516391031,
+      "date": "2025-09-19+21:10",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Chandler",
+      "zip": "85226",
+      "theater_name": "Harkins Chandler Fashion 20",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 516682727,
+      "date": "2025-09-19+18:10",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Chandler",
+      "zip": "85226",
+      "theater_name": "Harkins Chandler Fashion 20",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 516682728,
+      "date": "2025-09-19+21:35",
       "format": "Standard",
       "language": "Hindi",
       "error": {
