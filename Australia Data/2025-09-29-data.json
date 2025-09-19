@@ -32,5 +32,39 @@
     "total_gross": 0.0,
     "price": 29.0,
     "error": false
+  },
+  {
+    "id": 430279,
+    "cinemaId": "WETHER",
+    "movieId": "HO00010652",
+    "date": "2025-09-29T18:00:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 10",
+    "operator": "WET",
+    "total": 140,
+    "sold": 0,
+    "available": 140,
+    "occupancy": 0.0,
+    "max_gross": 3920.0,
+    "total_gross": 0.0,
+    "price": 28.0,
+    "error": false
+  },
+  {
+    "id": 430297,
+    "cinemaId": "WETHER",
+    "movieId": "HO00010652",
+    "date": "2025-09-29T21:30:00",
+    "typeId": "XTREME",
+    "screenName": "Xtremescreen 05",
+    "operator": "WET",
+    "total": 204,
+    "sold": 0,
+    "available": 204,
+    "occupancy": 0.0,
+    "max_gross": 6732.0,
+    "total_gross": 0.0,
+    "price": 33.0,
+    "error": false
   }
 ]

@@ -1578,8 +1578,7 @@
     "max_gross": 10106.0,
     "total_gross": 124.0,
     "price": 31.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 501359,
@@ -1664,7 +1663,8 @@
     "max_gross": 5200.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 73959,
@@ -1681,7 +1681,8 @@
     "max_gross": 12996.0,
     "total_gross": 0.0,
     "price": 19.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 273390,
@@ -1709,11 +1710,11 @@
     "screenName": "Xtremescreen 05",
     "operator": "BMW",
     "total": 180,
-    "sold": 0,
-    "available": 180,
-    "occupancy": 0.0,
+    "sold": 4,
+    "available": 176,
+    "occupancy": 2.22,
     "max_gross": 5220.0,
-    "total_gross": 0.0,
+    "total_gross": 116.0,
     "price": 29.0,
     "error": false
   },
@@ -1766,8 +1767,7 @@
     "max_gross": 3528.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 213585,
@@ -1852,8 +1852,7 @@
     "max_gross": 9604.0,
     "total_gross": 0.0,
     "price": 24.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 262752,
@@ -1887,8 +1886,7 @@
     "max_gross": 16830.0,
     "total_gross": 0.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 318993,
@@ -1922,6 +1920,74 @@
     "max_gross": 6336.0,
     "total_gross": 0.0,
     "price": 32.0,
+    "error": false
+  },
+  {
+    "id": 430150,
+    "cinemaId": "WETHER",
+    "movieId": "HO00010652",
+    "date": "2025-09-27T18:00:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 10",
+    "operator": "WET",
+    "total": 140,
+    "sold": 0,
+    "available": 140,
+    "occupancy": 0.0,
+    "max_gross": 3920.0,
+    "total_gross": 0.0,
+    "price": 28.0,
+    "error": false
+  },
+  {
+    "id": 430168,
+    "cinemaId": "WETHER",
+    "movieId": "HO00010652",
+    "date": "2025-09-27T21:30:00",
+    "typeId": "XTREME",
+    "screenName": "Xtremescreen 05",
+    "operator": "WET",
+    "total": 204,
+    "sold": 0,
+    "available": 204,
+    "occupancy": 0.0,
+    "max_gross": 6732.0,
+    "total_gross": 0.0,
+    "price": 33.0,
+    "error": false
+  },
+  {
+    "id": 249301,
+    "cinemaId": "SUNBNK",
+    "movieId": "HO00010652",
+    "date": "2025-09-27T18:00:00",
+    "typeId": "XTREME",
+    "screenName": "Xtremescreen 3",
+    "operator": "SUN",
+    "total": 130,
+    "sold": 0,
+    "available": 130,
+    "occupancy": 0.0,
+    "max_gross": 3770.0,
+    "total_gross": 0.0,
+    "price": 29.0,
+    "error": false
+  },
+  {
+    "id": 249312,
+    "cinemaId": "SUNBNK",
+    "movieId": "HO00010652",
+    "date": "2025-09-27T21:30:00",
+    "typeId": "XTREME",
+    "screenName": "Xtremescreen 7",
+    "operator": "SUN",
+    "total": 130,
+    "sold": 0,
+    "available": 130,
+    "occupancy": 0.0,
+    "max_gross": 3770.0,
+    "total_gross": 0.0,
+    "price": 29.0,
     "error": false
   }
 ]
