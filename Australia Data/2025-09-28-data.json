@@ -597,10 +597,17 @@
     "cinemaId": "SLYCIN",
     "movieId": "HO00010652",
     "date": "2025-09-28T20:30:00",
+    "typeId": "XTREME",
     "screenName": "Xtremescreen 08",
     "operator": "SLY",
-    "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 184,
+    "sold": 0,
+    "available": 184,
+    "occupancy": 0.0,
+    "max_gross": 4232.0,
+    "total_gross": 0.0,
+    "price": 23.0,
+    "error": false
   },
   {
     "id": 312806,
@@ -634,8 +641,7 @@
     "max_gross": 3528.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 213614,
@@ -771,6 +777,33 @@
     "max_gross": 16830.0,
     "total_gross": 0.0,
     "price": 33.0,
+    "error": false
+  },
+  {
+    "id": 319036,
+    "cinemaId": "MTDRTT",
+    "movieId": "HO00010652",
+    "date": "2025-09-28T21:30:00",
+    "screenName": "Xtremescreen 03",
+    "operator": "MTD",
+    "error": true,
+    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+  },
+  {
+    "id": 319024,
+    "cinemaId": "MTDRTT",
+    "movieId": "HO00010652",
+    "date": "2025-09-28T18:00:00",
+    "typeId": "XTREME",
+    "screenName": "Xtremescreen 03",
+    "operator": "MTD",
+    "total": 198,
+    "sold": 0,
+    "available": 198,
+    "occupancy": 0.0,
+    "max_gross": 6336.0,
+    "total_gross": 0.0,
+    "price": 32.0,
     "error": false
   }
 ]

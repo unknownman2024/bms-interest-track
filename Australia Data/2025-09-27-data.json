@@ -1544,8 +1544,7 @@
     "max_gross": 5040.0,
     "total_gross": 441.0,
     "price": 31.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 346943,
@@ -1579,7 +1578,8 @@
     "max_gross": 10106.0,
     "total_gross": 124.0,
     "price": 31.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 501359,
@@ -1766,7 +1766,8 @@
     "max_gross": 3528.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 213585,
@@ -1800,8 +1801,7 @@
     "max_gross": 2860.0,
     "total_gross": 0.0,
     "price": 27.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 271727,
@@ -1852,7 +1852,8 @@
     "max_gross": 9604.0,
     "total_gross": 0.0,
     "price": 24.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 262752,
@@ -1869,8 +1870,7 @@
     "max_gross": 3933.0,
     "total_gross": 0.0,
     "price": 28.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 422942,
@@ -1887,6 +1887,41 @@
     "max_gross": 16830.0,
     "total_gross": 0.0,
     "price": 33.0,
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+  },
+  {
+    "id": 318993,
+    "cinemaId": "MTDRTT",
+    "movieId": "HO00010652",
+    "date": "2025-09-27T21:30:00",
+    "typeId": "XTREME",
+    "screenName": "Xtremescreen 03",
+    "operator": "MTD",
+    "total": 198,
+    "sold": 0,
+    "available": 198,
+    "occupancy": 0.0,
+    "max_gross": 6336.0,
+    "total_gross": 0.0,
+    "price": 32.0,
+    "error": false
+  },
+  {
+    "id": 318980,
+    "cinemaId": "MTDRTT",
+    "movieId": "HO00010652",
+    "date": "2025-09-27T18:00:00",
+    "typeId": "XTREME",
+    "screenName": "Xtremescreen 03",
+    "operator": "MTD",
+    "total": 198,
+    "sold": 0,
+    "available": 198,
+    "occupancy": 0.0,
+    "max_gross": 6336.0,
+    "total_gross": 0.0,
+    "price": 32.0,
     "error": false
   }
 ]
