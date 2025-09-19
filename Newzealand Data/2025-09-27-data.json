@@ -171,5 +171,15 @@
     "price": 27.0,
     "error": false,
     "last_error": "HTTP 403"
+  },
+  {
+    "id": 316867,
+    "cinemaId": "1005",
+    "movieId": "HO00008185",
+    "date": "2025-09-27T21:00:00",
+    "screenName": "Xtremescreen 5",
+    "operator": "RIC",
+    "error": true,
+    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   }
 ]

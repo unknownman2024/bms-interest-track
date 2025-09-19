@@ -163,14 +163,13 @@
     "screenName": "Xtremescreen 01",
     "operator": "CHC",
     "total": 384,
-    "sold": 0,
-    "available": 384,
-    "occupancy": 0.0,
+    "sold": 56,
+    "available": 328,
+    "occupancy": 14.58,
     "max_gross": 9600.0,
-    "total_gross": 0.0,
+    "total_gross": 1400.0,
     "price": 25.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 316636,
@@ -181,14 +180,13 @@
     "screenName": "Xtremescreen 5",
     "operator": "RIC",
     "total": 780,
-    "sold": 0,
-    "available": 780,
-    "occupancy": 0.0,
+    "sold": 9,
+    "available": 771,
+    "occupancy": 1.15,
     "max_gross": 17940.0,
-    "total_gross": 0.0,
+    "total_gross": 207.0,
     "price": 23.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 328336,
@@ -239,17 +237,25 @@
     "max_gross": 2592.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 68561,
     "cinemaId": "ORMCIN",
     "movieId": "HO00008185",
     "date": "2025-09-25T21:10:00",
+    "typeId": "XTREME",
     "screenName": "Xtremescreen 01",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 286,
+    "sold": 78,
+    "available": 208,
+    "occupancy": 27.27,
+    "max_gross": 9295.0,
+    "total_gross": 2535.0,
+    "price": 32.5,
+    "error": false
   },
   {
     "id": 69106,
@@ -266,7 +272,8 @@
     "max_gross": 5720.0,
     "total_gross": 780.0,
     "price": 32.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 400824,
@@ -283,7 +290,8 @@
     "max_gross": 1944.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 169745,
