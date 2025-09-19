@@ -220,9 +220,33 @@
     "cinemaId": "ARNCIN",
     "movieId": "HO00010652",
     "date": "2025-10-01T20:50:00",
+    "typeId": "XTREME",
     "screenName": "Xtremescreen 01",
     "operator": "ARN",
-    "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 684,
+    "sold": 0,
+    "available": 684,
+    "occupancy": 0.0,
+    "max_gross": 12996.0,
+    "total_gross": 0.0,
+    "price": 19.0,
+    "error": false
+  },
+  {
+    "id": 246000,
+    "cinemaId": "BMWCIN",
+    "movieId": "HO00010652",
+    "date": "2025-10-01T21:00:00",
+    "typeId": "XTREME",
+    "screenName": "Xtremescreen 05",
+    "operator": "BMW",
+    "total": 180,
+    "sold": 0,
+    "available": 180,
+    "occupancy": 0.0,
+    "max_gross": 5220.0,
+    "total_gross": 0.0,
+    "price": 29.0,
+    "error": false
   }
 ]
