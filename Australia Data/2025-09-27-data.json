@@ -1544,7 +1544,8 @@
     "max_gross": 5040.0,
     "total_gross": 441.0,
     "price": 31.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 346943,
@@ -1589,14 +1590,13 @@
     "screenName": "Xtreme 01",
     "operator": "CAR",
     "total": 326,
-    "sold": 12,
-    "available": 314,
-    "occupancy": 3.68,
+    "sold": 16,
+    "available": 310,
+    "occupancy": 4.91,
     "max_gross": 10106.0,
-    "total_gross": 372.0,
+    "total_gross": 496.0,
     "price": 31.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 43962,
@@ -1688,20 +1688,34 @@
     "cinemaId": "SOUTHL",
     "movieId": "HO00010652",
     "date": "2025-09-27T18:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 08",
     "operator": "SOU",
-    "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 189,
+    "sold": 0,
+    "available": 189,
+    "occupancy": 0.0,
+    "max_gross": 5103.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 246060,
     "cinemaId": "BMWCIN",
     "movieId": "HO00010652",
     "date": "2025-09-27T21:00:00",
+    "typeId": "XTREME",
     "screenName": "Xtremescreen 05",
     "operator": "BMW",
-    "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 180,
+    "sold": 0,
+    "available": 180,
+    "occupancy": 0.0,
+    "max_gross": 5220.0,
+    "total_gross": 0.0,
+    "price": 29.0,
+    "error": false
   },
   {
     "id": 287831,
@@ -1786,7 +1800,8 @@
     "max_gross": 2860.0,
     "total_gross": 0.0,
     "price": 27.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 271727,
@@ -1854,6 +1869,24 @@
     "max_gross": 3933.0,
     "total_gross": 0.0,
     "price": 28.5,
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+  },
+  {
+    "id": 422942,
+    "cinemaId": "EASTLN",
+    "movieId": "HO00010652",
+    "date": "2025-09-27T20:45:00",
+    "typeId": "XTREME",
+    "screenName": "Xtremescreen 03",
+    "operator": "EAS",
+    "total": 510,
+    "sold": 0,
+    "available": 510,
+    "occupancy": 0.0,
+    "max_gross": 16830.0,
+    "total_gross": 0.0,
+    "price": 33.0,
     "error": false
   }
 ]
