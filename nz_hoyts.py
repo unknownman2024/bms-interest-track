@@ -8,9 +8,9 @@ from tqdm.asyncio import tqdm_asyncio
 from tabulate import tabulate
 from brotli import decompress   # test import
 # ---------------- CONFIG ----------------
-ALL_MOVIES = True  # set True to fetch all movies
-TARGET_MOVIE_IDS = ["HO00010415", "HO00010548"]
-CONCURRENCY_LIMIT = 50  # max concurrent requests
+ALL_MOVIES = False  # set True to fetch all movies
+TARGET_MOVIE_IDS = ["HO00008185"]
+CONCURRENCY_LIMIT = 10  # max concurrent requests
 
 CINEMAS_URL = "https://nzhoyts.text2029mail.workers.dev/?api=cinemaapi/api/cinemas"
 MOVIES_URL = "https://nzhoyts.text2029mail.workers.dev/?api=cinemaapi/api/movies/"
