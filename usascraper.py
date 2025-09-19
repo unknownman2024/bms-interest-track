@@ -79,26 +79,27 @@ FORMAT_KEYWORDS = [
 
 # Example User-Agent pool
 USER_AGENTS = [
-    # Chrome on Windows
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{version} Safari/537.36",
-    # Firefox on Windows
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:{version}) Gecko/20100101 Firefox/{version}",
-    # Chrome on Mac
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_{minor}_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{version} Safari/537.36",
-    # Safari on Mac
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_{minor}_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/{safari_ver} Safari/605.1.15",
+    "Mozilla/5.2 (Windows NT 10.{minor}; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{version} Safari/537.{safari_ver}",
+    "Mozilla/5.2 (Macintosh; Intel Mac OS X 10_{minor}_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/{safari_ver} Safari/605.1.15",
+    "Mozilla/5.2 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{version} Safari/537.{safari_ver}",
+    "Mozilla/5.2 (iPhone; CPU iPhone OS {minor}_{safari_ver} like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/{safari_ver} Mobile/15E148 Safari/604.1",
+    "Mozilla/5.2 (Windows NT 6.{minor}; WOW64; rv:{safari_ver}) Gecko/20100101 Firefox/{version}",
 ]
-
 def get_random_user_agent():
     template = random.choice(USER_AGENTS)
     return template.format(
-        version=f"{random.randint(70,120)}.0.{random.randint(1000,5000)}.{random.randint(0,150)}",
-        minor=random.randint(12, 15),
-        safari_ver=f"{random.randint(13,17)}.0.{random.randint(1,3)}",
+        version=f"{random.randint(70,120)}.0.{random.randint(1000,9999)}.{random.randint(0,255)}",
+        minor=random.randint(0, 15),
+        safari_ver=f"{random.randint(10,20)}.{random.randint(0,9)}.{random.randint(0,9)}",
     )
 
 def get_random_ip():
-    return ".".join(str(random.randint(1, 255)) for _ in range(4))
+    # Avoid reserved/bogus ranges
+    while True:
+        ip = ".".join(str(random.randint(1, 254)) for _ in range(4))
+        first_octet = int(ip.split(".")[0])
+        if first_octet not in (10, 127, 169, 172, 192):  # skip private ranges
+            return ip
 
 
 def get_seatmap_headers():
