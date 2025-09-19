@@ -31,8 +31,7 @@
     "max_gross": 34400.0,
     "total_gross": 384.0,
     "price": 32.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 359523,
@@ -60,11 +59,11 @@
     "screenName": "Xtremescreen 5",
     "operator": "RIC",
     "total": 780,
-    "sold": 0,
-    "available": 780,
-    "occupancy": 0.0,
+    "sold": 1,
+    "available": 779,
+    "occupancy": 0.13,
     "max_gross": 17940.0,
-    "total_gross": 0.0,
+    "total_gross": 23.0,
     "price": 23.0,
     "error": false
   },
