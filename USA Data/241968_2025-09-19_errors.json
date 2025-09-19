@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-19 08:48:41 PM",
+  "last_updated": "2025-09-19 11:52:45 PM",
   "errors": [
     {
       "state": "MI",
@@ -55,6 +55,21 @@
       "chainCode": "CNMK",
       "showtime_id": 516271302,
       "date": "2025-09-19+22:15",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Sterling Heights",
+      "zip": "48314",
+      "theater_name": "AMC Forum 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 0,
+      "date": "2025-09-19+18:05",
       "format": "Standard",
       "language": "Tamil",
       "error": {
