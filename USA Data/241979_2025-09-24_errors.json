@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-19 06:55:45 PM",
+  "last_updated": "2025-09-19 07:18:17 PM",
   "errors": [
     {
       "state": "IL",
@@ -4349,6 +4349,21 @@
       "language": "Telugu",
       "error": {
         "status": 500
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Fort Wayne",
+      "zip": "46825",
+      "theater_name": "Regal Coldwater Crossing",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 516695715,
+      "date": "2025-09-24+14:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
       }
     }
   ]
