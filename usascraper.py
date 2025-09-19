@@ -35,7 +35,7 @@ MAX_WORKERS = 4  # For showtime fetching multiprocessing
 CONCURRENCY = 5  # For async seat fetching concurrency
 ZIP_FILE = "zipcodes.txt"
 ERROR_FILE_DEAD = "errored_seats.json"
-AUTHORIZATION_TOKEN = "<your-auth-token>"  # Replace here
+AUTHORIZATION_TOKEN = "zLLOvAMKR8gcew4o5XhvUzKAxIFPGBCsHixTTA+bOmk=.AQIDAHgkc5RGKnQifqNqiweNhz0UT2qkcIy+a2GG20Ti1kCgwAHdyLceqxFqU00LCmipZzQYAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMwSqM/j3SupedeUzfAgEQgDs1MMs3ogJQrE1Az/H6yWcPPkTqRxcr0+NBaE5iuBXzD+XsCuNX+X1y3mLlvWLnsbMnjnk1Hl671aANZw==.AQICAHigoaP0OXDFv1Ks5GINY4qfauMYrwQSiyX+5jjiYKmXvgHJpjGW336VXCYzM/qvTSpGAAAAgzCBgAYJKoZIhvcNAQcGoHMwcQIBADBsBgkqhkiG9w0BBwEwHgYJYIZIAWUDBAEuMBEEDPkLX172t+/CaGHLxQIBEIA/gsMa3S4+cfsS69es+n/GlwhFzJZLA84+rlgWBdfR6xDQ9YR7Jrsdq0DKPycnaDs6gBxaIyBUulohtkyouNPY.MTc1ODI2MDY1OQ=="  # Replace here
 SESSION_ID = "<your-session-id>"  # Replace here
 
 KNOWN_LANGUAGES = [
@@ -107,12 +107,15 @@ def get_seatmap_headers():
     return {
         "User-Agent": get_random_user_agent(),
         "Origin": "https://fandango.com",
-        "Referer": "https://tickets.fandango.com/mobileexpress/seatselection",
+        "Referer": "https://tickets.fandango.com/mobileexpress/seatselection?row_count=516165779&mid=239732&chainCode=ALAM&sdate=2025-09-19+21%3A45&tid=aaypc&route=map-seat-map",
         "Connection": "keep-alive",
         "Authorization": AUTHORIZATION_TOKEN,
         "X-Fd-Sessionid": SESSION_ID,
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "same-origin",
+        "pragma": "no-cache",
         "authority": "tickets.fandango.com",
-        "accept": "application/json",
+        "accept": "application/json, text/javascript, */*; q=0.01",
     }
 
 # === Helper functions for language and format extraction ===
