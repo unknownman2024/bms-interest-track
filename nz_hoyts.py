@@ -12,11 +12,11 @@ ALL_MOVIES = True  # set True to fetch all movies
 TARGET_MOVIE_IDS = ["HO00010415", "HO00010548"]
 CONCURRENCY_LIMIT = 5  # max concurrent requests
 
-CINEMAS_URL = "https://nzhoyts.text2029mail.workers.dev/cinemaapi/api/cinemas"
-MOVIES_URL = "https://nzhoyts.text2029mail.workers.dev/cinemaapi/api/movies/"
-SESSIONS_URL_TEMPLATE = "https://nzhoyts.text2029mail.workers.dev/cinemaapi/api/sessions/{cinema_id}"
-SEATS_URL_TEMPLATE = "https://nzhoyts.text2029mail.workers.dev/ticketing/api/v1/ticket/seats/{cinema_id}/{session_id}"
-TICKET_URL_TEMPLATE = "https://nzhoyts.text2029mail.workers.dev/ticketing/api/v1/ticket/{cinema_id}/{session_id}"
+CINEMAS_URL = "https://nzhoyts.text2029mail.workers.dev/?api=cinemaapi/api/cinemas"
+MOVIES_URL = "https://nzhoyts.text2029mail.workers.dev/?api=cinemaapi/api/movies/"
+SESSIONS_URL_TEMPLATE = "https://nzhoyts.text2029mail.workers.dev/?api=cinemaapi/api/sessions/{cinema_id}"
+SEATS_URL_TEMPLATE = "https://nzhoyts.text2029mail.workers.dev/?api=ticketing/api/v1/ticket/seats/{cinema_id}/{session_id}"
+TICKET_URL_TEMPLATE = "https://nzhoyts.text2029mail.workers.dev/?api=ticketing/api/v1/ticket/{cinema_id}/{session_id}"
 
 # Example User-Agent pool
 USER_AGENTS = [
