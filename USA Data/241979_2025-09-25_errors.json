@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-19 03:12:05 AM",
+  "last_updated": "2025-09-19 07:47:33 AM",
   "errors": [
     {
       "state": "MA",
@@ -1420,6 +1420,36 @@
       "chainCode": "AMC",
       "showtime_id": 516637346,
       "date": "2025-09-25+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Columbus",
+      "zip": "43219",
+      "theater_name": "AMC Dine-in Easton Town Center 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516667971,
+      "date": "2025-09-25+18:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Lombard",
+      "zip": "60148",
+      "theater_name": "AMC DINE-IN Yorktown 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516667915,
+      "date": "2025-09-25+21:55",
       "format": "Standard",
       "language": "Telugu",
       "error": {
