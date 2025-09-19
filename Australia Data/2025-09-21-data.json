@@ -8678,8 +8678,7 @@
     "max_gross": 8580.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 275049,
@@ -8696,7 +8695,8 @@
     "max_gross": 4160.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 333496,
@@ -8724,11 +8724,11 @@
     "screenName": "Xtremescreen 05",
     "operator": "WES",
     "total": 408,
-    "sold": 9,
-    "available": 399,
-    "occupancy": 2.21,
+    "sold": 13,
+    "available": 395,
+    "occupancy": 3.19,
     "max_gross": 13464.0,
-    "total_gross": 297.0,
+    "total_gross": 429.0,
     "price": 33.0,
     "error": false
   },
@@ -8861,11 +8861,11 @@
     "screenName": "Cinema 10",
     "operator": "TTP",
     "total": 153,
-    "sold": 15,
-    "available": 138,
-    "occupancy": 9.8,
+    "sold": 17,
+    "available": 136,
+    "occupancy": 11.11,
     "max_gross": 3978.0,
-    "total_gross": 390.0,
+    "total_gross": 442.0,
     "price": 26.0,
     "error": false
   },
@@ -8884,8 +8884,7 @@
     "max_gross": 4116.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 172352,
@@ -8987,7 +8986,8 @@
     "max_gross": 9900.0,
     "total_gross": 0.0,
     "price": 25.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 43775,
@@ -9021,8 +9021,7 @@
     "max_gross": 9174.0,
     "total_gross": 693.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 73554,
@@ -9039,8 +9038,7 @@
     "max_gross": 11951.0,
     "total_gross": 0.0,
     "price": 19.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 73553,
@@ -9057,8 +9055,7 @@
     "max_gross": 11951.0,
     "total_gross": 0.0,
     "price": 19.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 73555,
@@ -9109,8 +9106,7 @@
     "max_gross": 4232.0,
     "total_gross": 0.0,
     "price": 23.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 245614,
@@ -9138,11 +9134,11 @@
     "screenName": "Cinema 08",
     "operator": "DOC",
     "total": 98,
-    "sold": 23,
-    "available": 75,
-    "occupancy": 23.47,
+    "sold": 25,
+    "available": 73,
+    "occupancy": 25.51,
     "max_gross": 2744.0,
-    "total_gross": 644.0,
+    "total_gross": 700.0,
     "price": 28.0,
     "error": false
   },
@@ -9213,8 +9209,7 @@
     "max_gross": 3640.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 359012,
@@ -9282,7 +9277,8 @@
     "max_gross": 6300.0,
     "total_gross": 308.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 359052,
@@ -9333,7 +9329,8 @@
     "max_gross": 2652.0,
     "total_gross": 0.0,
     "price": 25.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 142023,
@@ -9384,6 +9381,7 @@
     "max_gross": 5040.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   }
 ]

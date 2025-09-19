@@ -841,7 +841,8 @@
     "max_gross": 10106.0,
     "total_gross": 1457.0,
     "price": 31.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 359139,
@@ -858,7 +859,8 @@
     "max_gross": 14280.0,
     "total_gross": 210.0,
     "price": 30.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 517684,
@@ -869,11 +871,11 @@
     "screenName": "Xtremescreen 06",
     "operator": "HIG",
     "total": 316,
-    "sold": 84,
-    "available": 232,
-    "occupancy": 26.58,
+    "sold": 88,
+    "available": 228,
+    "occupancy": 27.85,
     "max_gross": 10744.0,
-    "total_gross": 2856.0,
+    "total_gross": 2992.0,
     "price": 34.0,
     "error": false
   },
@@ -892,7 +894,8 @@
     "max_gross": 6868.0,
     "total_gross": 136.0,
     "price": 34.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 429528,
@@ -909,8 +912,7 @@
     "max_gross": 6732.0,
     "total_gross": 495.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 245556,
@@ -995,8 +997,7 @@
     "max_gross": 3933.0,
     "total_gross": 0.0,
     "price": 28.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 318557,
@@ -1100,7 +1101,8 @@
     "max_gross": 13872.0,
     "total_gross": 1802.0,
     "price": 34.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 41807,
@@ -1134,7 +1136,8 @@
     "max_gross": 7888.0,
     "total_gross": 238.0,
     "price": 34.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 346398,
@@ -1151,8 +1154,7 @@
     "max_gross": 5040.0,
     "total_gross": 1921.5,
     "price": 31.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 272952,
@@ -1186,8 +1188,7 @@
     "max_gross": 4232.0,
     "total_gross": 299.0,
     "price": 23.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 274721,
@@ -1238,8 +1239,7 @@
     "max_gross": 13872.0,
     "total_gross": 476.0,
     "price": 34.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 314060,
@@ -1273,7 +1273,8 @@
     "max_gross": 3876.0,
     "total_gross": 0.0,
     "price": 34.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 334753,
@@ -1307,8 +1308,7 @@
     "max_gross": 13464.0,
     "total_gross": 1617.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 346891,
@@ -1359,7 +1359,8 @@
     "max_gross": 8568.0,
     "total_gross": 68.0,
     "price": 34.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 275222,
@@ -1376,7 +1377,8 @@
     "max_gross": 8568.0,
     "total_gross": 0.0,
     "price": 34.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 518267,
@@ -1444,8 +1446,7 @@
     "max_gross": 7480.0,
     "total_gross": 0.0,
     "price": 27.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 501322,
@@ -1473,14 +1474,13 @@
     "screenName": "Cinema 05",
     "operator": "CAR",
     "total": 200,
-    "sold": 0,
-    "available": 200,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 198,
+    "occupancy": 1.0,
     "max_gross": 5200.0,
-    "total_gross": 0.0,
+    "total_gross": 52.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 501299,
@@ -1514,8 +1514,7 @@
     "max_gross": 5200.0,
     "total_gross": 546.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 501327,
@@ -1618,7 +1617,8 @@
     "max_gross": 3528.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 312701,
@@ -1703,8 +1703,7 @@
     "max_gross": 5133.0,
     "total_gross": 0.0,
     "price": 29.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 318911,
@@ -1721,8 +1720,7 @@
     "max_gross": 6336.0,
     "total_gross": 0.0,
     "price": 32.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 430014,
@@ -1773,7 +1771,8 @@
     "max_gross": 12342.0,
     "total_gross": 0.0,
     "price": 33.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 293417,
@@ -1790,7 +1789,8 @@
     "max_gross": 12342.0,
     "total_gross": 0.0,
     "price": 33.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 293424,
@@ -1824,6 +1824,7 @@
     "max_gross": 12342.0,
     "total_gross": 0.0,
     "price": 33.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   }
 ]
