@@ -16,6 +16,8 @@ jobs:
       # Step 1: Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # fetch full history so we can push forcefully
 
       # Step 2: Setup Python
       - name: Set up Python 3.11
@@ -36,8 +38,8 @@ jobs:
           python nz_hoyts.py
           echo "✅ Tracker finished."
 
-      # Step 5: Commit & push updates
-      - name: Commit & Push JSON data
+      # Step 5: Commit & force push updates
+      - name: Commit & Force Push JSON data
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
@@ -50,7 +52,8 @@ jobs:
           else
             echo "💾 Changes detected, committing..."
             git commit -m "🔄 Update data $(date -u +"%Y-%m-%d %H:%M:%S")"
-            echo "🚀 Pushing updates to main branch..."
-            git push origin main
-            echo "✅ Push complete."
+
+            echo "🚀 Force pushing updates to main branch..."
+            git push origin main --force
+            echo "✅ Force push complete."
           fi
