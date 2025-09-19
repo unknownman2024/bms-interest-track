@@ -1,13 +1,12 @@
 name: Newzealand HOYTS BoxOffice Tracker
 
-permissions:
-  contents: write        # allows pushing code/files
-  workflows: write       # allows updating workflows if needed
-
 on:
   schedule:
     - cron: "30 */2 * * *"   # every 2 hours at minute 30
-  workflow_dispatch:      # allows manual run
+  workflow_dispatch:          # allows manual run
+
+permissions:
+  contents: write             # allow workflow to push JSON updates
 
 jobs:
   run-tracker:
@@ -42,7 +41,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
+
           echo "🔍 Checking for changes in Newzealand Data..."
           git add "Newzealand Data/*.json"
 
@@ -52,6 +51,6 @@ jobs:
             echo "💾 Changes detected, committing..."
             git commit -m "🔄 Update data $(date -u +"%Y-%m-%d %H:%M:%S")"
             echo "🚀 Pushing updates to main branch..."
-            git push origin main --force
+            git push origin main
             echo "✅ Push complete."
           fi
