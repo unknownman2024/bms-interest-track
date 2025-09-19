@@ -15,7 +15,7 @@
     "total_gross": 0.0,
     "price": 27.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 326695,
@@ -33,7 +33,7 @@
     "total_gross": 0.0,
     "price": 24.5,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 399107,
@@ -44,13 +44,12 @@
     "screenName": "Cinema 6",
     "operator": "BOT",
     "total": 153,
-    "sold": 0,
-    "available": 153,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 151,
+    "occupancy": 1.31,
     "max_gross": 3978.0,
-    "total_gross": 0.0,
+    "total_gross": 52.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   }
 ]

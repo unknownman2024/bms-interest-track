@@ -32,8 +32,7 @@
     "max_gross": 1377.0,
     "total_gross": 54.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 468065,
@@ -44,14 +43,13 @@
     "screenName": "Cinema 4",
     "operator": "SYL",
     "total": 550,
-    "sold": 6,
-    "available": 544,
-    "occupancy": 1.09,
+    "sold": 9,
+    "available": 541,
+    "occupancy": 1.64,
     "max_gross": 14025.0,
-    "total_gross": 153.0,
+    "total_gross": 229.5,
     "price": 25.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 326686,
@@ -62,14 +60,13 @@
     "screenName": "Cinema 6",
     "operator": "TER",
     "total": 264,
-    "sold": 5,
-    "available": 259,
-    "occupancy": 1.89,
+    "sold": 7,
+    "available": 257,
+    "occupancy": 2.65,
     "max_gross": 6468.0,
-    "total_gross": 122.5,
+    "total_gross": 171.5,
     "price": 24.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 316353,
@@ -97,14 +94,13 @@
     "screenName": "METRO 4",
     "operator": "HAM",
     "total": 253,
-    "sold": 0,
-    "available": 253,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 251,
+    "occupancy": 0.79,
     "max_gross": 5819.0,
-    "total_gross": 0.0,
+    "total_gross": 46.0,
     "price": 23.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 359522,
@@ -115,14 +111,13 @@
     "screenName": "Cinema 3",
     "operator": "WPK",
     "total": 126,
-    "sold": 0,
-    "available": 126,
-    "occupancy": 0.0,
+    "sold": 4,
+    "available": 122,
+    "occupancy": 3.17,
     "max_gross": 3528.0,
-    "total_gross": 0.0,
+    "total_gross": 112.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 400373,
@@ -133,14 +128,13 @@
     "screenName": "Xtremescreen 1",
     "operator": "BOT",
     "total": 312,
-    "sold": 0,
-    "available": 312,
-    "occupancy": 0.0,
+    "sold": 30,
+    "available": 282,
+    "occupancy": 9.62,
     "max_gross": 10140.0,
-    "total_gross": 0.0,
+    "total_gross": 975.0,
     "price": 32.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 400374,
@@ -205,14 +199,13 @@
     "screenName": "Cinema 6",
     "operator": "TER",
     "total": 264,
-    "sold": 0,
-    "available": 264,
-    "occupancy": 0.0,
+    "sold": 3,
+    "available": 261,
+    "occupancy": 1.14,
     "max_gross": 6996.0,
-    "total_gross": 0.0,
+    "total_gross": 79.5,
     "price": 26.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 469505,
@@ -223,14 +216,13 @@
     "screenName": "XTREMESCREEN",
     "operator": "SYL",
     "total": 1075,
-    "sold": 0,
-    "available": 1075,
-    "occupancy": 0.0,
+    "sold": 19,
+    "available": 1056,
+    "occupancy": 1.77,
     "max_gross": 34400.0,
-    "total_gross": 0.0,
+    "total_gross": 608.0,
     "price": 32.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 469506,
@@ -247,7 +239,84 @@
     "max_gross": 2592.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
+  },
+  {
+    "id": 68561,
+    "cinemaId": "ORMCIN",
+    "movieId": "HO00008185",
+    "date": "2025-09-25T21:10:00",
+    "screenName": "Xtremescreen 01",
+    "operator": "ORM",
+    "error": true,
+    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+  },
+  {
+    "id": 69106,
+    "cinemaId": "ORMCIN",
+    "movieId": "HO00008185",
+    "date": "2025-09-25T10:00:00",
+    "typeId": "XTREME",
+    "screenName": "Xtremescreen 07",
+    "operator": "ORM",
+    "total": 176,
+    "sold": 24,
+    "available": 152,
+    "occupancy": 13.64,
+    "max_gross": 5720.0,
+    "total_gross": 780.0,
+    "price": 32.5,
+    "error": false
+  },
+  {
+    "id": 400824,
+    "cinemaId": "1012",
+    "movieId": "HO00008185",
+    "date": "2025-09-25T21:00:00",
+    "typeId": "LUX",
+    "screenName": "HOYTS LUX 01",
+    "operator": "BOTLP",
+    "total": 72,
+    "sold": 0,
+    "available": 72,
+    "occupancy": 0.0,
+    "max_gross": 1944.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
+  },
+  {
+    "id": 169745,
+    "cinemaId": "HAMCIN",
+    "movieId": "HO00007763",
+    "date": "2025-09-25T10:00:00",
+    "typeId": "STANDARD",
+    "screenName": "METRO 1",
+    "operator": "HAM",
+    "total": 126,
+    "sold": 44,
+    "available": 82,
+    "occupancy": 34.92,
+    "max_gross": 2646.0,
+    "total_gross": 924.0,
+    "price": 21.0,
+    "error": false
+  },
+  {
+    "id": 169755,
+    "cinemaId": "HAMCIN",
+    "movieId": "HO00007792",
+    "date": "2025-09-25T10:30:00",
+    "typeId": "STANDARD",
+    "screenName": "METRO 2",
+    "operator": "HAM",
+    "total": 126,
+    "sold": 42,
+    "available": 84,
+    "occupancy": 33.33,
+    "max_gross": 2646.0,
+    "total_gross": 882.0,
+    "price": 21.0,
+    "error": false
   }
 ]

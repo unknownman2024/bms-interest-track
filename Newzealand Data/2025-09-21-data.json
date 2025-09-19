@@ -8,14 +8,13 @@
     "screenName": "Cinema 6",
     "operator": "TER",
     "total": 264,
-    "sold": 13,
-    "available": 251,
-    "occupancy": 4.92,
+    "sold": 27,
+    "available": 237,
+    "occupancy": 10.23,
     "max_gross": 6468.0,
-    "total_gross": 318.5,
+    "total_gross": 661.5,
     "price": 24.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 274276,
@@ -32,8 +31,7 @@
     "max_gross": 1998.0,
     "total_gross": 277.5,
     "price": 18.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 396901,
@@ -51,7 +49,7 @@
     "total_gross": 26.0,
     "price": 26.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 398342,
@@ -69,7 +67,7 @@
     "total_gross": 104.0,
     "price": 26.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 193558,
@@ -80,14 +78,13 @@
     "screenName": "Cinema 4",
     "operator": "HIB",
     "total": 160,
-    "sold": 19,
-    "available": 141,
-    "occupancy": 11.88,
+    "sold": 36,
+    "available": 124,
+    "occupancy": 22.5,
     "max_gross": 2560.0,
-    "total_gross": 304.0,
+    "total_gross": 576.0,
     "price": 16.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 314997,
@@ -123,7 +120,7 @@
     "total_gross": 0.0,
     "price": 27.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 327925,
@@ -141,7 +138,7 @@
     "total_gross": 0.0,
     "price": 27.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 327923,
@@ -158,8 +155,7 @@
     "max_gross": 5292.0,
     "total_gross": 0.0,
     "price": 24.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 327924,
@@ -176,8 +172,7 @@
     "max_gross": 13068.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 327920,
@@ -195,7 +190,7 @@
     "total_gross": 0.0,
     "price": 27.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 276199,
@@ -212,8 +207,7 @@
     "max_gross": 2183.0,
     "total_gross": 0.0,
     "price": 18.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 327919,
@@ -230,8 +224,7 @@
     "max_gross": 5292.0,
     "total_gross": 0.0,
     "price": 24.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 327922,
@@ -242,20 +235,19 @@
     "screenName": "HOYTS LUX 08",
     "operator": "TERLP",
     "total": 57,
-    "sold": 0,
-    "available": 57,
-    "occupancy": 0.0,
+    "sold": 3,
+    "available": 54,
+    "occupancy": 5.26,
     "max_gross": 1539.0,
-    "total_gross": 0.0,
+    "total_gross": 81.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 276200,
     "cinemaId": "1004",
     "movieId": "HO00007763",
-    "date": "2025-09-21T18:00:00",
+    "date": "2025-09-21T18:15:00",
     "typeId": "STANDARD",
     "screenName": "Cinema 3",
     "operator": "NTH",
@@ -266,8 +258,7 @@
     "max_gross": 2183.0,
     "total_gross": 0.0,
     "price": 18.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 276237,
@@ -278,14 +269,13 @@
     "screenName": "Cinema 2",
     "operator": "NTH",
     "total": 72,
-    "sold": 11,
-    "available": 61,
-    "occupancy": 15.28,
-    "max_gross": 1116.0,
-    "total_gross": 170.5,
-    "price": 15.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "sold": 20,
+    "available": 52,
+    "occupancy": 27.78,
+    "max_gross": 1332.0,
+    "total_gross": 370.0,
+    "price": 18.5,
+    "error": false
   },
   {
     "id": 276196,
@@ -302,8 +292,7 @@
     "max_gross": 2183.0,
     "total_gross": 0.0,
     "price": 18.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 276194,
@@ -320,8 +309,7 @@
     "max_gross": 1295.0,
     "total_gross": 0.0,
     "price": 18.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 276197,
@@ -332,14 +320,13 @@
     "screenName": "Cinema 4",
     "operator": "NTH",
     "total": 160,
-    "sold": 0,
-    "available": 160,
-    "occupancy": 0.0,
+    "sold": 8,
+    "available": 152,
+    "occupancy": 5.0,
     "max_gross": 2960.0,
-    "total_gross": 0.0,
+    "total_gross": 148.0,
     "price": 18.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 276198,
@@ -350,14 +337,13 @@
     "screenName": "Cinema 3",
     "operator": "NTH",
     "total": 118,
-    "sold": 0,
-    "available": 118,
-    "occupancy": 0.0,
+    "sold": 3,
+    "available": 115,
+    "occupancy": 2.54,
     "max_gross": 2183.0,
-    "total_gross": 0.0,
+    "total_gross": 55.5,
     "price": 18.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 276238,
@@ -368,14 +354,13 @@
     "screenName": "Cinema 2",
     "operator": "NTH",
     "total": 72,
-    "sold": 0,
-    "available": 72,
-    "occupancy": 0.0,
-    "max_gross": 1116.0,
-    "total_gross": 0.0,
-    "price": 15.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "sold": 2,
+    "available": 70,
+    "occupancy": 2.78,
+    "max_gross": 1332.0,
+    "total_gross": 37.0,
+    "price": 18.5,
+    "error": false
   },
   {
     "id": 276195,
@@ -393,7 +378,7 @@
     "total_gross": 55.5,
     "price": 18.5,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 327912,
@@ -404,14 +389,13 @@
     "screenName": "Xtremescreen",
     "operator": "TER",
     "total": 484,
-    "sold": 0,
-    "available": 484,
-    "occupancy": 0.0,
+    "sold": 8,
+    "available": 476,
+    "occupancy": 1.65,
     "max_gross": 13068.0,
-    "total_gross": 0.0,
+    "total_gross": 216.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 327913,
@@ -440,14 +424,13 @@
     "screenName": "HOYTS LUX 08",
     "operator": "TERLP",
     "total": 57,
-    "sold": 0,
-    "available": 57,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 55,
+    "occupancy": 3.51,
     "max_gross": 1539.0,
-    "total_gross": 0.0,
+    "total_gross": 54.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 327917,
@@ -464,8 +447,7 @@
     "max_gross": 5346.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 327914,
@@ -494,14 +476,13 @@
     "screenName": "Cinema 2",
     "operator": "TER",
     "total": 216,
-    "sold": 2,
-    "available": 214,
-    "occupancy": 0.93,
+    "sold": 9,
+    "available": 207,
+    "occupancy": 4.17,
     "max_gross": 5292.0,
-    "total_gross": 49.0,
+    "total_gross": 220.5,
     "price": 24.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 327916,
@@ -512,14 +493,13 @@
     "screenName": "Xtremescreen",
     "operator": "TER",
     "total": 484,
-    "sold": 0,
-    "available": 484,
-    "occupancy": 0.0,
+    "sold": 5,
+    "available": 479,
+    "occupancy": 1.03,
     "max_gross": 13068.0,
-    "total_gross": 0.0,
+    "total_gross": 135.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 194928,
@@ -536,8 +516,7 @@
     "max_gross": 2016.0,
     "total_gross": 0.0,
     "price": 16.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 194899,
@@ -554,8 +533,7 @@
     "max_gross": 3072.0,
     "total_gross": 0.0,
     "price": 16.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 194901,
@@ -573,7 +551,7 @@
     "total_gross": 0.0,
     "price": 16.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 194902,
@@ -590,8 +568,7 @@
     "max_gross": 3072.0,
     "total_gross": 0.0,
     "price": 16.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 194898,
@@ -602,14 +579,13 @@
     "screenName": "Cinema 4",
     "operator": "HIB",
     "total": 160,
-    "sold": 0,
-    "available": 160,
-    "occupancy": 0.0,
+    "sold": 10,
+    "available": 150,
+    "occupancy": 6.25,
     "max_gross": 2560.0,
-    "total_gross": 0.0,
+    "total_gross": 160.0,
     "price": 16.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 194900,
@@ -626,8 +602,7 @@
     "max_gross": 3072.0,
     "total_gross": 0.0,
     "price": 16.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 194897,
@@ -645,7 +620,7 @@
     "total_gross": 0.0,
     "price": 16.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 316370,
@@ -893,8 +868,7 @@
     "max_gross": 9516.0,
     "total_gross": 0.0,
     "price": 30.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 399982,
@@ -905,14 +879,13 @@
     "screenName": "Xtremescreen 1",
     "operator": "BOT",
     "total": 312,
-    "sold": 0,
-    "available": 312,
-    "occupancy": 0.0,
+    "sold": 10,
+    "available": 302,
+    "occupancy": 3.21,
     "max_gross": 9516.0,
-    "total_gross": 0.0,
+    "total_gross": 305.0,
     "price": 30.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 79710,
@@ -947,7 +920,7 @@
     "total_gross": 0.0,
     "price": 30.5,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 399981,
@@ -964,8 +937,7 @@
     "max_gross": 1026.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 399983,
@@ -976,14 +948,13 @@
     "screenName": "HOYTS LUX 01",
     "operator": "BOTLP",
     "total": 72,
-    "sold": 0,
-    "available": 72,
-    "occupancy": 0.0,
+    "sold": 4,
+    "available": 68,
+    "occupancy": 5.56,
     "max_gross": 1944.0,
-    "total_gross": 0.0,
+    "total_gross": 108.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 400024,
@@ -1000,8 +971,7 @@
     "max_gross": 3978.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 399984,
@@ -1018,8 +988,7 @@
     "max_gross": 1944.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 400023,
@@ -1037,7 +1006,7 @@
     "total_gross": 0.0,
     "price": 26.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 399977,
@@ -1048,14 +1017,13 @@
     "screenName": "Xtremescreen 1",
     "operator": "BOT",
     "total": 312,
-    "sold": 0,
-    "available": 312,
-    "occupancy": 0.0,
+    "sold": 3,
+    "available": 309,
+    "occupancy": 0.96,
     "max_gross": 9516.0,
-    "total_gross": 0.0,
+    "total_gross": 91.5,
     "price": 30.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 399979,
@@ -1073,7 +1041,7 @@
     "total_gross": 0.0,
     "price": 26.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 399976,
@@ -1090,8 +1058,7 @@
     "max_gross": 1944.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 399980,
@@ -1102,14 +1069,13 @@
     "screenName": "Cinema 2",
     "operator": "BOT",
     "total": 172,
-    "sold": 0,
-    "available": 172,
-    "occupancy": 0.0,
+    "sold": 8,
+    "available": 164,
+    "occupancy": 4.65,
     "max_gross": 4472.0,
-    "total_gross": 0.0,
+    "total_gross": 208.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 469064,
@@ -1126,26 +1092,24 @@
     "max_gross": 18513.0,
     "total_gross": 51.0,
     "price": 25.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 469106,
     "cinemaId": "1002",
     "movieId": "HO00007792",
-    "date": "2025-09-21T10:00:00",
+    "date": "2025-09-21T11:20:00",
     "typeId": "STANDARD",
     "screenName": "Cinema 5",
     "operator": "SYL",
     "total": 207,
-    "sold": 0,
-    "available": 207,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 205,
+    "occupancy": 0.97,
     "max_gross": 5278.5,
-    "total_gross": 0.0,
+    "total_gross": 51.0,
     "price": 25.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 469061,
@@ -1162,8 +1126,7 @@
     "max_gross": 32250.0,
     "total_gross": 60.0,
     "price": 30.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 469062,
@@ -1181,7 +1144,7 @@
     "total_gross": 0.0,
     "price": 27.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 469063,
@@ -1198,8 +1161,7 @@
     "max_gross": 18513.0,
     "total_gross": 0.0,
     "price": 25.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 469069,
@@ -1216,8 +1178,7 @@
     "max_gross": 2592.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 469067,
@@ -1234,8 +1195,7 @@
     "max_gross": 2592.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 469065,
@@ -1252,8 +1212,7 @@
     "max_gross": 2592.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 469066,
@@ -1270,8 +1229,7 @@
     "max_gross": 32250.0,
     "total_gross": 0.0,
     "price": 30.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 469070,
@@ -1288,8 +1246,7 @@
     "max_gross": 32250.0,
     "total_gross": 0.0,
     "price": 30.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 469068,
@@ -1307,7 +1264,7 @@
     "total_gross": 0.0,
     "price": 30.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 169131,
@@ -1325,7 +1282,7 @@
     "total_gross": 0.0,
     "price": 21.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 169141,
@@ -1342,8 +1299,7 @@
     "max_gross": 5313.0,
     "total_gross": 0.0,
     "price": 21.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 169132,
@@ -1360,8 +1316,7 @@
     "max_gross": 4389.0,
     "total_gross": 0.0,
     "price": 21.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 169130,
@@ -1378,8 +1333,7 @@
     "max_gross": 4389.0,
     "total_gross": 0.0,
     "price": 21.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 169129,
@@ -1396,8 +1350,7 @@
     "max_gross": 4389.0,
     "total_gross": 0.0,
     "price": 21.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 169139,
@@ -1415,7 +1368,7 @@
     "total_gross": 0.0,
     "price": 21.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 169140,
@@ -1426,14 +1379,13 @@
     "screenName": "METRO 4",
     "operator": "HAM",
     "total": 253,
-    "sold": 0,
-    "available": 253,
-    "occupancy": 0.0,
+    "sold": 8,
+    "available": 245,
+    "occupancy": 3.16,
     "max_gross": 5313.0,
-    "total_gross": 0.0,
+    "total_gross": 168.0,
     "price": 21.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 359154,
@@ -1451,7 +1403,7 @@
     "total_gross": 0.0,
     "price": 26.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 359098,
@@ -1469,7 +1421,7 @@
     "total_gross": 0.0,
     "price": 26.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 359097,
@@ -1487,7 +1439,7 @@
     "total_gross": 208.0,
     "price": 26.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 359155,
@@ -1505,7 +1457,7 @@
     "total_gross": 0.0,
     "price": 26.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 359096,
@@ -1516,14 +1468,13 @@
     "screenName": "Cinema 5",
     "operator": "WPK",
     "total": 126,
-    "sold": 3,
-    "available": 123,
-    "occupancy": 2.38,
+    "sold": 9,
+    "available": 117,
+    "occupancy": 7.14,
     "max_gross": 3276.0,
-    "total_gross": 78.0,
+    "total_gross": 234.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 359156,
@@ -1541,7 +1492,7 @@
     "total_gross": 130.0,
     "price": 26.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 359157,
@@ -1552,14 +1503,13 @@
     "screenName": "Cinema 4",
     "operator": "WPK",
     "total": 114,
-    "sold": 0,
-    "available": 114,
-    "occupancy": 0.0,
+    "sold": 6,
+    "available": 108,
+    "occupancy": 5.26,
     "max_gross": 2964.0,
-    "total_gross": 0.0,
+    "total_gross": 156.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 177229,
@@ -1576,8 +1526,7 @@
     "max_gross": 3360.0,
     "total_gross": 480.0,
     "price": 24.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 177257,
@@ -1588,14 +1537,13 @@
     "screenName": "Cinema 3",
     "operator": "MIS",
     "total": 120,
-    "sold": 0,
-    "available": 120,
-    "occupancy": 0.0,
+    "sold": 12,
+    "available": 108,
+    "occupancy": 10.0,
     "max_gross": 2880.0,
-    "total_gross": 0.0,
+    "total_gross": 288.0,
     "price": 24.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 177260,
@@ -1613,7 +1561,7 @@
     "total_gross": 0.0,
     "price": 24.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 177231,
@@ -1630,8 +1578,7 @@
     "max_gross": 3360.0,
     "total_gross": 0.0,
     "price": 24.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 177228,
@@ -1648,8 +1595,7 @@
     "max_gross": 3360.0,
     "total_gross": 0.0,
     "price": 24.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 177227,
@@ -1667,7 +1613,7 @@
     "total_gross": 0.0,
     "price": 24.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 177258,
@@ -1684,8 +1630,7 @@
     "max_gross": 3360.0,
     "total_gross": 0.0,
     "price": 24.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 68234,
@@ -1702,8 +1647,7 @@
     "max_gross": 3120.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 68238,
@@ -1721,7 +1665,7 @@
     "total_gross": 0.0,
     "price": 30.5,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 68239,
@@ -1732,14 +1676,13 @@
     "screenName": "Xtremescreen 01",
     "operator": "ORM",
     "total": 286,
-    "sold": 0,
-    "available": 286,
-    "occupancy": 0.0,
+    "sold": 4,
+    "available": 282,
+    "occupancy": 1.4,
     "max_gross": 8723.0,
-    "total_gross": 0.0,
+    "total_gross": 122.0,
     "price": 30.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 68240,
@@ -1757,7 +1700,7 @@
     "total_gross": 0.0,
     "price": 30.5,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 68237,
@@ -1774,8 +1717,7 @@
     "max_gross": 8723.0,
     "total_gross": 0.0,
     "price": 30.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 79825,
@@ -1810,8 +1752,7 @@
     "max_gross": 1976.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 79826,
@@ -1846,14 +1787,13 @@
     "max_gross": 3328.0,
     "total_gross": 26.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 400359,
     "cinemaId": "1012",
     "movieId": "HO00008079",
-    "date": "2025-09-21T18:20:00",
+    "date": "2025-09-21T18:15:00",
     "typeId": "STANDARD",
     "screenName": "Cinema 5",
     "operator": "BOT",
@@ -1864,8 +1804,7 @@
     "max_gross": 3328.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 359436,
@@ -1882,8 +1821,7 @@
     "max_gross": 1976.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 316383,
@@ -1930,14 +1868,13 @@
     "screenName": "METRO 6",
     "operator": "HAM",
     "total": 42,
-    "sold": 0,
-    "available": 42,
-    "occupancy": 0.0,
+    "sold": 5,
+    "available": 37,
+    "occupancy": 11.9,
     "max_gross": 1029.0,
-    "total_gross": 0.0,
+    "total_gross": 122.5,
     "price": 24.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 169153,
@@ -1954,8 +1891,7 @@
     "max_gross": 1029.0,
     "total_gross": 0.0,
     "price": 24.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 195100,
@@ -1972,8 +1908,7 @@
     "max_gross": 1792.0,
     "total_gross": 0.0,
     "price": 16.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 68551,
@@ -1990,8 +1925,7 @@
     "max_gross": 3328.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 68550,
@@ -2008,8 +1942,7 @@
     "max_gross": 3328.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 177398,
@@ -2020,14 +1953,13 @@
     "screenName": "Cinema 3",
     "operator": "MIS",
     "total": 120,
-    "sold": 0,
-    "available": 120,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 118,
+    "occupancy": 1.67,
     "max_gross": 2880.0,
-    "total_gross": 0.0,
+    "total_gross": 48.0,
     "price": 24.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 177397,
@@ -2044,8 +1976,7 @@
     "max_gross": 2880.0,
     "total_gross": 0.0,
     "price": 24.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 469487,
@@ -2062,8 +1993,7 @@
     "max_gross": 14025.0,
     "total_gross": 0.0,
     "price": 25.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 469485,
@@ -2080,8 +2010,7 @@
     "max_gross": 1377.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 469484,
@@ -2098,8 +2027,7 @@
     "max_gross": 1377.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 469486,
@@ -2117,7 +2045,7 @@
     "total_gross": 0.0,
     "price": 25.5,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 195101,
@@ -2128,14 +2056,13 @@
     "screenName": "Cinema 5",
     "operator": "HIB",
     "total": 112,
-    "sold": 0,
-    "available": 112,
-    "occupancy": 0.0,
+    "sold": 3,
+    "available": 109,
+    "occupancy": 2.68,
     "max_gross": 1792.0,
-    "total_gross": 0.0,
+    "total_gross": 48.0,
     "price": 16.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 80234,
@@ -2153,22 +2080,34 @@
     "cinemaId": "1004",
     "movieId": "HO00008179",
     "date": "2025-09-21T20:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 2",
     "operator": "NTH",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 72,
+    "sold": 2,
+    "available": 70,
+    "occupancy": 2.78,
+    "max_gross": 1476.0,
+    "total_gross": 41.0,
+    "price": 20.5,
+    "error": false
   },
   {
     "id": 400380,
     "cinemaId": "1012",
     "movieId": "HO00008179",
     "date": "2025-09-21T20:30:00",
+    "typeId": "XTREME",
     "screenName": "Xtremescreen 1",
     "operator": "BOT",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 312,
+    "sold": 0,
+    "available": 312,
+    "occupancy": 0.0,
+    "max_gross": 10140.0,
+    "total_gross": 0.0,
+    "price": 32.5,
+    "error": false
   },
   {
     "id": 400381,
@@ -2179,18 +2118,24 @@
     "operator": "BOTLP",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 195143,
     "cinemaId": "1011",
     "movieId": "HO00007444",
     "date": "2025-09-21T20:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 1",
     "operator": "HIB",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 126,
+    "sold": 0,
+    "available": 126,
+    "occupancy": 0.0,
+    "max_gross": 2016.0,
+    "total_gross": 0.0,
+    "price": 16.0,
+    "error": false
   },
   {
     "id": 195142,
@@ -2201,18 +2146,24 @@
     "operator": "HIB",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 195145,
     "cinemaId": "1011",
     "movieId": "HO00007811",
     "date": "2025-09-21T20:20:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 2",
     "operator": "HIB",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 96,
+    "sold": 0,
+    "available": 96,
+    "occupancy": 0.0,
+    "max_gross": 1728.0,
+    "total_gross": 0.0,
+    "price": 18.0,
+    "error": false
   },
   {
     "id": 195133,
@@ -2223,18 +2174,24 @@
     "operator": "HIB",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 195135,
     "cinemaId": "1011",
     "movieId": "HO00007862",
     "date": "2025-09-21T18:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 1",
     "operator": "HIB",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 126,
+    "sold": 0,
+    "available": 126,
+    "occupancy": 0.0,
+    "max_gross": 2016.0,
+    "total_gross": 0.0,
+    "price": 16.0,
+    "error": false
   },
   {
     "id": 195141,
@@ -2245,7 +2202,7 @@
     "operator": "HIB",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 195137,
@@ -2256,62 +2213,92 @@
     "operator": "HIB",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 195131,
     "cinemaId": "1011",
     "movieId": "HO00007521",
     "date": "2025-09-21T12:20:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 2",
     "operator": "HIB",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 96,
+    "sold": 0,
+    "available": 96,
+    "occupancy": 0.0,
+    "max_gross": 1536.0,
+    "total_gross": 0.0,
+    "price": 16.0,
+    "error": false
   },
   {
     "id": 195132,
     "cinemaId": "1011",
     "movieId": "HO00007890",
     "date": "2025-09-21T11:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 5",
     "operator": "HIB",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 112,
+    "sold": 0,
+    "available": 112,
+    "occupancy": 0.0,
+    "max_gross": 1792.0,
+    "total_gross": 0.0,
+    "price": 16.0,
+    "error": false
   },
   {
     "id": 195138,
     "cinemaId": "1011",
     "movieId": "HO00007919",
     "date": "2025-09-21T15:10:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 2",
     "operator": "HIB",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 96,
+    "sold": 0,
+    "available": 96,
+    "occupancy": 0.0,
+    "max_gross": 1536.0,
+    "total_gross": 0.0,
+    "price": 16.0,
+    "error": false
   },
   {
     "id": 195134,
     "cinemaId": "1011",
     "movieId": "HO00007616",
     "date": "2025-09-21T09:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 2",
     "operator": "HIB",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 96,
+    "sold": 0,
+    "available": 96,
+    "occupancy": 0.0,
+    "max_gross": 1536.0,
+    "total_gross": 0.0,
+    "price": 16.0,
+    "error": false
   },
   {
     "id": 195140,
     "cinemaId": "1011",
     "movieId": "HO00007792",
     "date": "2025-09-21T13:40:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 5",
     "operator": "HIB",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 112,
+    "sold": 0,
+    "available": 112,
+    "occupancy": 0.0,
+    "max_gross": 1792.0,
+    "total_gross": 0.0,
+    "price": 16.0,
+    "error": false
   },
   {
     "id": 195144,
@@ -2322,7 +2309,7 @@
     "operator": "HIB",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 195136,
@@ -2333,18 +2320,24 @@
     "operator": "HIB",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 195139,
     "cinemaId": "1011",
     "movieId": "HO00007444",
     "date": "2025-09-21T15:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 4",
     "operator": "HIB",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 160,
+    "sold": 7,
+    "available": 153,
+    "occupancy": 4.38,
+    "max_gross": 2560.0,
+    "total_gross": 112.0,
+    "price": 16.0,
+    "error": false
   },
   {
     "id": 195146,
@@ -2355,84 +2348,126 @@
     "operator": "HIB",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 68622,
     "cinemaId": "ORMCIN",
     "movieId": "HO00008179",
     "date": "2025-09-21T17:20:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 05",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 98,
+    "sold": 4,
+    "available": 94,
+    "occupancy": 4.08,
+    "max_gross": 2744.0,
+    "total_gross": 112.0,
+    "price": 28.0,
+    "error": false
   },
   {
     "id": 68616,
     "cinemaId": "ORMCIN",
     "movieId": "HO00008179",
     "date": "2025-09-21T20:30:00",
+    "typeId": "XTREME",
     "screenName": "Xtremescreen 01",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 286,
+    "sold": 11,
+    "available": 275,
+    "occupancy": 3.85,
+    "max_gross": 9295.0,
+    "total_gross": 357.5,
+    "price": 32.5,
+    "error": false
   },
   {
     "id": 68604,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007890",
     "date": "2025-09-21T11:20:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 04",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 133,
+    "sold": 0,
+    "available": 133,
+    "occupancy": 0.0,
+    "max_gross": 3458.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 276622,
     "cinemaId": "1004",
     "movieId": "HO00007444",
     "date": "2025-09-21T13:10:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 2",
     "operator": "NTH",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 72,
+    "sold": 10,
+    "available": 62,
+    "occupancy": 13.89,
+    "max_gross": 1332.0,
+    "total_gross": 185.0,
+    "price": 18.5,
+    "error": false
   },
   {
     "id": 177495,
     "cinemaId": "1013",
     "movieId": "HO00007890",
     "date": "2025-09-21T12:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 2",
     "operator": "MIS",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 140,
+    "sold": 0,
+    "available": 140,
+    "occupancy": 0.0,
+    "max_gross": 3360.0,
+    "total_gross": 0.0,
+    "price": 24.0,
+    "error": false
   },
   {
     "id": 276635,
     "cinemaId": "1004",
     "movieId": "HO00007792",
     "date": "2025-09-21T15:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 5",
     "operator": "NTH",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 108,
+    "sold": 0,
+    "available": 108,
+    "occupancy": 0.0,
+    "max_gross": 1998.0,
+    "total_gross": 0.0,
+    "price": 18.5,
+    "error": false
   },
   {
     "id": 276636,
     "cinemaId": "1004",
     "movieId": "HO00007792",
     "date": "2025-09-21T17:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 4",
     "operator": "NTH",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 160,
+    "sold": 0,
+    "available": 160,
+    "occupancy": 0.0,
+    "max_gross": 2960.0,
+    "total_gross": 0.0,
+    "price": 18.5,
+    "error": false
   },
   {
     "id": 177418,
@@ -2443,7 +2478,7 @@
     "operator": "MIS",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 177414,
@@ -2454,73 +2489,109 @@
     "operator": "MIS",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 276623,
     "cinemaId": "1004",
     "movieId": "HO00007862",
     "date": "2025-09-21T13:20:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 1",
     "operator": "NTH",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 50,
+    "sold": 2,
+    "available": 48,
+    "occupancy": 4.0,
+    "max_gross": 925.0,
+    "total_gross": 37.0,
+    "price": 18.5,
+    "error": false
   },
   {
     "id": 276628,
     "cinemaId": "1004",
     "movieId": "HO00007794",
     "date": "2025-09-21T18:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 6",
     "operator": "NTH",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 70,
+    "sold": 8,
+    "available": 62,
+    "occupancy": 11.43,
+    "max_gross": 1295.0,
+    "total_gross": 148.0,
+    "price": 18.5,
+    "error": false
   },
   {
     "id": 177411,
     "cinemaId": "1013",
     "movieId": "HO00007521",
     "date": "2025-09-21T18:10:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 4",
     "operator": "MIS",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 120,
+    "sold": 0,
+    "available": 120,
+    "occupancy": 0.0,
+    "max_gross": 2880.0,
+    "total_gross": 0.0,
+    "price": 24.0,
+    "error": false
   },
   {
     "id": 276625,
     "cinemaId": "1004",
     "movieId": "HO00007794",
     "date": "2025-09-21T15:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 6",
     "operator": "NTH",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 70,
+    "sold": 0,
+    "available": 70,
+    "occupancy": 0.0,
+    "max_gross": 1295.0,
+    "total_gross": 0.0,
+    "price": 18.5,
+    "error": false
   },
   {
     "id": 276626,
     "cinemaId": "1004",
     "movieId": "HO00007616",
     "date": "2025-09-21T15:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 1",
     "operator": "NTH",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 50,
+    "sold": 0,
+    "available": 50,
+    "occupancy": 0.0,
+    "max_gross": 925.0,
+    "total_gross": 0.0,
+    "price": 18.5,
+    "error": false
   },
   {
     "id": 276624,
     "cinemaId": "1004",
     "movieId": "HO00007521",
     "date": "2025-09-21T15:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 4",
     "operator": "NTH",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 160,
+    "sold": 0,
+    "available": 160,
+    "occupancy": 0.0,
+    "max_gross": 2960.0,
+    "total_gross": 0.0,
+    "price": 18.5,
+    "error": false
   },
   {
     "id": 177410,
@@ -2531,106 +2602,160 @@
     "operator": "MIS",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 177416,
     "cinemaId": "1013",
     "movieId": "HO00007794",
     "date": "2025-09-21T20:20:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 1",
     "operator": "MIS",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 140,
+    "sold": 0,
+    "available": 140,
+    "occupancy": 0.0,
+    "max_gross": 3360.0,
+    "total_gross": 0.0,
+    "price": 24.0,
+    "error": false
   },
   {
     "id": 177477,
     "cinemaId": "1013",
     "movieId": "HO00007919",
     "date": "2025-09-21T20:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 3",
     "operator": "MIS",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 120,
+    "sold": 2,
+    "available": 118,
+    "occupancy": 1.67,
+    "max_gross": 2880.0,
+    "total_gross": 48.0,
+    "price": 24.0,
+    "error": false
   },
   {
     "id": 68597,
     "cinemaId": "ORMCIN",
     "movieId": "HO00008022",
     "date": "2025-09-21T09:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 04",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 133,
+    "sold": 0,
+    "available": 133,
+    "occupancy": 0.0,
+    "max_gross": 3591.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 276633,
     "cinemaId": "1004",
     "movieId": "HO00008183",
     "date": "2025-09-21T21:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 6",
     "operator": "NTH",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 70,
+    "sold": 0,
+    "available": 70,
+    "occupancy": 0.0,
+    "max_gross": 1435.0,
+    "total_gross": 0.0,
+    "price": 20.5,
+    "error": false
   },
   {
     "id": 68606,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007862",
     "date": "2025-09-21T10:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 06",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 98,
+    "sold": 0,
+    "available": 98,
+    "occupancy": 0.0,
+    "max_gross": 2548.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 68599,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007793",
     "date": "2025-09-21T09:30:00",
+    "typeId": "XTREME",
     "screenName": "Xtremescreen 07",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 176,
+    "sold": 0,
+    "available": 176,
+    "occupancy": 0.0,
+    "max_gross": 5368.0,
+    "total_gross": 0.0,
+    "price": 30.5,
+    "error": false
   },
   {
     "id": 68628,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007235",
     "date": "2025-09-21T09:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 08",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 112,
+    "sold": 2,
+    "available": 110,
+    "occupancy": 1.79,
+    "max_gross": 2912.0,
+    "total_gross": 52.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 177420,
     "cinemaId": "1013",
     "movieId": "HO00007444",
     "date": "2025-09-21T15:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 2",
     "operator": "MIS",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 140,
+    "sold": 6,
+    "available": 134,
+    "occupancy": 4.29,
+    "max_gross": 3360.0,
+    "total_gross": 144.0,
+    "price": 24.0,
+    "error": false
   },
   {
     "id": 68605,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007763",
     "date": "2025-09-21T11:10:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 02",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 128,
+    "sold": 3,
+    "available": 125,
+    "occupancy": 2.34,
+    "max_gross": 3328.0,
+    "total_gross": 78.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 68598,
@@ -2641,7 +2766,7 @@
     "operator": "ORM",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 177415,
@@ -2652,51 +2777,75 @@
     "operator": "MIS",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 276634,
     "cinemaId": "1004",
     "movieId": "HO00007794",
     "date": "2025-09-21T21:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 1",
     "operator": "NTH",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 50,
+    "sold": 2,
+    "available": 48,
+    "occupancy": 4.0,
+    "max_gross": 925.0,
+    "total_gross": 37.0,
+    "price": 18.5,
+    "error": false
   },
   {
     "id": 177413,
     "cinemaId": "1013",
     "movieId": "HO00007521",
     "date": "2025-09-21T15:20:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 4",
     "operator": "MIS",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 120,
+    "sold": 1,
+    "available": 119,
+    "occupancy": 0.83,
+    "max_gross": 2880.0,
+    "total_gross": 24.0,
+    "price": 24.0,
+    "error": false
   },
   {
     "id": 68601,
     "cinemaId": "ORMCIN",
     "movieId": "HO00008143",
     "date": "2025-09-21T12:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 03",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 120,
+    "sold": 0,
+    "available": 120,
+    "occupancy": 0.0,
+    "max_gross": 3120.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 68603,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007793",
     "date": "2025-09-21T11:50:00",
+    "typeId": "XTREME",
     "screenName": "Xtremescreen 07",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 176,
+    "sold": 0,
+    "available": 176,
+    "occupancy": 0.0,
+    "max_gross": 5368.0,
+    "total_gross": 0.0,
+    "price": 30.5,
+    "error": false
   },
   {
     "id": 68602,
@@ -2707,73 +2856,109 @@
     "operator": "ORM",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 68610,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007616",
     "date": "2025-09-21T12:40:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 08",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 112,
+    "sold": 0,
+    "available": 112,
+    "occupancy": 0.0,
+    "max_gross": 2912.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 68745,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007521",
     "date": "2025-09-21T12:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 06",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 98,
+    "sold": 0,
+    "available": 98,
+    "occupancy": 0.0,
+    "max_gross": 2989.0,
+    "total_gross": 0.0,
+    "price": 30.5,
+    "error": false
   },
   {
     "id": 68614,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007890",
     "date": "2025-09-21T13:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 04",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 133,
+    "sold": 0,
+    "available": 133,
+    "occupancy": 0.0,
+    "max_gross": 3458.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 68613,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007763",
     "date": "2025-09-21T13:40:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 02",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 128,
+    "sold": 0,
+    "available": 128,
+    "occupancy": 0.0,
+    "max_gross": 3328.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 68612,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007793",
     "date": "2025-09-21T14:10:00",
+    "typeId": "XTREME",
     "screenName": "Xtremescreen 07",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 176,
+    "sold": 3,
+    "available": 173,
+    "occupancy": 1.7,
+    "max_gross": 5368.0,
+    "total_gross": 91.5,
+    "price": 30.5,
+    "error": false
   },
   {
     "id": 68611,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007792",
     "date": "2025-09-21T14:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 05",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 98,
+    "sold": 0,
+    "available": 98,
+    "occupancy": 0.0,
+    "max_gross": 2548.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 68609,
@@ -2784,73 +2969,109 @@
     "operator": "ORM",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 68630,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007444",
     "date": "2025-09-21T15:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 06",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 98,
+    "sold": 0,
+    "available": 98,
+    "occupancy": 0.0,
+    "max_gross": 2548.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 68608,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007794",
     "date": "2025-09-21T15:40:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 04",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 133,
+    "sold": 0,
+    "available": 133,
+    "occupancy": 0.0,
+    "max_gross": 4056.5,
+    "total_gross": 0.0,
+    "price": 30.5,
+    "error": false
   },
   {
     "id": 68744,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007521",
     "date": "2025-09-21T15:20:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 08",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 112,
+    "sold": 0,
+    "available": 112,
+    "occupancy": 0.0,
+    "max_gross": 2912.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 68621,
     "cinemaId": "ORMCIN",
     "movieId": "HO00008143",
     "date": "2025-09-21T18:20:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 06",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 98,
+    "sold": 0,
+    "available": 98,
+    "occupancy": 0.0,
+    "max_gross": 2548.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 68631,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007444",
     "date": "2025-09-21T18:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 08",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 112,
+    "sold": 0,
+    "available": 112,
+    "occupancy": 0.0,
+    "max_gross": 2912.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 68607,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007279",
     "date": "2025-09-21T16:30:00",
+    "typeId": "XTREME",
     "screenName": "Xtremescreen 07",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 176,
+    "sold": 0,
+    "available": 176,
+    "occupancy": 0.0,
+    "max_gross": 5368.0,
+    "total_gross": 0.0,
+    "price": 30.5,
+    "error": false
   },
   {
     "id": 68618,
@@ -2861,7 +3082,7 @@
     "operator": "ORM",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 276619,
@@ -2872,7 +3093,7 @@
     "operator": "NTH",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 276638,
@@ -2883,18 +3104,24 @@
     "operator": "NTH",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 276627,
     "cinemaId": "1004",
     "movieId": "HO00007793",
     "date": "2025-09-21T18:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 5",
     "operator": "NTH",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 108,
+    "sold": 0,
+    "available": 108,
+    "occupancy": 0.0,
+    "max_gross": 1998.0,
+    "total_gross": 0.0,
+    "price": 18.5,
+    "error": false
   },
   {
     "id": 276637,
@@ -2905,117 +3132,177 @@
     "operator": "NTH",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 276620,
     "cinemaId": "1004",
     "movieId": "HO00007279",
     "date": "2025-09-21T11:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 2",
     "operator": "NTH",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 72,
+    "sold": 0,
+    "available": 72,
+    "occupancy": 0.0,
+    "max_gross": 1332.0,
+    "total_gross": 0.0,
+    "price": 18.5,
+    "error": false
   },
   {
     "id": 68620,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007794",
     "date": "2025-09-21T18:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 03",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 120,
+    "sold": 2,
+    "available": 118,
+    "occupancy": 1.67,
+    "max_gross": 3660.0,
+    "total_gross": 61.0,
+    "price": 30.5,
+    "error": false
   },
   {
     "id": 276648,
     "cinemaId": "1004",
     "movieId": "HO00007792",
     "date": "2025-09-21T18:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 1",
     "operator": "NTH",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 50,
+    "sold": 0,
+    "available": 50,
+    "occupancy": 0.0,
+    "max_gross": 925.0,
+    "total_gross": 0.0,
+    "price": 18.5,
+    "error": false
   },
   {
     "id": 177412,
     "cinemaId": "1013",
     "movieId": "HO00007521",
     "date": "2025-09-21T20:40:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 4",
     "operator": "MIS",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 120,
+    "sold": 0,
+    "available": 120,
+    "occupancy": 0.0,
+    "max_gross": 2880.0,
+    "total_gross": 0.0,
+    "price": 24.0,
+    "error": false
   },
   {
     "id": 68619,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007521",
     "date": "2025-09-21T18:40:00",
+    "typeId": "XTREME",
     "screenName": "Xtremescreen 07",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 176,
+    "sold": 0,
+    "available": 176,
+    "occupancy": 0.0,
+    "max_gross": 5368.0,
+    "total_gross": 0.0,
+    "price": 30.5,
+    "error": false
   },
   {
     "id": 276631,
     "cinemaId": "1004",
     "movieId": "HO00007521",
     "date": "2025-09-21T20:45:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 3",
     "operator": "NTH",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 118,
+    "sold": 0,
+    "available": 118,
+    "occupancy": 0.0,
+    "max_gross": 2183.0,
+    "total_gross": 0.0,
+    "price": 18.5,
+    "error": false
   },
   {
     "id": 177419,
     "cinemaId": "1013",
     "movieId": "HO00007444",
     "date": "2025-09-21T20:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 2",
     "operator": "MIS",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 140,
+    "sold": 0,
+    "available": 140,
+    "occupancy": 0.0,
+    "max_gross": 3360.0,
+    "total_gross": 0.0,
+    "price": 24.0,
+    "error": false
   },
   {
     "id": 68627,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007521",
     "date": "2025-09-21T20:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 05",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 98,
+    "sold": 0,
+    "available": 98,
+    "occupancy": 0.0,
+    "max_gross": 2989.0,
+    "total_gross": 0.0,
+    "price": 30.5,
+    "error": false
   },
   {
     "id": 68617,
     "cinemaId": "ORMCIN",
     "movieId": "HO00008183",
     "date": "2025-09-21T20:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 08",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 112,
+    "sold": 0,
+    "available": 112,
+    "occupancy": 0.0,
+    "max_gross": 3136.0,
+    "total_gross": 0.0,
+    "price": 28.0,
+    "error": false
   },
   {
     "id": 68626,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007794",
     "date": "2025-09-21T21:10:00",
+    "typeId": "XTREME",
     "screenName": "Xtremescreen 07",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 176,
+    "sold": 0,
+    "available": 176,
+    "occupancy": 0.0,
+    "max_gross": 5368.0,
+    "total_gross": 0.0,
+    "price": 30.5,
+    "error": false
   },
   {
     "id": 68624,
@@ -3026,62 +3313,92 @@
     "operator": "ORM",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 68615,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007811",
     "date": "2025-09-21T20:40:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 02",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 128,
+    "sold": 2,
+    "available": 126,
+    "occupancy": 1.56,
+    "max_gross": 3584.0,
+    "total_gross": 56.0,
+    "price": 28.0,
+    "error": false
   },
   {
     "id": 276621,
     "cinemaId": "1004",
     "movieId": "HO00007919",
     "date": "2025-09-21T12:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 6",
     "operator": "NTH",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 70,
+    "sold": 3,
+    "available": 67,
+    "occupancy": 4.29,
+    "max_gross": 1295.0,
+    "total_gross": 55.5,
+    "price": 18.5,
+    "error": false
   },
   {
     "id": 276630,
     "cinemaId": "1004",
     "movieId": "HO00007521",
     "date": "2025-09-21T20:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 4",
     "operator": "NTH",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 160,
+    "sold": 0,
+    "available": 160,
+    "occupancy": 0.0,
+    "max_gross": 2960.0,
+    "total_gross": 0.0,
+    "price": 18.5,
+    "error": false
   },
   {
     "id": 68623,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007279",
     "date": "2025-09-21T21:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 04",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 133,
+    "sold": 0,
+    "available": 133,
+    "occupancy": 0.0,
+    "max_gross": 3458.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 68625,
     "cinemaId": "ORMCIN",
     "movieId": "HO00007919",
     "date": "2025-09-21T21:20:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 03",
     "operator": "ORM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 120,
+    "sold": 0,
+    "available": 120,
+    "occupancy": 0.0,
+    "max_gross": 3120.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 316789,
@@ -3363,22 +3680,34 @@
     "cinemaId": "1001",
     "movieId": "HO00007616",
     "date": "2025-09-21T09:40:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 2",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 76,
+    "sold": 0,
+    "available": 76,
+    "occupancy": 0.0,
+    "max_gross": 1976.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 359514,
     "cinemaId": "1001",
     "movieId": "HO00006557",
     "date": "2025-09-21T10:10:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 8",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 132,
+    "sold": 7,
+    "available": 125,
+    "occupancy": 5.3,
+    "max_gross": 3432.0,
+    "total_gross": 182.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 359509,
@@ -3389,84 +3718,126 @@
     "operator": "WPK",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 359508,
     "cinemaId": "1001",
     "movieId": "HO00007521",
     "date": "2025-09-21T10:40:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 3",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 126,
+    "sold": 1,
+    "available": 125,
+    "occupancy": 0.79,
+    "max_gross": 3276.0,
+    "total_gross": 26.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 359512,
     "cinemaId": "1001",
     "movieId": "HO00008022",
     "date": "2025-09-21T12:10:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 2",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 76,
+    "sold": 0,
+    "available": 76,
+    "occupancy": 0.0,
+    "max_gross": 2052.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 359518,
     "cinemaId": "1001",
     "movieId": "HO00007890",
     "date": "2025-09-21T11:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 7",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 121,
+    "sold": 4,
+    "available": 117,
+    "occupancy": 3.31,
+    "max_gross": 3146.0,
+    "total_gross": 104.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 359510,
     "cinemaId": "1001",
     "movieId": "HO00007444",
     "date": "2025-09-21T12:20:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 1",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 76,
+    "sold": 7,
+    "available": 69,
+    "occupancy": 9.21,
+    "max_gross": 1976.0,
+    "total_gross": 182.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 359500,
     "cinemaId": "1001",
     "movieId": "HO00007792",
     "date": "2025-09-21T12:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 5",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 126,
+    "sold": 0,
+    "available": 126,
+    "occupancy": 0.0,
+    "max_gross": 3276.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 359515,
     "cinemaId": "1001",
     "movieId": "HO00007616",
     "date": "2025-09-21T13:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 8",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 132,
+    "sold": 3,
+    "available": 129,
+    "occupancy": 2.27,
+    "max_gross": 3432.0,
+    "total_gross": 78.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 359489,
     "cinemaId": "1001",
     "movieId": "HO00007521",
     "date": "2025-09-21T13:10:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 3",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 126,
+    "sold": 0,
+    "available": 126,
+    "occupancy": 0.0,
+    "max_gross": 3276.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 359516,
@@ -3477,40 +3848,58 @@
     "operator": "WPK",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 359499,
     "cinemaId": "1001",
     "movieId": "HO00007792",
-    "date": "2025-09-21T13:30:00",
-    "screenName": "Cinema 7",
+    "date": "2025-09-21T13:40:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 2",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 76,
+    "sold": 0,
+    "available": 76,
+    "occupancy": 0.0,
+    "max_gross": 1976.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 359488,
     "cinemaId": "1001",
     "movieId": "HO00007793",
     "date": "2025-09-21T14:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 6",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 221,
+    "sold": 2,
+    "available": 219,
+    "occupancy": 0.9,
+    "max_gross": 5746.0,
+    "total_gross": 52.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 359517,
     "cinemaId": "1001",
     "movieId": "HO00007794",
     "date": "2025-09-21T15:20:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 5",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 126,
+    "sold": 0,
+    "available": 126,
+    "occupancy": 0.0,
+    "max_gross": 3276.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 359513,
@@ -3521,62 +3910,92 @@
     "operator": "WPK",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "HTTP 410"
   },
   {
     "id": 359490,
     "cinemaId": "1001",
     "movieId": "HO00007521",
     "date": "2025-09-21T15:40:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 3",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 126,
+    "sold": 0,
+    "available": 126,
+    "occupancy": 0.0,
+    "max_gross": 3276.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 359505,
     "cinemaId": "1001",
     "movieId": "HO00007919",
     "date": "2025-09-21T15:40:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 8",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 132,
+    "sold": 0,
+    "available": 132,
+    "occupancy": 0.0,
+    "max_gross": 3432.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 359507,
     "cinemaId": "1001",
     "movieId": "HO00007890",
     "date": "2025-09-21T16:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 7",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 121,
+    "sold": 0,
+    "available": 121,
+    "occupancy": 0.0,
+    "max_gross": 3146.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 359492,
     "cinemaId": "1001",
     "movieId": "HO00007521",
     "date": "2025-09-21T18:10:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 3",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 126,
+    "sold": 0,
+    "available": 126,
+    "occupancy": 0.0,
+    "max_gross": 3276.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 359497,
     "cinemaId": "1001",
     "movieId": "HO00007444",
     "date": "2025-09-21T18:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 1",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 76,
+    "sold": 4,
+    "available": 72,
+    "occupancy": 5.26,
+    "max_gross": 1976.0,
+    "total_gross": 104.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 359699,
@@ -3587,51 +4006,75 @@
     "operator": "WPK",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 359495,
     "cinemaId": "1001",
     "movieId": "HO00007794",
     "date": "2025-09-21T18:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 5",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 126,
+    "sold": 0,
+    "available": 126,
+    "occupancy": 0.0,
+    "max_gross": 3276.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 359487,
     "cinemaId": "1001",
     "movieId": "HO00007793",
     "date": "2025-09-21T17:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 6",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 221,
+    "sold": 0,
+    "available": 221,
+    "occupancy": 0.0,
+    "max_gross": 5746.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 359498,
     "cinemaId": "1001",
     "movieId": "HO00007444",
     "date": "2025-09-21T19:20:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 6",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 221,
+    "sold": 0,
+    "available": 221,
+    "occupancy": 0.0,
+    "max_gross": 5746.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 359494,
     "cinemaId": "1001",
     "movieId": "HO00007794",
     "date": "2025-09-21T20:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 4",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 114,
+    "sold": 8,
+    "available": 106,
+    "occupancy": 7.02,
+    "max_gross": 2964.0,
+    "total_gross": 208.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 359493,
@@ -3642,73 +4085,109 @@
     "operator": "WPK",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 359501,
     "cinemaId": "1001",
     "movieId": "HO00007862",
     "date": "2025-09-21T20:40:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 8",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 132,
+    "sold": 0,
+    "available": 132,
+    "occupancy": 0.0,
+    "max_gross": 3432.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 359709,
     "cinemaId": "1001",
     "movieId": "HO00007811",
     "date": "2025-09-21T20:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 1",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 76,
+    "sold": 2,
+    "available": 74,
+    "occupancy": 2.63,
+    "max_gross": 2128.0,
+    "total_gross": 56.0,
+    "price": 28.0,
+    "error": false
   },
   {
     "id": 359491,
     "cinemaId": "1001",
     "movieId": "HO00007521",
     "date": "2025-09-21T21:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 2",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 76,
+    "sold": 0,
+    "available": 76,
+    "occupancy": 0.0,
+    "max_gross": 1976.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 359496,
     "cinemaId": "1001",
     "movieId": "HO00008179",
     "date": "2025-09-21T20:40:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 3",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 126,
+    "sold": 0,
+    "available": 126,
+    "occupancy": 0.0,
+    "max_gross": 3528.0,
+    "total_gross": 0.0,
+    "price": 28.0,
+    "error": false
   },
   {
     "id": 359503,
     "cinemaId": "1001",
     "movieId": "HO00008017",
     "date": "2025-09-21T21:10:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 7",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 121,
+    "sold": 0,
+    "available": 121,
+    "occupancy": 0.0,
+    "max_gross": 3146.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 359502,
     "cinemaId": "1001",
     "movieId": "HO00007279",
     "date": "2025-09-21T21:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 5",
     "operator": "WPK",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 126,
+    "sold": 0,
+    "available": 126,
+    "occupancy": 0.0,
+    "max_gross": 3276.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 80208,
@@ -4012,11 +4491,17 @@
     "cinemaId": "HAMCIN",
     "movieId": "HO00007763",
     "date": "2025-09-21T09:30:00",
+    "typeId": "STANDARD",
     "screenName": "METRO 5",
     "operator": "HAM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 160,
+    "sold": 0,
+    "available": 160,
+    "occupancy": 0.0,
+    "max_gross": 3360.0,
+    "total_gross": 0.0,
+    "price": 21.0,
+    "error": false
   },
   {
     "id": 169727,
@@ -4034,88 +4519,136 @@
     "cinemaId": "HAMCIN",
     "movieId": "HO00008022",
     "date": "2025-09-21T09:30:00",
+    "typeId": "STANDARD",
     "screenName": "METRO 4",
     "operator": "HAM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 253,
+    "sold": 0,
+    "available": 253,
+    "occupancy": 0.0,
+    "max_gross": 6831.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 169556,
     "cinemaId": "HAMCIN",
     "movieId": "HO00007792",
     "date": "2025-09-21T10:00:00",
+    "typeId": "STANDARD",
     "screenName": "METRO 1",
     "operator": "HAM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 126,
+    "sold": 0,
+    "available": 126,
+    "occupancy": 0.0,
+    "max_gross": 2646.0,
+    "total_gross": 0.0,
+    "price": 21.0,
+    "error": false
   },
   {
     "id": 169557,
     "cinemaId": "HAMCIN",
     "movieId": "HO00007444",
     "date": "2025-09-21T09:40:00",
+    "typeId": "STANDARD",
     "screenName": "METRO 6",
     "operator": "HAM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 42,
+    "sold": 1,
+    "available": 41,
+    "occupancy": 2.38,
+    "max_gross": 1029.0,
+    "total_gross": 24.5,
+    "price": 24.5,
+    "error": false
   },
   {
     "id": 169571,
     "cinemaId": "HAMCIN",
     "movieId": "HO00007521",
     "date": "2025-09-21T10:45:00",
+    "typeId": "STANDARD",
     "screenName": "METRO 7",
     "operator": "HAM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 42,
+    "sold": 0,
+    "available": 42,
+    "occupancy": 0.0,
+    "max_gross": 1029.0,
+    "total_gross": 0.0,
+    "price": 24.5,
+    "error": false
   },
   {
     "id": 169579,
     "cinemaId": "HAMCIN",
     "movieId": "HO00008022",
     "date": "2025-09-21T11:55:00",
+    "typeId": "STANDARD",
     "screenName": "METRO 2",
     "operator": "HAM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 126,
+    "sold": 0,
+    "available": 126,
+    "occupancy": 0.0,
+    "max_gross": 3402.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 169567,
     "cinemaId": "HAMCIN",
     "movieId": "HO00007763",
     "date": "2025-09-21T12:00:00",
+    "typeId": "STANDARD",
     "screenName": "METRO 5",
     "operator": "HAM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 160,
+    "sold": 0,
+    "available": 160,
+    "occupancy": 0.0,
+    "max_gross": 3360.0,
+    "total_gross": 0.0,
+    "price": 21.0,
+    "error": false
   },
   {
     "id": 169577,
     "cinemaId": "HAMCIN",
     "movieId": "HO00007792",
     "date": "2025-09-21T12:30:00",
+    "typeId": "STANDARD",
     "screenName": "METRO 1",
     "operator": "HAM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 126,
+    "sold": 0,
+    "available": 126,
+    "occupancy": 0.0,
+    "max_gross": 2646.0,
+    "total_gross": 0.0,
+    "price": 21.0,
+    "error": false
   },
   {
     "id": 169578,
     "cinemaId": "HAMCIN",
     "movieId": "HO00007811",
     "date": "2025-09-21T12:20:00",
+    "typeId": "STANDARD",
     "screenName": "METRO 6",
     "operator": "HAM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 42,
+    "sold": 2,
+    "available": 40,
+    "occupancy": 4.76,
+    "max_gross": 1113.0,
+    "total_gross": 53.0,
+    "price": 26.5,
+    "error": false
   },
   {
     "id": 169572,
@@ -4126,18 +4659,24 @@
     "operator": "HAM",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 169559,
     "cinemaId": "HAMCIN",
     "movieId": "HO00007890",
     "date": "2025-09-21T13:30:00",
+    "typeId": "STANDARD",
     "screenName": "METRO 2",
     "operator": "HAM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 126,
+    "sold": 0,
+    "available": 126,
+    "occupancy": 0.0,
+    "max_gross": 2646.0,
+    "total_gross": 0.0,
+    "price": 21.0,
+    "error": false
   },
   {
     "id": 169568,
@@ -4148,18 +4687,24 @@
     "operator": "HAM",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 169583,
     "cinemaId": "HAMCIN",
     "movieId": "HO00007794",
     "date": "2025-09-21T15:10:00",
+    "typeId": "STANDARD",
     "screenName": "METRO 1",
     "operator": "HAM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 126,
+    "sold": 0,
+    "available": 126,
+    "occupancy": 0.0,
+    "max_gross": 2646.0,
+    "total_gross": 0.0,
+    "price": 21.0,
+    "error": false
   },
   {
     "id": 169569,
@@ -4170,7 +4715,7 @@
     "operator": "HAM",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 169561,
@@ -4181,51 +4726,75 @@
     "operator": "HAM",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 169562,
     "cinemaId": "HAMCIN",
     "movieId": "HO00007794",
     "date": "2025-09-21T18:00:00",
+    "typeId": "STANDARD",
     "screenName": "METRO 1",
     "operator": "HAM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 126,
+    "sold": 0,
+    "available": 126,
+    "occupancy": 0.0,
+    "max_gross": 2646.0,
+    "total_gross": 0.0,
+    "price": 21.0,
+    "error": false
   },
   {
     "id": 169574,
     "cinemaId": "HAMCIN",
     "movieId": "HO00007521",
     "date": "2025-09-21T18:15:00",
+    "typeId": "STANDARD",
     "screenName": "METRO 7",
     "operator": "HAM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 42,
+    "sold": 0,
+    "available": 42,
+    "occupancy": 0.0,
+    "max_gross": 1029.0,
+    "total_gross": 0.0,
+    "price": 24.5,
+    "error": false
   },
   {
     "id": 169722,
     "cinemaId": "HAMCIN",
     "movieId": "HO00007763",
     "date": "2025-09-21T19:20:00",
+    "typeId": "STANDARD",
     "screenName": "METRO 5",
     "operator": "HAM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 160,
+    "sold": 0,
+    "available": 160,
+    "occupancy": 0.0,
+    "max_gross": 3360.0,
+    "total_gross": 0.0,
+    "price": 21.0,
+    "error": false
   },
   {
     "id": 169573,
     "cinemaId": "HAMCIN",
     "movieId": "HO00007521",
     "date": "2025-09-21T15:45:00",
+    "typeId": "STANDARD",
     "screenName": "METRO 7",
     "operator": "HAM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 42,
+    "sold": 0,
+    "available": 42,
+    "occupancy": 0.0,
+    "max_gross": 1029.0,
+    "total_gross": 0.0,
+    "price": 24.5,
+    "error": false
   },
   {
     "id": 169712,
@@ -4243,44 +4812,68 @@
     "cinemaId": "HAMCIN",
     "movieId": "HO00007793",
     "date": "2025-09-21T18:15:00",
+    "typeId": "STANDARD",
     "screenName": "METRO 4",
     "operator": "HAM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 253,
+    "sold": 0,
+    "available": 253,
+    "occupancy": 0.0,
+    "max_gross": 5313.0,
+    "total_gross": 0.0,
+    "price": 21.0,
+    "error": false
   },
   {
     "id": 169733,
     "cinemaId": "HAMCIN",
     "movieId": "HO00007182",
     "date": "2025-09-21T20:20:00",
+    "typeId": "STANDARD",
     "screenName": "METRO 3",
     "operator": "HAM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 209,
+    "sold": 2,
+    "available": 207,
+    "occupancy": 0.96,
+    "max_gross": 4389.0,
+    "total_gross": 42.0,
+    "price": 21.0,
+    "error": false
   },
   {
     "id": 169580,
     "cinemaId": "HAMCIN",
     "movieId": "HO00007811",
     "date": "2025-09-21T20:30:00",
+    "typeId": "STANDARD",
     "screenName": "METRO 6",
     "operator": "HAM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 42,
+    "sold": 0,
+    "available": 42,
+    "occupancy": 0.0,
+    "max_gross": 1113.0,
+    "total_gross": 0.0,
+    "price": 26.5,
+    "error": false
   },
   {
     "id": 169581,
     "cinemaId": "HAMCIN",
     "movieId": "HO00008179",
     "date": "2025-09-21T20:30:00",
+    "typeId": "STANDARD",
     "screenName": "METRO 4",
     "operator": "HAM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 253,
+    "sold": 0,
+    "available": 253,
+    "occupancy": 0.0,
+    "max_gross": 5819.0,
+    "total_gross": 0.0,
+    "price": 23.0,
+    "error": false
   },
   {
     "id": 169575,
@@ -4291,7 +4884,7 @@
     "operator": "HAM",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 169564,
@@ -4302,40 +4895,58 @@
     "operator": "HAM",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 169565,
     "cinemaId": "HAMCIN",
     "movieId": "HO00007794",
     "date": "2025-09-21T20:50:00",
+    "typeId": "STANDARD",
     "screenName": "METRO 1",
     "operator": "HAM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 126,
+    "sold": 0,
+    "available": 126,
+    "occupancy": 0.0,
+    "max_gross": 2646.0,
+    "total_gross": 0.0,
+    "price": 21.0,
+    "error": false
   },
   {
     "id": 169582,
     "cinemaId": "HAMCIN",
     "movieId": "HO00007919",
     "date": "2025-09-21T21:40:00",
+    "typeId": "STANDARD",
     "screenName": "METRO 5",
     "operator": "HAM",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 160,
+    "sold": 0,
+    "available": 160,
+    "occupancy": 0.0,
+    "max_gross": 3360.0,
+    "total_gross": 0.0,
+    "price": 21.0,
+    "error": false
   },
   {
     "id": 400415,
     "cinemaId": "1012",
     "movieId": "HO00007444",
     "date": "2025-09-21T09:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 8",
     "operator": "BOT",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 105,
+    "sold": 0,
+    "available": 105,
+    "occupancy": 0.0,
+    "max_gross": 2730.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 400417,
@@ -4364,55 +4975,85 @@
     "cinemaId": "1012",
     "movieId": "HO00007890",
     "date": "2025-09-21T10:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 4",
     "operator": "BOT",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 128,
+    "sold": 0,
+    "available": 128,
+    "occupancy": 0.0,
+    "max_gross": 3328.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 400406,
     "cinemaId": "1012",
     "movieId": "HO00007794",
     "date": "2025-09-21T12:40:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 3",
     "operator": "BOT",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 162,
+    "sold": 3,
+    "available": 159,
+    "occupancy": 1.85,
+    "max_gross": 4212.0,
+    "total_gross": 78.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 400410,
     "cinemaId": "1012",
     "movieId": "HO00007890",
     "date": "2025-09-21T12:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 4",
     "operator": "BOT",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 128,
+    "sold": 0,
+    "available": 128,
+    "occupancy": 0.0,
+    "max_gross": 3328.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 400407,
     "cinemaId": "1012",
     "movieId": "HO00007794",
     "date": "2025-09-21T12:40:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 03",
     "operator": "BOTLP",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 40,
+    "sold": 2,
+    "available": 38,
+    "occupancy": 5.0,
+    "max_gross": 1080.0,
+    "total_gross": 54.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 400416,
     "cinemaId": "1012",
     "movieId": "HO00007919",
     "date": "2025-09-21T12:40:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 7",
     "operator": "BOT",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 162,
+    "sold": 2,
+    "available": 160,
+    "occupancy": 1.23,
+    "max_gross": 4212.0,
+    "total_gross": 52.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 400656,
@@ -4423,29 +5064,41 @@
     "operator": "BOT",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 400460,
     "cinemaId": "1012",
     "movieId": "HO00007793",
     "date": "2025-09-21T14:20:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 2",
     "operator": "BOT",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 172,
+    "sold": 3,
+    "available": 169,
+    "occupancy": 1.74,
+    "max_gross": 4472.0,
+    "total_gross": 78.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 400408,
     "cinemaId": "1012",
     "movieId": "HO00008179",
     "date": "2025-09-21T14:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 6",
     "operator": "BOT",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 153,
+    "sold": 0,
+    "available": 153,
+    "occupancy": 0.0,
+    "max_gross": 4284.0,
+    "total_gross": 0.0,
+    "price": 28.0,
+    "error": false
   },
   {
     "id": 400414,
@@ -4463,33 +5116,51 @@
     "cinemaId": "1012",
     "movieId": "HO00007793",
     "date": "2025-09-21T14:20:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 02",
     "operator": "BOTLP",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 38,
+    "sold": 0,
+    "available": 38,
+    "occupancy": 0.0,
+    "max_gross": 1026.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 400403,
     "cinemaId": "1012",
     "movieId": "HO00007444",
     "date": "2025-09-21T15:40:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 8",
     "operator": "BOT",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 105,
+    "sold": 2,
+    "available": 103,
+    "occupancy": 1.9,
+    "max_gross": 2730.0,
+    "total_gross": 52.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 400404,
     "cinemaId": "1012",
     "movieId": "HO00007521",
     "date": "2025-09-21T15:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 3",
     "operator": "BOT",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 162,
+    "sold": 0,
+    "available": 162,
+    "occupancy": 0.0,
+    "max_gross": 4212.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 400399,
@@ -4500,51 +5171,75 @@
     "operator": "BOT",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 400405,
     "cinemaId": "1012",
     "movieId": "HO00007521",
     "date": "2025-09-21T15:50:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 03",
     "operator": "BOTLP",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 40,
+    "sold": 0,
+    "available": 40,
+    "occupancy": 0.0,
+    "max_gross": 1080.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 400384,
     "cinemaId": "1012",
     "movieId": "HO00008179",
-    "date": "2025-09-21T17:50:00",
+    "date": "2025-09-21T18:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 7",
     "operator": "BOT",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 162,
+    "sold": 2,
+    "available": 160,
+    "occupancy": 1.23,
+    "max_gross": 4536.0,
+    "total_gross": 56.0,
+    "price": 28.0,
+    "error": false
   },
   {
     "id": 400400,
     "cinemaId": "1012",
     "movieId": "HO00007279",
     "date": "2025-09-21T16:40:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 02",
     "operator": "BOTLP",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 38,
+    "sold": 0,
+    "available": 38,
+    "occupancy": 0.0,
+    "max_gross": 1026.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 400377,
     "cinemaId": "1012",
     "movieId": "HO00007521",
     "date": "2025-09-21T18:20:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 3",
     "operator": "BOT",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 162,
+    "sold": 0,
+    "available": 162,
+    "occupancy": 0.0,
+    "max_gross": 4212.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 400394,
@@ -4555,73 +5250,109 @@
     "operator": "BOT",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 400378,
     "cinemaId": "1012",
     "movieId": "HO00007521",
     "date": "2025-09-21T18:20:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 03",
     "operator": "BOTLP",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 40,
+    "sold": 0,
+    "available": 40,
+    "occupancy": 0.0,
+    "max_gross": 1080.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 400393,
     "cinemaId": "1012",
     "movieId": "HO00007862",
     "date": "2025-09-21T18:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 8",
     "operator": "BOT",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 105,
+    "sold": 0,
+    "available": 105,
+    "occupancy": 0.0,
+    "max_gross": 2730.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 400387,
     "cinemaId": "1012",
     "movieId": "HO00007794",
     "date": "2025-09-21T18:40:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 2",
     "operator": "BOT",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 172,
+    "sold": 0,
+    "available": 172,
+    "occupancy": 0.0,
+    "max_gross": 4472.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 400388,
     "cinemaId": "1012",
     "movieId": "HO00007794",
     "date": "2025-09-21T18:40:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 02",
     "operator": "BOTLP",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 38,
+    "sold": 0,
+    "available": 38,
+    "occupancy": 0.0,
+    "max_gross": 1026.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 400383,
     "cinemaId": "1012",
     "movieId": "HO00008172",
     "date": "2025-09-21T18:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 6",
     "operator": "BOT",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 153,
+    "sold": 11,
+    "available": 142,
+    "occupancy": 7.19,
+    "max_gross": 3978.0,
+    "total_gross": 286.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 400389,
     "cinemaId": "1012",
     "movieId": "HO00007811",
     "date": "2025-09-21T20:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 3",
     "operator": "BOT",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 162,
+    "sold": 3,
+    "available": 159,
+    "occupancy": 1.85,
+    "max_gross": 4536.0,
+    "total_gross": 84.0,
+    "price": 28.0,
+    "error": false
   },
   {
     "id": 400395,
@@ -4643,18 +5374,24 @@
     "operator": "BOT",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 400390,
     "cinemaId": "1012",
     "movieId": "HO00007811",
     "date": "2025-09-21T20:50:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 03",
     "operator": "BOTLP",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 40,
+    "sold": 2,
+    "available": 38,
+    "occupancy": 5.0,
+    "max_gross": 1080.0,
+    "total_gross": 54.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 400392,
@@ -4676,40 +5413,58 @@
     "operator": "BOT",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 400385,
     "cinemaId": "1012",
     "movieId": "HO00007794",
     "date": "2025-09-21T21:40:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 2",
     "operator": "BOT",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 172,
+    "sold": 0,
+    "available": 172,
+    "occupancy": 0.0,
+    "max_gross": 4472.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 400386,
     "cinemaId": "1012",
     "movieId": "HO00007794",
     "date": "2025-09-21T21:40:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 02",
     "operator": "BOTLP",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 38,
+    "sold": 0,
+    "available": 38,
+    "occupancy": 0.0,
+    "max_gross": 1026.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 400396,
     "cinemaId": "1012",
     "movieId": "HO00007850",
     "date": "2025-09-21T21:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 6",
     "operator": "BOT",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 153,
+    "sold": 2,
+    "available": 151,
+    "occupancy": 1.31,
+    "max_gross": 3978.0,
+    "total_gross": 52.0,
+    "price": 26.0,
+    "error": false
   },
   {
     "id": 469537,
@@ -4720,29 +5475,41 @@
     "operator": "SYLDS",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 469522,
     "cinemaId": "1002",
     "movieId": "HO00008179",
     "date": "2025-09-21T17:20:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 5",
     "operator": "SYL",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 207,
+    "sold": 0,
+    "available": 207,
+    "occupancy": 0.0,
+    "max_gross": 5692.5,
+    "total_gross": 0.0,
+    "price": 27.5,
+    "error": false
   },
   {
     "id": 469548,
     "cinemaId": "1002",
     "movieId": "HO00007919",
     "date": "2025-09-21T16:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 8",
     "operator": "SYL",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 50,
+    "sold": 2,
+    "available": 48,
+    "occupancy": 4.0,
+    "max_gross": 1275.0,
+    "total_gross": 51.0,
+    "price": 25.5,
+    "error": false
   },
   {
     "id": 469535,
@@ -4753,7 +5520,7 @@
     "operator": "SYL",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 469520,
@@ -4764,7 +5531,7 @@
     "operator": "SYL",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 469513,
@@ -4775,29 +5542,41 @@
     "operator": "SYL",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 469516,
     "cinemaId": "1002",
     "movieId": "HO00007811",
     "date": "2025-09-21T20:00:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 13",
     "operator": "SYLDS",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 60,
+    "sold": 4,
+    "available": 56,
+    "occupancy": 6.67,
+    "max_gross": 1620.0,
+    "total_gross": 108.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 469515,
     "cinemaId": "1002",
     "movieId": "HO00007811",
     "date": "2025-09-21T20:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 3",
     "operator": "SYL",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 638,
+    "sold": 3,
+    "available": 635,
+    "occupancy": 0.47,
+    "max_gross": 17545.0,
+    "total_gross": 82.5,
+    "price": 27.5,
+    "error": false
   },
   {
     "id": 469509,
@@ -4808,139 +5587,211 @@
     "operator": "SYL",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 469528,
     "cinemaId": "1002",
     "movieId": "HO00007794",
     "date": "2025-09-21T18:40:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 09",
     "operator": "SYLDS",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 70,
+    "sold": 0,
+    "available": 70,
+    "occupancy": 0.0,
+    "max_gross": 1890.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 469531,
     "cinemaId": "1002",
     "movieId": "HO00008017",
     "date": "2025-09-21T21:20:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 7",
     "operator": "SYL",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 162,
+    "sold": 0,
+    "available": 162,
+    "occupancy": 0.0,
+    "max_gross": 4131.0,
+    "total_gross": 0.0,
+    "price": 25.5,
+    "error": false
   },
   {
     "id": 469521,
     "cinemaId": "1002",
     "movieId": "HO00007279",
     "date": "2025-09-21T17:50:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 13",
     "operator": "SYLDS",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 60,
+    "sold": 0,
+    "available": 60,
+    "occupancy": 0.0,
+    "max_gross": 1620.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 469529,
     "cinemaId": "1002",
     "movieId": "HO00007919",
     "date": "2025-09-21T21:40:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 8",
     "operator": "SYL",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 50,
+    "sold": 0,
+    "available": 50,
+    "occupancy": 0.0,
+    "max_gross": 1275.0,
+    "total_gross": 0.0,
+    "price": 25.5,
+    "error": false
   },
   {
     "id": 469558,
     "cinemaId": "1002",
     "movieId": "HO00007182",
     "date": "2025-09-21T16:40:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 10",
     "operator": "SYLDS",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 70,
+    "sold": 0,
+    "available": 70,
+    "occupancy": 0.0,
+    "max_gross": 1890.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 469549,
     "cinemaId": "1002",
     "movieId": "HO00007444",
     "date": "2025-09-21T19:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 8",
     "operator": "SYL",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 50,
+    "sold": 2,
+    "available": 48,
+    "occupancy": 4.0,
+    "max_gross": 1275.0,
+    "total_gross": 51.0,
+    "price": 25.5,
+    "error": false
   },
   {
     "id": 469526,
     "cinemaId": "1002",
     "movieId": "HO00007279",
     "date": "2025-09-21T16:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 2",
     "operator": "SYL",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 726,
+    "sold": 0,
+    "available": 726,
+    "occupancy": 0.0,
+    "max_gross": 18513.0,
+    "total_gross": 0.0,
+    "price": 25.5,
+    "error": false
   },
   {
     "id": 469554,
     "cinemaId": "1002",
     "movieId": "HO00007279",
     "date": "2025-09-21T21:40:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 09",
     "operator": "SYLDS",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 70,
+    "sold": 0,
+    "available": 70,
+    "occupancy": 0.0,
+    "max_gross": 1890.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 469519,
     "cinemaId": "1002",
     "movieId": "HO00007794",
     "date": "2025-09-21T21:30:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 12",
     "operator": "SYLDS",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 69,
+    "sold": 0,
+    "available": 69,
+    "occupancy": 0.0,
+    "max_gross": 1863.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 469542,
     "cinemaId": "1002",
     "movieId": "HO00007811",
     "date": "2025-09-21T15:20:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 7",
     "operator": "SYL",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 162,
+    "sold": 18,
+    "available": 144,
+    "occupancy": 11.11,
+    "max_gross": 4455.0,
+    "total_gross": 495.0,
+    "price": 27.5,
+    "error": false
   },
   {
     "id": 469511,
     "cinemaId": "1002",
     "movieId": "HO00007521",
     "date": "2025-09-21T19:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 2",
     "operator": "SYL",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 726,
+    "sold": 0,
+    "available": 726,
+    "occupancy": 0.0,
+    "max_gross": 18513.0,
+    "total_gross": 0.0,
+    "price": 25.5,
+    "error": false
   },
   {
     "id": 469555,
     "cinemaId": "1002",
     "movieId": "HO00007429",
     "date": "2025-09-21T19:40:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 10",
     "operator": "SYLDS",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 70,
+    "sold": 0,
+    "available": 70,
+    "occupancy": 0.0,
+    "max_gross": 1890.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 469527,
@@ -4951,7 +5802,7 @@
     "operator": "SYLDS",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 469517,
@@ -4962,7 +5813,7 @@
     "operator": "SYL",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 469532,
@@ -4973,40 +5824,58 @@
     "operator": "SYL",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 469518,
     "cinemaId": "1002",
     "movieId": "HO00007794",
     "date": "2025-09-21T21:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 2",
     "operator": "SYL",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 726,
+    "sold": 2,
+    "available": 724,
+    "occupancy": 0.28,
+    "max_gross": 18513.0,
+    "total_gross": 51.0,
+    "price": 25.5,
+    "error": false
   },
   {
     "id": 469512,
     "cinemaId": "1002",
     "movieId": "HO00007521",
     "date": "2025-09-21T19:00:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 12",
     "operator": "SYLDS",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 69,
+    "sold": 2,
+    "available": 67,
+    "occupancy": 2.9,
+    "max_gross": 1863.0,
+    "total_gross": 54.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 469510,
     "cinemaId": "1002",
     "movieId": "HO00008179",
     "date": "2025-09-21T20:30:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 11",
     "operator": "SYLDS",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 96,
+    "sold": 2,
+    "available": 94,
+    "occupancy": 2.08,
+    "max_gross": 2592.0,
+    "total_gross": 54.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 469556,
@@ -5017,29 +5886,41 @@
     "operator": "SYLDS",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 469514,
     "cinemaId": "1002",
     "movieId": "HO00007521",
     "date": "2025-09-21T20:50:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 14",
     "operator": "SYLDS",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 51,
+    "sold": 0,
+    "available": 51,
+    "occupancy": 0.0,
+    "max_gross": 1377.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 469534,
     "cinemaId": "1002",
     "movieId": "HO00007850",
     "date": "2025-09-21T21:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 5",
     "operator": "SYL",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 207,
+    "sold": 0,
+    "available": 207,
+    "occupancy": 0.0,
+    "max_gross": 5278.5,
+    "total_gross": 0.0,
+    "price": 25.5,
+    "error": false
   },
   {
     "id": 469533,
@@ -5050,7 +5931,7 @@
     "operator": "SYL",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 469546,
@@ -5061,51 +5942,75 @@
     "operator": "SYL",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 469547,
     "cinemaId": "1002",
     "movieId": "HO00008022",
     "date": "2025-09-21T09:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 5",
     "operator": "SYL",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 207,
+    "sold": 0,
+    "available": 207,
+    "occupancy": 0.0,
+    "max_gross": 5589.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 469552,
     "cinemaId": "1002",
     "movieId": "HO00007444",
     "date": "2025-09-21T10:20:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 7",
     "operator": "SYL",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 162,
+    "sold": 1,
+    "available": 161,
+    "occupancy": 0.62,
+    "max_gross": 4131.0,
+    "total_gross": 25.5,
+    "price": 25.5,
+    "error": false
   },
   {
     "id": 469553,
     "cinemaId": "1002",
     "movieId": "HO00007182",
     "date": "2025-09-21T11:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 8",
     "operator": "SYL",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 50,
+    "sold": 12,
+    "available": 38,
+    "occupancy": 24.0,
+    "max_gross": 1275.0,
+    "total_gross": 306.0,
+    "price": 25.5,
+    "error": false
   },
   {
     "id": 469538,
     "cinemaId": "1002",
     "movieId": "HO00007521",
     "date": "2025-09-21T10:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 4",
     "operator": "SYL",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 550,
+    "sold": 0,
+    "available": 550,
+    "occupancy": 0.0,
+    "max_gross": 14025.0,
+    "total_gross": 0.0,
+    "price": 25.5,
+    "error": false
   },
   {
     "id": 469543,
@@ -5116,18 +6021,24 @@
     "operator": "SYL",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 469540,
     "cinemaId": "1002",
     "movieId": "HO00007794",
     "date": "2025-09-21T11:40:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 3",
     "operator": "SYL",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 638,
+    "sold": 10,
+    "available": 628,
+    "occupancy": 1.57,
+    "max_gross": 16269.0,
+    "total_gross": 255.0,
+    "price": 25.5,
+    "error": false
   },
   {
     "id": 469557,
@@ -5138,172 +6049,262 @@
     "operator": "SYLDS",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 469545,
     "cinemaId": "1002",
     "movieId": "HO00007793",
     "date": "2025-09-21T13:40:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 14",
     "operator": "SYLDS",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 51,
+    "sold": 0,
+    "available": 51,
+    "occupancy": 0.0,
+    "max_gross": 1377.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 469551,
     "cinemaId": "1002",
     "movieId": "HO00007890",
     "date": "2025-09-21T13:10:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 7",
     "operator": "SYL",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 162,
+    "sold": 0,
+    "available": 162,
+    "occupancy": 0.0,
+    "max_gross": 4131.0,
+    "total_gross": 0.0,
+    "price": 25.5,
+    "error": false
   },
   {
     "id": 469523,
     "cinemaId": "1002",
     "movieId": "HO00008179",
     "date": "2025-09-21T13:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 5",
     "operator": "SYL",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 207,
+    "sold": 0,
+    "available": 207,
+    "occupancy": 0.0,
+    "max_gross": 5692.5,
+    "total_gross": 0.0,
+    "price": 27.5,
+    "error": false
   },
   {
     "id": 469544,
     "cinemaId": "1002",
     "movieId": "HO00007793",
     "date": "2025-09-21T13:40:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 4",
     "operator": "SYL",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 550,
+    "sold": 6,
+    "available": 544,
+    "occupancy": 1.09,
+    "max_gross": 14025.0,
+    "total_gross": 153.0,
+    "price": 25.5,
+    "error": false
   },
   {
     "id": 469559,
     "cinemaId": "1002",
     "movieId": "HO00007429",
     "date": "2025-09-21T13:30:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 10",
     "operator": "SYLDS",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 70,
+    "sold": 0,
+    "available": 70,
+    "occupancy": 0.0,
+    "max_gross": 1890.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 469550,
     "cinemaId": "1002",
     "movieId": "HO00007862",
     "date": "2025-09-21T14:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 8",
     "operator": "SYL",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 50,
+    "sold": 0,
+    "available": 50,
+    "occupancy": 0.0,
+    "max_gross": 1275.0,
+    "total_gross": 0.0,
+    "price": 25.5,
+    "error": false
   },
   {
     "id": 469536,
     "cinemaId": "1002",
     "movieId": "HO00007794",
     "date": "2025-09-21T14:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 3",
     "operator": "SYL",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 638,
+    "sold": 0,
+    "available": 638,
+    "occupancy": 0.0,
+    "max_gross": 16269.0,
+    "total_gross": 0.0,
+    "price": 25.5,
+    "error": false
   },
   {
     "id": 469525,
     "cinemaId": "1002",
     "movieId": "HO00007763",
     "date": "2025-09-21T14:30:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 12",
     "operator": "SYLDS",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 69,
+    "sold": 0,
+    "available": 69,
+    "occupancy": 0.0,
+    "max_gross": 1863.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 469524,
     "cinemaId": "1002",
     "movieId": "HO00007763",
     "date": "2025-09-21T14:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 2",
     "operator": "SYL",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 726,
+    "sold": 0,
+    "available": 726,
+    "occupancy": 0.0,
+    "max_gross": 18513.0,
+    "total_gross": 0.0,
+    "price": 25.5,
+    "error": false
   },
   {
     "id": 328525,
     "cinemaId": "1014",
     "movieId": "HO00007521",
     "date": "2025-09-21T11:45:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 5",
     "operator": "TER",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 216,
+    "sold": 0,
+    "available": 216,
+    "occupancy": 0.0,
+    "max_gross": 5292.0,
+    "total_gross": 0.0,
+    "price": 24.5,
+    "error": false
   },
   {
     "id": 328527,
     "cinemaId": "1014",
     "movieId": "HO00007521",
     "date": "2025-09-21T14:10:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 5",
     "operator": "TER",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 216,
+    "sold": 0,
+    "available": 216,
+    "occupancy": 0.0,
+    "max_gross": 5292.0,
+    "total_gross": 0.0,
+    "price": 24.5,
+    "error": false
   },
   {
     "id": 328498,
     "cinemaId": "1014",
     "movieId": "HO00007521",
     "date": "2025-09-21T18:20:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 2",
     "operator": "TER",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 216,
+    "sold": 0,
+    "available": 216,
+    "occupancy": 0.0,
+    "max_gross": 5292.0,
+    "total_gross": 0.0,
+    "price": 24.5,
+    "error": false
   },
   {
     "id": 328524,
     "cinemaId": "1014",
     "movieId": "HO00007521",
     "date": "2025-09-21T11:45:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 11",
     "operator": "TERLP",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 48,
+    "sold": 0,
+    "available": 48,
+    "occupancy": 0.0,
+    "max_gross": 1296.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 328499,
     "cinemaId": "1014",
     "movieId": "HO00007521",
     "date": "2025-09-21T18:20:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 08",
     "operator": "TERLP",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 57,
+    "sold": 0,
+    "available": 57,
+    "occupancy": 0.0,
+    "max_gross": 1539.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 328500,
     "cinemaId": "1014",
     "movieId": "HO00007521",
     "date": "2025-09-21T20:50:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 08",
     "operator": "TERLP",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 57,
+    "sold": 0,
+    "available": 57,
+    "occupancy": 0.0,
+    "max_gross": 1539.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 328501,
@@ -5314,18 +6315,24 @@
     "operator": "TER",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 328526,
     "cinemaId": "1014",
     "movieId": "HO00007521",
     "date": "2025-09-21T14:10:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 11",
     "operator": "TERLP",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 48,
+    "sold": 0,
+    "available": 48,
+    "occupancy": 0.0,
+    "max_gross": 1296.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 328523,
@@ -5343,22 +6350,34 @@
     "cinemaId": "1014",
     "movieId": "HO00008022",
     "date": "2025-09-21T09:30:00",
+    "typeId": "XTREME",
     "screenName": "Xtremescreen",
     "operator": "TER",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 484,
+    "sold": 0,
+    "available": 484,
+    "occupancy": 0.0,
+    "max_gross": 13068.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 328534,
     "cinemaId": "1014",
     "movieId": "HO00007616",
     "date": "2025-09-21T09:45:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 6",
     "operator": "TER",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 264,
+    "sold": 0,
+    "available": 264,
+    "occupancy": 0.0,
+    "max_gross": 6468.0,
+    "total_gross": 0.0,
+    "price": 24.5,
+    "error": false
   },
   {
     "id": 328503,
@@ -5369,139 +6388,211 @@
     "operator": "TER",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 328512,
     "cinemaId": "1014",
     "movieId": "HO00007792",
     "date": "2025-09-21T09:45:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 4",
     "operator": "TER",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 216,
+    "sold": 0,
+    "available": 216,
+    "occupancy": 0.0,
+    "max_gross": 5292.0,
+    "total_gross": 0.0,
+    "price": 24.5,
+    "error": false
   },
   {
     "id": 328504,
     "cinemaId": "1014",
     "movieId": "HO00007763",
     "date": "2025-09-21T12:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 3",
     "operator": "TER",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 252,
+    "sold": 0,
+    "available": 252,
+    "occupancy": 0.0,
+    "max_gross": 6174.0,
+    "total_gross": 0.0,
+    "price": 24.5,
+    "error": false
   },
   {
     "id": 328515,
     "cinemaId": "1014",
     "movieId": "HO00007792",
     "date": "2025-09-21T12:10:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 4",
     "operator": "TER",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 216,
+    "sold": 2,
+    "available": 214,
+    "occupancy": 0.93,
+    "max_gross": 5292.0,
+    "total_gross": 49.0,
+    "price": 24.5,
+    "error": false
   },
   {
     "id": 328505,
     "cinemaId": "1014",
     "movieId": "HO00007763",
     "date": "2025-09-21T12:30:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 09",
     "operator": "TERLP",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 95,
+    "sold": 0,
+    "available": 95,
+    "occupancy": 0.0,
+    "max_gross": 2565.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 328517,
     "cinemaId": "1014",
     "movieId": "HO00008078",
     "date": "2025-09-21T14:30:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 10",
     "operator": "TERLP",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 48,
+    "sold": 0,
+    "available": 48,
+    "occupancy": 0.0,
+    "max_gross": 1296.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 328535,
     "cinemaId": "1014",
     "movieId": "HO00007794",
     "date": "2025-09-21T12:15:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 6",
     "operator": "TER",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 264,
+    "sold": 3,
+    "available": 261,
+    "occupancy": 1.14,
+    "max_gross": 6468.0,
+    "total_gross": 73.5,
+    "price": 24.5,
+    "error": false
   },
   {
     "id": 328516,
     "cinemaId": "1014",
     "movieId": "HO00008078",
     "date": "2025-09-21T14:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 4",
     "operator": "TER",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 216,
+    "sold": 1,
+    "available": 215,
+    "occupancy": 0.46,
+    "max_gross": 5292.0,
+    "total_gross": 24.5,
+    "price": 24.5,
+    "error": false
   },
   {
     "id": 328507,
     "cinemaId": "1014",
     "movieId": "HO00007763",
     "date": "2025-09-21T14:50:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 09",
     "operator": "TERLP",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 95,
+    "sold": 0,
+    "available": 95,
+    "occupancy": 0.0,
+    "max_gross": 2565.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 328506,
     "cinemaId": "1014",
     "movieId": "HO00007763",
     "date": "2025-09-21T14:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 3",
     "operator": "TER",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 252,
+    "sold": 0,
+    "available": 252,
+    "occupancy": 0.0,
+    "max_gross": 6174.0,
+    "total_gross": 0.0,
+    "price": 24.5,
+    "error": false
   },
   {
     "id": 328514,
     "cinemaId": "1014",
     "movieId": "HO00007792",
     "date": "2025-09-21T12:10:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 10",
     "operator": "TERLP",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 48,
+    "sold": 0,
+    "available": 48,
+    "occupancy": 0.0,
+    "max_gross": 1296.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 328529,
     "cinemaId": "1014",
     "movieId": "HO00008079",
     "date": "2025-09-21T16:40:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 5",
     "operator": "TER",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 216,
+    "sold": 0,
+    "available": 216,
+    "occupancy": 0.0,
+    "max_gross": 5292.0,
+    "total_gross": 0.0,
+    "price": 24.5,
+    "error": false
   },
   {
     "id": 328528,
     "cinemaId": "1014",
     "movieId": "HO00008079",
     "date": "2025-09-21T16:40:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 11",
     "operator": "TERLP",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 48,
+    "sold": 0,
+    "available": 48,
+    "occupancy": 0.0,
+    "max_gross": 1296.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 328509,
@@ -5512,7 +6603,7 @@
     "operator": "TERLP",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 328518,
@@ -5523,18 +6614,24 @@
     "operator": "TERLP",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 328508,
     "cinemaId": "1014",
     "movieId": "HO00007763",
     "date": "2025-09-21T17:20:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 3",
     "operator": "TER",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 252,
+    "sold": 0,
+    "available": 252,
+    "occupancy": 0.0,
+    "max_gross": 6174.0,
+    "total_gross": 0.0,
+    "price": 24.5,
+    "error": false
   },
   {
     "id": 328536,
@@ -5552,33 +6649,51 @@
     "cinemaId": "1014",
     "movieId": "HO00008078",
     "date": "2025-09-21T18:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 4",
     "operator": "TER",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 216,
+    "sold": 3,
+    "available": 213,
+    "occupancy": 1.39,
+    "max_gross": 5292.0,
+    "total_gross": 73.5,
+    "price": 24.5,
+    "error": false
   },
   {
     "id": 328510,
     "cinemaId": "1014",
     "movieId": "HO00007794",
     "date": "2025-09-21T19:40:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 09",
     "operator": "TERLP",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 95,
+    "sold": 2,
+    "available": 93,
+    "occupancy": 2.11,
+    "max_gross": 2565.0,
+    "total_gross": 54.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 328530,
     "cinemaId": "1014",
     "movieId": "HO00008079",
     "date": "2025-09-21T19:00:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 5",
     "operator": "TER",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 216,
+    "sold": 0,
+    "available": 216,
+    "occupancy": 0.0,
+    "max_gross": 5292.0,
+    "total_gross": 0.0,
+    "price": 24.5,
+    "error": false
   },
   {
     "id": 328764,
@@ -5589,94 +6704,281 @@
     "operator": "TERLP",
     "error": true,
     "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 328531,
     "cinemaId": "1014",
     "movieId": "HO00008079",
     "date": "2025-09-21T19:00:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 11",
     "operator": "TERLP",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 48,
+    "sold": 0,
+    "available": 48,
+    "occupancy": 0.0,
+    "max_gross": 1296.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 328537,
     "cinemaId": "1014",
     "movieId": "HO00007444",
     "date": "2025-09-21T20:50:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 6",
     "operator": "TER",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 264,
+    "sold": 0,
+    "available": 264,
+    "occupancy": 0.0,
+    "max_gross": 6468.0,
+    "total_gross": 0.0,
+    "price": 24.5,
+    "error": false
   },
   {
     "id": 328511,
     "cinemaId": "1014",
     "movieId": "HO00007794",
     "date": "2025-09-21T19:40:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 3",
     "operator": "TER",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 252,
+    "sold": 2,
+    "available": 250,
+    "occupancy": 0.79,
+    "max_gross": 6174.0,
+    "total_gross": 49.0,
+    "price": 24.5,
+    "error": false
   },
   {
     "id": 328763,
     "cinemaId": "1014",
     "movieId": "HO00008179",
     "date": "2025-09-21T21:15:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 5",
     "operator": "TER",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 216,
+    "sold": 11,
+    "available": 205,
+    "occupancy": 5.09,
+    "max_gross": 5724.0,
+    "total_gross": 291.5,
+    "price": 26.5,
+    "error": false
   },
   {
     "id": 328520,
     "cinemaId": "1014",
     "movieId": "HO00007794",
     "date": "2025-09-21T21:30:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 10",
     "operator": "TERLP",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 48,
+    "sold": 0,
+    "available": 48,
+    "occupancy": 0.0,
+    "max_gross": 1296.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 328495,
     "cinemaId": "1014",
     "movieId": "HO00007811",
     "date": "2025-09-21T21:10:00",
+    "typeId": "XTREME",
     "screenName": "Xtremescreen",
     "operator": "TER",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 484,
+    "sold": 0,
+    "available": 484,
+    "occupancy": 0.0,
+    "max_gross": 14036.0,
+    "total_gross": 0.0,
+    "price": 29.0,
+    "error": false
   },
   {
     "id": 328494,
     "cinemaId": "1014",
     "movieId": "HO00007811",
     "date": "2025-09-21T21:10:00",
+    "typeId": "LUX",
     "screenName": "HOYTS LUX 07",
     "operator": "TERLP",
-    "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "total": 198,
+    "sold": 0,
+    "available": 198,
+    "occupancy": 0.0,
+    "max_gross": 5346.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   },
   {
     "id": 328521,
     "cinemaId": "1014",
     "movieId": "HO00007794",
     "date": "2025-09-21T21:30:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 4",
     "operator": "TER",
+    "total": 216,
+    "sold": 0,
+    "available": 216,
+    "occupancy": 0.0,
+    "max_gross": 5292.0,
+    "total_gross": 0.0,
+    "price": 24.5,
+    "error": false
+  },
+  {
+    "id": 401186,
+    "cinemaId": "1012",
+    "movieId": "HO00008172",
+    "date": "2025-09-21T10:20:00",
+    "screenName": "Cinema 5",
+    "operator": "BOT",
     "error": true,
-    "error_msg": "HTTP 403",
-    "last_error": "HTTP 403"
+    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+  },
+  {
+    "id": 169771,
+    "cinemaId": "HAMCIN",
+    "movieId": "HO00008172",
+    "date": "2025-09-21T18:00:00",
+    "screenName": "METRO 2",
+    "operator": "HAM",
+    "error": true,
+    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+  },
+  {
+    "id": 401187,
+    "cinemaId": "1012",
+    "movieId": "HO00008172",
+    "date": "2025-09-21T15:10:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 7",
+    "operator": "BOT",
+    "total": 162,
+    "sold": 4,
+    "available": 158,
+    "occupancy": 2.47,
+    "max_gross": 4212.0,
+    "total_gross": 104.0,
+    "price": 26.0,
+    "error": false
+  },
+  {
+    "id": 401184,
+    "cinemaId": "1012",
+    "movieId": "HO00008172",
+    "date": "2025-09-21T20:40:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 5",
+    "operator": "BOT",
+    "total": 128,
+    "sold": 0,
+    "available": 128,
+    "occupancy": 0.0,
+    "max_gross": 3328.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
+  },
+  {
+    "id": 401185,
+    "cinemaId": "1012",
+    "movieId": "HO00008172",
+    "date": "2025-09-21T21:30:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 8",
+    "operator": "BOT",
+    "total": 105,
+    "sold": 0,
+    "available": 105,
+    "occupancy": 0.0,
+    "max_gross": 2730.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
+  },
+  {
+    "id": 169774,
+    "cinemaId": "HAMCIN",
+    "movieId": "HO00007862",
+    "date": "2025-09-21T09:40:00",
+    "typeId": "STANDARD",
+    "screenName": "METRO 2",
+    "operator": "HAM",
+    "total": 126,
+    "sold": 0,
+    "available": 126,
+    "occupancy": 0.0,
+    "max_gross": 2646.0,
+    "total_gross": 0.0,
+    "price": 21.0,
+    "error": false
+  },
+  {
+    "id": 328830,
+    "cinemaId": "1014",
+    "movieId": "HO00007862",
+    "date": "2025-09-21T09:30:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 5",
+    "operator": "TER",
+    "total": 216,
+    "sold": 0,
+    "available": 216,
+    "occupancy": 0.0,
+    "max_gross": 5292.0,
+    "total_gross": 0.0,
+    "price": 24.5,
+    "error": false
+  },
+  {
+    "id": 360036,
+    "cinemaId": "1001",
+    "movieId": "HO00008172",
+    "date": "2025-09-21T13:10:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 7",
+    "operator": "WPK",
+    "total": 121,
+    "sold": 0,
+    "available": 121,
+    "occupancy": 0.0,
+    "max_gross": 3146.0,
+    "total_gross": 0.0,
+    "price": 26.0,
+    "error": false
+  },
+  {
+    "id": 328831,
+    "cinemaId": "1014",
+    "movieId": "HO00008172",
+    "date": "2025-09-21T18:05:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 6",
+    "operator": "TER",
+    "total": 264,
+    "sold": 0,
+    "available": 264,
+    "occupancy": 0.0,
+    "max_gross": 6468.0,
+    "total_gross": 0.0,
+    "price": 24.5,
+    "error": false
   }
 ]

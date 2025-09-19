@@ -15,7 +15,7 @@
     "total_gross": 150.0,
     "price": 30.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 326698,
@@ -32,8 +32,7 @@
     "max_gross": 6480.0,
     "total_gross": 0.0,
     "price": 30.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 468112,
@@ -50,8 +49,7 @@
     "max_gross": 1620.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 79275,
@@ -87,7 +85,7 @@
     "total_gross": 0.0,
     "price": 25.5,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 79274,
@@ -116,14 +114,13 @@
     "screenName": "Cinema 4",
     "operator": "NTH",
     "total": 160,
-    "sold": 33,
-    "available": 127,
-    "occupancy": 20.62,
+    "sold": 36,
+    "available": 124,
+    "occupancy": 22.5,
     "max_gross": 4800.0,
-    "total_gross": 990.0,
+    "total_gross": 1080.0,
     "price": 30.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 176871,
@@ -140,8 +137,7 @@
     "max_gross": 4200.0,
     "total_gross": 0.0,
     "price": 30.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 194577,
@@ -159,7 +155,7 @@
     "total_gross": 150.0,
     "price": 30.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 190560,
@@ -177,7 +173,7 @@
     "total_gross": 0.0,
     "price": 30.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 315776,

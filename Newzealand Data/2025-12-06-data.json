@@ -15,7 +15,7 @@
     "total_gross": 0.0,
     "price": 30.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 468109,
@@ -32,8 +32,7 @@
     "max_gross": 16269.0,
     "total_gross": 0.0,
     "price": 25.5,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 79272,
@@ -80,14 +79,13 @@
     "screenName": "HOYTS LUX 13",
     "operator": "SYLDS",
     "total": 60,
-    "sold": 0,
-    "available": 60,
-    "occupancy": 0.0,
+    "sold": 2,
+    "available": 58,
+    "occupancy": 3.33,
     "max_gross": 1620.0,
-    "total_gross": 0.0,
+    "total_gross": 54.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 326697,
@@ -104,8 +102,7 @@
     "max_gross": 6480.0,
     "total_gross": 0.0,
     "price": 30.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 275666,
@@ -123,7 +120,7 @@
     "total_gross": 300.0,
     "price": 30.0,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 176870,
@@ -140,8 +137,7 @@
     "max_gross": 4200.0,
     "total_gross": 0.0,
     "price": 30.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 190559,
@@ -158,8 +154,7 @@
     "max_gross": 2880.0,
     "total_gross": 0.0,
     "price": 30.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 194576,
@@ -176,8 +171,7 @@
     "max_gross": 5760.0,
     "total_gross": 210.0,
     "price": 30.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 315775,

@@ -8,14 +8,13 @@
     "screenName": "Cinema 1",
     "operator": "NTH",
     "total": 50,
-    "sold": 6,
-    "available": 44,
-    "occupancy": 12.0,
+    "sold": 7,
+    "available": 43,
+    "occupancy": 14.0,
     "max_gross": 1350.0,
-    "total_gross": 162.0,
+    "total_gross": 189.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   },
   {
     "id": 326696,
@@ -33,7 +32,7 @@
     "total_gross": 0.0,
     "price": 24.5,
     "error": false,
-    "last_error": "HTTP 403"
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 399108,
@@ -50,7 +49,6 @@
     "max_gross": 3978.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "HTTP 403"
+    "error": false
   }
 ]
