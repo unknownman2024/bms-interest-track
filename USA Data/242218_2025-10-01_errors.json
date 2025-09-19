@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-19 09:50:21 AM",
+  "last_updated": "2025-09-19 10:47:07 AM",
   "errors": [
     {
       "state": "GA",
@@ -149,6 +149,96 @@
       "language": "Kannada",
       "error": {
         "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Walnut Creek",
+      "zip": "94596",
+      "theater_name": "Cinemark Century Walnut Creek 14 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516680764,
+      "date": "2025-10-01+12:00",
+      "format": "Standard",
+      "language": "Kannada",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Walnut Creek",
+      "zip": "94596",
+      "theater_name": "Cinemark Century Walnut Creek 14 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516680765,
+      "date": "2025-10-01+16:00",
+      "format": "Standard",
+      "language": "Kannada",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Walnut Creek",
+      "zip": "94596",
+      "theater_name": "Cinemark Century Walnut Creek 14 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516680766,
+      "date": "2025-10-01+20:00",
+      "format": "Standard",
+      "language": "Kannada",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Walnut Creek",
+      "zip": "94596",
+      "theater_name": "Cinemark Century Walnut Creek 14 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516680767,
+      "date": "2025-10-01+12:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Walnut Creek",
+      "zip": "94596",
+      "theater_name": "Cinemark Century Walnut Creek 14 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516680768,
+      "date": "2025-10-01+16:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Walnut Creek",
+      "zip": "94596",
+      "theater_name": "Cinemark Century Walnut Creek 14 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516680769,
+      "date": "2025-10-01+20:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
       }
     }
   ]
