@@ -1,5 +1,9 @@
 name: Newzealand HOYTS BoxOffice Tracker
 
+permissions:
+  contents: write        # allows pushing code/files
+  workflows: write       # allows updating workflows if needed
+
 on:
   schedule:
     - cron: "30 */2 * * *"   # every 2 hours at minute 30
