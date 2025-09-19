@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-19 09:23:13 AM",
+  "last_updated": "2025-09-19 10:51:35 AM",
   "errors": [
     {
       "state": "MA",
@@ -1454,6 +1454,21 @@
       "language": "Telugu",
       "error": {
         "status": 500
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Hillsboro",
+      "zip": "97123",
+      "theater_name": "Regal Movies On TV",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 516675577,
+      "date": "2025-09-25+16:05",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 403
       }
     }
   ]
