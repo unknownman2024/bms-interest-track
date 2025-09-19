@@ -8281,7 +8281,8 @@
     "max_gross": 2716.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 422162,
@@ -8610,8 +8611,7 @@
     "max_gross": 1925.0,
     "total_gross": 0.0,
     "price": 25.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 517795,
@@ -8645,7 +8645,8 @@
     "max_gross": 2660.0,
     "total_gross": 0.0,
     "price": 19.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 358872,
@@ -8764,7 +8765,8 @@
     "max_gross": 2774.0,
     "total_gross": 0.0,
     "price": 19.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 78789,
@@ -8832,7 +8834,8 @@
     "max_gross": 5320.0,
     "total_gross": 56.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 318713,
@@ -8866,7 +8869,8 @@
     "max_gross": 3978.0,
     "total_gross": 312.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 429960,
@@ -8917,8 +8921,7 @@
     "max_gross": 5880.0,
     "total_gross": 364.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 409827,
@@ -8935,7 +8938,8 @@
     "max_gross": 7590.0,
     "total_gross": 66.0,
     "price": 33.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 346589,
@@ -8969,8 +8973,7 @@
     "max_gross": 6696.0,
     "total_gross": 124.0,
     "price": 31.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 359194,
@@ -9055,8 +9058,7 @@
     "max_gross": 11951.0,
     "total_gross": 0.0,
     "price": 19.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 73555,
@@ -9073,7 +9075,8 @@
     "max_gross": 12996.0,
     "total_gross": 0.0,
     "price": 19.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 287275,
@@ -9090,8 +9093,7 @@
     "max_gross": 2016.0,
     "total_gross": 0.0,
     "price": 21.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 287288,
@@ -9125,7 +9127,8 @@
     "max_gross": 3886.0,
     "total_gross": 145.0,
     "price": 29.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 141450,
@@ -9142,7 +9145,8 @@
     "max_gross": 2744.0,
     "total_gross": 560.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 141460,
@@ -9194,8 +9198,7 @@
     "max_gross": 4590.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 358876,
@@ -9320,17 +9323,68 @@
     "id": 347159,
     "cinemaId": "BELCON",
     "movieId": "HO00010666",
-    "date": "2025-09-21T20:40:00",
+    "date": "2025-09-21T20:20:00",
     "typeId": "STANDARD",
-    "screenName": "Cinema 07",
+    "screenName": "Cinema 03",
     "operator": "BEL",
-    "total": 136,
+    "total": 104,
     "sold": 0,
-    "available": 136,
+    "available": 104,
     "occupancy": 0.0,
-    "max_gross": 3468.0,
+    "max_gross": 2652.0,
     "total_gross": 0.0,
     "price": 25.5,
+    "error": false
+  },
+  {
+    "id": 142023,
+    "cinemaId": "DOCCIN",
+    "movieId": "HO00010700",
+    "date": "2025-09-21T12:45:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 07",
+    "operator": "DOC",
+    "total": 98,
+    "sold": 0,
+    "available": 98,
+    "occupancy": 0.0,
+    "max_gross": 2744.0,
+    "total_gross": 0.0,
+    "price": 28.0,
+    "error": false
+  },
+  {
+    "id": 518407,
+    "cinemaId": "HIGPNT",
+    "movieId": "HO00010700",
+    "date": "2025-09-21T15:40:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 11",
+    "operator": "HIG",
+    "total": 180,
+    "sold": 0,
+    "available": 180,
+    "occupancy": 0.0,
+    "max_gross": 5040.0,
+    "total_gross": 0.0,
+    "price": 28.0,
+    "error": false
+  },
+  {
+    "id": 518406,
+    "cinemaId": "HIGPNT",
+    "movieId": "HO00010700",
+    "date": "2025-09-21T21:30:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 01",
+    "operator": "HIG",
+    "total": 180,
+    "sold": 0,
+    "available": 180,
+    "occupancy": 0.0,
+    "max_gross": 5040.0,
+    "total_gross": 0.0,
+    "price": 28.0,
     "error": false
   }
 ]
