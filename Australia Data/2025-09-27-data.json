@@ -1544,8 +1544,7 @@
     "max_gross": 5040.0,
     "total_gross": 535.5,
     "price": 31.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 346943,
@@ -1562,7 +1561,8 @@
     "max_gross": 5040.0,
     "total_gross": 315.0,
     "price": 31.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 501378,
@@ -1573,11 +1573,11 @@
     "screenName": "Xtreme 01",
     "operator": "CAR",
     "total": 326,
-    "sold": 4,
-    "available": 322,
-    "occupancy": 1.23,
+    "sold": 13,
+    "available": 313,
+    "occupancy": 3.99,
     "max_gross": 10106.0,
-    "total_gross": 124.0,
+    "total_gross": 403.0,
     "price": 31.0,
     "error": false
   },
@@ -1647,8 +1647,7 @@
     "max_gross": 5200.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 501370,
@@ -1711,14 +1710,13 @@
     "screenName": "Xtremescreen 05",
     "operator": "BMW",
     "total": 180,
-    "sold": 6,
-    "available": 174,
-    "occupancy": 3.33,
+    "sold": 8,
+    "available": 172,
+    "occupancy": 4.44,
     "max_gross": 5220.0,
-    "total_gross": 174.0,
+    "total_gross": 232.0,
     "price": 29.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 287831,
@@ -1888,7 +1886,8 @@
     "max_gross": 16830.0,
     "total_gross": 0.0,
     "price": 33.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 318993,
@@ -2014,9 +2013,16 @@
     "cinemaId": "BANKTN",
     "movieId": "HO00010652",
     "date": "2025-09-27T21:10:00",
+    "typeId": "STANDARD",
     "screenName": "Cinema 08",
     "operator": "BAN",
-    "error": true,
-    "error_msg": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "total": 119,
+    "sold": 0,
+    "available": 119,
+    "occupancy": 0.0,
+    "max_gross": 3213.0,
+    "total_gross": 0.0,
+    "price": 27.0,
+    "error": false
   }
 ]
