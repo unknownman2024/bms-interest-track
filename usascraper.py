@@ -222,7 +222,7 @@ def scrape_showtimes(zip_list, date, movie_id):
 
 def seatmap_url(showtime_id):
     return (
-        f"https://usaapi.vercel.app/api/seatmap?showtime_id={showtime_id}"
+        f"https://usafan.vercel.app/api/seatmap?showtime_id={showtime_id}"
     )
 
 
