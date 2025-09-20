@@ -33,8 +33,8 @@ else:
     DATE = now_pst.strftime("%Y-%m-%d")
 print(f"🎬 Using DATE = {DATE} (PST)")
 
-MAX_WORKERS = 4  # For showtime fetching multiprocessing
-CONCURRENCY = 5  # For async seat fetching concurrency
+MAX_WORKERS = 10  # For showtime fetching multiprocessing
+CONCURRENCY = 45  # For async seat fetching concurrency
 ZIP_FILE = "zipcodes.txt"
 ERROR_FILE_DEAD = "errored_seats.json"
 AUTHORIZATION_TOKEN = "<your-auth-token>"  # Replace here
@@ -93,16 +93,9 @@ def get_random_ip():
 def get_seatmap_headers():
     random_ip = get_random_ip()
     return {
-        "User-Agent": get_random_user_agent(),
-        "Origin": "https://fandango.com",
-        "Referer": "https://tickets.fandango.com/mobileexpress/seatselection",
-        "Connection": "keep-alive",
-        "Authorization": AUTHORIZATION_TOKEN,
-        "X-Fd-Sessionid": SESSION_ID,
-        "authority": "tickets.fandango.com",
-        "accept": "application/json",
+        "X-Forwarded-For": random_ip,
+        "Client-IP": random_ip,
     }
-
 
 # === Helper functions for language and format extraction ===
 
@@ -228,18 +221,8 @@ def scrape_showtimes(zip_list, date, movie_id):
 
 def seatmap_url(showtime_id):
     return (
-        f"https://tickets.fandango.com/checkoutapi/showtimes/v2/{showtime_id}/seat-map/"
+        f"https://usafan.vercel.app/api/seatmap?showtime_id={showtime_id}"
     )
-
-
-HEADERS_DEAD = {
-    "authority": "tickets.fandango.com",
-    "accept": "application/json",
-    "Authorization": AUTHORIZATION_TOKEN,
-    "X-Fd-Sessionid": SESSION_ID,
-    "Referer": "https://tickets.fandango.com/mobileexpress/seatselection",
-    "User-Agent": "Mozilla/5.0",
-}
 
 
 async def fetch_seat(session, show):
@@ -249,11 +232,26 @@ async def fetch_seat(session, show):
         async with session.get(url, headers=get_seatmap_headers(), timeout=10) as resp:
             if resp.status == 200:
                 data = await resp.json()
+
+                # ❌ Case 1: API returns {"error":"Invalid JSON"}
+                if "error" in data and data["error"] == "Invalid JSON":
+                    show["error"] = {"status": 500, "reason": "Invalid JSON"}
+                    return
+
                 d = data.get("data", {})
-                area = d.get("areas", [{}])[0]
+                areas = d.get("areas", [])
+                area = areas[0] if areas else {}
+
                 available = d.get("totalAvailableSeatCount", 0)
                 total = d.get("totalSeatCount", 0)
                 sold = total - available
+
+                # ❌ Case 2: totalSeatCount == 0
+                if total == 0:
+                    show["error"] = {"status": 500, "reason": "No seats"}
+                    return
+
+                # default structure
                 show.update(
                     {
                         "totalSeatSold": sold,
@@ -264,6 +262,8 @@ async def fetch_seat(session, show):
                         "adultTicketPrice": 0.0,
                     }
                 )
+
+                # Ticket price extraction
                 ticket_info = area.get("ticketInfo", [])
                 for t in ticket_info:
                     if "adult" in t.get("desc", "").lower():
@@ -274,6 +274,8 @@ async def fetch_seat(session, show):
                             break
                         except Exception:
                             pass
+
+                # Fallback to first ticket if adult not found
                 if show["adultTicketPrice"] == 0.0 and ticket_info:
                     try:
                         price = float(ticket_info[0].get("price", "0.0"))
@@ -281,6 +283,12 @@ async def fetch_seat(session, show):
                         show["grossRevenueUSD"] = round(price * sold, 2)
                     except Exception:
                         pass
+
+                # ❌ Case 3: Ticket price = 0
+                if show["adultTicketPrice"] == 0.0:
+                    show["error"] = {"status": 500, "reason": "Ticket price 0"}
+                    return
+
             else:
                 show["error"] = {"status": resp.status}
     except Exception as e:
@@ -401,12 +409,12 @@ if __name__ == "__main__":
     errors = [s for s in final_all if "error" in s]
     # Convert to IST
     now_ist = datetime.now(ZoneInfo("Asia/Kolkata")).strftime("%Y-%m-%d %I:%M:%S %p")
-    
+
     error_payload = {
         "last_updated": now_ist,
         "errors": errors
     }
-    
+
     with open(error_file, "w") as f:
         json.dump(error_payload, f, indent=2, ensure_ascii=False)
 
