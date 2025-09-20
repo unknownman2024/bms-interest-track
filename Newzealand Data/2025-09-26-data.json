@@ -48,7 +48,8 @@
     "max_gross": 3528.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 316637,
@@ -116,7 +117,23 @@
     "max_gross": 9295.0,
     "total_gross": 1397.5,
     "price": 32.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
+  },
+  {
+    "id": 80070,
+    "cinemaId": "CHCCIN",
+    "movieId": "HO00008185",
+    "date": "2025-09-26T20:45:00",
+    "typeId": "XTREME",
+    "screenName": "Xtremescreen 01",
+    "operator": "CHC",
+    "total": 384,
+    "sold": 0,
+    "available": 384,
+    "occupancy": 0.0,
+    "max_gross": 9600.0,
+    "total_gross": 0.0,
+    "price": 25.0,
+    "error": false
   }
 ]
