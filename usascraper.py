@@ -17,12 +17,15 @@ RELEASE_DATE = date(2025, 9, 24)
 TARGET_MOVIE_ID = 241979
 
 # Change for different movie
+# 242296 for jolly
+# 241968 for madaraasi
 # 241922 for Baaghi4
 # 241979 for OG
 # 241378 for coolie
 # 240770 for war2
 # CODE BY BFILMY - DONT REMOVE
 
+# Get current date in USA Pacific Time
 now_pst = datetime.now(ZoneInfo("America/Los_Angeles")).date()
 # Logic for DATE
 if now_pst < RELEASE_DATE:
@@ -31,8 +34,8 @@ else:
     DATE = now_pst.strftime("%Y-%m-%d")
 print(f"🎬 Using DATE = {DATE} (PST)")
 
-MAX_WORKERS = 4  # For showtime fetching multiprocessing
-CONCURRENCY = 5  # For async seat fetching concurrency
+MAX_WORKERS = 10  # For showtime fetching multiprocessing
+CONCURRENCY = 20  # For async seat fetching concurrency
 ZIP_FILE = "zipcodes.txt"
 ERROR_FILE_DEAD = "errored_seats.json"
 AUTHORIZATION_TOKEN = "<your-auth-token>"  # Replace here
@@ -51,28 +54,15 @@ KNOWN_LANGUAGES = [
     "Bengali",
 ]
 
-
 FORMAT_KEYWORDS = [
-    "Superscreen DLX",
-    "Ultrascreen DLX",
-    "CINÉ XL®",
+    "RPX",
     "D-Box",
     "IMAX",
     "EMX",
-    "FDX",
-    "DFX",
-    "4DX",
-    "ACX",
-    "PTX",
-    "RPX",
-    "EPEX",
     "Sony Digital Cinema",
-    "Grand Screen",
+    "4DX",
     "ScreenX",
-    "XL at AMC",
-    "Premium Large Format",
-    "Monster Screen®",
-    "XD",
+    "Cinemark XD",
     "Dolby Cinema",
 ]
 
@@ -104,14 +94,8 @@ def get_random_ip():
 def get_seatmap_headers():
     random_ip = get_random_ip()
     return {
-        "User-Agent": get_random_user_agent(),
-        "Origin": "https://fandango.com",
-        "Referer": "https://tickets.fandango.com/mobileexpress/seatselection",
-        "Connection": "keep-alive",
-        "Authorization": AUTHORIZATION_TOKEN,
-        "X-Fd-Sessionid": SESSION_ID,
-        "authority": "tickets.fandango.com",
-        "accept": "application/json",
+        "X-Forwarded-For": random_ip,
+        "Client-IP": random_ip,
     }
 
 # === Helper functions for language and format extraction ===
@@ -238,18 +222,8 @@ def scrape_showtimes(zip_list, date, movie_id):
 
 def seatmap_url(showtime_id):
     return (
-        f"https://tickets.fandango.com/checkoutapi/showtimes/v2/{showtime_id}/seat-map/"
+        f"https://usaapi.vercel.app/api/seatmap?showtime_id={showtime_id}"
     )
-
-
-HEADERS_DEAD = {
-    "authority": "tickets.fandango.com",
-    "accept": "application/json",
-    "Authorization": AUTHORIZATION_TOKEN,
-    "X-Fd-Sessionid": SESSION_ID,
-    "Referer": "https://tickets.fandango.com/mobileexpress/seatselection",
-    "User-Agent": "Mozilla/5.0",
-}
 
 
 async def fetch_seat(session, show):
@@ -260,10 +234,14 @@ async def fetch_seat(session, show):
             if resp.status == 200:
                 data = await resp.json()
                 d = data.get("data", {})
-                area = d.get("areas", [{}])[0]
+
+                areas = d.get("areas", [])
+                area = areas[0] if areas else {}
+
                 available = d.get("totalAvailableSeatCount", 0)
                 total = d.get("totalSeatCount", 0)
                 sold = total - available
+
                 show.update(
                     {
                         "totalSeatSold": sold,
@@ -274,6 +252,7 @@ async def fetch_seat(session, show):
                         "adultTicketPrice": 0.0,
                     }
                 )
+
                 ticket_info = area.get("ticketInfo", [])
                 for t in ticket_info:
                     if "adult" in t.get("desc", "").lower():
@@ -411,12 +390,12 @@ if __name__ == "__main__":
     errors = [s for s in final_all if "error" in s]
     # Convert to IST
     now_ist = datetime.now(ZoneInfo("Asia/Kolkata")).strftime("%Y-%m-%d %I:%M:%S %p")
-    
+
     error_payload = {
         "last_updated": now_ist,
         "errors": errors
     }
-    
+
     with open(error_file, "w") as f:
         json.dump(error_payload, f, indent=2, ensure_ascii=False)
 
