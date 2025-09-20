@@ -169,7 +169,8 @@
     "max_gross": 9600.0,
     "total_gross": 1400.0,
     "price": 25.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 316636,
@@ -197,11 +198,11 @@
     "screenName": "Cinema 6",
     "operator": "TER",
     "total": 264,
-    "sold": 8,
-    "available": 256,
-    "occupancy": 3.03,
+    "sold": 9,
+    "available": 255,
+    "occupancy": 3.41,
     "max_gross": 6996.0,
-    "total_gross": 212.0,
+    "total_gross": 238.5,
     "price": 26.5,
     "error": false
   },
@@ -220,7 +221,8 @@
     "max_gross": 34400.0,
     "total_gross": 960.0,
     "price": 32.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 469506,
@@ -248,11 +250,11 @@
     "screenName": "Xtremescreen 01",
     "operator": "ORM",
     "total": 286,
-    "sold": 78,
-    "available": 208,
-    "occupancy": 27.27,
+    "sold": 82,
+    "available": 204,
+    "occupancy": 28.67,
     "max_gross": 9295.0,
-    "total_gross": 2535.0,
+    "total_gross": 2665.0,
     "price": 32.5,
     "error": false
   },
