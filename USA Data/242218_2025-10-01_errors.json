@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-20 04:47:38 AM",
+  "last_updated": "2025-09-20 06:39:01 AM",
   "errors": [
     {
       "state": "GA",
@@ -1332,6 +1332,36 @@
       "date": "2025-10-01+21:05",
       "format": "Standard",
       "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Beaumont",
+      "zip": "77705",
+      "theater_name": "Cinemark Beaumont 15 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516794486,
+      "date": "2025-10-01+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Beaumont",
+      "zip": "77705",
+      "theater_name": "Cinemark Beaumont 15 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516794487,
+      "date": "2025-10-01+21:00",
+      "format": "Standard",
+      "language": "Kannada",
       "error": {
         "status": 403
       }
