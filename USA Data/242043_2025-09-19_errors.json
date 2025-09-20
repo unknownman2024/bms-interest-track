@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-20 02:52:06 AM",
+  "last_updated": "2025-09-20 07:10:24 AM",
   "errors": [
     {
       "state": "NY",
@@ -1900,6 +1900,51 @@
       "chainCode": "REGL",
       "showtime_id": 516565807,
       "date": "2025-09-19+22:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Lewisville",
+      "zip": "75067",
+      "theater_name": "Cinemark Lewisville and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516784322,
+      "date": "2025-09-19+23:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Pflugerville",
+      "zip": "78660",
+      "theater_name": "Cinemark Pflugerville 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516770626,
+      "date": "2025-09-19+19:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Pflugerville",
+      "zip": "78660",
+      "theater_name": "Cinemark Pflugerville 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516778696,
+      "date": "2025-09-19+19:25",
       "format": "Standard",
       "language": "Telugu",
       "error": {
