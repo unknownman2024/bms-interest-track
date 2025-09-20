@@ -1561,8 +1561,7 @@
     "max_gross": 5040.0,
     "total_gross": 315.0,
     "price": 31.5,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 501378,
@@ -1681,8 +1680,7 @@
     "max_gross": 12996.0,
     "total_gross": 0.0,
     "price": 19.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 273390,
@@ -1733,7 +1731,8 @@
     "max_gross": 4232.0,
     "total_gross": 0.0,
     "price": 23.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 312741,
@@ -1886,8 +1885,7 @@
     "max_gross": 16830.0,
     "total_gross": 0.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 318993,
@@ -1921,7 +1919,8 @@
     "max_gross": 6336.0,
     "total_gross": 0.0,
     "price": 32.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 430150,
@@ -1972,7 +1971,8 @@
     "max_gross": 3770.0,
     "total_gross": 0.0,
     "price": 29.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 249312,
@@ -2023,6 +2023,7 @@
     "max_gross": 3213.0,
     "total_gross": 0.0,
     "price": 27.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   }
 ]

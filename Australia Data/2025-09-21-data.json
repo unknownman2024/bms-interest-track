@@ -8491,7 +8491,8 @@
     "max_gross": 2400.0,
     "total_gross": 675.0,
     "price": 25.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 249011,
@@ -8730,8 +8731,7 @@
     "max_gross": 13464.0,
     "total_gross": 429.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 273104,
@@ -8782,7 +8782,8 @@
     "max_gross": 4480.0,
     "total_gross": 28.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 301828,
@@ -8810,11 +8811,11 @@
     "screenName": "Cinema 01",
     "operator": "FHL",
     "total": 128,
-    "sold": 11,
-    "available": 117,
-    "occupancy": 8.59,
+    "sold": 13,
+    "available": 115,
+    "occupancy": 10.16,
     "max_gross": 2496.0,
-    "total_gross": 214.5,
+    "total_gross": 253.5,
     "price": 19.5,
     "error": false
   },
@@ -8827,11 +8828,11 @@
     "screenName": "Cinema 05",
     "operator": "TAY",
     "total": 190,
-    "sold": 2,
-    "available": 188,
-    "occupancy": 1.05,
+    "sold": 4,
+    "available": 186,
+    "occupancy": 2.11,
     "max_gross": 5320.0,
-    "total_gross": 56.0,
+    "total_gross": 112.0,
     "price": 28.0,
     "error": false
   },
@@ -8867,7 +8868,8 @@
     "max_gross": 3978.0,
     "total_gross": 520.0,
     "price": 26.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 429960,
@@ -8884,7 +8886,8 @@
     "max_gross": 4116.0,
     "total_gross": 0.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 172352,
@@ -8935,7 +8938,8 @@
     "max_gross": 7590.0,
     "total_gross": 66.0,
     "price": 33.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 346589,
@@ -9003,7 +9007,8 @@
     "max_gross": 5700.0,
     "total_gross": 0.0,
     "price": 28.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 313666,
@@ -9020,8 +9025,7 @@
     "max_gross": 9174.0,
     "total_gross": 693.0,
     "price": 33.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 73554,
@@ -9038,8 +9042,7 @@
     "max_gross": 11951.0,
     "total_gross": 0.0,
     "price": 19.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 73553,
@@ -9073,7 +9076,8 @@
     "max_gross": 12996.0,
     "total_gross": 95.0,
     "price": 19.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 287275,
@@ -9107,8 +9111,7 @@
     "max_gross": 4232.0,
     "total_gross": 0.0,
     "price": 23.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 245614,
@@ -9136,14 +9139,13 @@
     "screenName": "Cinema 08",
     "operator": "DOC",
     "total": 98,
-    "sold": 27,
-    "available": 71,
-    "occupancy": 27.55,
+    "sold": 31,
+    "available": 67,
+    "occupancy": 31.63,
     "max_gross": 2744.0,
-    "total_gross": 756.0,
+    "total_gross": 868.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 141460,
@@ -9211,8 +9213,7 @@
     "max_gross": 3640.0,
     "total_gross": 0.0,
     "price": 26.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 359012,
@@ -9223,11 +9224,11 @@
     "screenName": "Cinema 07",
     "operator": "WES",
     "total": 225,
-    "sold": 20,
-    "available": 205,
-    "occupancy": 8.89,
+    "sold": 22,
+    "available": 203,
+    "occupancy": 9.78,
     "max_gross": 6300.0,
-    "total_gross": 560.0,
+    "total_gross": 616.0,
     "price": 28.0,
     "error": false
   },
@@ -9263,8 +9264,7 @@
     "max_gross": 6300.0,
     "total_gross": 420.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 359057,
@@ -9281,7 +9281,8 @@
     "max_gross": 6300.0,
     "total_gross": 364.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 359052,
@@ -9309,14 +9310,13 @@
     "screenName": "Cinema 03",
     "operator": "WES",
     "total": 180,
-    "sold": 13,
-    "available": 167,
-    "occupancy": 7.22,
+    "sold": 22,
+    "available": 158,
+    "occupancy": 12.22,
     "max_gross": 5040.0,
-    "total_gross": 364.0,
+    "total_gross": 616.0,
     "price": 28.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 347159,
@@ -9333,7 +9333,8 @@
     "max_gross": 2652.0,
     "total_gross": 0.0,
     "price": 25.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 142023,
@@ -9350,7 +9351,8 @@
     "max_gross": 2744.0,
     "total_gross": 224.0,
     "price": 28.0,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 518407,
