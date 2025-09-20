@@ -658,7 +658,8 @@
     "max_gross": 2808.0,
     "total_gross": 0.0,
     "price": 19.5,
-    "error": false
+    "error": false,
+    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
   },
   {
     "id": 273442,
@@ -760,8 +761,7 @@
     "max_gross": 5220.0,
     "total_gross": 0.0,
     "price": 29.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 422904,
@@ -863,8 +863,7 @@
     "max_gross": 3770.0,
     "total_gross": 0.0,
     "price": 29.0,
-    "error": false,
-    "last_error": "'utf-8' codec can't decode byte 0xb5 in position 1: invalid start byte"
+    "error": false
   },
   {
     "id": 249354,
@@ -904,15 +903,15 @@
     "id": 331650,
     "cinemaId": "BANKTN",
     "movieId": "HO00010652",
-    "date": "2025-09-28T21:10:00",
+    "date": "2025-09-28T21:00:00",
     "typeId": "STANDARD",
-    "screenName": "Cinema 08",
+    "screenName": "Cinema 03",
     "operator": "BAN",
-    "total": 119,
+    "total": 170,
     "sold": 0,
-    "available": 119,
+    "available": 170,
     "occupancy": 0.0,
-    "max_gross": 3213.0,
+    "max_gross": 4590.0,
     "total_gross": 0.0,
     "price": 27.0,
     "error": false
