@@ -233,8 +233,13 @@ async def fetch_seat(session, show):
         async with session.get(url, headers=get_seatmap_headers(), timeout=10) as resp:
             if resp.status == 200:
                 data = await resp.json()
-                d = data.get("data", {})
 
+                # ❌ Case 1: API returns {"error":"Invalid JSON"}
+                if "error" in data and data["error"] == "Invalid JSON":
+                    show["error"] = {"status": 500, "reason": "Invalid JSON"}
+                    return
+
+                d = data.get("data", {})
                 areas = d.get("areas", [])
                 area = areas[0] if areas else {}
 
@@ -242,6 +247,12 @@ async def fetch_seat(session, show):
                 total = d.get("totalSeatCount", 0)
                 sold = total - available
 
+                # ❌ Case 2: totalSeatCount == 0
+                if total == 0:
+                    show["error"] = {"status": 500, "reason": "No seats"}
+                    return
+
+                # default structure
                 show.update(
                     {
                         "totalSeatSold": sold,
@@ -253,6 +264,7 @@ async def fetch_seat(session, show):
                     }
                 )
 
+                # Ticket price extraction
                 ticket_info = area.get("ticketInfo", [])
                 for t in ticket_info:
                     if "adult" in t.get("desc", "").lower():
@@ -263,6 +275,8 @@ async def fetch_seat(session, show):
                             break
                         except Exception:
                             pass
+
+                # Fallback to first ticket if adult not found
                 if show["adultTicketPrice"] == 0.0 and ticket_info:
                     try:
                         price = float(ticket_info[0].get("price", "0.0"))
@@ -270,6 +284,12 @@ async def fetch_seat(session, show):
                         show["grossRevenueUSD"] = round(price * sold, 2)
                     except Exception:
                         pass
+
+                # ❌ Case 3: Ticket price = 0
+                if show["adultTicketPrice"] == 0.0:
+                    show["error"] = {"status": 500, "reason": "Ticket price 0"}
+                    return
+
             else:
                 show["error"] = {"status": resp.status}
     except Exception as e:
