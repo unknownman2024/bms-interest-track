@@ -1,19 +1,24 @@
-name: USA Main Scraper [JanaNayagan]
+name: USA RR Premieres Scraper
 
 on:
-  workflow_dispatch:   # manual run
+  workflow_dispatch:
   schedule:
-    - cron: "30 */3 * * *"   # every hour at :30 UTC (6:00 PM, 7:00 PM IST...)
+    - cron: "30 */3 * * *"
 
 jobs:
   run-scraper:
     runs-on: ubuntu-latest
 
+    env:
+      AUTHORIZATION_TOKEN: ${{ secrets.AUTHORIZATION_TOKEN }}
+      SESSION_ID: ${{ secrets.SESSION_ID }}
+      SEATMAP_URL: ${{ secrets.SEATMAP_URL }}
+
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # full history so rebase works
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -26,26 +31,22 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run scraper
-        env:
-          AUTHORIZATION_TOKEN: ${{ secrets.AUTHORIZATION_TOKEN }}
-          SESSION_ID: ${{ secrets.SESSION_ID }}
         run: |
-          python usascraper.py
+          python usaRR.py
 
       - name: Commit & Push results
         run: |
           set -e
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Stage & commit changes first
           git add "USA Data/*.json"
+
           git commit -m "Update USA Data ($(date -u +'%Y-%m-%d %H:%M:%S UTC'))" || echo "No changes to commit"
 
-          # Fetch latest remote
           git fetch origin main || true
 
-          # Try safe rebase + push
           if git rebase origin/main; then
             git push origin HEAD:main
           else
