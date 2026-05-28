@@ -14,7 +14,7 @@ CINEPLEX_FILMS = {
 }
 
 
-TARGET_START="2026-05-23"
+TARGET_START="2026-06-03"
 
 today=datetime.now(ZoneInfo("America/Toronto")).date()
 target=datetime.fromisoformat(TARGET_START).date()
@@ -22,7 +22,7 @@ target=datetime.fromisoformat(TARGET_START).date()
 if today<target:
     SCH_DATE=target.isoformat()
 else:
-    SCH_DATE=(today+timedelta(days=2)).isoformat()
+    SCH_DATE=(today+timedelta(days=3)).isoformat()
 
 print("Tracking date:",SCH_DATE)
 
