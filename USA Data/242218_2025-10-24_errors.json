@@ -1,0 +1,69 @@
+{
+  "last_updated": "2025-10-25 12:16:57 PM",
+  "errors": [
+    {
+      "state": "NC",
+      "city": "Morrisville",
+      "zip": "27560",
+      "theater_name": "B&B Theatres Morrisville Park West 14",
+      "chainName": "B&B Theaters",
+      "chainCode": "BNBT",
+      "showtime_id": 520566469,
+      "date": "2025-10-24+17:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Morrisville",
+      "zip": "27560",
+      "theater_name": "B&B Theatres Morrisville Park West 14",
+      "chainName": "B&B Theaters",
+      "chainCode": "BNBT",
+      "showtime_id": 520566470,
+      "date": "2025-10-24+21:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 520724423,
+      "date": "2025-10-24+14:00",
+      "format": "Standard",
+      "language": "Kannada",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Bensalem",
+      "zip": "19020",
+      "theater_name": "AMC Neshaminy 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 0,
+      "date": "2025-10-24+17:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
+}

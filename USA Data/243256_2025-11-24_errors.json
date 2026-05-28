@@ -1,0 +1,21 @@
+{
+  "last_updated": "2025-11-25 09:49:32 AM",
+  "errors": [
+    {
+      "state": "NC",
+      "city": "Concord",
+      "zip": "28027",
+      "theater_name": "AMC Concord Mills 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2025-11-24+15:45",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
+}

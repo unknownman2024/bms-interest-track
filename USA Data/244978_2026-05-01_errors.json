@@ -1,0 +1,37 @@
+{
+  "last_updated": "2026-05-02 11:54:08 AM",
+  "errors": [
+    {
+      "state": "NY",
+      "city": "Westbury",
+      "zip": "11590",
+      "theater_name": "Regal Westbury IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 544783257,
+      "date": "2026-05-01+20:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "New Brunswick",
+      "zip": "08901",
+      "theater_name": "AMC New Brunswick 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-05-01+16:25",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
+}

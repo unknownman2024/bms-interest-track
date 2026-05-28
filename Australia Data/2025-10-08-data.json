@@ -1,0 +1,36 @@
+[
+  {
+    "id": 380291,
+    "cinemaId": "TTPLZA",
+    "movieId": "HO00010700",
+    "date": "2025-10-08T21:15:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 05",
+    "operator": "TTP",
+    "total": 160,
+    "sold": 0,
+    "available": 160,
+    "occupancy": 0.0,
+    "max_gross": 3840.0,
+    "total_gross": 0.0,
+    "price": 24.0,
+    "error": false
+  },
+  {
+    "id": 360261,
+    "cinemaId": "WESCIN",
+    "movieId": "HO00010700",
+    "date": "2025-10-08T21:30:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 09",
+    "operator": "WES",
+    "total": 120,
+    "sold": 30,
+    "available": 90,
+    "occupancy": 25.0,
+    "max_gross": 3120.0,
+    "total_gross": 780.0,
+    "price": 26.0,
+    "error": false
+  }
+]

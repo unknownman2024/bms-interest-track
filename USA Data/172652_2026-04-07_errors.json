@@ -1,0 +1,37 @@
+{
+  "last_updated": "2026-04-08 09:12:36 AM",
+  "errors": [
+    {
+      "state": "NJ",
+      "city": "Somerdale",
+      "zip": "08083",
+      "theater_name": "Cinemark Somerdale 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": null,
+      "date": "2026-04-07+19:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Newark",
+      "zip": "19702",
+      "theater_name": "Regal Peoples Plaza",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 541502953,
+      "date": "2026-04-07+18:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "last_updated": "2026-02-04 12:47:03 PM",
+  "errors": [
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 533064867,
+      "date": "2026-02-03+20:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Kennewick",
+      "zip": "99336",
+      "theater_name": "AMC CLASSIC Kennewick 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 533063682,
+      "date": "2026-02-03+17:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Kennewick",
+      "zip": "99336",
+      "theater_name": "AMC CLASSIC Kennewick 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 533063675,
+      "date": "2026-02-03+18:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-02-03+20:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
+}

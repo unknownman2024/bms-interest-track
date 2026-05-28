@@ -1,0 +1,80 @@
+{
+  "last_updated": "2025-09-12 12:02:03 PM",
+  "errors": [
+    {
+      "state": "GA",
+      "city": "Alpharetta",
+      "zip": "30005",
+      "theater_name": "CMX CinéBistro Halcyon",
+      "chainName": "CMX Cinemas",
+      "chainCode": "COBB",
+      "showtime_id": 515260205,
+      "date": "2025-09-11+14:30",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 515531282,
+      "date": "2025-09-11+12:15",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515330735,
+      "date": "2025-09-11+21:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515330716,
+      "date": "2025-09-11+19:45",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Elizabeth",
+      "zip": "07201",
+      "theater_name": "AMC Jersey Gardens 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 0,
+      "date": "2025-09-11+17:50",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 404
+      }
+    }
+  ]
+}

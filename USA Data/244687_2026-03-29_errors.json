@@ -1,0 +1,869 @@
+{
+  "last_updated": "2026-03-30 11:45:52 AM",
+  "errors": [
+    {
+      "state": "PA",
+      "city": "State College",
+      "zip": "16801",
+      "theater_name": "UEC Theatres State College",
+      "chainName": "UEC Theatres",
+      "chainCode": "UEC",
+      "showtime_id": 540020811,
+      "date": "2026-03-29+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Bloomsburg",
+      "zip": "17815",
+      "theater_name": "AMC CLASSIC Bloomsburg 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540206203,
+      "date": "2026-03-29+18:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Selinsgrove",
+      "zip": "17870",
+      "theater_name": "AMC CLASSIC Selinsgrove 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540353870,
+      "date": "2026-03-29+13:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema D-Box & OCX",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 539846421,
+      "date": "2026-03-29+14:10",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema D-Box & OCX",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 539846422,
+      "date": "2026-03-29+19:20",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Johnson City",
+      "zip": "37601",
+      "theater_name": "AMC Johnson City 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540297440,
+      "date": "2026-03-29+11:10",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Myrtle Beach",
+      "zip": "29572",
+      "theater_name": "AMC CLASSIC Myrtle Beach 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540126954,
+      "date": "2026-03-29+14:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Savannah",
+      "zip": "31420",
+      "theater_name": "AMC CLASSIC Savannah 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540296120,
+      "date": "2026-03-29+13:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Savannah",
+      "zip": "31420",
+      "theater_name": "AMC CLASSIC Savannah 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540296129,
+      "date": "2026-03-29+16:35",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Savannah",
+      "zip": "31420",
+      "theater_name": "AMC CLASSIC Savannah 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540296121,
+      "date": "2026-03-29+18:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540459531,
+      "date": "2026-03-29+10:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540459529,
+      "date": "2026-03-29+19:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Dothan",
+      "zip": "36303",
+      "theater_name": "AMC CLASSIC Dothan Pavillion 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540459535,
+      "date": "2026-03-29+21:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540014499,
+      "date": "2026-03-29+14:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540014487,
+      "date": "2026-03-29+17:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540014502,
+      "date": "2026-03-29+19:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Daphne",
+      "zip": "36526",
+      "theater_name": "AMC CLASSIC Jubilee Square 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540439945,
+      "date": "2026-03-29+19:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540388480,
+      "date": "2026-03-29+12:05",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540388464,
+      "date": "2026-03-29+14:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540388467,
+      "date": "2026-03-29+15:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540388489,
+      "date": "2026-03-29+16:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540388463,
+      "date": "2026-03-29+19:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540388466,
+      "date": "2026-03-29+20:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540388488,
+      "date": "2026-03-29+21:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lakeland",
+      "zip": "33803",
+      "theater_name": "CMX Lakeside Village 18 & IMAX",
+      "chainName": "CMX Cinemas",
+      "chainCode": "COBB",
+      "showtime_id": 539994396,
+      "date": "2026-03-29+14:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Lakeland",
+      "zip": "33803",
+      "theater_name": "CMX Lakeside Village 18 & IMAX",
+      "chainName": "CMX Cinemas",
+      "chainCode": "COBB",
+      "showtime_id": 539994491,
+      "date": "2026-03-29+19:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539867936,
+      "date": "2026-03-29+13:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539867968,
+      "date": "2026-03-29+16:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539867935,
+      "date": "2026-03-29+18:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539867969,
+      "date": "2026-03-29+21:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Bloomington",
+      "zip": "47404",
+      "theater_name": "AMC CLASSIC Bloomington 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540040939,
+      "date": "2026-03-29+14:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Bloomington",
+      "zip": "47404",
+      "theater_name": "AMC CLASSIC Bloomington 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540040941,
+      "date": "2026-03-29+16:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Bloomington",
+      "zip": "47404",
+      "theater_name": "AMC CLASSIC Bloomington 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540040942,
+      "date": "2026-03-29+20:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "South Bend",
+      "zip": "46614",
+      "theater_name": "AMC CLASSIC South Bend 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-03-29+14:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Terre Haute",
+      "zip": "47802",
+      "theater_name": "AMC CLASSIC Terre Haute 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540096952,
+      "date": "2026-03-29+12:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Terre Haute",
+      "zip": "47802",
+      "theater_name": "AMC CLASSIC Terre Haute 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540096948,
+      "date": "2026-03-29+15:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Terre Haute",
+      "zip": "47802",
+      "theater_name": "AMC CLASSIC Terre Haute 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540096951,
+      "date": "2026-03-29+19:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540318010,
+      "date": "2026-03-29+12:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540318009,
+      "date": "2026-03-29+19:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mounds View",
+      "zip": "55112",
+      "theater_name": "AMC CLASSIC Mounds View 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540085477,
+      "date": "2026-03-29+13:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mounds View",
+      "zip": "55112",
+      "theater_name": "AMC CLASSIC Mounds View 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540085479,
+      "date": "2026-03-29+16:40",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mounds View",
+      "zip": "55112",
+      "theater_name": "AMC CLASSIC Mounds View 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540085476,
+      "date": "2026-03-29+18:20",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "GQT Willow Knolls 14",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 540308969,
+      "date": "2026-03-29+16:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "GQT Willow Knolls 14",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 540308970,
+      "date": "2026-03-29+20:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Normal",
+      "zip": "61761",
+      "theater_name": "AMC CLASSIC Normal 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540153352,
+      "date": "2026-03-29+12:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Normal",
+      "zip": "61761",
+      "theater_name": "AMC CLASSIC Normal 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540153351,
+      "date": "2026-03-29+15:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Normal",
+      "zip": "61761",
+      "theater_name": "AMC CLASSIC Normal 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540153356,
+      "date": "2026-03-29+18:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Corvallis",
+      "zip": "97330",
+      "theater_name": "AMC CLASSIC Corvallis 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540041840,
+      "date": "2026-03-29+13:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Corvallis",
+      "zip": "97330",
+      "theater_name": "AMC CLASSIC Corvallis 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540041837,
+      "date": "2026-03-29+15:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Corvallis",
+      "zip": "97330",
+      "theater_name": "AMC CLASSIC Corvallis 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 540041838,
+      "date": "2026-03-29+18:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Monroe",
+      "zip": "98272",
+      "theater_name": "Galaxy Monroe",
+      "chainName": "Galaxy Theatres",
+      "chainCode": "GLXY",
+      "showtime_id": 540068130,
+      "date": "2026-03-29+18:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Kennewick",
+      "zip": "99336",
+      "theater_name": "AMC CLASSIC Kennewick 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539949829,
+      "date": "2026-03-29+13:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Kennewick",
+      "zip": "99336",
+      "theater_name": "AMC CLASSIC Kennewick 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539949830,
+      "date": "2026-03-29+18:05",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Hanover",
+      "zip": "21076",
+      "theater_name": "Cinemark Egyptian 24 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 540649815,
+      "date": "2026-03-29+16:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
+}

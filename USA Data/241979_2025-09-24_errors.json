@@ -1,0 +1,1383 @@
+{
+  "last_updated": "2025-09-25 12:23:14 PM",
+  "errors": [
+    {
+      "state": "IL",
+      "city": "Niles",
+      "zip": "60714",
+      "theater_name": "Ciné Lounge at Niles",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 514080745,
+      "date": "2025-09-24+16:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Pittsford",
+      "zip": "14618",
+      "theater_name": "Apple Cinemas Pittsford",
+      "chainName": "Apple Cinemas",
+      "chainCode": "APPL",
+      "showtime_id": 514167441,
+      "date": "2025-09-24+14:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Pittsford",
+      "zip": "14618",
+      "theater_name": "Apple Cinemas Pittsford",
+      "chainName": "Apple Cinemas",
+      "chainCode": "APPL",
+      "showtime_id": 514167442,
+      "date": "2025-09-24+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Pittsford",
+      "zip": "14618",
+      "theater_name": "Apple Cinemas Pittsford",
+      "chainName": "Apple Cinemas",
+      "chainCode": "APPL",
+      "showtime_id": 514167443,
+      "date": "2025-09-24+21:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://tickets.fandango.com/region-error'"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Durham",
+      "zip": "27713",
+      "theater_name": "AMC Southpoint 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 0,
+      "date": "2025-09-24+22:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Redding",
+      "zip": "96003",
+      "theater_name": "Cinemark Redding 14 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 514286195,
+      "date": "2025-09-24+22:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "exception": "200, message='Attempt to decode JSON with unexpected mimetype: text/html', url='https://tickets.fandango.com/region-error'"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Morrisville",
+      "zip": "27560",
+      "theater_name": "B&B Theatres Morrisville Park West 14",
+      "chainName": "B&B Theaters",
+      "chainCode": "BNBT",
+      "showtime_id": 514285254,
+      "date": "2025-09-24+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 514422171,
+      "date": "2025-09-24+15:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 514422172,
+      "date": "2025-09-24+20:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 514460152,
+      "date": "2025-09-24+13:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Livonia",
+      "zip": "48152",
+      "theater_name": "AMC Livonia 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 514995266,
+      "date": "2025-09-24+20:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Ciné Lounge Fremont 7",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 515078477,
+      "date": "2025-09-24+19:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Ashburn",
+      "zip": "20147",
+      "theater_name": "AMC Loudoun Station 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515945033,
+      "date": "2025-09-24+15:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Springfield",
+      "zip": "62711",
+      "theater_name": "AMC Springfield 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515946241,
+      "date": "2025-09-24+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Jacksonville",
+      "zip": "28546",
+      "theater_name": "AMC CLASSIC Jacksonville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515953148,
+      "date": "2025-09-24+15:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Jacksonville",
+      "zip": "28546",
+      "theater_name": "AMC CLASSIC Jacksonville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515953146,
+      "date": "2025-09-24+18:55",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Walker",
+      "zip": "49544",
+      "theater_name": "AMC Grand Rapids 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515953220,
+      "date": "2025-09-24+18:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Wichita",
+      "zip": "67226",
+      "theater_name": "AMC Northrock 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515962110,
+      "date": "2025-09-24+13:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Wichita",
+      "zip": "67226",
+      "theater_name": "AMC Northrock 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515962109,
+      "date": "2025-09-24+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Kansas City",
+      "zip": "64114",
+      "theater_name": "AMC Ward Parkway 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515975934,
+      "date": "2025-09-24+13:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "UT",
+      "city": "West Jordan",
+      "zip": "84088",
+      "theater_name": "AMC West Jordan 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515979160,
+      "date": "2025-09-24+14:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Lawrenceville",
+      "zip": "30043",
+      "theater_name": "AMC Colonial 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515986283,
+      "date": "2025-09-24+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Lawrenceville",
+      "zip": "30043",
+      "theater_name": "AMC Colonial 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515986284,
+      "date": "2025-09-24+18:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "FL",
+      "city": "New Smyrna",
+      "zip": "32168",
+      "theater_name": "AMC CLASSIC New Smyrna 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516018185,
+      "date": "2025-09-24+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "FL",
+      "city": "New Smyrna",
+      "zip": "32168",
+      "theater_name": "AMC CLASSIC New Smyrna 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516018186,
+      "date": "2025-09-24+16:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Decatur",
+      "zip": "30033",
+      "theater_name": "AMC North Dekalb 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516043184,
+      "date": "2025-09-24+15:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Decatur",
+      "zip": "30033",
+      "theater_name": "AMC North Dekalb 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516043183,
+      "date": "2025-09-24+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Evansville",
+      "zip": "47712",
+      "theater_name": "AMC Evansville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516030527,
+      "date": "2025-09-24+14:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Evansville",
+      "zip": "47712",
+      "theater_name": "AMC Evansville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516030528,
+      "date": "2025-09-24+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Schererville",
+      "zip": "46375",
+      "theater_name": "AMC Schererville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516029159,
+      "date": "2025-09-24+15:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Coon Rapids",
+      "zip": "55433",
+      "theater_name": "AMC Coon Rapids 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516018969,
+      "date": "2025-09-24+14:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Highland Village",
+      "zip": "75077",
+      "theater_name": "AMC Highland Village 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516090010,
+      "date": "2025-09-24+15:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516190974,
+      "date": "2025-09-24+16:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516190975,
+      "date": "2025-09-24+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Columbus",
+      "zip": "31904",
+      "theater_name": "AMC Ritz 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516258455,
+      "date": "2025-09-24+14:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Columbus",
+      "zip": "31904",
+      "theater_name": "AMC Ritz 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516258449,
+      "date": "2025-09-24+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NE",
+      "city": "Omaha",
+      "zip": "68114",
+      "theater_name": "AMC Westroads 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516298388,
+      "date": "2025-09-24+14:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NE",
+      "city": "Omaha",
+      "zip": "68114",
+      "theater_name": "AMC Westroads 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516298399,
+      "date": "2025-09-24+18:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Normal",
+      "zip": "61761",
+      "theater_name": "AMC CLASSIC Normal 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516349147,
+      "date": "2025-09-24+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516395356,
+      "date": "2025-09-24+13:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516395350,
+      "date": "2025-09-24+15:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516395338,
+      "date": "2025-09-24+19:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Bloomington",
+      "zip": "47404",
+      "theater_name": "AMC CLASSIC Bloomington 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516439088,
+      "date": "2025-09-24+14:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Bloomington",
+      "zip": "47404",
+      "theater_name": "AMC CLASSIC Bloomington 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516439096,
+      "date": "2025-09-24+15:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Mesquite",
+      "zip": "75149",
+      "theater_name": "AMC DINE-IN Mesquite 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516441826,
+      "date": "2025-09-24+13:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Mesquite",
+      "zip": "75149",
+      "theater_name": "AMC DINE-IN Mesquite 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516441825,
+      "date": "2025-09-24+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mounds View",
+      "zip": "55112",
+      "theater_name": "AMC CLASSIC Mounds View 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516491146,
+      "date": "2025-09-24+15:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mounds View",
+      "zip": "55112",
+      "theater_name": "AMC CLASSIC Mounds View 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516491145,
+      "date": "2025-09-24+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27408",
+      "theater_name": "Red Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 516534264,
+      "date": "2025-09-24+14:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27408",
+      "theater_name": "Red Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 516534265,
+      "date": "2025-09-24+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27408",
+      "theater_name": "Red Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 516534263,
+      "date": "2025-09-24+20:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516593257,
+      "date": "2025-09-24+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516593258,
+      "date": "2025-09-24+21:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "GQT Willow Knolls 14",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 516604353,
+      "date": "2025-09-24+13:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "GQT Willow Knolls 14",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 516604356,
+      "date": "2025-09-24+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Lombard",
+      "zip": "60148",
+      "theater_name": "AMC DINE-IN Yorktown 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516667913,
+      "date": "2025-09-24+15:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Atlanta",
+      "zip": "30328",
+      "theater_name": "The Springs Cinema & Taphouse",
+      "chainName": "The Spring Cinemas and Taphouse",
+      "chainCode": "SPCT",
+      "showtime_id": 516671752,
+      "date": "2025-09-24+14:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Atlanta",
+      "zip": "30328",
+      "theater_name": "The Springs Cinema & Taphouse",
+      "chainName": "The Spring Cinemas and Taphouse",
+      "chainCode": "SPCT",
+      "showtime_id": 516671753,
+      "date": "2025-09-24+14:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Atlanta",
+      "zip": "30328",
+      "theater_name": "The Springs Cinema & Taphouse",
+      "chainName": "The Spring Cinemas and Taphouse",
+      "chainCode": "SPCT",
+      "showtime_id": 516671751,
+      "date": "2025-09-24+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Bellevue",
+      "zip": "98004",
+      "theater_name": "Cinemark Lincoln Square",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516699102,
+      "date": "2025-09-24+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Durham",
+      "zip": "27713",
+      "theater_name": "AMC Southpoint 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516314079,
+      "date": "2025-09-24+12:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Decatur",
+      "zip": "35601",
+      "theater_name": "AMC CLASSIC Decatur 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516867738,
+      "date": "2025-09-24+13:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Rogers",
+      "zip": "72758",
+      "theater_name": "Malco Pinnacle Hills Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 517314055,
+      "date": "2025-09-24+16:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Rogers",
+      "zip": "72758",
+      "theater_name": "Malco Pinnacle Hills Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 517314056,
+      "date": "2025-09-24+19:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "South Plainfield",
+      "zip": "07080",
+      "theater_name": "Regal Hadley Theatre",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 517369321,
+      "date": "2025-09-24+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Cordova",
+      "zip": "38018",
+      "theater_name": "Malco Cordova Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 517329963,
+      "date": "2025-09-24+16:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Cordova",
+      "zip": "38018",
+      "theater_name": "Malco Cordova Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 517329964,
+      "date": "2025-09-24+19:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Rogers",
+      "zip": "72758",
+      "theater_name": "Malco Pinnacle Hills Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 517342768,
+      "date": "2025-09-24+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Niles",
+      "zip": "60714",
+      "theater_name": "Ciné Lounge at Niles",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 517400304,
+      "date": "2025-09-24+15:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Bensalem",
+      "zip": "19020",
+      "theater_name": "AMC Neshaminy 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 517451153,
+      "date": "2025-09-24+14:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Oldsmar",
+      "zip": "34677",
+      "theater_name": "AMC Woodlands Square 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 517436825,
+      "date": "2025-09-24+14:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Charlotte",
+      "zip": "28273",
+      "theater_name": "AMC Carolina Pavilion 22",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 517463314,
+      "date": "2025-09-24+19:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Woodridge",
+      "zip": "60517",
+      "theater_name": "Cinemark Seven Bridges and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517459845,
+      "date": "2025-09-24+12:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Round Rock",
+      "zip": "78664",
+      "theater_name": "Cinemark Round Rock 14",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517458006,
+      "date": "2025-09-24+13:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Gainesville",
+      "zip": "32608",
+      "theater_name": "Regal Butler Town Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 517471542,
+      "date": "2025-09-24+17:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Decatur",
+      "zip": "35601",
+      "theater_name": "AMC CLASSIC Decatur 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 517475894,
+      "date": "2025-09-24+19:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Willoughby",
+      "zip": "44094",
+      "theater_name": "Regal Willoughby Commons",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 517476444,
+      "date": "2025-09-24+19:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Springfield",
+      "zip": "62711",
+      "theater_name": "AMC Springfield 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 517474438,
+      "date": "2025-09-24+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92126",
+      "theater_name": "Regal Edwards Mira Mesa 4DX, IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 517470299,
+      "date": "2025-09-24+17:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92126",
+      "theater_name": "Regal Edwards Mira Mesa 4DX, IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 517470302,
+      "date": "2025-09-24+21:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Ciné Lounge Fremont 7",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 517468203,
+      "date": "2025-09-24+11:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Secaucus",
+      "zip": "07094",
+      "theater_name": "Regal Secaucus ShowPlace 14",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 517486363,
+      "date": "2025-09-24+21:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Christiana",
+      "zip": "19702",
+      "theater_name": "Cinemark Christiana and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517483323,
+      "date": "2025-09-24+22:20",
+      "format": "Cinemark XD",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Christiana",
+      "zip": "19702",
+      "theater_name": "Cinemark Christiana and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517483320,
+      "date": "2025-09-24+18:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Cordova",
+      "zip": "38018",
+      "theater_name": "Malco Cordova Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 517483895,
+      "date": "2025-09-24+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Kenner",
+      "zip": "70065",
+      "theater_name": "Regal Grand Esplanade & GPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 517482898,
+      "date": "2025-09-24+19:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Lewisville",
+      "zip": "75067",
+      "theater_name": "Cinemark Lewisville and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517485416,
+      "date": "2025-09-24+20:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "San Antonio",
+      "zip": "78229",
+      "theater_name": "Cinemark Movies 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517484691,
+      "date": "2025-09-24+20:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33634",
+      "theater_name": "AMC Veterans 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 517489688,
+      "date": "2025-09-24+22:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Ciné Lounge Fremont 7",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 517488497,
+      "date": "2025-09-24+23:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "exception": ""
+      }
+    }
+  ]
+}

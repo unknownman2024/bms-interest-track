@@ -1,0 +1,69 @@
+{
+  "last_updated": "2026-04-22 09:18:02 AM",
+  "errors": [
+    {
+      "state": "OH",
+      "city": "West Carrollton",
+      "zip": "45449",
+      "theater_name": "Cinemark Dayton South 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": null,
+      "date": "2026-04-21+19:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Boca Raton",
+      "zip": "33431",
+      "theater_name": "Cinemark Bistro Boca Raton and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 544117605,
+      "date": "2026-04-21+22:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Boca Raton",
+      "zip": "33431",
+      "theater_name": "Cinemark Bistro Boca Raton and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 544117604,
+      "date": "2026-04-21+22:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "West Carrollton",
+      "zip": "45449",
+      "theater_name": "Cinemark Dayton South 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 544106684,
+      "date": "2026-04-21+19:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "last_updated": "2025-12-06 12:21:37 PM",
+  "errors": [
+    {
+      "state": "GA",
+      "city": "Decatur",
+      "zip": "30033",
+      "theater_name": "AMC North Dekalb 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2025-12-05+22:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
+}

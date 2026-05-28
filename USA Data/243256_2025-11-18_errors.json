@@ -1,0 +1,99 @@
+{
+  "last_updated": "2025-11-19 09:46:50 AM",
+  "errors": [
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27408",
+      "theater_name": "Red Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 523940620,
+      "date": "2025-11-18+13:30",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Alpharetta",
+      "zip": "30005",
+      "theater_name": "CMX CinéBistro Halcyon",
+      "chainName": "CMX Cinemas",
+      "chainCode": "COBB",
+      "showtime_id": 523796912,
+      "date": "2025-11-18+15:30",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Alpharetta",
+      "zip": "30005",
+      "theater_name": "CMX CinéBistro Halcyon",
+      "chainName": "CMX Cinemas",
+      "chainCode": "COBB",
+      "showtime_id": 523796911,
+      "date": "2025-11-18+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 523735015,
+      "date": "2025-11-18+20:55",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Lewisville",
+      "zip": "75067",
+      "theater_name": "Cinemark Lewisville and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 524426295,
+      "date": "2025-11-18+21:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Cherry Hill",
+      "zip": "08002",
+      "theater_name": "AMC Cherry Hill 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2025-11-18+18:05",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
+}

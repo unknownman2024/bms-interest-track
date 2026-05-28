@@ -1,0 +1,37 @@
+[
+  {
+    "id": 74532,
+    "cinemaId": "ARNCIN",
+    "movieId": "HO00010700",
+    "date": "2025-10-14T17:30:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 03",
+    "operator": "ARN",
+    "total": 154,
+    "sold": 1,
+    "available": 153,
+    "occupancy": 0.65,
+    "max_gross": 2310.0,
+    "total_gross": 15.0,
+    "price": 15.0,
+    "error": false
+  },
+  {
+    "id": 360690,
+    "cinemaId": "WESCIN",
+    "movieId": "HO00010700",
+    "date": "2025-10-14T10:30:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 04",
+    "operator": "WES",
+    "total": 180,
+    "sold": 16,
+    "available": 164,
+    "occupancy": 8.89,
+    "max_gross": 4680.0,
+    "total_gross": 416.0,
+    "price": 26.0,
+    "error": false,
+    "last_error": "400, message='Can not decode content-encoding: zstandard (zstd). Please install `zstandard`', url='https://hoytsaus.freemail20251808.workers.dev/?api=ticketing/api/v1/ticket/WESCIN/360690'"
+  }
+]

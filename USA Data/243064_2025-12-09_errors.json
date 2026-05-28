@@ -1,0 +1,21 @@
+{
+  "last_updated": "2025-12-10 12:27:52 PM",
+  "errors": [
+    {
+      "state": "OH",
+      "city": "Columbus",
+      "zip": "43219",
+      "theater_name": "AMC Dine-in Easton Town Center 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2025-12-09+20:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
+}

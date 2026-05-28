@@ -1,0 +1,21 @@
+{
+  "last_updated": "2025-11-15 12:19:45 PM",
+  "errors": [
+    {
+      "state": "WI",
+      "city": "Milwaukee",
+      "zip": "53202",
+      "theater_name": "Oriental Theatre",
+      "chainName": "Elevent Solutions",
+      "chainCode": "ELEV",
+      "showtime_id": 520669604,
+      "date": "2025-11-14+19:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
+}

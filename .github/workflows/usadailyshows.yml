@@ -1,0 +1,44 @@
+name: USA Showtimes Tracker
+
+on:
+  schedule:
+    # PST 00:10 AM → IST 12:40 PM
+    - cron: "10 8 * * *"
+    # PST 06:30 AM → IST 08:00 PM
+    - cron: "30 14 * * *"
+    # PST 12:30 PM → IST 02:00 AM next day
+    - cron: "30 20 * * *"
+    # PST 06:30 PM → IST 08:00 AM next day
+    - cron: "30 2 * * *"
+
+  workflow_dispatch:  # manual run button
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Run USA Show Tracker
+        run: |
+          python usadailyshows.py
+
+      - name: Commit & Push Data
+        run: |
+          git config --global user.name "Automation Bot"
+          git config --global user.email "bot@example.com"
+          git add .
+          git commit -m "Auto Update: USA Showtimes - $(date)"
+          git push
+        continue-on-error: true

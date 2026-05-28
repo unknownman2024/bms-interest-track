@@ -1,0 +1,65 @@
+{
+  "last_updated": "2025-09-12 11:46:33 AM",
+  "errors": [
+    {
+      "state": "PA",
+      "city": "Pittsburgh",
+      "zip": "15241",
+      "theater_name": "AMC CLASSIC South Hills Village 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515541707,
+      "date": "2025-09-11+15:20",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Morrow",
+      "zip": "30260",
+      "theater_name": "AMC Southlake 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 0,
+      "date": "2025-09-11+14:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Cerritos",
+      "zip": "90703",
+      "theater_name": "Harkins Cerritos 16",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 515046029,
+      "date": "2025-09-11+20:40",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    },
+    {
+      "state": "UT",
+      "city": "West Valley",
+      "zip": "84120",
+      "theater_name": "Cinemark West Valley and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 515867008,
+      "date": "2025-09-11+13:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 404
+      }
+    }
+  ]
+}

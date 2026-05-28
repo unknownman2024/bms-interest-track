@@ -1,0 +1,610 @@
+{
+  "last_updated": "2026-03-19 11:12:54 AM",
+  "errors": [
+    {
+      "state": "NC",
+      "city": "Concord",
+      "zip": "28027",
+      "theater_name": "AMC Concord Mills 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-03-18+17:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tallahassee",
+      "zip": "32317",
+      "theater_name": "CMX Fallschase",
+      "chainName": "CMX Cinemas",
+      "chainCode": "COBB",
+      "showtime_id": 537923166,
+      "date": "2026-03-18+21:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Fairfax",
+      "zip": "22030",
+      "theater_name": "Cinemark Fairfax Corner and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 538224984,
+      "date": "2026-03-18+12:38",
+      "format": "Cinemark XD",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538125179,
+      "date": "2026-03-18+17:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538125180,
+      "date": "2026-03-18+21:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Dubuque",
+      "zip": "52002",
+      "theater_name": "AMC CLASSIC Dubuque 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538133860,
+      "date": "2026-03-18+16:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "UT",
+      "city": "West Jordan",
+      "zip": "84088",
+      "theater_name": "AMC West Jordan 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538177706,
+      "date": "2026-03-18+15:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538295960,
+      "date": "2026-03-18+15:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538295978,
+      "date": "2026-03-18+19:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Dublin",
+      "zip": "43017",
+      "theater_name": "AMC Dublin Village 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538335466,
+      "date": "2026-03-18+12:38",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Dublin",
+      "zip": "43017",
+      "theater_name": "AMC Dublin Village 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538335462,
+      "date": "2026-03-18+14:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Dublin",
+      "zip": "43017",
+      "theater_name": "AMC Dublin Village 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538335467,
+      "date": "2026-03-18+16:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Dublin",
+      "zip": "43017",
+      "theater_name": "AMC Dublin Village 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538335468,
+      "date": "2026-03-18+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Dublin",
+      "zip": "43017",
+      "theater_name": "AMC Dublin Village 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538335461,
+      "date": "2026-03-18+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Dublin",
+      "zip": "43017",
+      "theater_name": "AMC Dublin Village 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538335456,
+      "date": "2026-03-18+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Downingtown",
+      "zip": "19335",
+      "theater_name": "Regal Downingtown & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 538383326,
+      "date": "2026-03-18+19:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Livonia",
+      "zip": "48152",
+      "theater_name": "AMC Livonia 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538379939,
+      "date": "2026-03-18+20:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Decatur",
+      "zip": "62521",
+      "theater_name": "AMC Decatur 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538618999,
+      "date": "2026-03-18+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Albany",
+      "zip": "31707",
+      "theater_name": "AMC CLASSIC Albany 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538655944,
+      "date": "2026-03-18+20:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mounds View",
+      "zip": "55112",
+      "theater_name": "AMC CLASSIC Mounds View 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 538676549,
+      "date": "2026-03-18+15:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Stockton",
+      "zip": "95202",
+      "theater_name": "Regal Stockton City Center & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 538791059,
+      "date": "2026-03-18+11:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Stockton",
+      "zip": "95202",
+      "theater_name": "Regal Stockton City Center & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 538791060,
+      "date": "2026-03-18+15:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Stockton",
+      "zip": "95202",
+      "theater_name": "Regal Stockton City Center & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 538791061,
+      "date": "2026-03-18+18:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Stockton",
+      "zip": "95202",
+      "theater_name": "Regal Stockton City Center & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 538791062,
+      "date": "2026-03-18+22:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Miami",
+      "zip": "33172",
+      "theater_name": "CMX Dolphin 19 & IMAX",
+      "chainName": "CMX Cinemas",
+      "chainCode": "COBB",
+      "showtime_id": 538796506,
+      "date": "2026-03-18+21:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tallahassee",
+      "zip": "32317",
+      "theater_name": "CMX Fallschase",
+      "chainName": "CMX Cinemas",
+      "chainCode": "COBB",
+      "showtime_id": 538848456,
+      "date": "2026-03-18+21:15",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77064",
+      "theater_name": "AMC Willowbrook 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539121806,
+      "date": "2026-03-18+11:38",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 402
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77064",
+      "theater_name": "AMC Willowbrook 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539121804,
+      "date": "2026-03-18+17:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 402
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77064",
+      "theater_name": "AMC Willowbrook 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539121805,
+      "date": "2026-03-18+20:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 402
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Lowell",
+      "zip": "01851",
+      "theater_name": "Showcase Cinema de Lux Lowell",
+      "chainName": "National Amusement",
+      "chainCode": "NATA",
+      "showtime_id": 538707701,
+      "date": "2026-03-18+19:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Jonesboro",
+      "zip": "72404",
+      "theater_name": "Malco Jonesboro Towne Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 539484243,
+      "date": "2026-03-18+19:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "GQT Willow Knolls 14",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 539640976,
+      "date": "2026-03-18+19:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Lowell",
+      "zip": "01851",
+      "theater_name": "Showcase Cinema de Lux Lowell",
+      "chainName": "National Amusement",
+      "chainCode": "NATA",
+      "showtime_id": 539050139,
+      "date": "2026-03-18+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Schaumburg",
+      "zip": "60173",
+      "theater_name": "AMC Loews Streets Of Woodfield 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539672006,
+      "date": "2026-03-18+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Creve Coeur",
+      "zip": "63141",
+      "theater_name": "AMC Creve Coeur 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539682855,
+      "date": "2026-03-18+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Creve Coeur",
+      "zip": "63141",
+      "theater_name": "AMC Creve Coeur 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539682856,
+      "date": "2026-03-18+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Fayetteville",
+      "zip": "72703",
+      "theater_name": "AMC Fiesta Square 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539675406,
+      "date": "2026-03-18+19:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "AR",
+      "city": "Fayetteville",
+      "zip": "72703",
+      "theater_name": "AMC Fiesta Square 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 539675407,
+      "date": "2026-03-18+20:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
+}

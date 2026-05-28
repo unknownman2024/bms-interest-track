@@ -1,0 +1,34 @@
+[
+  {
+    "state": "FL",
+    "city": "Lakeland",
+    "zip": "33803",
+    "theater_name": "CMX Lakeside Village 18 & IMAX",
+    "chainName": "CMX Cinemas",
+    "chainCode": "COBB",
+    "showtime_id": 526611936,
+    "date": "2025-12-07+02:20",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
+  },
+  {
+    "state": "MO",
+    "city": "Saint Peters",
+    "zip": "63376",
+    "theater_name": "Marcus Mid Rivers Cinema",
+    "chainName": "Marcus Theatres",
+    "chainCode": "MRCS",
+    "showtime_id": 526029140,
+    "date": "2025-12-06+15:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
+  }
+]

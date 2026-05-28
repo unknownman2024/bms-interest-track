@@ -1,0 +1,47 @@
+[
+  {
+    "id": 169421,
+    "cinemaId": "HAMCIN",
+    "movieId": "HO00008152",
+    "date": "2025-10-28T19:00:00",
+    "typeId": "STANDARD",
+    "screenName": "METRO 2",
+    "operator": "HAM",
+    "total": 126,
+    "sold": 0,
+    "available": 126,
+    "occupancy": 0.0,
+    "max_gross": 2646.0,
+    "total_gross": 0.0,
+    "price": 21.0,
+    "error": false
+  },
+  {
+    "id": 316633,
+    "cinemaId": "1005",
+    "movieId": "HO00008152",
+    "date": "2025-10-28T19:00:00",
+    "screenName": "Cinema 2",
+    "operator": "RIC",
+    "error": true,
+    "error_msg": "HTTP 403",
+    "last_error": "HTTP 403"
+  },
+  {
+    "id": 400720,
+    "cinemaId": "1012",
+    "movieId": "HO00008152",
+    "date": "2025-10-28T19:00:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 4",
+    "operator": "BOT",
+    "total": 128,
+    "sold": 4,
+    "available": 124,
+    "occupancy": 3.12,
+    "max_gross": 3328.0,
+    "total_gross": 104.0,
+    "price": 26.0,
+    "error": false
+  }
+]

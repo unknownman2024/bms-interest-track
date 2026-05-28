@@ -1,0 +1,56 @@
+name: USA Peddi Premieres Scraper
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 */3 * * *"
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+
+    env:
+      AUTHORIZATION_TOKEN: ${{ secrets.AUTHORIZATION_TOKEN }}
+      SESSION_ID: ${{ secrets.SESSION_ID }}
+      SEATMAP_URL: ${{ secrets.SEATMAP_URL }}
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run scraper
+        run: |
+          python usapeddiprem.py
+
+      - name: Commit & Push results
+        run: |
+          set -e
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add "USA Data/*.json"
+
+          git commit -m "Update USA Data ($(date -u +'%Y-%m-%d %H:%M:%S UTC'))" || echo "No changes to commit"
+
+          git fetch origin main || true
+
+          if git rebase origin/main; then
+            git push origin HEAD:main
+          else
+            echo "⚠️ Rebase failed, force pushing instead..."
+            git rebase --abort || true
+            git push origin HEAD:main --force
+          fi

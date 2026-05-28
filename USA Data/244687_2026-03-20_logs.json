@@ -1,0 +1,602 @@
+[
+  {
+    "time": "2026-03-04 11:18:29 AM",
+    "total_gross_usd": 61794.0,
+    "total_shows": 742,
+    "avg_occupancy": 4.22,
+    "tickets_sold": 3912,
+    "unique_venues": 318
+  },
+  {
+    "time": "2026-03-04 12:41:50 PM",
+    "total_gross_usd": 66960.55,
+    "total_shows": 802,
+    "avg_occupancy": 4.3,
+    "tickets_sold": 4255,
+    "unique_venues": 331
+  },
+  {
+    "time": "2026-03-04 07:07:15 PM",
+    "total_gross_usd": 71811.3,
+    "total_shows": 826,
+    "avg_occupancy": 4.48,
+    "tickets_sold": 4562,
+    "unique_venues": 337
+  },
+  {
+    "time": "2026-03-05 12:42:01 AM",
+    "total_gross_usd": 85374.83,
+    "total_shows": 851,
+    "avg_occupancy": 5.24,
+    "tickets_sold": 5458,
+    "unique_venues": 344
+  },
+  {
+    "time": "2026-03-05 08:44:27 AM",
+    "total_gross_usd": 108253.94,
+    "total_shows": 899,
+    "avg_occupancy": 6.34,
+    "tickets_sold": 6985,
+    "unique_venues": 367
+  },
+  {
+    "time": "2026-03-05 12:45:18 PM",
+    "total_gross_usd": 119083.95,
+    "total_shows": 910,
+    "avg_occupancy": 6.91,
+    "tickets_sold": 7702,
+    "unique_venues": 372
+  },
+  {
+    "time": "2026-03-05 07:11:46 PM",
+    "total_gross_usd": 121133.69,
+    "total_shows": 913,
+    "avg_occupancy": 7.0,
+    "tickets_sold": 7827,
+    "unique_venues": 374
+  },
+  {
+    "time": "2026-03-06 01:12:14 AM",
+    "total_gross_usd": 128086.63,
+    "total_shows": 952,
+    "avg_occupancy": 7.1,
+    "tickets_sold": 8289,
+    "unique_venues": 385
+  },
+  {
+    "time": "2026-03-06 08:43:05 AM",
+    "total_gross_usd": 146774.76,
+    "total_shows": 973,
+    "avg_occupancy": 8.03,
+    "tickets_sold": 9571,
+    "unique_venues": 391
+  },
+  {
+    "time": "2026-03-06 12:43:02 PM",
+    "total_gross_usd": 153811.35,
+    "total_shows": 973,
+    "avg_occupancy": 8.42,
+    "tickets_sold": 10045,
+    "unique_venues": 391
+  },
+  {
+    "time": "2026-03-06 07:04:47 PM",
+    "total_gross_usd": 155131.25,
+    "total_shows": 977,
+    "avg_occupancy": 8.48,
+    "tickets_sold": 10133,
+    "unique_venues": 393
+  },
+  {
+    "time": "2026-03-07 12:39:27 AM",
+    "total_gross_usd": 161011.25,
+    "total_shows": 980,
+    "avg_occupancy": 8.78,
+    "tickets_sold": 10551,
+    "unique_venues": 394
+  },
+  {
+    "time": "2026-03-07 08:33:07 AM",
+    "total_gross_usd": 180730.14,
+    "total_shows": 1041,
+    "avg_occupancy": 9.28,
+    "tickets_sold": 11881,
+    "unique_venues": 409
+  },
+  {
+    "time": "2026-03-07 12:34:40 PM",
+    "total_gross_usd": 195529.3,
+    "total_shows": 1077,
+    "avg_occupancy": 9.7,
+    "tickets_sold": 12894,
+    "unique_venues": 416
+  },
+  {
+    "time": "2026-03-07 06:44:20 PM",
+    "total_gross_usd": 201615.12,
+    "total_shows": 1081,
+    "avg_occupancy": 9.95,
+    "tickets_sold": 13292,
+    "unique_venues": 418
+  },
+  {
+    "time": "2026-03-08 12:26:09 AM",
+    "total_gross_usd": 220712.66,
+    "total_shows": 1094,
+    "avg_occupancy": 10.79,
+    "tickets_sold": 14593,
+    "unique_venues": 425
+  },
+  {
+    "time": "2026-03-08 08:46:50 AM",
+    "total_gross_usd": 263793.51,
+    "total_shows": 1136,
+    "avg_occupancy": 12.4,
+    "tickets_sold": 17527,
+    "unique_venues": 434
+  },
+  {
+    "time": "2026-03-08 12:37:25 PM",
+    "total_gross_usd": 276112.8,
+    "total_shows": 1136,
+    "avg_occupancy": 13.0,
+    "tickets_sold": 18376,
+    "unique_venues": 434
+  },
+  {
+    "time": "2026-03-08 06:45:21 PM",
+    "total_gross_usd": 278218.56,
+    "total_shows": 1137,
+    "avg_occupancy": 13.09,
+    "tickets_sold": 18519,
+    "unique_venues": 434
+  },
+  {
+    "time": "2026-03-09 12:28:05 AM",
+    "total_gross_usd": 291446.77,
+    "total_shows": 1145,
+    "avg_occupancy": 13.64,
+    "tickets_sold": 19446,
+    "unique_venues": 436
+  },
+  {
+    "time": "2026-03-09 08:50:14 AM",
+    "total_gross_usd": 325268.54,
+    "total_shows": 1156,
+    "avg_occupancy": 15.18,
+    "tickets_sold": 21789,
+    "unique_venues": 436
+  },
+  {
+    "time": "2026-03-09 01:04:26 PM",
+    "total_gross_usd": 333855.68,
+    "total_shows": 1172,
+    "avg_occupancy": 15.25,
+    "tickets_sold": 22370,
+    "unique_venues": 443
+  },
+  {
+    "time": "2026-03-09 07:14:39 PM",
+    "total_gross_usd": 335767.41,
+    "total_shows": 1172,
+    "avg_occupancy": 15.33,
+    "tickets_sold": 22500,
+    "unique_venues": 443
+  },
+  {
+    "time": "2026-03-10 12:45:27 AM",
+    "total_gross_usd": 342314.42,
+    "total_shows": 1190,
+    "avg_occupancy": 15.34,
+    "tickets_sold": 22967,
+    "unique_venues": 449
+  },
+  {
+    "time": "2026-03-10 12:43:19 PM",
+    "total_gross_usd": 373035.1,
+    "total_shows": 1222,
+    "avg_occupancy": 16.28,
+    "tickets_sold": 25107,
+    "unique_venues": 457
+  },
+  {
+    "time": "2026-03-10 07:12:30 PM",
+    "total_gross_usd": 375274.25,
+    "total_shows": 1227,
+    "avg_occupancy": 16.35,
+    "tickets_sold": 25264,
+    "unique_venues": 458
+  },
+  {
+    "time": "2026-03-11 12:43:51 AM",
+    "total_gross_usd": 383875.64,
+    "total_shows": 1241,
+    "avg_occupancy": 16.46,
+    "tickets_sold": 25853,
+    "unique_venues": 460
+  },
+  {
+    "time": "2026-03-11 08:41:25 AM",
+    "total_gross_usd": 407674.21,
+    "total_shows": 1281,
+    "avg_occupancy": 17.0,
+    "tickets_sold": 27517,
+    "unique_venues": 473
+  },
+  {
+    "time": "2026-03-11 12:46:42 PM",
+    "total_gross_usd": 416077.49,
+    "total_shows": 1286,
+    "avg_occupancy": 17.29,
+    "tickets_sold": 28086,
+    "unique_venues": 474
+  },
+  {
+    "time": "2026-03-11 07:14:21 PM",
+    "total_gross_usd": 418490.67,
+    "total_shows": 1289,
+    "avg_occupancy": 17.37,
+    "tickets_sold": 28246,
+    "unique_venues": 476
+  },
+  {
+    "time": "2026-03-12 12:45:52 AM",
+    "total_gross_usd": 426875.95,
+    "total_shows": 1304,
+    "avg_occupancy": 17.52,
+    "tickets_sold": 28840,
+    "unique_venues": 478
+  },
+  {
+    "time": "2026-03-12 08:47:33 AM",
+    "total_gross_usd": 453931.21,
+    "total_shows": 1333,
+    "avg_occupancy": 18.31,
+    "tickets_sold": 30723,
+    "unique_venues": 484
+  },
+  {
+    "time": "2026-03-12 12:58:52 PM",
+    "total_gross_usd": 460324.39,
+    "total_shows": 1347,
+    "avg_occupancy": 18.41,
+    "tickets_sold": 31167,
+    "unique_venues": 485
+  },
+  {
+    "time": "2026-03-12 07:11:46 PM",
+    "total_gross_usd": 463163.27,
+    "total_shows": 1347,
+    "avg_occupancy": 18.53,
+    "tickets_sold": 31360,
+    "unique_venues": 485
+  },
+  {
+    "time": "2026-03-13 12:46:32 AM",
+    "total_gross_usd": 472674.7,
+    "total_shows": 1349,
+    "avg_occupancy": 18.89,
+    "tickets_sold": 32020,
+    "unique_venues": 486
+  },
+  {
+    "time": "2026-03-13 08:44:12 AM",
+    "total_gross_usd": 500292.11,
+    "total_shows": 1386,
+    "avg_occupancy": 19.46,
+    "tickets_sold": 33947,
+    "unique_venues": 498
+  },
+  {
+    "time": "2026-03-13 12:59:26 PM",
+    "total_gross_usd": 508178.68,
+    "total_shows": 1389,
+    "avg_occupancy": 19.74,
+    "tickets_sold": 34489,
+    "unique_venues": 499
+  },
+  {
+    "time": "2026-03-13 07:09:28 PM",
+    "total_gross_usd": 511031.41,
+    "total_shows": 1391,
+    "avg_occupancy": 19.83,
+    "tickets_sold": 34681,
+    "unique_venues": 501
+  },
+  {
+    "time": "2026-03-14 08:42:24 AM",
+    "total_gross_usd": 553362.4,
+    "total_shows": 1459,
+    "avg_occupancy": 20.63,
+    "tickets_sold": 37731,
+    "unique_venues": 519
+  },
+  {
+    "time": "2026-03-14 12:40:44 PM",
+    "total_gross_usd": 562134.67,
+    "total_shows": 1462,
+    "avg_occupancy": 20.91,
+    "tickets_sold": 38333,
+    "unique_venues": 519
+  },
+  {
+    "time": "2026-03-14 06:58:15 PM",
+    "total_gross_usd": 565125.91,
+    "total_shows": 1462,
+    "avg_occupancy": 21.03,
+    "tickets_sold": 38539,
+    "unique_venues": 519
+  },
+  {
+    "time": "2026-03-15 12:33:54 AM",
+    "total_gross_usd": 580219.74,
+    "total_shows": 1468,
+    "avg_occupancy": 21.52,
+    "tickets_sold": 39596,
+    "unique_venues": 519
+  },
+  {
+    "time": "2026-03-15 09:10:28 AM",
+    "total_gross_usd": 619755.56,
+    "total_shows": 1487,
+    "avg_occupancy": 22.78,
+    "tickets_sold": 42362,
+    "unique_venues": 522
+  },
+  {
+    "time": "2026-03-15 12:58:44 PM",
+    "total_gross_usd": 626531.15,
+    "total_shows": 1487,
+    "avg_occupancy": 23.03,
+    "tickets_sold": 42828,
+    "unique_venues": 522
+  },
+  {
+    "time": "2026-03-15 06:59:20 PM",
+    "total_gross_usd": 629229.27,
+    "total_shows": 1487,
+    "avg_occupancy": 23.13,
+    "tickets_sold": 43007,
+    "unique_venues": 522
+  },
+  {
+    "time": "2026-03-16 12:34:55 AM",
+    "total_gross_usd": 646236.31,
+    "total_shows": 1493,
+    "avg_occupancy": 23.69,
+    "tickets_sold": 44216,
+    "unique_venues": 524
+  },
+  {
+    "time": "2026-03-16 09:14:04 AM",
+    "total_gross_usd": 689577.06,
+    "total_shows": 1494,
+    "avg_occupancy": 25.33,
+    "tickets_sold": 47293,
+    "unique_venues": 524
+  },
+  {
+    "time": "2026-03-16 01:24:41 PM",
+    "total_gross_usd": 697396.45,
+    "total_shows": 1495,
+    "avg_occupancy": 25.62,
+    "tickets_sold": 47835,
+    "unique_venues": 524
+  },
+  {
+    "time": "2026-03-16 07:29:48 PM",
+    "total_gross_usd": 699477.68,
+    "total_shows": 1495,
+    "avg_occupancy": 25.7,
+    "tickets_sold": 47989,
+    "unique_venues": 524
+  },
+  {
+    "time": "2026-03-17 01:04:05 AM",
+    "total_gross_usd": 699477.68,
+    "total_shows": 1495,
+    "avg_occupancy": 25.7,
+    "tickets_sold": 47989,
+    "unique_venues": 524
+  },
+  {
+    "time": "2026-03-17 08:48:52 AM",
+    "total_gross_usd": 699477.68,
+    "total_shows": 1495,
+    "avg_occupancy": 25.7,
+    "tickets_sold": 47989,
+    "unique_venues": 524
+  },
+  {
+    "time": "2026-03-17 01:06:41 PM",
+    "total_gross_usd": 768348.56,
+    "total_shows": 1955,
+    "avg_occupancy": 22.32,
+    "tickets_sold": 52843,
+    "unique_venues": 583
+  },
+  {
+    "time": "2026-03-17 07:27:02 PM",
+    "total_gross_usd": 774191.63,
+    "total_shows": 1966,
+    "avg_occupancy": 22.37,
+    "tickets_sold": 53262,
+    "unique_venues": 584
+  },
+  {
+    "time": "2026-03-18 01:05:15 AM",
+    "total_gross_usd": 801520.93,
+    "total_shows": 2311,
+    "avg_occupancy": 20.0,
+    "tickets_sold": 55240,
+    "unique_venues": 635
+  },
+  {
+    "time": "2026-03-18 08:56:40 AM",
+    "total_gross_usd": 877853.84,
+    "total_shows": 2728,
+    "avg_occupancy": 19.15,
+    "tickets_sold": 60672,
+    "unique_venues": 700
+  },
+  {
+    "time": "2026-03-18 01:07:19 PM",
+    "total_gross_usd": 901631.25,
+    "total_shows": 2801,
+    "avg_occupancy": 19.16,
+    "tickets_sold": 62279,
+    "unique_venues": 706
+  },
+  {
+    "time": "2026-03-18 07:30:37 PM",
+    "total_gross_usd": 908030.1,
+    "total_shows": 2820,
+    "avg_occupancy": 19.2,
+    "tickets_sold": 62717,
+    "unique_venues": 709
+  },
+  {
+    "time": "2026-03-19 08:57:32 AM",
+    "total_gross_usd": 1100279.0,
+    "total_shows": 2916,
+    "avg_occupancy": 22.8,
+    "tickets_sold": 76475,
+    "unique_venues": 724
+  },
+  {
+    "time": "2026-03-19 01:03:31 PM",
+    "total_gross_usd": 1147018.14,
+    "total_shows": 2935,
+    "avg_occupancy": 23.65,
+    "tickets_sold": 79724,
+    "unique_venues": 725
+  },
+  {
+    "time": "2026-03-19 07:18:49 PM",
+    "total_gross_usd": 1172052.84,
+    "total_shows": 2937,
+    "avg_occupancy": 24.15,
+    "tickets_sold": 81456,
+    "unique_venues": 725
+  },
+  {
+    "time": "2026-03-20 12:59:01 AM",
+    "total_gross_usd": 1250582.16,
+    "total_shows": 3023,
+    "avg_occupancy": 25.36,
+    "tickets_sold": 87197,
+    "unique_venues": 728
+  },
+  {
+    "time": "2026-03-20 08:47:15 AM",
+    "total_gross_usd": 1481637.09,
+    "total_shows": 3161,
+    "avg_occupancy": 29.15,
+    "tickets_sold": 103860,
+    "unique_venues": 732
+  },
+  {
+    "time": "2026-03-20 01:01:01 PM",
+    "total_gross_usd": 1551892.53,
+    "total_shows": 3196,
+    "avg_occupancy": 30.24,
+    "tickets_sold": 108857,
+    "unique_venues": 732
+  },
+  {
+    "time": "2026-03-20 02:37:12 PM",
+    "total_gross_usd": 1560061.7,
+    "total_shows": 3203,
+    "avg_occupancy": 30.37,
+    "tickets_sold": 109455,
+    "unique_venues": 732
+  },
+  {
+    "time": "2026-03-20 04:36:01 PM",
+    "total_gross_usd": 1562580.12,
+    "total_shows": 3205,
+    "avg_occupancy": 30.41,
+    "tickets_sold": 109636,
+    "unique_venues": 732
+  },
+  {
+    "time": "2026-03-20 07:11:02 PM",
+    "total_gross_usd": 1582909.57,
+    "total_shows": 3212,
+    "avg_occupancy": 30.76,
+    "tickets_sold": 111133,
+    "unique_venues": 732
+  },
+  {
+    "time": "2026-03-20 08:41:26 PM",
+    "total_gross_usd": 1616427.51,
+    "total_shows": 3222,
+    "avg_occupancy": 31.38,
+    "tickets_sold": 113617,
+    "unique_venues": 732
+  },
+  {
+    "time": "2026-03-20 09:36:36 PM",
+    "total_gross_usd": 1649751.76,
+    "total_shows": 3275,
+    "avg_occupancy": 31.74,
+    "tickets_sold": 116110,
+    "unique_venues": 733
+  },
+  {
+    "time": "2026-03-20 10:40:31 PM",
+    "total_gross_usd": 1685935.54,
+    "total_shows": 3300,
+    "avg_occupancy": 32.35,
+    "tickets_sold": 118743,
+    "unique_venues": 733
+  },
+  {
+    "time": "2026-03-21 12:43:24 AM",
+    "total_gross_usd": 1772736.45,
+    "total_shows": 3334,
+    "avg_occupancy": 33.84,
+    "tickets_sold": 125149,
+    "unique_venues": 734
+  },
+  {
+    "time": "2026-03-21 02:29:26 AM",
+    "total_gross_usd": 1848064.09,
+    "total_shows": 3380,
+    "avg_occupancy": 35.03,
+    "tickets_sold": 130476,
+    "unique_venues": 735
+  },
+  {
+    "time": "2026-03-21 04:27:16 AM",
+    "total_gross_usd": 1949649.35,
+    "total_shows": 3404,
+    "avg_occupancy": 36.76,
+    "tickets_sold": 137545,
+    "unique_venues": 735
+  },
+  {
+    "time": "2026-03-21 08:37:41 AM",
+    "total_gross_usd": 2016977.21,
+    "total_shows": 3416,
+    "avg_occupancy": 37.86,
+    "tickets_sold": 141972,
+    "unique_venues": 735
+  },
+  {
+    "time": "2026-03-21 10:57:48 AM",
+    "total_gross_usd": 2019582.06,
+    "total_shows": 3417,
+    "avg_occupancy": 37.95,
+    "tickets_sold": 142159,
+    "unique_venues": 735
+  },
+  {
+    "time": "2026-03-21 11:31:53 AM",
+    "total_gross_usd": 2019765.66,
+    "total_shows": 3417,
+    "avg_occupancy": 37.95,
+    "tickets_sold": 142169,
+    "unique_venues": 735
+  }
+]

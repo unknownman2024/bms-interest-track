@@ -1,0 +1,36 @@
+[
+  {
+    "id": 74511,
+    "cinemaId": "ARNCIN",
+    "movieId": "HO00010700",
+    "date": "2025-10-13T17:30:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 03",
+    "operator": "ARN",
+    "total": 154,
+    "sold": 11,
+    "available": 143,
+    "occupancy": 7.14,
+    "max_gross": 2310.0,
+    "total_gross": 165.0,
+    "price": 15.0,
+    "error": false
+  },
+  {
+    "id": 360692,
+    "cinemaId": "WESCIN",
+    "movieId": "HO00010700",
+    "date": "2025-10-13T10:20:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 04",
+    "operator": "WES",
+    "total": 180,
+    "sold": 3,
+    "available": 177,
+    "occupancy": 1.67,
+    "max_gross": 4680.0,
+    "total_gross": 78.0,
+    "price": 26.0,
+    "error": false
+  }
+]

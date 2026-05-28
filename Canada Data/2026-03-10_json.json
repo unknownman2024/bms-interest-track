@@ -1,0 +1,876 @@
+[
+  {
+    "venue": "orleans",
+    "movie": "Mrithunjay- Telugu",
+    "perfIx": "2204",
+    "date": "2026-03-10",
+    "time": "7:45pm",
+    "total": 180,
+    "available": 151,
+    "blocked": 28,
+    "sold": 1,
+    "gross": 10.0,
+    "gross_with_tax": 11.25,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "orleans",
+    "movie": "Spa- Malayalam",
+    "perfIx": "2203",
+    "date": "2026-03-10",
+    "time": "7:45pm",
+    "total": 180,
+    "available": 151,
+    "blocked": 28,
+    "sold": 1,
+    "gross": 10.0,
+    "gross_with_tax": 11.25,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "orleans",
+    "movie": "Thaai Kizhavi- Tamil",
+    "perfIx": "2207",
+    "date": "2026-03-10",
+    "time": "7:30pm",
+    "total": 212,
+    "available": 167,
+    "blocked": 45,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "orleans",
+    "movie": "The Kerala Story 2- Hindi",
+    "perfIx": "2198",
+    "date": "2026-03-10",
+    "time": "7:45pm",
+    "total": 180,
+    "available": 151,
+    "blocked": 28,
+    "sold": 1,
+    "gross": 10.0,
+    "gross_with_tax": 11.25,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "orleans",
+    "movie": "Theri - Tamil Rerelease",
+    "perfIx": "2196",
+    "date": "2026-03-10",
+    "time": "7:30pm",
+    "total": 212,
+    "available": 167,
+    "blocked": 45,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "orleans",
+    "movie": "Vishnu Vinyasam - Telugu",
+    "perfIx": "2197",
+    "date": "2026-03-10",
+    "time": "7:30pm",
+    "total": 212,
+    "available": 167,
+    "blocked": 45,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "Apollo Cinemas",
+    "movie": "Thaai Kizhavi - Tamil",
+    "perfIx": 1036,
+    "date": "2026-03-10",
+    "time": "18:30",
+    "total": 324,
+    "available": 318,
+    "blocked": 2,
+    "sold": 4,
+    "gross": 35.4,
+    "gross_with_tax": 45.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "Apollo Cinemas",
+    "movie": "Masthishka Maranam - Malayalam",
+    "perfIx": 1004,
+    "date": "2026-03-10",
+    "time": "21:30",
+    "total": 324,
+    "available": 322,
+    "blocked": 2,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "Garden City Cinemas",
+    "movie": "Scream 7 - English",
+    "perfIx": 822,
+    "date": "2026-03-10",
+    "time": "16:30",
+    "total": 204,
+    "available": 204,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 6.96,
+      "tax": 1.04,
+      "fee": 1.25,
+      "grand": 9.25
+    }
+  },
+  {
+    "venue": "Garden City Cinemas",
+    "movie": "Scream 7 - English",
+    "perfIx": 823,
+    "date": "2026-03-10",
+    "time": "19:15",
+    "total": 204,
+    "available": 202,
+    "blocked": 0,
+    "sold": 2,
+    "gross": 13.92,
+    "gross_with_tax": 18.5,
+    "per_ticket": {
+      "net": 6.96,
+      "tax": 1.04,
+      "fee": 1.25,
+      "grand": 9.25
+    }
+  },
+  {
+    "venue": "Garden City Cinemas",
+    "movie": "Hoppers - English",
+    "perfIx": 824,
+    "date": "2026-03-10",
+    "time": "16:45",
+    "total": 255,
+    "available": 251,
+    "blocked": 0,
+    "sold": 4,
+    "gross": 27.84,
+    "gross_with_tax": 37.0,
+    "per_ticket": {
+      "net": 6.96,
+      "tax": 1.04,
+      "fee": 1.25,
+      "grand": 9.25
+    }
+  },
+  {
+    "venue": "Garden City Cinemas",
+    "movie": "Hoppers - English",
+    "perfIx": 825,
+    "date": "2026-03-10",
+    "time": "19:30",
+    "total": 255,
+    "available": 250,
+    "blocked": 0,
+    "sold": 5,
+    "gross": 34.8,
+    "gross_with_tax": 46.25,
+    "per_ticket": {
+      "net": 6.96,
+      "tax": 1.04,
+      "fee": 1.25,
+      "grand": 9.25
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Thaai Kizhavi - Tamil",
+    "perfIx": 756,
+    "date": "2026-03-10",
+    "time": "18:30",
+    "total": 324,
+    "available": 213,
+    "blocked": 23,
+    "sold": 88,
+    "gross": 778.8,
+    "gross_with_tax": 990.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Thaai Kizhavi - Tamil",
+    "perfIx": 759,
+    "date": "2026-03-10",
+    "time": "21:30",
+    "total": 324,
+    "available": 282,
+    "blocked": 23,
+    "sold": 19,
+    "gross": 168.15,
+    "gross_with_tax": 213.75,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Masthishka Maranam - Malayalam",
+    "perfIx": 755,
+    "date": "2026-03-10",
+    "time": "18:15",
+    "total": 182,
+    "available": 172,
+    "blocked": 9,
+    "sold": 1,
+    "gross": 8.85,
+    "gross_with_tax": 11.25,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Masthishka Maranam - Malayalam",
+    "perfIx": 758,
+    "date": "2026-03-10",
+    "time": "21:15",
+    "total": 182,
+    "available": 173,
+    "blocked": 9,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Mrithyunjay - Telugu",
+    "perfIx": 757,
+    "date": "2026-03-10",
+    "time": "18:45",
+    "total": 234,
+    "available": 225,
+    "blocked": 9,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Mrithyunjay - Telugu",
+    "perfIx": 760,
+    "date": "2026-03-10",
+    "time": "21:45",
+    "total": 234,
+    "available": 225,
+    "blocked": 9,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "Central Parkway Cinemas",
+    "movie": "Vishnu Vinyasam - Telugu",
+    "perfIx": 799,
+    "date": "2026-03-10",
+    "time": "18:30",
+    "total": 221,
+    "available": 190,
+    "blocked": 31,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "Central Parkway Cinemas",
+    "movie": "Theri - Re-release - Tamil",
+    "perfIx": 802,
+    "date": "2026-03-10",
+    "time": "21:30",
+    "total": 247,
+    "available": 156,
+    "blocked": 91,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "Central Parkway Cinemas",
+    "movie": "The Kerala Story 2 - Hindi",
+    "perfIx": 798,
+    "date": "2026-03-10",
+    "time": "18:15",
+    "total": 247,
+    "available": 154,
+    "blocked": 91,
+    "sold": 2,
+    "gross": 12.38,
+    "gross_with_tax": 16.5,
+    "per_ticket": {
+      "net": 6.19,
+      "tax": 0.81,
+      "fee": 1.25,
+      "grand": 8.25
+    }
+  },
+  {
+    "venue": "Central Parkway Cinemas",
+    "movie": "Thaai Kizhavi - Tamil",
+    "perfIx": 800,
+    "date": "2026-03-10",
+    "time": "18:45",
+    "total": 221,
+    "available": 195,
+    "blocked": 12,
+    "sold": 14,
+    "gross": 123.9,
+    "gross_with_tax": 157.5,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "Central Parkway Cinemas",
+    "movie": "Thaai Kizhavi - Tamil",
+    "perfIx": 804,
+    "date": "2026-03-10",
+    "time": "22:00",
+    "total": 221,
+    "available": 209,
+    "blocked": 12,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "Central Parkway Cinemas",
+    "movie": "Masthishka Maranam - Malayalam",
+    "perfIx": 803,
+    "date": "2026-03-10",
+    "time": "21:45",
+    "total": 221,
+    "available": 181,
+    "blocked": 31,
+    "sold": 9,
+    "gross": 79.65,
+    "gross_with_tax": 101.25,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "Central Parkway Cinemas",
+    "movie": "Mrithyunjay - Telugu",
+    "perfIx": 801,
+    "date": "2026-03-10",
+    "time": "19:00",
+    "total": 247,
+    "available": 218,
+    "blocked": 29,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "Central Parkway Cinemas",
+    "movie": "Mrithyunjay - Telugu",
+    "perfIx": 805,
+    "date": "2026-03-10",
+    "time": "22:15",
+    "total": 247,
+    "available": 218,
+    "blocked": 29,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "The Kerala Story 2 - Hindi",
+    "perfIx": 1059,
+    "date": "2026-03-10",
+    "time": "18:00",
+    "total": 513,
+    "available": 509,
+    "blocked": 0,
+    "sold": 4,
+    "gross": 31.84,
+    "gross_with_tax": 41.0,
+    "per_ticket": {
+      "net": 7.96,
+      "tax": 1.04,
+      "fee": 1.25,
+      "grand": 10.25
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Thaai Kizhavi - Tamil",
+    "perfIx": 1060,
+    "date": "2026-03-10",
+    "time": "18:00",
+    "total": 336,
+    "available": 330,
+    "blocked": 0,
+    "sold": 6,
+    "gross": 69.0,
+    "gross_with_tax": 85.5,
+    "per_ticket": {
+      "net": 11.5,
+      "tax": 1.5,
+      "fee": 1.25,
+      "grand": 14.25
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Thaai Kizhavi - Tamil",
+    "perfIx": 1061,
+    "date": "2026-03-10",
+    "time": "20:45",
+    "total": 336,
+    "available": 325,
+    "blocked": 0,
+    "sold": 11,
+    "gross": 126.5,
+    "gross_with_tax": 156.75,
+    "per_ticket": {
+      "net": 11.5,
+      "tax": 1.5,
+      "fee": 1.25,
+      "grand": 14.25
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Mrithyunjay - Telugu",
+    "perfIx": 1058,
+    "date": "2026-03-10",
+    "time": "20:45",
+    "total": 513,
+    "available": 513,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 11.5,
+      "tax": 1.5,
+      "fee": 1.25,
+      "grand": 14.25
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Vishnu Vinyasam - Telugu",
+    "perfIx": 898,
+    "date": "2026-03-10",
+    "time": "22:00",
+    "total": 204,
+    "available": 192,
+    "blocked": 12,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Theri - Re-release - Tamil",
+    "perfIx": 893,
+    "date": "2026-03-10",
+    "time": "19:00",
+    "total": 256,
+    "available": 244,
+    "blocked": 12,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Theri - Re-release - Tamil",
+    "perfIx": 900,
+    "date": "2026-03-10",
+    "time": "22:15",
+    "total": 256,
+    "available": 244,
+    "blocked": 12,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "The Kerala Story 2 - Hindi",
+    "perfIx": 891,
+    "date": "2026-03-10",
+    "time": "18:30",
+    "total": 221,
+    "available": 213,
+    "blocked": 8,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 7.96,
+      "tax": 1.04,
+      "fee": 1.25,
+      "grand": 10.25
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Thaai Kizhavi - Tamil",
+    "perfIx": 894,
+    "date": "2026-03-10",
+    "time": "19:15",
+    "total": 300,
+    "available": 276,
+    "blocked": 19,
+    "sold": 5,
+    "gross": 57.5,
+    "gross_with_tax": 71.25,
+    "per_ticket": {
+      "net": 11.5,
+      "tax": 1.5,
+      "fee": 1.25,
+      "grand": 14.25
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Thaai Kizhavi - Tamil",
+    "perfIx": 901,
+    "date": "2026-03-10",
+    "time": "22:30",
+    "total": 300,
+    "available": 281,
+    "blocked": 19,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 11.5,
+      "tax": 1.5,
+      "fee": 1.25,
+      "grand": 14.25
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Masthishka Maranam - Malayalam",
+    "perfIx": 890,
+    "date": "2026-03-10",
+    "time": "18:30",
+    "total": 208,
+    "available": 208,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Masthishka Maranam - Malayalam",
+    "perfIx": 896,
+    "date": "2026-03-10",
+    "time": "21:30",
+    "total": 208,
+    "available": 208,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Mrithyunjay - Telugu",
+    "perfIx": 892,
+    "date": "2026-03-10",
+    "time": "18:45",
+    "total": 260,
+    "available": 258,
+    "blocked": 0,
+    "sold": 2,
+    "gross": 23.0,
+    "gross_with_tax": 28.5,
+    "per_ticket": {
+      "net": 11.5,
+      "tax": 1.5,
+      "fee": 1.25,
+      "grand": 14.25
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Mrithyunjay - Telugu",
+    "perfIx": 897,
+    "date": "2026-03-10",
+    "time": "21:45",
+    "total": 260,
+    "available": 260,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 11.5,
+      "tax": 1.5,
+      "fee": 1.25,
+      "grand": 14.25
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Cutting Through Rocks - Iranian",
+    "perfIx": 895,
+    "date": "2026-03-10",
+    "time": "19:30",
+    "total": 204,
+    "available": 192,
+    "blocked": 12,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 14.16,
+      "tax": 1.84,
+      "fee": 1.25,
+      "grand": 17.25
+    }
+  },
+  {
+    "venue": "Apollo Cinemas",
+    "movie": "Masthishka Maranam - Malayalam",
+    "perfIx": 1004,
+    "date": "2026-03-10",
+    "time": "21:45",
+    "total": 324,
+    "available": 320,
+    "blocked": 2,
+    "sold": 2,
+    "gross": 17.7,
+    "gross_with_tax": 22.5,
+    "per_ticket": {
+      "net": 8.85,
+      "tax": 1.15,
+      "fee": 1.25,
+      "grand": 11.25
+    }
+  },
+  {
+    "venue": "orleans",
+    "movie": "Ustaad Bhagat Singh - Telugu",
+    "perfIx": "2208",
+    "date": "2026-03-18",
+    "time": "12:45pm",
+    "total": 102,
+    "available": 97,
+    "blocked": 0,
+    "sold": 5,
+    "gross": 115.0,
+    "gross_with_tax": 121.25,
+    "per_ticket": {
+      "net": 23.0,
+      "tax": 0,
+      "fee": 1.25,
+      "grand": 24.25
+    }
+  },
+  {
+    "venue": "orleans",
+    "movie": "Ustaad Bhagat Singh - Telugu",
+    "perfIx": "2209",
+    "date": "2026-03-18",
+    "time": "4:00pm",
+    "total": 102,
+    "available": 97,
+    "blocked": 0,
+    "sold": 5,
+    "gross": 115.0,
+    "gross_with_tax": 121.25,
+    "per_ticket": {
+      "net": 23.0,
+      "tax": 0,
+      "fee": 1.25,
+      "grand": 24.25
+    }
+  },
+  {
+    "venue": "orleans",
+    "movie": "Ustaad Bhagat Singh - Telugu",
+    "perfIx": "2210",
+    "date": "2026-03-18",
+    "time": "7:00pm",
+    "total": 102,
+    "available": 97,
+    "blocked": 0,
+    "sold": 5,
+    "gross": 115.0,
+    "gross_with_tax": 121.25,
+    "per_ticket": {
+      "net": 23.0,
+      "tax": 0,
+      "fee": 1.25,
+      "grand": 24.25
+    }
+  },
+  {
+    "venue": "orleans",
+    "movie": "Ustaad Bhagat Singh - Telugu",
+    "perfIx": "2211",
+    "date": "2026-03-18",
+    "time": "10:00pm",
+    "total": 102,
+    "available": 97,
+    "blocked": 0,
+    "sold": 5,
+    "gross": 115.0,
+    "gross_with_tax": 121.25,
+    "per_ticket": {
+      "net": 23.0,
+      "tax": 0,
+      "fee": 1.25,
+      "grand": 24.25
+    }
+  }
+]

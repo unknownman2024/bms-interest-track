@@ -1,0 +1,37 @@
+[
+  {
+    "id": 74843,
+    "cinemaId": "ARNCIN",
+    "movieId": "HO00010700",
+    "date": "2025-10-20T18:10:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 02",
+    "operator": "ARN",
+    "total": 154,
+    "sold": 8,
+    "available": 146,
+    "occupancy": 5.19,
+    "max_gross": 2310.0,
+    "total_gross": 120.0,
+    "price": 15.0,
+    "error": false
+  },
+  {
+    "id": 360725,
+    "cinemaId": "WESCIN",
+    "movieId": "HO00010700",
+    "date": "2025-10-20T10:00:00",
+    "typeId": "STANDARD",
+    "screenName": "Cinema 04",
+    "operator": "WES",
+    "total": 180,
+    "sold": 2,
+    "available": 178,
+    "occupancy": 1.11,
+    "max_gross": 4680.0,
+    "total_gross": 52.0,
+    "price": 26.0,
+    "error": false,
+    "last_error": "400, message='Can not decode content-encoding: zstandard (zstd). Please install `backports.zstd`', url='https://hoytsaus.freemail20251808.workers.dev/?api=ticketing/api/v1/ticket/seats/WESCIN/360725'"
+  }
+]

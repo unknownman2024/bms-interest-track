@@ -1,0 +1,845 @@
+{
+  "last_updated": "2026-01-27 12:30:20 PM",
+  "errors": [
+    {
+      "state": "MA",
+      "city": "Tyngsboro",
+      "zip": "01879",
+      "theater_name": "AMC Tyngsboro 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 531801884,
+      "date": "2026-01-26+15:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Methuen",
+      "zip": "01844",
+      "theater_name": "AMC Methuen 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529147395,
+      "date": "2026-01-26+21:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Burlington",
+      "zip": "08016",
+      "theater_name": "Regal Burlington",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 531947563,
+      "date": "2026-01-26+15:10",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Warrington",
+      "zip": "18976",
+      "theater_name": "Regal Warrington Crossing ScreenX, 4DX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 531615139,
+      "date": "2026-01-26+12:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Ashburn",
+      "zip": "20148",
+      "theater_name": "Regal Fox 4DX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532050890,
+      "date": "2026-01-26+20:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Ashburn",
+      "zip": "20148",
+      "theater_name": "Regal Fox 4DX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532464971,
+      "date": "2026-01-26+19:10",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Ashburn",
+      "zip": "20148",
+      "theater_name": "Regal Fox 4DX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532050886,
+      "date": "2026-01-26+21:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27408",
+      "theater_name": "Red Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 532264128,
+      "date": "2026-01-26+19:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Durham",
+      "zip": "27713",
+      "theater_name": "AMC Southpoint 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529837498,
+      "date": "2026-01-26+22:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Raleigh",
+      "zip": "27617",
+      "theater_name": "Regal Brier Creek",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532034835,
+      "date": "2026-01-26+12:05",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Raleigh",
+      "zip": "27617",
+      "theater_name": "Regal Brier Creek",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532034821,
+      "date": "2026-01-26+16:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Cary",
+      "zip": "27518",
+      "theater_name": "Regal Crossroads & IMAX - Cary",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532029163,
+      "date": "2026-01-26+12:20",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Cary",
+      "zip": "27518",
+      "theater_name": "Regal Crossroads & IMAX - Cary",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532029162,
+      "date": "2026-01-26+16:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Cary",
+      "zip": "27518",
+      "theater_name": "Regal Crossroads & IMAX - Cary",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532029161,
+      "date": "2026-01-26+21:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Wilson",
+      "zip": "27893",
+      "theater_name": "AMC CLASSIC Wilson 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 531817843,
+      "date": "2026-01-26+18:55",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Greenville",
+      "zip": "29607",
+      "theater_name": "Regal Hollywood & RPX - Greenville",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532273479,
+      "date": "2026-01-26+14:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Greenville",
+      "zip": "29607",
+      "theater_name": "Regal Hollywood & RPX - Greenville",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532273474,
+      "date": "2026-01-26+17:35",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Greenville",
+      "zip": "29607",
+      "theater_name": "Regal Hollywood & RPX - Greenville",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532273478,
+      "date": "2026-01-26+21:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Spartanburg",
+      "zip": "29301",
+      "theater_name": "Regal Spartan",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532247996,
+      "date": "2026-01-26+12:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Spartanburg",
+      "zip": "29301",
+      "theater_name": "Regal Spartan",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532248001,
+      "date": "2026-01-26+16:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Spartanburg",
+      "zip": "29301",
+      "theater_name": "Regal Spartan",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532248023,
+      "date": "2026-01-26+20:10",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532044871,
+      "date": "2026-01-26+12:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532044874,
+      "date": "2026-01-26+20:05",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528202573,
+      "date": "2026-01-26+19:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Orange Beach",
+      "zip": "36561",
+      "theater_name": "AMC CLASSIC Wharf 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 531862093,
+      "date": "2026-01-26+19:25",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 531559874,
+      "date": "2026-01-26+20:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Nashville",
+      "zip": "37204",
+      "theater_name": "Regal Hollywood ScreenX, 4DX & RPX – Nashville",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532259262,
+      "date": "2026-01-26+12:05",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Nashville",
+      "zip": "37204",
+      "theater_name": "Regal Hollywood ScreenX, 4DX & RPX – Nashville",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532259263,
+      "date": "2026-01-26+16:25",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Nashville",
+      "zip": "37204",
+      "theater_name": "Regal Hollywood ScreenX, 4DX & RPX – Nashville",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532259264,
+      "date": "2026-01-26+20:40",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Lexington",
+      "zip": "40509",
+      "theater_name": "Regal Hamburg Pavilion IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532268631,
+      "date": "2026-01-26+10:20",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Lexington",
+      "zip": "40509",
+      "theater_name": "Regal Hamburg Pavilion IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532268632,
+      "date": "2026-01-26+13:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Lexington",
+      "zip": "40509",
+      "theater_name": "Regal Hamburg Pavilion IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532268634,
+      "date": "2026-01-26+17:35",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Lexington",
+      "zip": "40509",
+      "theater_name": "Regal Hamburg Pavilion IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532268633,
+      "date": "2026-01-26+21:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Plainfield",
+      "zip": "46168",
+      "theater_name": "AMC Perry Crossing 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 532321299,
+      "date": "2026-01-26+16:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Livonia",
+      "zip": "48152",
+      "theater_name": "AMC Livonia 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529889414,
+      "date": "2026-01-26+20:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mounds View",
+      "zip": "55112",
+      "theater_name": "AMC CLASSIC Mounds View 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 532235957,
+      "date": "2026-01-26+19:10",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Euless",
+      "zip": "76039",
+      "theater_name": "Cinépolis  Euless",
+      "chainName": "Cinepolis",
+      "chainCode": "CPLS",
+      "showtime_id": 532079321,
+      "date": "2026-01-26+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Norwalk",
+      "zip": "90650",
+      "theater_name": "AMC Norwalk 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-01-26+21:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Bellevue",
+      "zip": "98004",
+      "theater_name": "Cinemark Lincoln Square",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 531500644,
+      "date": "2026-01-26+16:10",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Monroe",
+      "zip": "98272",
+      "theater_name": "Galaxy Monroe",
+      "chainName": "Galaxy Theatres",
+      "chainCode": "GLXY",
+      "showtime_id": 532180674,
+      "date": "2026-01-26+20:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Jersey City",
+      "zip": "07310",
+      "theater_name": "AMC Newport Centre 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 532142107,
+      "date": "2026-01-26+12:55",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Port Chester",
+      "zip": "10573",
+      "theater_name": "AMC Port Chester 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 532006047,
+      "date": "2026-01-26+15:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "New Brunswick",
+      "zip": "08901",
+      "theater_name": "AMC New Brunswick 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529107622,
+      "date": "2026-01-26+20:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Elizabeth",
+      "zip": "07201",
+      "theater_name": "AMC Jersey Gardens 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 531823217,
+      "date": "2026-01-26+15:10",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Wayne",
+      "zip": "07470",
+      "theater_name": "AMC Wayne 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 531993564,
+      "date": "2026-01-26+14:55",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Middletown",
+      "zip": "10940",
+      "theater_name": "AMC Crystal Run 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 531802296,
+      "date": "2026-01-26+18:05",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Valley View",
+      "zip": "44125",
+      "theater_name": "Cinemark Valley View and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 531669755,
+      "date": "2026-01-26+11:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Overland Park",
+      "zip": "66223",
+      "theater_name": "AMC DINE-IN Prairiefire 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 531921773,
+      "date": "2026-01-26+13:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Tulsa",
+      "zip": "74135",
+      "theater_name": "AMC Southroads 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 531913176,
+      "date": "2026-01-26+16:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Westbury",
+      "zip": "11590",
+      "theater_name": "AMC Raceway 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 532178675,
+      "date": "2026-01-26+19:20",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Rochester",
+      "zip": "14626",
+      "theater_name": "Apple Cinemas Greece Ridge",
+      "chainName": "Apple Cinemas",
+      "chainCode": "APPL",
+      "showtime_id": 532620891,
+      "date": "2026-01-26+19:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Center Valley",
+      "zip": "18034",
+      "theater_name": "AMC Center Valley 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 531865665,
+      "date": "2026-01-26+14:40",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Center Valley",
+      "zip": "18034",
+      "theater_name": "AMC Center Valley 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 531581607,
+      "date": "2026-01-26+20:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Chattanooga",
+      "zip": "37412",
+      "theater_name": "AMC Chattanooga 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 532007866,
+      "date": "2026-01-26+20:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
+}
