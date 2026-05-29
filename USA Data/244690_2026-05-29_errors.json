@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-05-29 02:25:53 PM",
+  "last_updated": "2026-05-29 07:13:18 PM",
   "errors": [
-    {
-      "state": "NY",
-      "city": "West Nyack",
-      "zip": "10994",
-      "theater_name": "AMC Palisades Center 21",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 548522084,
-      "date": "2026-05-29+15:15",
-      "format": "Standard",
-      "language": "Malayalam",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "NJ",
       "city": "South Orange",
@@ -30,21 +15,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "DE",
-      "city": "Newark",
-      "zip": "19702",
-      "theater_name": "Regal Peoples Plaza",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 548224995,
-      "date": "2026-05-29+16:15",
-      "format": "Standard",
-      "language": "Malayalam",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -80,29 +50,14 @@
       }
     },
     {
-      "state": "TN",
-      "city": "Nashville",
-      "zip": "37204",
-      "theater_name": "Regal Hollywood – Nashville",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 548651041,
-      "date": "2026-05-29+16:35",
-      "format": "Standard",
-      "language": "Malayalam",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Niles",
-      "zip": "60714",
-      "theater_name": "Ciné Lounge at Niles",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 547987315,
-      "date": "2026-05-29+19:10",
+      "state": "MT",
+      "city": "Kalispell",
+      "zip": "59901",
+      "theater_name": "Cinemark Signature Stadium Kalispell 14",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 548690084,
+      "date": "2026-05-29+19:20",
       "format": "Standard",
       "language": "Malayalam",
       "error": {
