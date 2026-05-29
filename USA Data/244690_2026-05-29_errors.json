@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29 07:13:18 PM",
+  "last_updated": "2026-05-29 11:49:43 PM",
   "errors": [
     {
       "state": "NJ",
@@ -58,6 +58,22 @@
       "chainCode": "CNMK",
       "showtime_id": 548690084,
       "date": "2026-05-29+19:20",
+      "format": "Standard",
+      "language": "Malayalam",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "West Nyack",
+      "zip": "10994",
+      "theater_name": "AMC Palisades Center 21",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-05-29+12:15",
       "format": "Standard",
       "language": "Malayalam",
       "error": {
