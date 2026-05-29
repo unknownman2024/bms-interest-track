@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29 11:49:43 PM",
+  "last_updated": "2026-05-30 03:42:58 AM",
   "errors": [
     {
       "state": "NJ",
@@ -76,6 +76,38 @@
       "date": "2026-05-29+12:15",
       "format": "Standard",
       "language": "Malayalam",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Folsom",
+      "zip": "95630",
+      "theater_name": "CinemaWest Palladio 4DX, ScreenX, & GSL",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 548901755,
+      "date": "2026-05-29+14:05",
+      "format": "Standard",
+      "language": "Malayalam",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Folsom",
+      "zip": "95630",
+      "theater_name": "CinemaWest Palladio 4DX, ScreenX, & GSL",
+      "chainName": "Cinema West",
+      "chainCode": "CWST",
+      "showtime_id": 548901756,
+      "date": "2026-05-29+22:30",
+      "format": "Standard",
+      "language": "Telugu",
       "error": {
         "status": 500,
         "reason": "No seats"
