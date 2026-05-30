@@ -46,10 +46,12 @@
     "date": "2026-05-30+21:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 17,
+    "occupancy": 28.81,
+    "totalAvailableSeatCount": 42,
+    "totalSeatCount": 59,
+    "grossRevenueUSD": 144.84,
+    "adultTicketPrice": 8.52
   },
   {
     "state": "NJ",
