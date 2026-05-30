@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31 01:22:49 AM",
+  "last_updated": "2026-05-31 04:04:50 AM",
   "errors": [
     {
       "showtime_id": 545946869,
@@ -268,6 +268,21 @@
       "error": {
         "status": 500,
         "reason": "No seats"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Ashburn",
+      "zip": "20148",
+      "theater_name": "Regal Fox 4DX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 549128276,
+      "date": "2026-06-03+11:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
       }
     }
   ]
