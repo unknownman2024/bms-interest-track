@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30 03:42:58 AM",
+  "last_updated": "2026-05-30 10:02:58 AM",
   "errors": [
     {
       "state": "NJ",
@@ -98,16 +98,32 @@
       }
     },
     {
+      "state": "IL",
+      "city": "Niles",
+      "zip": "60714",
+      "theater_name": "Ciné Lounge at Niles",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 549067461,
+      "date": "2026-05-29+22:20",
+      "format": "Standard",
+      "language": "Malayalam",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
       "state": "CA",
       "city": "Folsom",
       "zip": "95630",
-      "theater_name": "CinemaWest Palladio 4DX, ScreenX, & GSL",
+      "theater_name": "CinemaWest Palladio Luxe & Dine-In",
       "chainName": "Cinema West",
       "chainCode": "CWST",
-      "showtime_id": 548901756,
-      "date": "2026-05-29+22:30",
+      "showtime_id": 549071382,
+      "date": "2026-05-29+20:15",
       "format": "Standard",
-      "language": "Telugu",
+      "language": "Unknown",
       "error": {
         "status": 500,
         "reason": "No seats"

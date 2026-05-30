@@ -2938,11 +2938,11 @@
     "date": "2026-05-29+21:30",
     "format": "Standard",
     "language": "Malayalam",
-    "totalSeatSold": 5,
-    "occupancy": 9.09,
-    "totalAvailableSeatCount": 50,
+    "totalSeatSold": 16,
+    "occupancy": 29.09,
+    "totalAvailableSeatCount": 39,
     "totalSeatCount": 55,
-    "grossRevenueUSD": 78.45,
+    "grossRevenueUSD": 251.04,
     "adultTicketPrice": 15.69
   },
   {
@@ -3028,11 +3028,11 @@
     "date": "2026-05-29+21:40",
     "format": "Standard",
     "language": "Malayalam",
-    "totalSeatSold": 9,
-    "occupancy": 17.65,
-    "totalAvailableSeatCount": 42,
+    "totalSeatSold": 12,
+    "occupancy": 23.53,
+    "totalAvailableSeatCount": 39,
     "totalSeatCount": 51,
-    "grossRevenueUSD": 157.41,
+    "grossRevenueUSD": 209.88,
     "adultTicketPrice": 17.49
   },
   {
@@ -3082,11 +3082,11 @@
     "date": "2026-05-29+21:25",
     "format": "Standard",
     "language": "Malayalam",
-    "totalSeatSold": 2,
-    "occupancy": 1.53,
-    "totalAvailableSeatCount": 129,
+    "totalSeatSold": 5,
+    "occupancy": 3.82,
+    "totalAvailableSeatCount": 126,
     "totalSeatCount": 131,
-    "grossRevenueUSD": 26.98,
+    "grossRevenueUSD": 67.45,
     "adultTicketPrice": 13.49
   },
   {
@@ -3100,11 +3100,11 @@
     "date": "2026-05-29+21:30",
     "format": "Standard",
     "language": "Malayalam",
-    "totalSeatSold": 4,
-    "occupancy": 2.6,
-    "totalAvailableSeatCount": 150,
+    "totalSeatSold": 13,
+    "occupancy": 8.44,
+    "totalAvailableSeatCount": 141,
     "totalSeatCount": 154,
-    "grossRevenueUSD": 59.96,
+    "grossRevenueUSD": 194.87,
     "adultTicketPrice": 14.99
   },
   {
@@ -3478,11 +3478,11 @@
     "date": "2026-05-29+21:50",
     "format": "Standard",
     "language": "Malayalam",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 106,
+    "totalSeatSold": 16,
+    "occupancy": 15.09,
+    "totalAvailableSeatCount": 90,
     "totalSeatCount": 106,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 232.0,
     "adultTicketPrice": 14.5
   },
   {
@@ -3694,11 +3694,11 @@
     "date": "2026-05-29+22:05",
     "format": "Standard",
     "language": "Malayalam",
-    "totalSeatSold": 12,
-    "occupancy": 3.26,
-    "totalAvailableSeatCount": 356,
+    "totalSeatSold": 39,
+    "occupancy": 10.6,
+    "totalAvailableSeatCount": 329,
     "totalSeatCount": 368,
-    "grossRevenueUSD": 188.52,
+    "grossRevenueUSD": 612.69,
     "adultTicketPrice": 15.71
   },
   {
@@ -3888,11 +3888,11 @@
     "date": "2026-05-29+21:45",
     "format": "Standard",
     "language": "Malayalam",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 35,
+    "totalSeatSold": 4,
+    "occupancy": 11.43,
+    "totalAvailableSeatCount": 31,
     "totalSeatCount": 35,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 57.0,
     "adultTicketPrice": 14.25
   },
   {
@@ -3922,10 +3922,12 @@
     "date": "2026-05-29+22:30",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 2,
+    "occupancy": 2.27,
+    "totalAvailableSeatCount": 86,
+    "totalSeatCount": 88,
+    "grossRevenueUSD": 30.5,
+    "adultTicketPrice": 15.25
   },
   {
     "state": "CA",
@@ -3998,5 +4000,55 @@
     "totalSeatCount": 47,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 14.5
+  },
+  {
+    "state": "IL",
+    "city": "Niles",
+    "zip": "60714",
+    "theater_name": "Cin\u00e9 Lounge at Niles",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 549067461,
+    "date": "2026-05-29+22:20",
+    "format": "Standard",
+    "language": "Malayalam",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Lewisville",
+    "zip": "75067",
+    "theater_name": "Cinemark Lewisville and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 549066676,
+    "date": "2026-05-29+23:25",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 7,
+    "occupancy": 8.05,
+    "totalAvailableSeatCount": 80,
+    "totalSeatCount": 87,
+    "grossRevenueUSD": 79.59,
+    "adultTicketPrice": 11.37
+  },
+  {
+    "state": "CA",
+    "city": "Folsom",
+    "zip": "95630",
+    "theater_name": "CinemaWest Palladio Luxe & Dine-In",
+    "chainName": "Cinema West",
+    "chainCode": "CWST",
+    "showtime_id": 549071382,
+    "date": "2026-05-29+20:15",
+    "format": "Standard",
+    "language": "Unknown",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
   }
 ]
