@@ -1,0 +1,116 @@
+{
+  "last_updated": "2026-05-30 01:32:13 PM",
+  "errors": [
+    {
+      "state": "NJ",
+      "city": "South Orange",
+      "zip": "07079",
+      "theater_name": "Box Office Cinemas South Orange",
+      "chainName": "Box Office Cinemas",
+      "chainCode": "BOX",
+      "showtime_id": 548626576,
+      "date": "2026-05-30+21:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "South Plainfield",
+      "zip": "07080",
+      "theater_name": "Regal Hadley",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 548473273,
+      "date": "2026-05-30+13:55",
+      "format": "Standard",
+      "language": "Malayalam",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Sparta",
+      "zip": "07871",
+      "theater_name": "Box Office Cinemas at Sparta",
+      "chainName": "Box Office Cinemas",
+      "chainCode": "BOX",
+      "showtime_id": 548689119,
+      "date": "2026-05-30+21:30",
+      "format": "Standard",
+      "language": "Malayalam",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Roswell",
+      "zip": "30076",
+      "theater_name": "Aurora Cineplex",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 548188188,
+      "date": "2026-05-30+11:45",
+      "format": "Standard",
+      "language": "Malayalam",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Roswell",
+      "zip": "30076",
+      "theater_name": "Aurora Cineplex",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 548188173,
+      "date": "2026-05-30+21:30",
+      "format": "Standard",
+      "language": "Malayalam",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Woodridge",
+      "zip": "60517",
+      "theater_name": "Cinemark Seven Bridges and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 548272003,
+      "date": "2026-05-30+15:45",
+      "format": "Standard",
+      "language": "Malayalam",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-05-30+13:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
+}
