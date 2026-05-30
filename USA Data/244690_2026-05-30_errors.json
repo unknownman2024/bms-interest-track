@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30 01:32:13 PM",
+  "last_updated": "2026-05-30 05:21:12 PM",
   "errors": [
     {
       "state": "NJ",
@@ -12,22 +12,6 @@
       "date": "2026-05-30+21:00",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "South Plainfield",
-      "zip": "07080",
-      "theater_name": "Regal Hadley",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 548473273,
-      "date": "2026-05-30+13:55",
-      "format": "Standard",
-      "language": "Malayalam",
       "error": {
         "status": 500,
         "reason": "No seats"
@@ -79,21 +63,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Woodridge",
-      "zip": "60517",
-      "theater_name": "Cinemark Seven Bridges and IMAX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 548272003,
-      "date": "2026-05-30+15:45",
-      "format": "Standard",
-      "language": "Malayalam",
-      "error": {
-        "status": 500
       }
     },
     {
