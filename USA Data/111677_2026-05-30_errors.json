@@ -1,0 +1,37 @@
+{
+  "last_updated": "2026-05-30 02:31:36 PM",
+  "errors": [
+    {
+      "state": "NJ",
+      "city": "Secaucus",
+      "zip": "07094",
+      "theater_name": "Regal Secaucus ShowPlace 14",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 547814265,
+      "date": "2026-05-30+21:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema D-Box & OCX",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 548466624,
+      "date": "2026-05-30+15:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
+}
