@@ -386,10 +386,12 @@
     "date": "2026-05-31+13:10",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 8,
+    "occupancy": 6.72,
+    "totalAvailableSeatCount": 111,
+    "totalSeatCount": 119,
+    "grossRevenueUSD": 90.96,
+    "adultTicketPrice": 11.37
   },
   {
     "state": "TX",
