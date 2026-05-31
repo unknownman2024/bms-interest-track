@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31 10:11:30 PM",
+  "last_updated": "2026-06-01 03:01:40 AM",
   "errors": [
     {
       "state": "NJ",
@@ -42,6 +42,22 @@
       "chainCode": "RTSIND",
       "showtime_id": 548188204,
       "date": "2026-05-31+21:30",
+      "format": "Standard",
+      "language": "Malayalam",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "West Nyack",
+      "zip": "10994",
+      "theater_name": "AMC Palisades Center 21",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-05-31+11:00",
       "format": "Standard",
       "language": "Malayalam",
       "error": {
