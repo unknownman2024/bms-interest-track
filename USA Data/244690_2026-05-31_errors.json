@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31 01:56:27 PM",
+  "last_updated": "2026-05-31 05:25:52 PM",
   "errors": [
     {
       "state": "NJ",
@@ -15,21 +15,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Duluth",
-      "zip": "30097",
-      "theater_name": "Regal Medlock Crossing",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 548661492,
-      "date": "2026-05-31+10:45",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -57,22 +42,6 @@
       "chainCode": "RTSIND",
       "showtime_id": 548188204,
       "date": "2026-05-31+21:30",
-      "format": "Standard",
-      "language": "Malayalam",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Bellevue",
-      "zip": "98004",
-      "theater_name": "Cinemark Lincoln Square",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 548527122,
-      "date": "2026-05-31+13:10",
       "format": "Standard",
       "language": "Malayalam",
       "error": {
