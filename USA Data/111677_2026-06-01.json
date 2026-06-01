@@ -1,0 +1,54 @@
+[
+  {
+    "state": "RI",
+    "city": "Providence",
+    "zip": "02903",
+    "theater_name": "Apple Cinemas Providence Place IMAX",
+    "chainName": "Apple Cinemas",
+    "chainCode": "APPL",
+    "showtime_id": 548662743,
+    "date": "2026-06-01+18:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 169,
+    "totalSeatCount": 169,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 14.0
+  },
+  {
+    "state": "AZ",
+    "city": "Chandler",
+    "zip": "85226",
+    "theater_name": "Harkins Chandler Fashion 20",
+    "chainName": "Harkins Theatres",
+    "chainCode": "HRKN",
+    "showtime_id": 548703582,
+    "date": "2026-06-01+17:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
+  },
+  {
+    "state": "CA",
+    "city": "San Francisco",
+    "zip": "94109",
+    "theater_name": "Apple Cinemas Van Ness",
+    "chainName": "Apple Cinemas",
+    "chainCode": "APPL",
+    "showtime_id": 549017199,
+    "date": "2026-06-01+18:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 13,
+    "occupancy": 13.0,
+    "totalAvailableSeatCount": 87,
+    "totalSeatCount": 100,
+    "grossRevenueUSD": 221.0,
+    "adultTicketPrice": 17.0
+  }
+]
