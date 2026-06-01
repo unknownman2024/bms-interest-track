@@ -1,22 +1,6 @@
 {
-  "last_updated": "2026-06-01 04:07:23 PM",
+  "last_updated": "2026-06-02 01:31:41 AM",
   "errors": [
-    {
-      "state": "NJ",
-      "city": "South Plainfield",
-      "zip": "07080",
-      "theater_name": "Regal Hadley",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 548473366,
-      "date": "2026-06-01+17:30",
-      "format": "Standard",
-      "language": "Malayalam",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
     {
       "state": "NJ",
       "city": "North Brunswick",
@@ -65,49 +49,19 @@
       }
     },
     {
-      "state": "MO",
-      "city": "Saint Charles",
-      "zip": "63303",
-      "theater_name": "Marcus St. Charles Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 548096097,
-      "date": "2026-06-01+20:50",
-      "format": "Standard",
-      "language": "English",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Marcos",
-      "zip": "92069",
-      "theater_name": "Regal Edwards San Marcos",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 548691999,
-      "date": "2026-06-01+20:10",
+      "state": "MA",
+      "city": "Boston",
+      "zip": "02111",
+      "theater_name": "AMC Boston Common 19",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-06-01+21:00",
       "format": "Standard",
       "language": "Malayalam",
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Fremont",
-      "zip": "94538",
-      "theater_name": "Cinemark Century at Pacific Commons and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 548579453,
-      "date": "2026-06-01+21:35",
-      "format": "Standard",
-      "language": "Malayalam",
-      "error": {
-        "status": 500
       }
     }
   ]
