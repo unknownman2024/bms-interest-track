@@ -158,11 +158,11 @@
     "date": "2026-06-04",
     "time": "18:50",
     "total": 129,
-    "available": 128,
+    "available": 125,
     "blocked": 0,
-    "sold": 1,
-    "gross": 13.75,
-    "gross_with_tax": 13.75,
+    "sold": 4,
+    "gross": 55.0,
+    "gross_with_tax": 55.0,
     "per_ticket": {
       "net": 13.75,
       "tax": 0,
@@ -215,11 +215,11 @@
     "date": "2026-06-04",
     "time": "18:30",
     "total": 282,
-    "available": 251,
+    "available": 241,
     "blocked": 0,
-    "sold": 31,
-    "gross": 713.0,
-    "gross_with_tax": 713.0,
+    "sold": 41,
+    "gross": 943.0,
+    "gross_with_tax": 943.0,
     "per_ticket": {
       "net": 23.0,
       "tax": 0,
@@ -234,11 +234,11 @@
     "date": "2026-06-04",
     "time": "22:30",
     "total": 282,
-    "available": 263,
+    "available": 261,
     "blocked": 0,
-    "sold": 19,
-    "gross": 437.0,
-    "gross_with_tax": 437.0,
+    "sold": 21,
+    "gross": 483.0,
+    "gross_with_tax": 483.0,
     "per_ticket": {
       "net": 23.0,
       "tax": 0,
@@ -348,11 +348,11 @@
     "date": "2026-06-04",
     "time": "18:30",
     "total": 263,
-    "available": 263,
+    "available": 261,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0.0,
-    "gross_with_tax": 0.0,
+    "sold": 2,
+    "gross": 40.0,
+    "gross_with_tax": 40.0,
     "per_ticket": {
       "net": 20.0,
       "tax": 0,
@@ -377,6 +377,63 @@
       "tax": 0,
       "fee": 0,
       "grand": 20.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Peddi - Telugu",
+    "perfIx": "16398",
+    "date": "2026-06-04",
+    "time": "14:30",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 23.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 23.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Peddi - Telugu",
+    "perfIx": "16400",
+    "date": "2026-06-04",
+    "time": "18:30",
+    "total": 412,
+    "available": 410,
+    "blocked": 0,
+    "sold": 2,
+    "gross": 46.0,
+    "gross_with_tax": 46.0,
+    "per_ticket": {
+      "net": 23.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 23.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Peddi - Telugu",
+    "perfIx": "16401",
+    "date": "2026-06-04",
+    "time": "22:30",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 23.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 23.0
     }
   }
 ]
