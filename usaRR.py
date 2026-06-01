@@ -14,10 +14,11 @@ from zoneinfo import ZoneInfo
 
 # CONFIG
 
-RELEASE_DATE = date(2026, 5, 29)
-TARGET_MOVIE_ID = 111677
+RELEASE_DATE = date(2026, 6, 4)
+TARGET_MOVIE_ID = 244813
 
 # Change for different movie
+#244813 Peddi
 # CODE BY BFILMY - DONT REMOVE
 
 # Get current date in USA Pacific Time
