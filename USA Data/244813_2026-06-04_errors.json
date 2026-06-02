@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02 10:42:32 AM",
+  "last_updated": "2026-06-02 04:36:34 PM",
   "errors": [
     {
       "state": "NJ",
@@ -113,48 +113,19 @@
       }
     },
     {
-      "state": "IL",
-      "city": "Addison",
-      "zip": "60101",
-      "theater_name": "Marcus Addison Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 549398522,
-      "date": "2026-06-04+10:00",
+      "state": "WA",
+      "city": "Monroe",
+      "zip": "98272",
+      "theater_name": "Galaxy Monroe",
+      "chainName": "Galaxy Theatres",
+      "chainCode": "GLXY",
+      "showtime_id": 549569045,
+      "date": "2026-06-04+18:45",
       "format": "Standard",
       "language": "Telugu",
       "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Addison",
-      "zip": "60101",
-      "theater_name": "Marcus Addison Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 549398524,
-      "date": "2026-06-04+13:55",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Frisco",
-      "zip": "75034",
-      "theater_name": "AMC Stonebriar 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 549503189,
-      "date": "2026-06-04+12:20",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
+        "status": 500,
+        "reason": "No seats"
       }
     }
   ]
