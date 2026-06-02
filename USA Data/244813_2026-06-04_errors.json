@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02 04:36:34 PM",
+  "last_updated": "2026-06-03 03:02:56 AM",
   "errors": [
     {
       "state": "NJ",
@@ -81,22 +81,6 @@
       }
     },
     {
-      "state": "IN",
-      "city": "Indianapolis",
-      "zip": "46217",
-      "theater_name": "AMC Indianapolis 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 549437151,
-      "date": "2026-06-04+14:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
       "state": "IL",
       "city": "Niles",
       "zip": "60714",
@@ -126,6 +110,52 @@
       "error": {
         "status": 500,
         "reason": "No seats"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Columbus",
+      "zip": "43212",
+      "theater_name": "Lennox Town Center 24",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 549630308,
+      "date": "2026-06-04+21:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Kansas City",
+      "zip": "64151",
+      "theater_name": "AMC Barrywoods 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549764873,
+      "date": "2026-06-04+12:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Daly City",
+      "zip": "94015",
+      "theater_name": "Cinemark Century Daly City 20 XD and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 549731159,
+      "date": "2026-06-04+22:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
       }
     }
   ]
