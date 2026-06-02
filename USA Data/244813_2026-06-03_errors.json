@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02 04:33:28 PM",
+  "last_updated": "2026-06-02 10:31:40 PM",
   "errors": [
     {
       "showtime_id": 545946869,
@@ -397,6 +397,38 @@
       "chainCode": "AMC",
       "showtime_id": 549561711,
       "date": "2026-06-03+21:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Downingtown",
+      "zip": "19335",
+      "theater_name": "Regal Downingtown",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 549608044,
+      "date": "2026-06-03+20:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Waukesha",
+      "zip": "53186",
+      "theater_name": "Marcus Majestic Cinema of Brookfield",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 549622071,
+      "date": "2026-06-03+19:00",
       "format": "Standard",
       "language": "Telugu",
       "error": {
