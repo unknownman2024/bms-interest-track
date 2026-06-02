@@ -63,11 +63,11 @@
     "date": "2026-06-04",
     "time": "16:10",
     "total": 107,
-    "available": 104,
+    "available": 102,
     "blocked": 0,
-    "sold": 3,
-    "gross": 28.5,
-    "gross_with_tax": 28.5,
+    "sold": 5,
+    "gross": 47.5,
+    "gross_with_tax": 47.5,
     "per_ticket": {
       "net": 9.5,
       "tax": 0,
@@ -215,11 +215,11 @@
     "date": "2026-06-04",
     "time": "18:30",
     "total": 282,
-    "available": 192,
+    "available": 184,
     "blocked": 0,
-    "sold": 90,
-    "gross": 2070.0,
-    "gross_with_tax": 2070.0,
+    "sold": 98,
+    "gross": 2254.0,
+    "gross_with_tax": 2254.0,
     "per_ticket": {
       "net": 23.0,
       "tax": 0,
@@ -348,11 +348,11 @@
     "date": "2026-06-04",
     "time": "18:30",
     "total": 263,
-    "available": 252,
+    "available": 250,
     "blocked": 0,
-    "sold": 11,
-    "gross": 220.0,
-    "gross_with_tax": 220.0,
+    "sold": 13,
+    "gross": 260.0,
+    "gross_with_tax": 260.0,
     "per_ticket": {
       "net": 20.0,
       "tax": 0,
@@ -443,11 +443,11 @@
     "date": "2026-06-04",
     "time": "14:30",
     "total": 129,
-    "available": 122,
+    "available": 121,
     "blocked": 0,
-    "sold": 7,
-    "gross": 140.0,
-    "gross_with_tax": 140.0,
+    "sold": 8,
+    "gross": 160.0,
+    "gross_with_tax": 160.0,
     "per_ticket": {
       "net": 20.0,
       "tax": 0,
@@ -462,11 +462,11 @@
     "date": "2026-06-04",
     "time": "18:30",
     "total": 129,
-    "available": 69,
+    "available": 56,
     "blocked": 0,
-    "sold": 60,
-    "gross": 1200.0,
-    "gross_with_tax": 1200.0,
+    "sold": 73,
+    "gross": 1460.0,
+    "gross_with_tax": 1460.0,
     "per_ticket": {
       "net": 20.0,
       "tax": 0,
@@ -548,6 +548,177 @@
       "tax": 0,
       "fee": 0,
       "grand": 19.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Peddi - Telugu",
+    "perfIx": "38441",
+    "date": "2026-06-04",
+    "time": "14:00",
+    "total": 171,
+    "available": 164,
+    "blocked": 0,
+    "sold": 7,
+    "gross": 140.0,
+    "gross_with_tax": 140.0,
+    "per_ticket": {
+      "net": 20.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 20.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Peddi - Telugu",
+    "perfIx": "38442",
+    "date": "2026-06-04",
+    "time": "18:00",
+    "total": 171,
+    "available": 164,
+    "blocked": 0,
+    "sold": 7,
+    "gross": 140.0,
+    "gross_with_tax": 140.0,
+    "per_ticket": {
+      "net": 20.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 20.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Peddi - Telugu",
+    "perfIx": "38443",
+    "date": "2026-06-04",
+    "time": "22:00",
+    "total": 171,
+    "available": 164,
+    "blocked": 0,
+    "sold": 7,
+    "gross": 140.0,
+    "gross_with_tax": 140.0,
+    "per_ticket": {
+      "net": 20.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 20.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Drishyam 3 - Malayalam",
+    "perfIx": "38450",
+    "date": "2026-06-04",
+    "time": "22:30",
+    "total": 211,
+    "available": 132,
+    "blocked": 0,
+    "sold": 79,
+    "gross": 1264.0,
+    "gross_with_tax": 1264.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Drishyam 3 - Malayalam",
+    "perfIx": "38451",
+    "date": "2026-06-04",
+    "time": "22:30",
+    "total": 240,
+    "available": 36,
+    "blocked": 0,
+    "sold": 204,
+    "gross": 4284.0,
+    "gross_with_tax": 4284.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Blast- Tamil",
+    "perfIx": "38444",
+    "date": "2026-06-04",
+    "time": "15:30",
+    "total": 211,
+    "available": 132,
+    "blocked": 0,
+    "sold": 79,
+    "gross": 1264.0,
+    "gross_with_tax": 1264.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Blast- Tamil",
+    "perfIx": "38447",
+    "date": "2026-06-04",
+    "time": "15:30",
+    "total": 240,
+    "available": 36,
+    "blocked": 0,
+    "sold": 204,
+    "gross": 4284.0,
+    "gross_with_tax": 4284.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Blast- Tamil",
+    "perfIx": "38445",
+    "date": "2026-06-04",
+    "time": "19:00",
+    "total": 211,
+    "available": 132,
+    "blocked": 0,
+    "sold": 79,
+    "gross": 1264.0,
+    "gross_with_tax": 1264.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Blast- Tamil",
+    "perfIx": "38448",
+    "date": "2026-06-04",
+    "time": "19:00",
+    "total": 240,
+    "available": 36,
+    "blocked": 0,
+    "sold": 204,
+    "gross": 4284.0,
+    "gross_with_tax": 4284.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
     }
   }
 ]
