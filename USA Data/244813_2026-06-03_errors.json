@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02 03:22:57 AM",
+  "last_updated": "2026-06-02 10:45:35 AM",
   "errors": [
     {
       "showtime_id": 545946869,
@@ -158,19 +158,6 @@
       }
     },
     {
-      "showtime_id": 545869983,
-      "date": "2026-06-03+18:00",
-      "format": "Standard",
-      "language": "English",
-      "theater_name": "Ciné Lounge Fremont 7",
-      "city": "Fremont",
-      "state": "CA",
-      "chainName": "RTSIND",
-      "error": {
-        "status": 410
-      }
-    },
-    {
       "showtime_id": 545869986,
       "date": "2026-06-03+19:30",
       "format": "Standard",
@@ -266,6 +253,134 @@
       "chainCode": "CNMK",
       "showtime_id": 549278479,
       "date": "2026-06-03+08:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Stony Brook",
+      "zip": "11790",
+      "theater_name": "AMC Loews Stony Brook 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549470590,
+      "date": "2026-06-03+21:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549401396,
+      "date": "2026-06-03+19:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Indianapolis",
+      "zip": "46217",
+      "theater_name": "AMC Indianapolis 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549404072,
+      "date": "2026-06-03+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Niles",
+      "zip": "60714",
+      "theater_name": "Ciné Lounge at Niles",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 549182221,
+      "date": "2026-06-03+22:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75075",
+      "theater_name": "Cinemark Central Plano",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 549384230,
+      "date": "2026-06-03+11:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75075",
+      "theater_name": "Cinemark Central Plano",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 549384231,
+      "date": "2026-06-03+15:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75075",
+      "theater_name": "Cinemark Central Plano",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 549384232,
+      "date": "2026-06-03+19:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NM",
+      "city": "Albuquerque",
+      "zip": "87109",
+      "theater_name": "Cinemark Century Rio Plex 24 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 549420295,
+      "date": "2026-06-03+17:25",
       "format": "Standard",
       "language": "Telugu",
       "error": {
