@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02 10:31:40 PM",
+  "last_updated": "2026-06-03 02:59:29 AM",
   "errors": [
     {
       "showtime_id": 545946869,
@@ -261,22 +261,6 @@
       }
     },
     {
-      "state": "NY",
-      "city": "Stony Brook",
-      "zip": "11790",
-      "theater_name": "AMC Loews Stony Brook 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 549470590,
-      "date": "2026-06-03+21:45",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
       "state": "TN",
       "city": "Murfreesboro",
       "zip": "37128",
@@ -285,22 +269,6 @@
       "chainCode": "AMC",
       "showtime_id": 549401396,
       "date": "2026-06-03+19:40",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Indianapolis",
-      "zip": "46217",
-      "theater_name": "AMC Indianapolis 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 549404072,
-      "date": "2026-06-03+18:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
@@ -373,38 +341,6 @@
       }
     },
     {
-      "state": "CA",
-      "city": "San Jose",
-      "zip": "95122",
-      "theater_name": "AMC Eastridge 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 549561712,
-      "date": "2026-06-03+18:45",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Jose",
-      "zip": "95122",
-      "theater_name": "AMC Eastridge 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 549561711,
-      "date": "2026-06-03+21:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
       "state": "PA",
       "city": "Downingtown",
       "zip": "19335",
@@ -429,6 +365,37 @@
       "chainCode": "MRCS",
       "showtime_id": 549622071,
       "date": "2026-06-03+19:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Madison Heights",
+      "zip": "48071",
+      "theater_name": "AMC Star John R 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549761555,
+      "date": "2026-06-03+21:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 549634401,
+      "date": "2026-06-03+21:50",
       "format": "Standard",
       "language": "Telugu",
       "error": {
