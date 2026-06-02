@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02 10:45:35 AM",
+  "last_updated": "2026-06-02 04:33:28 PM",
   "errors": [
     {
       "showtime_id": 545946869,
@@ -373,14 +373,30 @@
       }
     },
     {
-      "state": "NM",
-      "city": "Albuquerque",
-      "zip": "87109",
-      "theater_name": "Cinemark Century Rio Plex 24 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 549420295,
-      "date": "2026-06-03+17:25",
+      "state": "CA",
+      "city": "San Jose",
+      "zip": "95122",
+      "theater_name": "AMC Eastridge 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549561712,
+      "date": "2026-06-03+18:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Jose",
+      "zip": "95122",
+      "theater_name": "AMC Eastridge 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549561711,
+      "date": "2026-06-03+21:00",
       "format": "Standard",
       "language": "Telugu",
       "error": {
