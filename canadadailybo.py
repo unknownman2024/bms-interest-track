@@ -10,10 +10,9 @@ import re
 # ---------------- DATE LOGIC ---------------- #
 
 CINEPLEX_FILMS = {
-    60740: {"atp": 15, "name": "Dhurandhar: The Revenge - Hindi"},
-    60770: {"atp": 14, "name": "Dacoit"},
-    60941: {"atp": 14, "name": "Bhooth Bangla - Hindi"},
+    61236: {"atp": 15, "name": "Peddi - Hindi"},
 }
+
 
 SCH_DATE = datetime.now(ZoneInfo("America/Toronto")).strftime("%Y-%m-%d")
 
