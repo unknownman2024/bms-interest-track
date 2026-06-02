@@ -44,11 +44,11 @@
     "date": "2026-06-03",
     "time": "18:30",
     "total": 282,
-    "available": 24,
+    "available": 22,
     "blocked": 0,
-    "sold": 258,
-    "gross": 7740.0,
-    "gross_with_tax": 7740.0,
+    "sold": 260,
+    "gross": 7800.0,
+    "gross_with_tax": 7800.0,
     "per_ticket": {
       "net": 30.0,
       "tax": 0,
@@ -101,11 +101,11 @@
     "date": "2026-06-03",
     "time": "10:30",
     "total": 412,
-    "available": 339,
+    "available": 340,
     "blocked": 0,
-    "sold": 73,
-    "gross": 2190.0,
-    "gross_with_tax": 2190.0,
+    "sold": 72,
+    "gross": 2160.0,
+    "gross_with_tax": 2160.0,
     "per_ticket": {
       "net": 30.0,
       "tax": 0,
@@ -139,11 +139,11 @@
     "date": "2026-06-03",
     "time": "18:30",
     "total": 412,
-    "available": 72,
+    "available": 71,
     "blocked": 0,
-    "sold": 340,
-    "gross": 10200.0,
-    "gross_with_tax": 10200.0,
+    "sold": 341,
+    "gross": 10230.0,
+    "gross_with_tax": 10230.0,
     "per_ticket": {
       "net": 30.0,
       "tax": 0,
@@ -1042,6 +1042,44 @@
       "tax": 0,
       "fee": 0,
       "grand": 21.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Peddi - Telugu",
+    "perfIx": "40173",
+    "date": "2026-06-03",
+    "time": "18:00",
+    "total": 141,
+    "available": 141,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 25.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 25.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Blast- Tamil",
+    "perfIx": "40169",
+    "date": "2026-06-03",
+    "time": "18:15",
+    "total": 183,
+    "available": 183,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
     }
   }
 ]
