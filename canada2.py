@@ -10,7 +10,7 @@ import re
 # ---------------- DATE LOGIC ---------------- #
 
 CINEPLEX_FILMS = {
-    60740: {"atp": 15, "name": "Dhurandhar: The Revenge - Hindi"},
+    61236: {"atp": 15, "name": "Peddi - Hindi"},
 }
 
 
