@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03 10:57:23 AM",
+  "last_updated": "2026-06-03 04:58:31 PM",
   "errors": [
     {
       "state": "NJ",
@@ -145,21 +145,6 @@
       }
     },
     {
-      "state": "KS",
-      "city": "Olathe",
-      "zip": "66062",
-      "theater_name": "AMC Studio 28",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 549775530,
-      "date": "2026-06-04+14:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "CA",
       "city": "Folsom",
       "zip": "95630",
@@ -170,6 +155,22 @@
       "date": "2026-06-04+18:40",
       "format": "Standard",
       "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mounds View",
+      "zip": "55112",
+      "theater_name": "AMC CLASSIC Mounds View 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550015996,
+      "date": "2026-06-04+14:50",
+      "format": "Standard",
+      "language": "Telugu",
       "error": {
         "status": 500,
         "reason": "No seats"
