@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03 04:58:15 PM",
+  "last_updated": "2026-06-03 10:57:09 PM",
   "errors": [
     {
       "showtime_id": 545946869,
@@ -413,6 +413,38 @@
       "chainCode": "AMC",
       "showtime_id": 550021373,
       "date": "2026-06-03+20:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Baton Rouge",
+      "zip": "70810",
+      "theater_name": "Cinemark Perkins Rowe and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550026998,
+      "date": "2026-06-03+10:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Pflugerville",
+      "zip": "78660",
+      "theater_name": "Cinemark Pflugerville 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550023120,
+      "date": "2026-06-03+10:35",
       "format": "Standard",
       "language": "Telugu",
       "error": {
