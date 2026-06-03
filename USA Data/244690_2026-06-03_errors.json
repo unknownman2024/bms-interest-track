@@ -1,36 +1,6 @@
 {
-  "last_updated": "2026-06-03 03:46:47 PM",
+  "last_updated": "2026-06-03 08:43:13 PM",
   "errors": [
-    {
-      "state": "MA",
-      "city": "Cambridge",
-      "zip": "02138",
-      "theater_name": "Apple Cinemas Cambridge",
-      "chainName": "Apple Cinemas",
-      "chainCode": "APPL",
-      "showtime_id": 548532021,
-      "date": "2026-06-03+21:30",
-      "format": "Standard",
-      "language": "Malayalam",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Buford",
-      "zip": "30519",
-      "theater_name": "Regal Mall of Georgia",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 548349611,
-      "date": "2026-06-03+18:30",
-      "format": "Standard",
-      "language": "Malayalam",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "GA",
       "city": "Roswell",
@@ -40,22 +10,6 @@
       "chainCode": "RTSIND",
       "showtime_id": 548188133,
       "date": "2026-06-03+21:30",
-      "format": "Standard",
-      "language": "Malayalam",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Orlando",
-      "zip": "32819",
-      "theater_name": "Cinemark Orlando and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 548239132,
-      "date": "2026-06-03+19:25",
       "format": "Standard",
       "language": "Malayalam",
       "error": {
@@ -79,18 +33,19 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Folsom",
-      "zip": "95630",
-      "theater_name": "CinemaWest Palladio 4DX, ScreenX, & GSL",
-      "chainName": "Cinema West",
-      "chainCode": "CWST",
-      "showtime_id": 548903348,
-      "date": "2026-06-03+22:30",
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-06-03+21:30",
       "format": "Standard",
-      "language": "Telugu",
+      "language": "Malayalam",
       "error": {
-        "status": 500
+        "status": 500,
+        "reason": "No seats"
       }
     }
   ]
