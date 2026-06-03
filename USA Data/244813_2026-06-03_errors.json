@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03 10:54:44 AM",
+  "last_updated": "2026-06-03 04:58:15 PM",
   "errors": [
     {
       "showtime_id": 545946869,
@@ -381,6 +381,38 @@
       "chainCode": "AMC",
       "showtime_id": 549968055,
       "date": "2026-06-03+17:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550021372,
+      "date": "2026-06-03+14:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550021373,
+      "date": "2026-06-03+20:15",
       "format": "Standard",
       "language": "Telugu",
       "error": {
