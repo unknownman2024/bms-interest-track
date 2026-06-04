@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04 03:07:05 AM",
+  "last_updated": "2026-06-04 09:55:33 AM",
   "errors": [
     {
       "state": "NJ",
@@ -169,6 +169,22 @@
       "chainCode": "AMC",
       "showtime_id": 550015996,
       "date": "2026-06-04+14:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550115200,
+      "date": "2026-06-04+20:05",
       "format": "Standard",
       "language": "Telugu",
       "error": {
