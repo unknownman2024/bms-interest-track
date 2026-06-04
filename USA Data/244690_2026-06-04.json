@@ -332,11 +332,11 @@
     "date": "2026-06-04+14:30",
     "format": "Standard",
     "language": "Malayalam",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 45,
+    "totalSeatSold": 2,
+    "occupancy": 4.44,
+    "totalAvailableSeatCount": 43,
     "totalSeatCount": 45,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 19.8,
     "adultTicketPrice": 9.9
   },
   {
@@ -584,9 +584,12 @@
     "date": "2026-06-04+12:55",
     "format": "Standard",
     "language": "Malayalam",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 50,
+    "totalSeatCount": 50,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 11.37
   },
   {
     "state": "TX",
@@ -599,10 +602,12 @@
     "date": "2026-06-04+10:15",
     "format": "Standard",
     "language": "Malayalam",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 80,
+    "totalSeatCount": 80,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 11.37
   },
   {
     "state": "TX",
@@ -669,10 +674,12 @@
     "date": "2026-06-04+10:50",
     "format": "Standard",
     "language": "Malayalam",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 1,
+    "occupancy": 1.02,
+    "totalAvailableSeatCount": 97,
+    "totalSeatCount": 98,
+    "grossRevenueUSD": 10.55,
+    "adultTicketPrice": 10.55
   },
   {
     "state": "TX",
@@ -739,10 +746,12 @@
     "date": "2026-06-04+21:15",
     "format": "Standard",
     "language": "Malayalam",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 78,
+    "totalSeatCount": 78,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 12.18
   },
   {
     "state": "CA",
