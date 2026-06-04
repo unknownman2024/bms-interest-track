@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04 09:55:13 AM",
+  "last_updated": "2026-06-04 10:48:54 AM",
   "errors": [
     {
       "showtime_id": 545946869,
@@ -525,6 +525,22 @@
       "chainCode": "CNMK",
       "showtime_id": 550112163,
       "date": "2026-06-03+21:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Jersey City",
+      "zip": "07310",
+      "theater_name": "AMC Newport Centre 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550109236,
+      "date": "2026-06-03+21:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
