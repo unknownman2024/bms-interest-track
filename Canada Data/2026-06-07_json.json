@@ -215,11 +215,11 @@
     "date": "2026-06-07",
     "time": "18:30",
     "total": 188,
-    "available": 8,
+    "available": 4,
     "blocked": 0,
-    "sold": 180,
-    "gross": 4500.0,
-    "gross_with_tax": 4500.0,
+    "sold": 184,
+    "gross": 4600.0,
+    "gross_with_tax": 4600.0,
     "per_ticket": {
       "net": 25.0,
       "tax": 0,
@@ -462,11 +462,11 @@
     "date": "2026-06-07",
     "time": "15:30",
     "total": 195,
-    "available": 187,
+    "available": 185,
     "blocked": 0,
-    "sold": 8,
-    "gross": 72.0,
-    "gross_with_tax": 72.0,
+    "sold": 10,
+    "gross": 90.0,
+    "gross_with_tax": 90.0,
     "per_ticket": {
       "net": 9.0,
       "tax": 0,
@@ -1184,11 +1184,11 @@
     "date": "2026-06-07",
     "time": "16:10",
     "total": 129,
-    "available": 128,
+    "available": 126,
     "blocked": 0,
-    "sold": 1,
-    "gross": 9.5,
-    "gross_with_tax": 9.5,
+    "sold": 3,
+    "gross": 28.5,
+    "gross_with_tax": 28.5,
     "per_ticket": {
       "net": 9.5,
       "tax": 0,
@@ -1773,11 +1773,11 @@
     "date": "2026-06-07",
     "time": "00:00",
     "total": 268,
-    "available": 264,
+    "available": 262,
     "blocked": 0,
-    "sold": 4,
-    "gross": 60,
-    "gross_with_tax": 60,
+    "sold": 6,
+    "gross": 90,
+    "gross_with_tax": 90,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -2448,6 +2448,44 @@
       "tax": 0,
       "fee": 0,
       "grand": 21.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Peddi- Tamil",
+    "perfIx": "40196",
+    "date": "2026-06-07",
+    "time": "15:15",
+    "total": 141,
+    "available": 141,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 20.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 20.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Mollywood Times- Malayalam",
+    "perfIx": "40197",
+    "date": "2026-06-07",
+    "time": "18:45",
+    "total": 141,
+    "available": 141,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 18.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 18.0
     }
   }
 ]
