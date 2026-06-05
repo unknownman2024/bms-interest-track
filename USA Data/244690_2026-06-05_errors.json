@@ -1,22 +1,6 @@
 {
-  "last_updated": "2026-06-05 02:26:03 PM",
+  "last_updated": "2026-06-05 07:01:42 PM",
   "errors": [
-    {
-      "state": "NY",
-      "city": "West Nyack",
-      "zip": "10994",
-      "theater_name": "AMC Palisades Center 21",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 549771931,
-      "date": "2026-06-05+18:45",
-      "format": "Standard",
-      "language": "Malayalam",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
     {
       "state": "NJ",
       "city": "Sparta",
@@ -26,6 +10,22 @@
       "chainCode": "BOX",
       "showtime_id": 550048744,
       "date": "2026-06-05+21:30",
+      "format": "Standard",
+      "language": "Malayalam",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Bensalem",
+      "zip": "19020",
+      "theater_name": "AMC Neshaminy 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-06-05+13:30",
       "format": "Standard",
       "language": "Malayalam",
       "error": {

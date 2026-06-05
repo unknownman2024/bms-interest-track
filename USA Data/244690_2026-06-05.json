@@ -10,10 +10,12 @@
     "date": "2026-06-05+18:45",
     "format": "Standard",
     "language": "Malayalam",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 13,
+    "occupancy": 17.81,
+    "totalAvailableSeatCount": 60,
+    "totalSeatCount": 73,
+    "grossRevenueUSD": 214.37,
+    "adultTicketPrice": 16.49
   },
   {
     "state": "NJ",
@@ -210,5 +212,21 @@
     "totalSeatCount": 49,
     "grossRevenueUSD": 7.95,
     "adultTicketPrice": 7.95
+  },
+  {
+    "state": "PA",
+    "city": "Bensalem",
+    "zip": "19020",
+    "theater_name": "AMC Neshaminy 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": null,
+    "date": "2026-06-05+13:30",
+    "format": "Standard",
+    "language": "Malayalam",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
   }
 ]
