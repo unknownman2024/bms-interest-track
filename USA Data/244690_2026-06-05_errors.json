@@ -1,0 +1,37 @@
+{
+  "last_updated": "2026-06-05 02:26:03 PM",
+  "errors": [
+    {
+      "state": "NY",
+      "city": "West Nyack",
+      "zip": "10994",
+      "theater_name": "AMC Palisades Center 21",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549771931,
+      "date": "2026-06-05+18:45",
+      "format": "Standard",
+      "language": "Malayalam",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Sparta",
+      "zip": "07871",
+      "theater_name": "Box Office Cinemas at Sparta",
+      "chainName": "Box Office Cinemas",
+      "chainCode": "BOX",
+      "showtime_id": 550048744,
+      "date": "2026-06-05+21:30",
+      "format": "Standard",
+      "language": "Malayalam",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
+}
