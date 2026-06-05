@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05 07:08:44 PM",
+  "last_updated": "2026-06-05 09:05:41 PM",
   "errors": [
     {
       "state": "NY",
@@ -298,6 +298,22 @@
       "chainCode": "GLXY",
       "showtime_id": 549568796,
       "date": "2026-06-05+21:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Bloomington",
+      "zip": "61701",
+      "theater_name": "Marcus Bloomington Cinema + IMAX",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 550211266,
+      "date": "2026-06-05+21:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
