@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05 10:17:03 PM",
+  "last_updated": "2026-06-06 01:52:24 AM",
   "errors": [
     {
       "state": "NY",
@@ -314,6 +314,22 @@
       "chainCode": "MRCS",
       "showtime_id": 550211266,
       "date": "2026-06-05+21:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Taylor",
+      "zip": "48180",
+      "theater_name": "Cinemark Southland Mall and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550221795,
+      "date": "2026-06-05+14:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
