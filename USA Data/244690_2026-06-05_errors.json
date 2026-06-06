@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06 03:24:29 AM",
+  "last_updated": "2026-06-06 10:04:14 AM",
   "errors": [
     {
       "state": "NJ",
@@ -26,6 +26,22 @@
       "chainCode": "AMC",
       "showtime_id": null,
       "date": "2026-06-05+13:30",
+      "format": "Standard",
+      "language": "Malayalam",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Niles",
+      "zip": "60714",
+      "theater_name": "Ciné Lounge at Niles",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 550280820,
+      "date": "2026-06-05+21:40",
       "format": "Standard",
       "language": "Malayalam",
       "error": {
