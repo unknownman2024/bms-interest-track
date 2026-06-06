@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06 09:18:29 PM",
+  "last_updated": "2026-06-06 10:10:52 PM",
   "errors": [
     {
       "state": "NY",
@@ -271,21 +271,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Plano",
-      "zip": "75075",
-      "theater_name": "Cinemark Central Plano",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 550314979,
-      "date": "2026-06-06+22:15",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     }
   ]
