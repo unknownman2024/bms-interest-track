@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07 03:15:05 PM",
+  "last_updated": "2026-06-07 03:17:21 PM",
   "errors": [
     {
       "state": "NY",
@@ -50,21 +50,6 @@
       }
     },
     {
-      "state": "VA",
-      "city": "Richmond",
-      "zip": "23233",
-      "theater_name": "Regal Short Pump",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 545113879,
-      "date": "2026-06-07+14:20",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "GA",
       "city": "Roswell",
       "zip": "30076",
@@ -94,21 +79,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Brandon",
-      "zip": "33511",
-      "theater_name": "AMC The Regency 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 549774154,
-      "date": "2026-06-07+21:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -189,21 +159,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Troy",
-      "zip": "48083",
-      "theater_name": "MJR Troy Cinema",
-      "chainName": "MJR Theatres",
-      "chainCode": "MJRT",
-      "showtime_id": 549323258,
-      "date": "2026-06-07+11:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -300,66 +255,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "MO",
-      "city": "Saint Charles",
-      "zip": "63303",
-      "theater_name": "Marcus St. Charles Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 550226761,
-      "date": "2026-06-07+15:10",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Plano",
-      "zip": "75025",
-      "theater_name": "Cinemark Legacy and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 546750736,
-      "date": "2026-06-07+14:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Chino Hills",
-      "zip": "91709",
-      "theater_name": "Harkins Chino Hills 18",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 550323037,
-      "date": "2026-06-07+21:20",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Livermore",
-      "zip": "94550",
-      "theater_name": "CinemaWest Livermore & Giant Screen with Laser",
-      "chainName": "Cinema West",
-      "chainCode": "CWST",
-      "showtime_id": 549571701,
-      "date": "2026-06-07+12:25",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     },
     {

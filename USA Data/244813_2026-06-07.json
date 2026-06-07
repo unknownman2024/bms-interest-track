@@ -676,11 +676,11 @@
     "date": "2026-06-07+17:25",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 14,
-    "occupancy": 12.07,
-    "totalAvailableSeatCount": 102,
+    "totalSeatSold": 11,
+    "occupancy": 9.48,
+    "totalAvailableSeatCount": 105,
     "totalSeatCount": 116,
-    "grossRevenueUSD": 298.62,
+    "grossRevenueUSD": 234.63,
     "adultTicketPrice": 21.33
   },
   {
@@ -2722,9 +2722,12 @@
     "date": "2026-06-07+14:20",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 107,
+    "totalSeatCount": 107,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 20.0
   },
   {
     "state": "VA",
@@ -3367,11 +3370,11 @@
     "date": "2026-06-07+22:15",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 1,
-    "occupancy": 1.05,
-    "totalAvailableSeatCount": 94,
+    "totalSeatSold": 2,
+    "occupancy": 2.11,
+    "totalAvailableSeatCount": 93,
     "totalSeatCount": 95,
-    "grossRevenueUSD": 21.45,
+    "grossRevenueUSD": 42.9,
     "adultTicketPrice": 21.45
   },
   {
@@ -4587,9 +4590,12 @@
     "date": "2026-06-07+21:30",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 203,
+    "totalSeatCount": 203,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 21.5
   },
   {
     "state": "FL",
@@ -6230,9 +6236,12 @@
     "date": "2026-06-07+11:30",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 109,
+    "totalSeatCount": 109,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 20.0
   },
   {
     "state": "MI",
@@ -7547,9 +7556,12 @@
     "date": "2026-06-07+15:10",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 20,
+    "occupancy": 28.99,
+    "totalAvailableSeatCount": 49,
+    "totalSeatCount": 69,
+    "grossRevenueUSD": 432.0,
+    "adultTicketPrice": 21.6
   },
   {
     "state": "MO",
@@ -9164,9 +9176,12 @@
     "date": "2026-06-07+14:05",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 2,
+    "occupancy": 2.94,
+    "totalAvailableSeatCount": 66,
+    "totalSeatCount": 68,
+    "grossRevenueUSD": 22.74,
+    "adultTicketPrice": 11.37
   },
   {
     "state": "TX",
@@ -11429,9 +11444,12 @@
     "date": "2026-06-07+21:20",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 6,
+    "occupancy": 5.13,
+    "totalAvailableSeatCount": 111,
+    "totalSeatCount": 117,
+    "grossRevenueUSD": 120.0,
+    "adultTicketPrice": 20.0
   },
   {
     "state": "CA",
@@ -12722,9 +12740,12 @@
     "date": "2026-06-07+12:25",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 35,
+    "totalSeatCount": 35,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "CA",
@@ -13605,5 +13626,23 @@
     "totalSeatCount": 166,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 21.0
+  },
+  {
+    "state": "ND",
+    "city": "Fargo",
+    "zip": "58103",
+    "theater_name": "Marcus West Acres Cinema",
+    "chainName": "Marcus Theatres",
+    "chainCode": "MRCS",
+    "showtime_id": 549358625,
+    "date": "2026-06-07+20:50",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 92,
+    "totalSeatCount": 92,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 21.55
   }
 ]
