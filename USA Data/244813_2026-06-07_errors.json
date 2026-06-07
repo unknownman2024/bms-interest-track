@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07 03:17:21 PM",
+  "last_updated": "2026-06-07 05:37:45 PM",
   "errors": [
     {
       "state": "NY",
@@ -12,22 +12,6 @@
       "date": "2026-06-07+10:00",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "MD",
-      "city": "Silver Spring",
-      "zip": "20910",
-      "theater_name": "Regal Majestic & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 545199269,
-      "date": "2026-06-07+21:25",
-      "format": "Standard",
-      "language": "Hindi",
       "error": {
         "status": 500,
         "reason": "No seats"
