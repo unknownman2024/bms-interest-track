@@ -462,11 +462,11 @@
     "date": "2026-06-09",
     "time": "00:00",
     "total": 179,
-    "available": 160,
+    "available": 158,
     "blocked": 0,
-    "sold": 19,
-    "gross": 285,
-    "gross_with_tax": 285,
+    "sold": 21,
+    "gross": 315,
+    "gross_with_tax": 315,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -1032,11 +1032,11 @@
     "date": "2026-06-09",
     "time": "00:00",
     "total": 82,
-    "available": 78,
+    "available": 80,
     "blocked": 0,
-    "sold": 4,
-    "gross": 60,
-    "gross_with_tax": 60,
+    "sold": 2,
+    "gross": 30,
+    "gross_with_tax": 30,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -1137,6 +1137,633 @@
       "tax": 0,
       "fee": 0,
       "grand": 15
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Karuppu - Tamil",
+    "perfIx": "38659",
+    "date": "2026-06-09",
+    "time": "15:30",
+    "total": 171,
+    "available": 164,
+    "blocked": 0,
+    "sold": 7,
+    "gross": 70.0,
+    "gross_with_tax": 70.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Karuppu - Tamil",
+    "perfIx": "38672",
+    "date": "2026-06-09",
+    "time": "19:15",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 559.0,
+    "gross_with_tax": 559.0,
+    "per_ticket": {
+      "net": 13.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 13.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Karuppu - Tamil",
+    "perfIx": "38669",
+    "date": "2026-06-09",
+    "time": "22:30",
+    "total": 171,
+    "available": 164,
+    "blocked": 0,
+    "sold": 7,
+    "gross": 70.0,
+    "gross_with_tax": 70.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Peddi- Malayalam",
+    "perfIx": "38674",
+    "date": "2026-06-09",
+    "time": "22:15",
+    "total": 235,
+    "available": 205,
+    "blocked": 0,
+    "sold": 30,
+    "gross": 450.0,
+    "gross_with_tax": 450.0,
+    "per_ticket": {
+      "net": 15.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Peddi- Malayalam",
+    "perfIx": "38675",
+    "date": "2026-06-09",
+    "time": "22:15",
+    "total": 188,
+    "available": 12,
+    "blocked": 0,
+    "sold": 176,
+    "gross": 3520.0,
+    "gross_with_tax": 3520.0,
+    "per_ticket": {
+      "net": 20.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 20.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Peddi - Telugu",
+    "perfIx": "38662",
+    "date": "2026-06-09",
+    "time": "15:00",
+    "total": 282,
+    "available": 263,
+    "blocked": 0,
+    "sold": 19,
+    "gross": 342.0,
+    "gross_with_tax": 342.0,
+    "per_ticket": {
+      "net": 18.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 18.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Peddi - Telugu",
+    "perfIx": "38661",
+    "date": "2026-06-09",
+    "time": "18:45",
+    "total": 282,
+    "available": 263,
+    "blocked": 0,
+    "sold": 19,
+    "gross": 342.0,
+    "gross_with_tax": 342.0,
+    "per_ticket": {
+      "net": 18.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 18.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Peddi - Telugu",
+    "perfIx": "38663",
+    "date": "2026-06-09",
+    "time": "22:30",
+    "total": 282,
+    "available": 263,
+    "blocked": 0,
+    "sold": 19,
+    "gross": 342.0,
+    "gross_with_tax": 342.0,
+    "per_ticket": {
+      "net": 18.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 18.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Mollywood Times- Malayalam",
+    "perfIx": "38670",
+    "date": "2026-06-09",
+    "time": "16:15",
+    "total": 211,
+    "available": 132,
+    "blocked": 0,
+    "sold": 79,
+    "gross": 790.0,
+    "gross_with_tax": 790.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Mollywood Times- Malayalam",
+    "perfIx": "38671",
+    "date": "2026-06-09",
+    "time": "16:15",
+    "total": 240,
+    "available": 36,
+    "blocked": 0,
+    "sold": 204,
+    "gross": 3060.0,
+    "gross_with_tax": 3060.0,
+    "per_ticket": {
+      "net": 15.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Mollywood Times- Malayalam",
+    "perfIx": "38652",
+    "date": "2026-06-09",
+    "time": "19:30",
+    "total": 211,
+    "available": 132,
+    "blocked": 0,
+    "sold": 79,
+    "gross": 790.0,
+    "gross_with_tax": 790.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Mollywood Times- Malayalam",
+    "perfIx": "38653",
+    "date": "2026-06-09",
+    "time": "19:30",
+    "total": 240,
+    "available": 36,
+    "blocked": 0,
+    "sold": 204,
+    "gross": 3060.0,
+    "gross_with_tax": 3060.0,
+    "per_ticket": {
+      "net": 15.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Mollywood Times- Malayalam",
+    "perfIx": "38654",
+    "date": "2026-06-09",
+    "time": "22:45",
+    "total": 211,
+    "available": 132,
+    "blocked": 0,
+    "sold": 79,
+    "gross": 790.0,
+    "gross_with_tax": 790.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Mollywood Times- Malayalam",
+    "perfIx": "38655",
+    "date": "2026-06-09",
+    "time": "22:45",
+    "total": 240,
+    "available": 36,
+    "blocked": 0,
+    "sold": 204,
+    "gross": 3060.0,
+    "gross_with_tax": 3060.0,
+    "per_ticket": {
+      "net": 15.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Drishyam 3 - Malayalam",
+    "perfIx": "38667",
+    "date": "2026-06-09",
+    "time": "15:45",
+    "total": 235,
+    "available": 205,
+    "blocked": 0,
+    "sold": 30,
+    "gross": 300.0,
+    "gross_with_tax": 300.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Drishyam 3 - Malayalam",
+    "perfIx": "38668",
+    "date": "2026-06-09",
+    "time": "15:45",
+    "total": 188,
+    "available": 12,
+    "blocked": 0,
+    "sold": 176,
+    "gross": 2640.0,
+    "gross_with_tax": 2640.0,
+    "per_ticket": {
+      "net": 15.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Drishyam 3 - Malayalam",
+    "perfIx": "38660",
+    "date": "2026-06-09",
+    "time": "19:00",
+    "total": 235,
+    "available": 205,
+    "blocked": 0,
+    "sold": 30,
+    "gross": 300.0,
+    "gross_with_tax": 300.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Drishyam 3 - Malayalam",
+    "perfIx": "38673",
+    "date": "2026-06-09",
+    "time": "19:15",
+    "total": 188,
+    "available": 12,
+    "blocked": 0,
+    "sold": 176,
+    "gross": 2640.0,
+    "gross_with_tax": 2640.0,
+    "per_ticket": {
+      "net": 15.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Bandar- Hindi",
+    "perfIx": "38664",
+    "date": "2026-06-09",
+    "time": "15:30",
+    "total": 195,
+    "available": 187,
+    "blocked": 0,
+    "sold": 8,
+    "gross": 72.0,
+    "gross_with_tax": 72.0,
+    "per_ticket": {
+      "net": 9.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Bandar- Hindi",
+    "perfIx": "38665",
+    "date": "2026-06-09",
+    "time": "21:30",
+    "total": 195,
+    "available": 187,
+    "blocked": 0,
+    "sold": 8,
+    "gross": 72.0,
+    "gross_with_tax": 72.0,
+    "per_ticket": {
+      "net": 9.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Hai Jawani Toh Ishq Hona Hai- Hindi",
+    "perfIx": "38666",
+    "date": "2026-06-09",
+    "time": "18:30",
+    "total": 195,
+    "available": 187,
+    "blocked": 0,
+    "sold": 8,
+    "gross": 72.0,
+    "gross_with_tax": 72.0,
+    "per_ticket": {
+      "net": 9.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Parimala and Co- Tamil",
+    "perfIx": "38656",
+    "date": "2026-06-09",
+    "time": "15:45",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 559.0,
+    "gross_with_tax": 559.0,
+    "per_ticket": {
+      "net": 13.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 13.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Parimala and Co- Tamil",
+    "perfIx": "38657",
+    "date": "2026-06-09",
+    "time": "19:00",
+    "total": 171,
+    "available": 164,
+    "blocked": 0,
+    "sold": 7,
+    "gross": 70.0,
+    "gross_with_tax": 70.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Parimala and Co- Tamil",
+    "perfIx": "38658",
+    "date": "2026-06-09",
+    "time": "22:30",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 559.0,
+    "gross_with_tax": 559.0,
+    "per_ticket": {
+      "net": 13.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 13.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Peddi - Telugu",
+    "perfIx": "16453",
+    "date": "2026-06-09",
+    "time": "15:00",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 18.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 18.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Peddi - Telugu",
+    "perfIx": "16454",
+    "date": "2026-06-09",
+    "time": "18:30",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 18.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 18.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Mollywood Times- Malayalam",
+    "perfIx": "16457",
+    "date": "2026-06-09",
+    "time": "22:15",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 13.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 13.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Bandar- Hindi",
+    "perfIx": "16456",
+    "date": "2026-06-09",
+    "time": "21:15",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 9.0,
+    "gross_with_tax": 9.0,
+    "per_ticket": {
+      "net": 9.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Hai Jawani Toh Ishq Hona Hai- Hindi",
+    "perfIx": "16455",
+    "date": "2026-06-09",
+    "time": "15:30",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 9.0,
+    "gross_with_tax": 9.0,
+    "per_ticket": {
+      "net": 9.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Parimala and Co- Tamil",
+    "perfIx": "16458",
+    "date": "2026-06-09",
+    "time": "18:15",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 13.0,
+    "gross_with_tax": 13.0,
+    "per_ticket": {
+      "net": 13.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 13.0
+    }
+  },
+  {
+    "venue": "York Garden City",
+    "movie": "Peddi - Telugu",
+    "perfIx": "2974",
+    "date": "2026-06-09",
+    "time": "18:30",
+    "total": 201,
+    "available": 198,
+    "blocked": 0,
+    "sold": 3,
+    "gross": 45.0,
+    "gross_with_tax": 45.0,
+    "per_ticket": {
+      "net": 15.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15.0
+    }
+  },
+  {
+    "venue": "York Garden City",
+    "movie": "Mollywood Times- Malayalam",
+    "perfIx": "2973",
+    "date": "2026-06-09",
+    "time": "22:00",
+    "total": 201,
+    "available": 198,
+    "blocked": 0,
+    "sold": 3,
+    "gross": 30.0,
+    "gross_with_tax": 30.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Garden City",
+    "movie": "Chardikala- Punjabi",
+    "perfIx": "2968",
+    "date": "2026-06-09",
+    "time": "15:30",
+    "total": 201,
+    "available": 198,
+    "blocked": 0,
+    "sold": 3,
+    "gross": 24.0,
+    "gross_with_tax": 24.0,
+    "per_ticket": {
+      "net": 8.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 8.0
     }
   }
 ]
