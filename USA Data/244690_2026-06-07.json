@@ -10,10 +10,12 @@
     "date": "2026-06-07+18:15",
     "format": "Standard",
     "language": "Malayalam",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 60,
+    "totalSeatCount": 60,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 16.49
   },
   {
     "state": "NJ",
@@ -116,10 +118,12 @@
     "date": "2026-06-07+16:35",
     "format": "Standard",
     "language": "Malayalam",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 13,
+    "occupancy": 13.83,
+    "totalAvailableSeatCount": 81,
+    "totalSeatCount": 94,
+    "grossRevenueUSD": 181.35,
+    "adultTicketPrice": 13.95
   },
   {
     "state": "TX",
@@ -132,11 +136,11 @@
     "date": "2026-06-07+09:00",
     "format": "Standard",
     "language": "Malayalam",
-    "totalSeatSold": 4,
-    "occupancy": 4.08,
-    "totalAvailableSeatCount": 94,
+    "totalSeatSold": 8,
+    "occupancy": 8.16,
+    "totalAvailableSeatCount": 90,
     "totalSeatCount": 98,
-    "grossRevenueUSD": 42.2,
+    "grossRevenueUSD": 84.4,
     "adultTicketPrice": 10.55
   },
   {
