@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08 04:55:52 PM",
+  "last_updated": "2026-06-08 10:05:03 PM",
   "errors": [
     {
       "state": "PA",
@@ -15,36 +15,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Douglasville",
-      "zip": "30135",
-      "theater_name": "Regal Arbor Place",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 547878916,
-      "date": "2026-06-08+15:25",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Douglasville",
-      "zip": "30135",
-      "theater_name": "Regal Arbor Place",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 545971556,
-      "date": "2026-06-08+19:25",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
       }
     },
     {
