@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-06-08 04:57:18 PM",
+  "last_updated": "2026-06-08 10:06:39 PM",
   "errors": [
-    {
-      "state": "VA",
-      "city": "Suffolk",
-      "zip": "23435",
-      "theater_name": "Regal Harbour View Grande",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 545208653,
-      "date": "2026-06-09+11:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "GA",
       "city": "Roswell",
@@ -30,51 +15,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Douglasville",
-      "zip": "30135",
-      "theater_name": "Regal Arbor Place",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 545971558,
-      "date": "2026-06-09+11:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Douglasville",
-      "zip": "30135",
-      "theater_name": "Regal Arbor Place",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 545971559,
-      "date": "2026-06-09+15:25",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Douglasville",
-      "zip": "30135",
-      "theater_name": "Regal Arbor Place",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 545971557,
-      "date": "2026-06-09+19:25",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
       }
     },
     {
@@ -110,51 +50,6 @@
       }
     },
     {
-      "state": "OH",
-      "city": "Strongsville",
-      "zip": "44136",
-      "theater_name": "Cinemark Strongsville at Southpark Mall",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 549943507,
-      "date": "2026-06-09+21:05",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Valley View",
-      "zip": "44125",
-      "theater_name": "Cinemark Valley View and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 549769293,
-      "date": "2026-06-09+16:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Madison Heights",
-      "zip": "48071",
-      "theater_name": "AMC Star John R 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 549761757,
-      "date": "2026-06-09+20:50",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "MI",
       "city": "Lansing",
       "zip": "48917",
@@ -168,21 +63,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Niles",
-      "zip": "60714",
-      "theater_name": "Ciné Lounge at Niles",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 550363038,
-      "date": "2026-06-09+14:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -215,21 +95,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Woodridge",
-      "zip": "60517",
-      "theater_name": "Cinemark Seven Bridges and IMAX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 545855422,
-      "date": "2026-06-09+10:20",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -278,21 +143,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Daly City",
-      "zip": "94015",
-      "theater_name": "Cinemark Century Daly City 20 XD and IMAX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 545773203,
-      "date": "2026-06-09+22:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     }
   ]
