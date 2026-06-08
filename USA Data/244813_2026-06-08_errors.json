@@ -1,67 +1,6 @@
 {
-  "last_updated": "2026-06-08 12:21:57 PM",
+  "last_updated": "2026-06-08 04:55:52 PM",
   "errors": [
-    {
-      "state": "CT",
-      "city": "Manchester",
-      "zip": "06042",
-      "theater_name": "Cinemark Buckland Hills 18 XD and IMAX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 545620956,
-      "date": "2026-06-08+22:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Albany",
-      "zip": "12203",
-      "theater_name": "Regal Crossgates",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 549644182,
-      "date": "2026-06-08+11:15",
-      "format": "Standard",
-      "language": "Tamil",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Pittsburgh",
-      "zip": "15205",
-      "theater_name": "Cinemark Robinson Township and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 549692484,
-      "date": "2026-06-08+17:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MD",
-      "city": "Hanover",
-      "zip": "21076",
-      "theater_name": "Cinemark Egyptian 24 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 545885355,
-      "date": "2026-06-08+18:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "PA",
       "city": "Oaks",
@@ -110,21 +49,6 @@
     },
     {
       "state": "FL",
-      "city": "Tallahassee",
-      "zip": "32303",
-      "theater_name": "AMC Tallahassee 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 549423785,
-      "date": "2026-06-08+20:50",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
       "city": "Pensacola",
       "zip": "32505",
       "theater_name": "AMC CLASSIC Pensacola 18",
@@ -153,21 +77,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Ypsilanti",
-      "zip": "48197",
-      "theater_name": "Ann Arbor 20 + IMAX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 549752875,
-      "date": "2026-06-08+14:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -219,21 +128,6 @@
       }
     },
     {
-      "state": "IA",
-      "city": "West Des Moines",
-      "zip": "50266",
-      "theater_name": "Cinemark Century Jordan Creek 20 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 550151369,
-      "date": "2026-06-08+18:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "MN",
       "city": "Mounds View",
       "zip": "55112",
@@ -282,82 +176,6 @@
       }
     },
     {
-      "state": "IL",
-      "city": "Carbondale",
-      "zip": "62901",
-      "theater_name": "VIP Carbondale 8",
-      "chainName": "VIP Cinemas",
-      "chainCode": "VIPC",
-      "showtime_id": 549344025,
-      "date": "2026-06-08+10:20",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AR",
-      "city": "Little Rock",
-      "zip": "72210",
-      "theater_name": "Cinemark Colonel Glenn and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 545551239,
-      "date": "2026-06-08+22:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Stafford",
-      "zip": "77477",
-      "theater_name": "AMC Loews Fountains 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 549776033,
-      "date": "2026-06-08+14:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Corpus Christi",
-      "zip": "78412",
-      "theater_name": "Cinemark Century Corpus Christi 16 XD and IMAX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 549569603,
-      "date": "2026-06-08+22:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Tucson",
-      "zip": "85716",
-      "theater_name": "Cinemark Century El Con 20 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 549513522,
-      "date": "2026-06-08+18:20",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "CA",
       "city": "Clovis",
       "zip": "93612",
@@ -371,51 +189,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Stockton",
-      "zip": "95202",
-      "theater_name": "Regal Stockton City Center & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 549415820,
-      "date": "2026-06-08+20:55",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "El Dorado Hills",
-      "zip": "95762",
-      "theater_name": "Regal El Dorado Hills & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 550149663,
-      "date": "2026-06-08+16:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "El Dorado Hills",
-      "zip": "95762",
-      "theater_name": "Regal El Dorado Hills & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 545192402,
-      "date": "2026-06-08+21:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     }
   ]
