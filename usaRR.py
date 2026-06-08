@@ -9,26 +9,29 @@ import aiohttp
 from aiohttp_retry import RetryClient, ExponentialRetry
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from tqdm import tqdm
-from datetime import datetime, date
+from datetime import datetime, date, timedelta
 from zoneinfo import ZoneInfo
-
 # CONFIG
 
 RELEASE_DATE = date(2026, 6, 4)
 TARGET_MOVIE_ID = 244813
 
 # Change for different movie
-#244813 Peddi
+# 244813 Peddi
 # CODE BY BFILMY - DONT REMOVE
 
-# Get current date in USA Pacific Time
-now_pst = datetime.now(ZoneInfo("America/Los_Angeles")).date()
+# Get current date in USA Pacific Time (+1 day advance mode)
+now_pst = datetime.now(
+    ZoneInfo("America/Los_Angeles")
+).date() + timedelta(days=1)
+
 # Logic for DATE
 if now_pst < RELEASE_DATE:
     DATE = RELEASE_DATE.strftime("%Y-%m-%d")
 else:
     DATE = now_pst.strftime("%Y-%m-%d")
-print(f"🎬 Using DATE = {DATE} (PST)")
+
+print(f"🎬 Using DATE = {DATE} (PST +1 Advance)")
 
 MAX_WORKERS = 10  # For showtime fetching multiprocessing
 CONCURRENCY = 45  # For async seat fetching concurrency
