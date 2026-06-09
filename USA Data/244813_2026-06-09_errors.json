@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09 10:16:45 AM",
+  "last_updated": "2026-06-09 03:39:05 PM",
   "errors": [
     {
       "state": "GA",
@@ -143,6 +143,21 @@
       "error": {
         "status": 500,
         "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Ciné Lounge Fremont 7",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 550770988,
+      "date": "2026-06-09+21:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
       }
     }
   ]
