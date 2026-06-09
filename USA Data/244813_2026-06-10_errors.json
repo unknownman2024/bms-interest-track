@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-06-09 03:40:45 PM",
+  "last_updated": "2026-06-09 09:10:10 PM",
   "errors": [
-    {
-      "state": "DE",
-      "city": "Wilmington",
-      "zip": "19804",
-      "theater_name": "Cinemark Wilmington Movies 10",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 549812289,
-      "date": "2026-06-10+21:35",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "PA",
       "city": "Oaks",
@@ -50,21 +35,6 @@
     },
     {
       "state": "FL",
-      "city": "Orlando",
-      "zip": "32819",
-      "theater_name": "Cinemark Orlando and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 545864800,
-      "date": "2026-06-10+12:40",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
       "city": "Tampa",
       "zip": "33647",
       "theater_name": "AMC Highwoods 20",
@@ -77,21 +47,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Taylor",
-      "zip": "48180",
-      "theater_name": "Cinemark Southland Mall and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 550022723,
-      "date": "2026-06-10+15:45",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -175,70 +130,6 @@
       }
     },
     {
-      "state": "TX",
-      "city": "Frisco",
-      "zip": "75034",
-      "theater_name": "Cinemark Frisco Square and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 545709123,
-      "date": "2026-06-10+10:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Frisco",
-      "zip": "75034",
-      "theater_name": "Cinemark Frisco Square and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 545709124,
-      "date": "2026-06-10+14:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Frisco",
-      "zip": "75034",
-      "theater_name": "Cinemark Frisco Square and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 545709125,
-      "date": "2026-06-10+18:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Frisco",
-      "zip": "75034",
-      "theater_name": "Cinemark Frisco Square and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 549882132,
-      "date": "2026-06-10+22:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
       "state": "CA",
       "city": "San Diego",
       "zip": "92108",
@@ -265,21 +156,6 @@
       "date": "2026-06-10+22:05",
       "format": "Standard",
       "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Stockton",
-      "zip": "95202",
-      "theater_name": "Regal Stockton City Center & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 549442515,
-      "date": "2026-06-10+13:35",
-      "format": "Standard",
-      "language": "Telugu",
       "error": {
         "status": 500
       }
