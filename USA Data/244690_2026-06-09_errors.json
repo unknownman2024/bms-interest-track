@@ -1,0 +1,21 @@
+{
+  "last_updated": "2026-06-09 02:15:37 PM",
+  "errors": [
+    {
+      "state": "NJ",
+      "city": "Elizabeth",
+      "zip": "07201",
+      "theater_name": "AMC Jersey Gardens 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549844492,
+      "date": "2026-06-09+15:15",
+      "format": "Standard",
+      "language": "Malayalam",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
+}
