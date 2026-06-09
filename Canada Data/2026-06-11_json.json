@@ -9,13 +9,13 @@
     "available": 198,
     "blocked": 0,
     "sold": 3,
-    "gross": 48.0,
-    "gross_with_tax": 48.0,
+    "gross": 36.0,
+    "gross_with_tax": 36.0,
     "per_ticket": {
-      "net": 16.0,
+      "net": 12.0,
       "tax": 0,
       "fee": 0,
-      "grand": 16.0
+      "grand": 12.0
     }
   },
   {
@@ -196,11 +196,11 @@
     "date": "2026-06-11",
     "time": "18:50",
     "total": 107,
-    "available": 107,
+    "available": 105,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0.0,
-    "gross_with_tax": 0.0,
+    "sold": 2,
+    "gross": 21.5,
+    "gross_with_tax": 21.5,
     "per_ticket": {
       "net": 10.75,
       "tax": 0,
@@ -1054,13 +1054,13 @@
     "available": 128,
     "blocked": 0,
     "sold": 1,
-    "gross": 16.0,
-    "gross_with_tax": 16.0,
+    "gross": 12.0,
+    "gross_with_tax": 12.0,
     "per_ticket": {
-      "net": 16.0,
+      "net": 12.0,
       "tax": 0,
       "fee": 0,
-      "grand": 16.0
+      "grand": 12.0
     }
   },
   {
@@ -1073,13 +1073,32 @@
     "available": 128,
     "blocked": 0,
     "sold": 1,
-    "gross": 20.0,
-    "gross_with_tax": 20.0,
+    "gross": 12.0,
+    "gross_with_tax": 12.0,
     "per_ticket": {
-      "net": 20.0,
+      "net": 12.0,
       "tax": 0,
       "fee": 0,
-      "grand": 20.0
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "York Garden City",
+    "movie": "Peddi - Telugu",
+    "perfIx": "2980",
+    "date": "2026-06-11",
+    "time": "18:30",
+    "total": 201,
+    "available": 198,
+    "blocked": 0,
+    "sold": 3,
+    "gross": 36.0,
+    "gross_with_tax": 36.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
     }
   }
 ]
