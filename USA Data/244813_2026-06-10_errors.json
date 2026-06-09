@@ -1,0 +1,352 @@
+{
+  "last_updated": "2026-06-09 03:40:45 PM",
+  "errors": [
+    {
+      "state": "DE",
+      "city": "Wilmington",
+      "zip": "19804",
+      "theater_name": "Cinemark Wilmington Movies 10",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 549812289,
+      "date": "2026-06-10+21:35",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema D-Box & OCX",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 549847615,
+      "date": "2026-06-10+20:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Roswell",
+      "zip": "30076",
+      "theater_name": "Aurora Cineplex",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 549749670,
+      "date": "2026-06-10+13:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Orlando",
+      "zip": "32819",
+      "theater_name": "Cinemark Orlando and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 545864800,
+      "date": "2026-06-10+12:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549959137,
+      "date": "2026-06-10+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Taylor",
+      "zip": "48180",
+      "theater_name": "Cinemark Southland Mall and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 550022723,
+      "date": "2026-06-10+15:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Mattoon",
+      "zip": "61938",
+      "theater_name": "VIP Mattoon 10",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 549399337,
+      "date": "2026-06-10+12:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Lansing",
+      "zip": "48917",
+      "theater_name": "Regal Lansing Mall & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 549845548,
+      "date": "2026-06-10+13:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mounds View",
+      "zip": "55112",
+      "theater_name": "AMC CLASSIC Mounds View 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549967146,
+      "date": "2026-06-10+13:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MN",
+      "city": "Mounds View",
+      "zip": "55112",
+      "theater_name": "AMC CLASSIC Mounds View 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 549967122,
+      "date": "2026-06-10+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "GQT Willow Knolls 14",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 549921533,
+      "date": "2026-06-10+15:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "Cinemark Frisco Square and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 545709123,
+      "date": "2026-06-10+10:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "Cinemark Frisco Square and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 545709124,
+      "date": "2026-06-10+14:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "Cinemark Frisco Square and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 545709125,
+      "date": "2026-06-10+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "Cinemark Frisco Square and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 549882132,
+      "date": "2026-06-10+22:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92108",
+      "theater_name": "AMC Mission Valley 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-06-10+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Elk Grove",
+      "zip": "95758",
+      "theater_name": "Cinemark Century Laguna 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 549573424,
+      "date": "2026-06-10+22:05",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Stockton",
+      "zip": "95202",
+      "theater_name": "Regal Stockton City Center & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 549442515,
+      "date": "2026-06-10+13:35",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Folsom",
+      "zip": "95630",
+      "theater_name": "Cinemark Century Folsom 14",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 545862771,
+      "date": "2026-06-10+11:55",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Folsom",
+      "zip": "95630",
+      "theater_name": "Cinemark Century Folsom 14",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 545862769,
+      "date": "2026-06-10+15:55",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Folsom",
+      "zip": "95630",
+      "theater_name": "Cinemark Century Folsom 14",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 545862770,
+      "date": "2026-06-10+19:55",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Folsom",
+      "zip": "95630",
+      "theater_name": "Cinemark Century Folsom 14",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 549916863,
+      "date": "2026-06-10+15:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
+}
