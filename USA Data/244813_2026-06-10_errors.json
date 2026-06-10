@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11 03:55:07 AM",
+  "last_updated": "2026-06-11 05:25:05 AM",
   "errors": [
     {
       "state": "PA",
@@ -218,6 +218,22 @@
       "chainCode": "AMC",
       "showtime_id": 550116666,
       "date": "2026-06-10+18:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NH",
+      "city": "Merrimack",
+      "zip": "03054",
+      "theater_name": "Apple Cinemas Merrimack",
+      "chainName": "Apple Cinemas",
+      "chainCode": "APPL",
+      "showtime_id": 551401442,
+      "date": "2026-06-10+18:00",
       "format": "Standard",
       "language": "Telugu",
       "error": {
