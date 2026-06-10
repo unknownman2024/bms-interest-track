@@ -1,36 +1,6 @@
 {
-  "last_updated": "2026-06-10 04:12:01 PM",
+  "last_updated": "2026-06-10 09:45:38 PM",
   "errors": [
-    {
-      "state": "DE",
-      "city": "Wilmington",
-      "zip": "19803",
-      "theater_name": "Regal Brandywine Town Center",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 545118875,
-      "date": "2026-06-11+10:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Cary",
-      "zip": "27519",
-      "theater_name": "Hooky Entertainment Cary",
-      "chainName": "Hooky Entertainment",
-      "chainCode": "HOOK",
-      "showtime_id": 550469912,
-      "date": "2026-06-11+13:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "GA",
       "city": "Roswell",
@@ -112,36 +82,6 @@
       }
     },
     {
-      "state": "MO",
-      "city": "Saint Peters",
-      "zip": "63376",
-      "theater_name": "Marcus Mid Rivers Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 550488124,
-      "date": "2026-06-11+10:20",
-      "format": "Standard",
-      "language": "Tamil",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Plano",
-      "zip": "75025",
-      "theater_name": "Cinemark Legacy and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 550949959,
-      "date": "2026-06-11+14:20",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "TX",
       "city": "Houston",
       "zip": "77089",
@@ -172,84 +112,6 @@
       }
     },
     {
-      "state": "CA",
-      "city": "San Marcos",
-      "zip": "92069",
-      "theater_name": "Regal Edwards San Marcos",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 549536490,
-      "date": "2026-06-11+10:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Jose",
-      "zip": "95123",
-      "theater_name": "Cinemark Century Oakridge 20 XD and ScreenX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 545621127,
-      "date": "2026-06-11+10:20",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Jose",
-      "zip": "95123",
-      "theater_name": "Cinemark Century Oakridge 20 XD and ScreenX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 545621128,
-      "date": "2026-06-11+14:10",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Jose",
-      "zip": "95123",
-      "theater_name": "Cinemark Century Oakridge 20 XD and ScreenX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 545621129,
-      "date": "2026-06-11+18:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Everett",
-      "zip": "98208",
-      "theater_name": "Regal Everett",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 549903307,
-      "date": "2026-06-11+10:15",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "WA",
       "city": "Monroe",
       "zip": "98272",
@@ -258,6 +120,22 @@
       "chainCode": "GLXY",
       "showtime_id": 550775292,
       "date": "2026-06-11+20:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Elizabeth",
+      "zip": "07201",
+      "theater_name": "AMC Jersey Gardens 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-06-11+13:40",
       "format": "Standard",
       "language": "Telugu",
       "error": {
