@@ -6,11 +6,11 @@
     "date": "2026-06-12",
     "time": "15:45",
     "total": 129,
-    "available": 128,
+    "available": 126,
     "blocked": 0,
-    "sold": 1,
-    "gross": 9.5,
-    "gross_with_tax": 9.5,
+    "sold": 3,
+    "gross": 28.5,
+    "gross_with_tax": 28.5,
     "per_ticket": {
       "net": 9.5,
       "tax": 0,
@@ -254,6 +254,690 @@
     "time": "00:00",
     "total": 62,
     "available": 62,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Main Vaapas Aaunga - Hindi",
+    "perfIx": "38686",
+    "date": "2026-06-12",
+    "time": "22:30",
+    "total": 171,
+    "available": 164,
+    "blocked": 0,
+    "sold": 7,
+    "gross": 84.0,
+    "gross_with_tax": 84.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Karuppu - Tamil",
+    "perfIx": "38684",
+    "date": "2026-06-12",
+    "time": "22:15",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 645.0,
+    "gross_with_tax": 645.0,
+    "per_ticket": {
+      "net": 15.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Peddi - Telugu",
+    "perfIx": "38689",
+    "date": "2026-06-12",
+    "time": "18:30",
+    "total": 282,
+    "available": 263,
+    "blocked": 0,
+    "sold": 19,
+    "gross": 285.0,
+    "gross_with_tax": 285.0,
+    "per_ticket": {
+      "net": 15.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Peddi - Telugu",
+    "perfIx": "38690",
+    "date": "2026-06-12",
+    "time": "22:15",
+    "total": 282,
+    "available": 263,
+    "blocked": 0,
+    "sold": 19,
+    "gross": 285.0,
+    "gross_with_tax": 285.0,
+    "per_ticket": {
+      "net": 15.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Mollywood Times- Malayalam",
+    "perfIx": "38682",
+    "date": "2026-06-12",
+    "time": "22:30",
+    "total": 211,
+    "available": 132,
+    "blocked": 0,
+    "sold": 79,
+    "gross": 948.0,
+    "gross_with_tax": 948.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Mollywood Times- Malayalam",
+    "perfIx": "38694",
+    "date": "2026-06-12",
+    "time": "22:30",
+    "total": 240,
+    "available": 36,
+    "blocked": 0,
+    "sold": 204,
+    "gross": 3468.0,
+    "gross_with_tax": 3468.0,
+    "per_ticket": {
+      "net": 17.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 17.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Badhu Alright Che- Gujarati",
+    "perfIx": "38691",
+    "date": "2026-06-12",
+    "time": "18:30",
+    "total": 195,
+    "available": 187,
+    "blocked": 0,
+    "sold": 8,
+    "gross": 96.0,
+    "gross_with_tax": 96.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Drishyam 3 - Malayalam",
+    "perfIx": "38685",
+    "date": "2026-06-12",
+    "time": "19:00",
+    "total": 171,
+    "available": 162,
+    "blocked": 0,
+    "sold": 9,
+    "gross": 108.0,
+    "gross_with_tax": 108.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Sing Geetham- Telugu",
+    "perfIx": "38681",
+    "date": "2026-06-12",
+    "time": "19:30",
+    "total": 211,
+    "available": 132,
+    "blocked": 0,
+    "sold": 79,
+    "gross": 948.0,
+    "gross_with_tax": 948.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Sing Geetham- Telugu",
+    "perfIx": "38693",
+    "date": "2026-06-12",
+    "time": "19:30",
+    "total": 240,
+    "available": 36,
+    "blocked": 0,
+    "sold": 204,
+    "gross": 3468.0,
+    "gross_with_tax": 3468.0,
+    "per_ticket": {
+      "net": 17.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 17.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Haunted 3D Echoes of the past- Hindi",
+    "perfIx": "38688",
+    "date": "2026-06-12",
+    "time": "22:15",
+    "total": 235,
+    "available": 205,
+    "blocked": 0,
+    "sold": 30,
+    "gross": 420.0,
+    "gross_with_tax": 420.0,
+    "per_ticket": {
+      "net": 14.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 14.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Haunted 3D Echoes of the past- Hindi",
+    "perfIx": "38696",
+    "date": "2026-06-12",
+    "time": "22:15",
+    "total": 188,
+    "available": 12,
+    "blocked": 0,
+    "sold": 176,
+    "gross": 2992.0,
+    "gross_with_tax": 2992.0,
+    "per_ticket": {
+      "net": 17.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 17.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Bharat Bhhagya Viddhaata- Hindi",
+    "perfIx": "38692",
+    "date": "2026-06-12",
+    "time": "21:30",
+    "total": 195,
+    "available": 187,
+    "blocked": 0,
+    "sold": 8,
+    "gross": 96.0,
+    "gross_with_tax": 96.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Governor: The Silent Saviour- Hindi",
+    "perfIx": "38687",
+    "date": "2026-06-12",
+    "time": "18:45",
+    "total": 235,
+    "available": 205,
+    "blocked": 0,
+    "sold": 30,
+    "gross": 360.0,
+    "gross_with_tax": 360.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Governor: The Silent Saviour- Hindi",
+    "perfIx": "38695",
+    "date": "2026-06-12",
+    "time": "18:45",
+    "total": 188,
+    "available": 12,
+    "blocked": 0,
+    "sold": 176,
+    "gross": 2992.0,
+    "gross_with_tax": 2992.0,
+    "per_ticket": {
+      "net": 17.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 17.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Parimala and Co- Tamil",
+    "perfIx": "38683",
+    "date": "2026-06-12",
+    "time": "19:00",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 645.0,
+    "gross_with_tax": 645.0,
+    "per_ticket": {
+      "net": 15.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Main Vaapas Aaunga - Hindi",
+    "perfIx": "16480",
+    "date": "2026-06-12",
+    "time": "18:30",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Peddi - Telugu",
+    "perfIx": "16472",
+    "date": "2026-06-12",
+    "time": "21:45",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 15.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Bharat Bhhagya Viddhaata- Hindi",
+    "perfIx": "16477",
+    "date": "2026-06-12",
+    "time": "15:30",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 9.0,
+    "gross_with_tax": 9.0,
+    "per_ticket": {
+      "net": 9.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Governor: The Silent Saviour- Hindi",
+    "perfIx": "16478",
+    "date": "2026-06-12",
+    "time": "18:30",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 12.0,
+    "gross_with_tax": 12.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Parimala and Co- Tamil",
+    "perfIx": "16476",
+    "date": "2026-06-12",
+    "time": "15:15",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 15.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Haunted: Echoes of the past - Hindi",
+    "perfIx": "16479",
+    "date": "2026-06-12",
+    "time": "21:30",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 12.0,
+    "gross_with_tax": 12.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "York Garden City",
+    "movie": "Main Vaapas Aaunga - Hindi",
+    "perfIx": "2982",
+    "date": "2026-06-12",
+    "time": "18:15",
+    "total": 201,
+    "available": 198,
+    "blocked": 0,
+    "sold": 3,
+    "gross": 33.0,
+    "gross_with_tax": 33.0,
+    "per_ticket": {
+      "net": 11.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 11.0
+    }
+  },
+  {
+    "venue": "York Garden City",
+    "movie": "Peddi - Telugu",
+    "perfIx": "2983",
+    "date": "2026-06-12",
+    "time": "21:30",
+    "total": 201,
+    "available": 198,
+    "blocked": 0,
+    "sold": 3,
+    "gross": 36.0,
+    "gross_with_tax": 36.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "York Garden City",
+    "movie": "Mollywood Times- Malayalam",
+    "perfIx": "2981",
+    "date": "2026-06-12",
+    "time": "15:00",
+    "total": 201,
+    "available": 198,
+    "blocked": 0,
+    "sold": 3,
+    "gross": 36.0,
+    "gross_with_tax": 36.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "York Garden City",
+    "movie": "Scary Movie - English",
+    "perfIx": "2984",
+    "date": "2026-06-12",
+    "time": "15:30",
+    "total": 158,
+    "available": 158,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 8.0
+    }
+  },
+  {
+    "venue": "York Garden City",
+    "movie": "Scary Movie - English",
+    "perfIx": "2985",
+    "date": "2026-06-12",
+    "time": "18:00",
+    "total": 158,
+    "available": 158,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 11.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 11.0
+    }
+  },
+  {
+    "venue": "York Garden City",
+    "movie": "Scary Movie - English",
+    "perfIx": "2986",
+    "date": "2026-06-12",
+    "time": "20:30",
+    "total": 158,
+    "available": 158,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 11.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 11.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Main Vaapas Aaunga - Hindi",
+    "perfIx": "40256",
+    "date": "2026-06-12",
+    "time": "21:30",
+    "total": 141,
+    "available": 141,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Karuppu - Tamil",
+    "perfIx": "40255",
+    "date": "2026-06-12",
+    "time": "18:30",
+    "total": 263,
+    "available": 263,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Peddi - Telugu",
+    "perfIx": "40250",
+    "date": "2026-06-12",
+    "time": "22:00",
+    "total": 263,
+    "available": 263,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Mollywood Times- Malayalam",
+    "perfIx": "40251",
+    "date": "2026-06-12",
+    "time": "18:15",
+    "total": 141,
+    "available": 141,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Sing Geetham- Telugu",
+    "perfIx": "40257",
+    "date": "2026-06-12",
+    "time": "18:45",
+    "total": 183,
+    "available": 183,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Parimala and Co- Tamil",
+    "perfIx": "40253",
+    "date": "2026-06-12",
+    "time": "21:45",
+    "total": 183,
+    "available": 183,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "Scotiabank Theatre Halifax",
+    "movie": "Peddi - Hindi",
+    "perfIx": 336239,
+    "date": "2026-06-12",
+    "time": "00:00",
+    "total": 133,
+    "available": 133,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Scotiabank Theatre Halifax",
+    "movie": "Peddi - Hindi",
+    "perfIx": 336241,
+    "date": "2026-06-12",
+    "time": "00:00",
+    "total": 133,
+    "available": 133,
     "blocked": 0,
     "sold": 0,
     "gross": 0,
