@@ -136,10 +136,12 @@
     "date": "2026-06-10+17:35",
     "format": "Standard",
     "language": "Malayalam",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 2,
+    "occupancy": 1.38,
+    "totalAvailableSeatCount": 143,
+    "totalSeatCount": 145,
+    "grossRevenueUSD": 17.98,
+    "adultTicketPrice": 8.99
   },
   {
     "state": "IL",
@@ -152,11 +154,11 @@
     "date": "2026-06-10+18:10",
     "format": "Standard",
     "language": "Malayalam",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 94,
+    "totalSeatSold": 2,
+    "occupancy": 2.13,
+    "totalAvailableSeatCount": 92,
     "totalSeatCount": 94,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 25.5,
     "adultTicketPrice": 12.75
   },
   {
@@ -230,5 +232,21 @@
     "totalSeatCount": 78,
     "grossRevenueUSD": 7.95,
     "adultTicketPrice": 7.95
+  },
+  {
+    "state": "NJ",
+    "city": "Elizabeth",
+    "zip": "07201",
+    "theater_name": "AMC Jersey Gardens 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": null,
+    "date": "2026-06-10+15:15",
+    "format": "Standard",
+    "language": "Malayalam",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
   }
 ]
