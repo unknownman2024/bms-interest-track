@@ -10506,11 +10506,11 @@
     "date": "2026-06-10+22:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 2,
-    "occupancy": 4.17,
-    "totalAvailableSeatCount": 46,
+    "totalSeatSold": 21,
+    "occupancy": 43.75,
+    "totalAvailableSeatCount": 27,
     "totalSeatCount": 48,
-    "grossRevenueUSD": 24.0,
+    "grossRevenueUSD": 252.0,
     "adultTicketPrice": 12.0
   },
   {
@@ -10650,11 +10650,11 @@
     "date": "2026-06-10+22:15",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 2,
-    "occupancy": 2.74,
-    "totalAvailableSeatCount": 71,
+    "totalSeatSold": 6,
+    "occupancy": 8.22,
+    "totalAvailableSeatCount": 67,
     "totalSeatCount": 73,
-    "grossRevenueUSD": 43.32,
+    "grossRevenueUSD": 129.96,
     "adultTicketPrice": 21.66
   },
   {
@@ -12484,11 +12484,11 @@
     "date": "2026-06-10+22:15",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 207,
+    "totalSeatSold": 6,
+    "occupancy": 2.9,
+    "totalAvailableSeatCount": 201,
     "totalSeatCount": 207,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 120.0,
     "adultTicketPrice": 20.0
   },
   {
@@ -12844,11 +12844,11 @@
     "date": "2026-06-10+22:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 11,
-    "occupancy": 30.56,
-    "totalAvailableSeatCount": 25,
+    "totalSeatSold": 17,
+    "occupancy": 47.22,
+    "totalAvailableSeatCount": 19,
     "totalSeatCount": 36,
-    "grossRevenueUSD": 220.0,
+    "grossRevenueUSD": 340.0,
     "adultTicketPrice": 20.0
   },
   {
@@ -13214,11 +13214,11 @@
     "date": "2026-06-10+22:05",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 1,
-    "occupancy": 1.75,
-    "totalAvailableSeatCount": 56,
+    "totalSeatSold": 4,
+    "occupancy": 7.02,
+    "totalAvailableSeatCount": 53,
     "totalSeatCount": 57,
-    "grossRevenueUSD": 20.0,
+    "grossRevenueUSD": 80.0,
     "adultTicketPrice": 20.0
   },
   {
@@ -13954,5 +13954,21 @@
     "totalSeatCount": 81,
     "grossRevenueUSD": 197.55,
     "adultTicketPrice": 21.95
+  },
+  {
+    "state": "TX",
+    "city": "Irving",
+    "zip": "75062",
+    "theater_name": "AMC Irving Mall 14",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 551419769,
+    "date": "2026-06-10+21:05",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
   }
 ]
