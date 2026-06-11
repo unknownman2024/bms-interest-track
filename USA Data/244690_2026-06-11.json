@@ -118,9 +118,11 @@
     "date": "2026-06-11+15:30",
     "format": "Standard",
     "language": "Malayalam",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 78,
+    "totalSeatCount": 78,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 11.75
   }
 ]
