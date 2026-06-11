@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11 10:06:42 PM",
+  "last_updated": "2026-06-12 02:13:55 AM",
   "errors": [
     {
       "state": "FL",
@@ -26,6 +26,38 @@
       "chainCode": "AMC",
       "showtime_id": 550829016,
       "date": "2026-06-12+19:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema D-Box & OCX",
+      "chainName": "INDY Cinema Group",
+      "chainCode": "INDY",
+      "showtime_id": 551452049,
+      "date": "2026-06-12+14:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 550851734,
+      "date": "2026-06-12+20:40",
       "format": "Standard",
       "language": "Telugu",
       "error": {
