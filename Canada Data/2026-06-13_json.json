@@ -1146,11 +1146,11 @@
     "date": "2026-06-13",
     "time": "15:45",
     "total": 129,
-    "available": 128,
+    "available": 124,
     "blocked": 0,
-    "sold": 1,
-    "gross": 9.5,
-    "gross_with_tax": 9.5,
+    "sold": 5,
+    "gross": 47.5,
+    "gross_with_tax": 47.5,
     "per_ticket": {
       "net": 9.5,
       "tax": 0,
@@ -1355,11 +1355,11 @@
     "date": "2026-06-13",
     "time": "19:00",
     "total": 116,
-    "available": 116,
+    "available": 114,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0.0,
-    "gross_with_tax": 0.0,
+    "sold": 2,
+    "gross": 21.5,
+    "gross_with_tax": 21.5,
     "per_ticket": {
       "net": 10.75,
       "tax": 0,
@@ -1517,6 +1517,25 @@
       "tax": 0,
       "fee": 0,
       "grand": 15
+    }
+  },
+  {
+    "venue": "York Garden City",
+    "movie": "Main Vaapas Aaunga - Hindi",
+    "perfIx": "2994",
+    "date": "2026-06-13",
+    "time": "22:00",
+    "total": 201,
+    "available": 198,
+    "blocked": 0,
+    "sold": 3,
+    "gross": 33.0,
+    "gross_with_tax": 33.0,
+    "per_ticket": {
+      "net": 11.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 11.0
     }
   }
 ]
