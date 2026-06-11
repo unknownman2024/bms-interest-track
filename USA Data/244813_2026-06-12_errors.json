@@ -1,66 +1,6 @@
 {
-  "last_updated": "2026-06-11 04:40:16 PM",
+  "last_updated": "2026-06-11 10:06:42 PM",
   "errors": [
-    {
-      "state": "MA",
-      "city": "Lowell",
-      "zip": "01851",
-      "theater_name": "Showcase Cinema de Lux Lowell",
-      "chainName": "National Amusement",
-      "chainCode": "NATA",
-      "showtime_id": 551347424,
-      "date": "2026-06-12+17:50",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Elizabeth",
-      "zip": "07201",
-      "theater_name": "AMC Jersey Gardens 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551168113,
-      "date": "2026-06-12+16:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Downingtown",
-      "zip": "19335",
-      "theater_name": "Regal Downingtown",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 550590365,
-      "date": "2026-06-12+12:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Duluth",
-      "zip": "30097",
-      "theater_name": "Regal Medlock Crossing",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 551103728,
-      "date": "2026-06-12+19:45",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "FL",
       "city": "Tampa",
@@ -91,21 +31,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Union City",
-      "zip": "94587",
-      "theater_name": "Cinemark Century Union Landing 25 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 550808472,
-      "date": "2026-06-12+10:40",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     }
   ]
