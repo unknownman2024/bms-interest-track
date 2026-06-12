@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12 04:19:42 PM",
+  "last_updated": "2026-06-12 09:17:59 PM",
   "errors": [
     {
       "state": "PA",
@@ -15,66 +15,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Ashburn",
-      "zip": "20148",
-      "theater_name": "Regal Fox 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 550740308,
-      "date": "2026-06-13+14:10",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Charlotte",
-      "zip": "28273",
-      "theater_name": "AMC Carolina Pavilion 22",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551173755,
-      "date": "2026-06-13+15:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Duluth",
-      "zip": "30097",
-      "theater_name": "Regal Medlock Crossing",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 551103799,
-      "date": "2026-06-13+15:20",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Davie",
-      "zip": "33331",
-      "theater_name": "Cinemark Paradise 24 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551327419,
-      "date": "2026-06-13+15:15",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -94,21 +34,6 @@
       }
     },
     {
-      "state": "OH",
-      "city": "Gahanna",
-      "zip": "43230",
-      "theater_name": "Cinemark Stoneridge Plaza Movies 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 550533120,
-      "date": "2026-06-13+21:55",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "MN",
       "city": "Mounds View",
       "zip": "55112",
@@ -125,78 +50,19 @@
       }
     },
     {
-      "state": "MN",
-      "city": "Eden Prairie",
-      "zip": "55344",
-      "theater_name": "AMC Eden Prairie Mall 18",
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 551177595,
-      "date": "2026-06-13+20:15",
+      "showtime_id": 551152940,
+      "date": "2026-06-13+21:45",
       "format": "Standard",
       "language": "Telugu",
       "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Savoy",
-      "zip": "61874",
-      "theater_name": "Phoenix Theatres Savoy 16 + IMAX",
-      "chainName": "Phoenix Theatres",
-      "chainCode": "PHNX",
-      "showtime_id": 550716164,
-      "date": "2026-06-13+21:15",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78759",
-      "theater_name": "Regal Gateway 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 551007221,
-      "date": "2026-06-13+20:40",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CO",
-      "city": "Aurora",
-      "zip": "80012",
-      "theater_name": "Cinemark Century Aurora and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551301822,
-      "date": "2026-06-13+18:25",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Folsom",
-      "zip": "95630",
-      "theater_name": "CinemaWest Palladio 4DX, ScreenX, & GSL",
-      "chainName": "Cinema West",
-      "chainCode": "CWST",
-      "showtime_id": 550791117,
-      "date": "2026-06-13+21:35",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
+        "status": 500,
+        "reason": "No seats"
       }
     }
   ]
