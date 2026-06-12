@@ -671,11 +671,11 @@
     "date": "2026-06-12",
     "time": "21:30",
     "total": 256,
-    "available": 255,
+    "available": 254,
     "blocked": 0,
-    "sold": 1,
-    "gross": 12.0,
-    "gross_with_tax": 12.0,
+    "sold": 2,
+    "gross": 24.0,
+    "gross_with_tax": 24.0,
     "per_ticket": {
       "net": 12.0,
       "tax": 0,
@@ -985,6 +985,25 @@
       "tax": 0,
       "fee": 0,
       "grand": 15.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Double Occupancy - Tamil",
+    "perfIx": "40290",
+    "date": "2026-06-12",
+    "time": "21:45",
+    "total": 183,
+    "available": 183,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
     }
   }
 ]
