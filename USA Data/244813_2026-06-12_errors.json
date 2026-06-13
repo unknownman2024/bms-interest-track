@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13 05:30:09 AM",
+  "last_updated": "2026-06-13 10:27:48 AM",
   "errors": [
     {
       "state": "FL",
@@ -76,6 +76,22 @@
       "date": "2026-06-12+20:45",
       "format": "Standard",
       "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Concord",
+      "zip": "28027",
+      "theater_name": "AMC Concord Mills 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551516333,
+      "date": "2026-06-12+22:00",
+      "format": "Standard",
+      "language": "Telugu",
       "error": {
         "status": 500,
         "reason": "No seats"
