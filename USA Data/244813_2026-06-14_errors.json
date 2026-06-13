@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13 08:09:23 PM",
+  "last_updated": "2026-06-13 10:27:12 PM",
   "errors": [
     {
       "state": "FL",
@@ -26,6 +26,22 @@
       "chainCode": "AMC",
       "showtime_id": 551129817,
       "date": "2026-06-14+19:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33634",
+      "theater_name": "AMC Veterans 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-06-14+21:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
