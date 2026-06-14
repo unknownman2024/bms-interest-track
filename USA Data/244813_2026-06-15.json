@@ -622,11 +622,11 @@
     "date": "2026-06-15+21:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 2,
-    "occupancy": 2.22,
-    "totalAvailableSeatCount": 88,
+    "totalSeatSold": 5,
+    "occupancy": 5.56,
+    "totalAvailableSeatCount": 85,
     "totalSeatCount": 90,
-    "grossRevenueUSD": 33.98,
+    "grossRevenueUSD": 84.95,
     "adultTicketPrice": 16.99
   },
   {
@@ -818,11 +818,11 @@
     "date": "2026-06-15+17:40",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 71,
+    "totalSeatSold": 3,
+    "occupancy": 4.23,
+    "totalAvailableSeatCount": 68,
     "totalSeatCount": 71,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 49.71,
     "adultTicketPrice": 16.57
   },
   {
@@ -1358,11 +1358,11 @@
     "date": "2026-06-15+17:35",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 12,
-    "occupancy": 12.0,
-    "totalAvailableSeatCount": 88,
+    "totalSeatSold": 23,
+    "occupancy": 23.0,
+    "totalAvailableSeatCount": 77,
     "totalSeatCount": 100,
-    "grossRevenueUSD": 219.72,
+    "grossRevenueUSD": 421.13,
     "adultTicketPrice": 18.31
   },
   {
@@ -1376,11 +1376,11 @@
     "date": "2026-06-15+19:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 23,
-    "occupancy": 23.47,
-    "totalAvailableSeatCount": 75,
+    "totalSeatSold": 28,
+    "occupancy": 28.57,
+    "totalAvailableSeatCount": 70,
     "totalSeatCount": 98,
-    "grossRevenueUSD": 421.13,
+    "grossRevenueUSD": 512.68,
     "adultTicketPrice": 18.31
   },
   {
@@ -1860,11 +1860,11 @@
     "date": "2026-06-15+21:20",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 3,
-    "occupancy": 6.12,
-    "totalAvailableSeatCount": 46,
+    "totalSeatSold": 9,
+    "occupancy": 18.37,
+    "totalAvailableSeatCount": 40,
     "totalSeatCount": 49,
-    "grossRevenueUSD": 34.5,
+    "grossRevenueUSD": 103.5,
     "adultTicketPrice": 11.5
   },
   {
@@ -3100,11 +3100,11 @@
     "date": "2026-06-15+19:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 2,
-    "occupancy": 1.05,
-    "totalAvailableSeatCount": 189,
+    "totalSeatSold": 1,
+    "occupancy": 0.52,
+    "totalAvailableSeatCount": 190,
     "totalSeatCount": 191,
-    "grossRevenueUSD": 21.62,
+    "grossRevenueUSD": 10.81,
     "adultTicketPrice": 10.81
   },
   {
@@ -3586,11 +3586,11 @@
     "date": "2026-06-15+21:15",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 56,
+    "totalSeatSold": 1,
+    "occupancy": 1.79,
+    "totalAvailableSeatCount": 55,
     "totalSeatCount": 56,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 13.75,
     "adultTicketPrice": 13.75
   },
   {
@@ -4598,5 +4598,23 @@
       "status": 500,
       "reason": "No seats"
     }
+  },
+  {
+    "state": "NC",
+    "city": "Concord",
+    "zip": "28027",
+    "theater_name": "AMC Concord Mills 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 551654516,
+    "date": "2026-06-15+21:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 2,
+    "occupancy": 1.48,
+    "totalAvailableSeatCount": 133,
+    "totalSeatCount": 135,
+    "grossRevenueUSD": 28.86,
+    "adultTicketPrice": 14.43
   }
 ]
