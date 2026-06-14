@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14 11:26:09 PM",
+  "last_updated": "2026-06-15 01:34:49 AM",
   "errors": [
     {
       "state": "FL",
@@ -60,6 +60,22 @@
       "date": "2026-06-14+21:35",
       "format": "Standard",
       "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Lewisville",
+      "zip": "75067",
+      "theater_name": "Cinemark Lewisville and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 551642262,
+      "date": "2026-06-14+13:40",
+      "format": "Standard",
+      "language": "Telugu",
       "error": {
         "status": 500,
         "reason": "No seats"
