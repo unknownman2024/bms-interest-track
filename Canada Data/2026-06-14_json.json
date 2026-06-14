@@ -1070,11 +1070,11 @@
     "date": "2026-06-14",
     "time": "18:30",
     "total": 183,
-    "available": 183,
+    "available": 180,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0.0,
-    "gross_with_tax": 0.0,
+    "sold": 3,
+    "gross": 36.0,
+    "gross_with_tax": 36.0,
     "per_ticket": {
       "net": 12.0,
       "tax": 0,
@@ -1479,6 +1479,44 @@
       "tax": 0,
       "fee": 0,
       "grand": 9.5
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Main Vaapas Aaunga - Hindi",
+    "perfIx": "40277",
+    "date": "2026-06-14",
+    "time": "12:00",
+    "total": 141,
+    "available": 141,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 9.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Mollywood Times- Malayalam",
+    "perfIx": "40286",
+    "date": "2026-06-14",
+    "time": "15:15",
+    "total": 141,
+    "available": 141,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
     }
   }
 ]
