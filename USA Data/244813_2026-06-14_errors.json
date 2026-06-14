@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14 08:08:00 PM",
+  "last_updated": "2026-06-14 11:26:09 PM",
   "errors": [
     {
       "state": "FL",
@@ -44,6 +44,22 @@
       "date": "2026-06-14+21:30",
       "format": "Standard",
       "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Overland Park",
+      "zip": "66223",
+      "theater_name": "AMC Prairiefire 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 551643937,
+      "date": "2026-06-14+21:35",
+      "format": "Standard",
+      "language": "Unknown",
       "error": {
         "status": 500,
         "reason": "No seats"
