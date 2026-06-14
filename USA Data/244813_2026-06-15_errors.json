@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14 03:34:09 PM",
+  "last_updated": "2026-06-14 08:12:08 PM",
   "errors": [
     {
       "state": "PA",
@@ -15,21 +15,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Fairfax",
-      "zip": "22030",
-      "theater_name": "Cinemark Fairfax Corner and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 550801308,
-      "date": "2026-06-15+21:45",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -62,36 +47,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Plano",
-      "zip": "75093",
-      "theater_name": "Cinemark West Plano and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551070067,
-      "date": "2026-06-15+18:05",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Roanoke",
-      "zip": "76262",
-      "theater_name": "Cinemark Roanoke and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551182296,
-      "date": "2026-06-15+22:15",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     }
   ]
