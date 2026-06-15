@@ -1,36 +1,6 @@
 {
-  "last_updated": "2026-06-15 06:19:38 PM",
+  "last_updated": "2026-06-16 12:44:07 AM",
   "errors": [
-    {
-      "state": "MA",
-      "city": "Methuen",
-      "zip": "01844",
-      "theater_name": "AMC Methuen 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551231909,
-      "date": "2026-06-16+21:20",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Downingtown",
-      "zip": "19335",
-      "theater_name": "Regal Downingtown",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 550590582,
-      "date": "2026-06-16+12:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "PA",
       "city": "Oaks",
@@ -64,21 +34,6 @@
       }
     },
     {
-      "state": "GA",
-      "city": "Buford",
-      "zip": "30519",
-      "theater_name": "Regal Mall of Georgia",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 550925608,
-      "date": "2026-06-16+22:35",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "FL",
       "city": "Tampa",
       "zip": "33647",
@@ -95,36 +50,6 @@
       }
     },
     {
-      "state": "KY",
-      "city": "Louisville",
-      "zip": "40241",
-      "theater_name": "Cinemark Tinseltown Louisville and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551456162,
-      "date": "2026-06-16+22:35",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Madison Heights",
-      "zip": "48071",
-      "theater_name": "AMC Star John R 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551316326,
-      "date": "2026-06-16+21:25",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "MN",
       "city": "Mounds View",
       "zip": "55112",
@@ -135,112 +60,6 @@
       "date": "2026-06-16+18:00",
       "format": "Standard",
       "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Frisco",
-      "zip": "75034",
-      "theater_name": "Cinemark Frisco Square and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551525385,
-      "date": "2026-06-16+21:55",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Plano",
-      "zip": "75093",
-      "theater_name": "Cinemark West Plano and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551454058,
-      "date": "2026-06-16+21:45",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Allen",
-      "zip": "75013",
-      "theater_name": "Cinemark Allen 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551525421,
-      "date": "2026-06-16+20:55",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Dallas",
-      "zip": "75234",
-      "theater_name": "Cinemark Dallas XD and IMAX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551305321,
-      "date": "2026-06-16+20:30",
-      "format": "Cinemark XD",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Cedar Park",
-      "zip": "78613",
-      "theater_name": "Cinemark Cedar Park",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 550632848,
-      "date": "2026-06-16+12:50",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Tracy",
-      "zip": "95376",
-      "theater_name": "Cinemark Tracy 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551216405,
-      "date": "2026-06-16+21:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Folsom",
-      "zip": "95630",
-      "theater_name": "CinemaWest Palladio 4DX, ScreenX, & GSL",
-      "chainName": "Cinema West",
-      "chainCode": "CWST",
-      "showtime_id": 550791249,
-      "date": "2026-06-16+21:35",
-      "format": "Standard",
-      "language": "Unknown",
       "error": {
         "status": 500,
         "reason": "No seats"
