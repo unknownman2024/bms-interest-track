@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16 05:12:51 PM",
+  "last_updated": "2026-06-16 11:02:47 PM",
   "errors": [
     {
       "state": "MA",
@@ -33,37 +33,6 @@
       }
     },
     {
-      "state": "NC",
-      "city": "Raleigh",
-      "zip": "27613",
-      "theater_name": "Cinemark Bistro Raleigh",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 550804208,
-      "date": "2026-06-17+20:40",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Boca Raton",
-      "zip": "33431",
-      "theater_name": "Cinemark Bistro Boca Raton and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 550964169,
-      "date": "2026-06-17+21:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
       "state": "FL",
       "city": "Tampa",
       "zip": "33647",
@@ -77,21 +46,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Niles",
-      "zip": "60714",
-      "theater_name": "Ciné Lounge at Niles",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 551722359,
-      "date": "2026-06-17+18:40",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -111,18 +65,19 @@
       }
     },
     {
-      "state": "OR",
-      "city": "Hillsboro",
-      "zip": "97123",
-      "theater_name": "Regal Movies On TV",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 550771370,
-      "date": "2026-06-17+21:20",
+      "state": "MA",
+      "city": "Boston",
+      "zip": "02111",
+      "theater_name": "AMC Boston Common 19",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-06-17+15:45",
       "format": "Standard",
       "language": "Telugu",
       "error": {
-        "status": 500
+        "status": 500,
+        "reason": "No seats"
       }
     }
   ]
