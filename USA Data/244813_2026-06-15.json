@@ -4616,5 +4616,21 @@
     "totalSeatCount": 135,
     "grossRevenueUSD": 187.59,
     "adultTicketPrice": 14.43
+  },
+  {
+    "state": "TX",
+    "city": "Frisco",
+    "zip": "75034",
+    "theater_name": "AMC Stonebriar 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 551804292,
+    "date": "2026-06-15+21:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
   }
 ]
