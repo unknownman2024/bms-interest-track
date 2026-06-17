@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17 04:52:53 PM",
+  "last_updated": "2026-06-17 09:42:58 PM",
   "errors": [
     {
       "state": "PA",
@@ -12,38 +12,6 @@
       "date": "2026-06-18+14:30",
       "format": "Standard",
       "language": "Unknown",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Livonia",
-      "zip": "48152",
-      "theater_name": "AMC Livonia 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551947983,
-      "date": "2026-06-18+14:15",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Livonia",
-      "zip": "48152",
-      "theater_name": "AMC Livonia 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551947982,
-      "date": "2026-06-18+18:15",
-      "format": "Standard",
-      "language": "Telugu",
       "error": {
         "status": 500,
         "reason": "No seats"
@@ -65,165 +33,14 @@
       }
     },
     {
-      "state": "IL",
-      "city": "Bloomington",
-      "zip": "61701",
-      "theater_name": "Marcus Bloomington Cinema + IMAX",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 552414438,
-      "date": "2026-06-18+13:40",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Plano",
-      "zip": "75025",
-      "theater_name": "Cinemark Legacy and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552243523,
-      "date": "2026-06-18+20:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Plano",
-      "zip": "75093",
-      "theater_name": "Cinemark West Plano and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552147814,
-      "date": "2026-06-18+11:15",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Lewisville",
-      "zip": "75067",
-      "theater_name": "Cinemark Lewisville and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551942096,
-      "date": "2026-06-18+10:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Dallas",
-      "zip": "75234",
-      "theater_name": "Cinemark Dallas XD and IMAX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551964893,
-      "date": "2026-06-18+10:55",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Katy",
-      "zip": "77449",
-      "theater_name": "Cinemark Katy and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551959900,
-      "date": "2026-06-18+10:05",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Katy",
-      "zip": "77449",
-      "theater_name": "Cinemark Katy and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551959901,
-      "date": "2026-06-18+14:10",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Katy",
-      "zip": "77449",
-      "theater_name": "Cinemark Katy and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551959902,
-      "date": "2026-06-18+18:10",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Katy",
-      "zip": "77449",
-      "theater_name": "Cinemark Katy and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551959903,
-      "date": "2026-06-18+22:20",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Orange",
-      "zip": "92867",
-      "theater_name": "Cinemark Century Orange and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551812087,
-      "date": "2026-06-18+10:20",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Orange",
-      "zip": "92867",
-      "theater_name": "Cinemark Century Orange and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 551812085,
-      "date": "2026-06-18+21:15",
+      "state": "MA",
+      "city": "Boston",
+      "zip": "02111",
+      "theater_name": "AMC Boston Common 19",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-06-18+12:00",
       "format": "Standard",
       "language": "Telugu",
       "error": {
