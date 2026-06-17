@@ -10,10 +10,12 @@
     "date": "2026-06-17+21:20",
     "format": "Standard",
     "language": "Malayalam",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 104,
+    "totalSeatCount": 104,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 7.95
   },
   {
     "state": "CA",
