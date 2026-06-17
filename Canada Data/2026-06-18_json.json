@@ -6,11 +6,11 @@
     "date": "2026-06-18",
     "time": "19:00",
     "total": 267,
-    "available": 192,
+    "available": 179,
     "blocked": 0,
-    "sold": 75,
-    "gross": 1425.0,
-    "gross_with_tax": 1425.0,
+    "sold": 88,
+    "gross": 1672.0,
+    "gross_with_tax": 1672.0,
     "per_ticket": {
       "net": 19.0,
       "tax": 0,
@@ -25,11 +25,11 @@
     "date": "2026-06-18",
     "time": "18:45",
     "total": 256,
-    "available": 250,
+    "available": 247,
     "blocked": 0,
-    "sold": 6,
-    "gross": 114.0,
-    "gross_with_tax": 114.0,
+    "sold": 9,
+    "gross": 171.0,
+    "gross_with_tax": 171.0,
     "per_ticket": {
       "net": 19.0,
       "tax": 0,
@@ -253,11 +253,11 @@
     "date": "2026-06-18",
     "time": "19:00",
     "total": 116,
-    "available": 116,
+    "available": 112,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0.0,
-    "gross_with_tax": 0.0,
+    "sold": 4,
+    "gross": 43.0,
+    "gross_with_tax": 43.0,
     "per_ticket": {
       "net": 10.75,
       "tax": 0,
@@ -272,11 +272,11 @@
     "date": "2026-06-18",
     "time": "18:30",
     "total": 129,
-    "available": 53,
+    "available": 50,
     "blocked": 0,
-    "sold": 76,
-    "gross": 1216.0,
-    "gross_with_tax": 1216.0,
+    "sold": 79,
+    "gross": 1264.0,
+    "gross_with_tax": 1264.0,
     "per_ticket": {
       "net": 16.0,
       "tax": 0,
@@ -320,6 +320,215 @@
       "tax": 0,
       "fee": 0,
       "grand": 15
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Peddi - Telugu",
+    "perfIx": "38943",
+    "date": "2026-06-18",
+    "time": "22:15",
+    "total": 171,
+    "available": 164,
+    "blocked": 0,
+    "sold": 7,
+    "gross": 112.0,
+    "gross_with_tax": 112.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Mollywood Times- Malayalam",
+    "perfIx": "38937",
+    "date": "2026-06-18",
+    "time": "22:30",
+    "total": 211,
+    "available": 132,
+    "blocked": 0,
+    "sold": 79,
+    "gross": 1264.0,
+    "gross_with_tax": 1264.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Mollywood Times- Malayalam",
+    "perfIx": "38938",
+    "date": "2026-06-18",
+    "time": "22:30",
+    "total": 240,
+    "available": 36,
+    "blocked": 0,
+    "sold": 204,
+    "gross": 4284.0,
+    "gross_with_tax": 4284.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Drishyam 3 - Malayalam",
+    "perfIx": "38939",
+    "date": "2026-06-18",
+    "time": "18:45",
+    "total": 171,
+    "available": 164,
+    "blocked": 0,
+    "sold": 7,
+    "gross": 112.0,
+    "gross_with_tax": 112.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Sing Geetham- Telugu",
+    "perfIx": "38935",
+    "date": "2026-06-18",
+    "time": "19:15",
+    "total": 211,
+    "available": 132,
+    "blocked": 0,
+    "sold": 79,
+    "gross": 1264.0,
+    "gross_with_tax": 1264.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Sing Geetham- Telugu",
+    "perfIx": "38936",
+    "date": "2026-06-18",
+    "time": "19:15",
+    "total": 240,
+    "available": 36,
+    "blocked": 0,
+    "sold": 204,
+    "gross": 4284.0,
+    "gross_with_tax": 4284.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Maa Inti Bangaaram- Telugu",
+    "perfIx": "38940",
+    "date": "2026-06-18",
+    "time": "22:30",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 817.0,
+    "gross_with_tax": 817.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Bharat Bhhagya Viddhaata- Hindi",
+    "perfIx": "38942",
+    "date": "2026-06-18",
+    "time": "18:00",
+    "total": 195,
+    "available": 187,
+    "blocked": 0,
+    "sold": 8,
+    "gross": 96.0,
+    "gross_with_tax": 96.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Governor: The Silent Saviour- Hindi",
+    "perfIx": "38941",
+    "date": "2026-06-18",
+    "time": "22:00",
+    "total": 195,
+    "available": 187,
+    "blocked": 0,
+    "sold": 8,
+    "gross": 96.0,
+    "gross_with_tax": 96.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Maa Inti Bangaaram- Telugu",
+    "perfIx": "16570",
+    "date": "2026-06-18",
+    "time": "22:15",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 19.0,
+    "gross_with_tax": 19.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Parimala and Co- Tamil",
+    "perfIx": "16569",
+    "date": "2026-06-18",
+    "time": "18:15",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
     }
   }
 ]
