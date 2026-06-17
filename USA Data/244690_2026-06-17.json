@@ -1,0 +1,36 @@
+[
+  {
+    "state": "IL",
+    "city": "Niles",
+    "zip": "60714",
+    "theater_name": "Cin\u00e9 Lounge at Niles",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 551722370,
+    "date": "2026-06-17+21:20",
+    "format": "Standard",
+    "language": "Malayalam",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Fremont",
+    "zip": "94538",
+    "theater_name": "Cin\u00e9 Lounge Fremont 7",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 552185805,
+    "date": "2026-06-17+17:50",
+    "format": "Standard",
+    "language": "Malayalam",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 49,
+    "totalSeatCount": 49,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 7.95
+  }
+]
