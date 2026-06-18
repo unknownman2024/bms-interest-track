@@ -6,11 +6,11 @@
     "date": "2026-06-18",
     "time": "19:00",
     "total": 267,
-    "available": 166,
+    "available": 156,
     "blocked": 0,
-    "sold": 101,
-    "gross": 1919.0,
-    "gross_with_tax": 1919.0,
+    "sold": 111,
+    "gross": 2109.0,
+    "gross_with_tax": 2109.0,
     "per_ticket": {
       "net": 19.0,
       "tax": 0,
@@ -25,11 +25,11 @@
     "date": "2026-06-18",
     "time": "18:45",
     "total": 256,
-    "available": 247,
+    "available": 246,
     "blocked": 0,
-    "sold": 9,
-    "gross": 171.0,
-    "gross_with_tax": 171.0,
+    "sold": 10,
+    "gross": 190.0,
+    "gross_with_tax": 190.0,
     "per_ticket": {
       "net": 19.0,
       "tax": 0,
@@ -310,11 +310,11 @@
     "date": "2026-06-18",
     "time": "00:00",
     "total": 62,
-    "available": 60,
+    "available": 58,
     "blocked": 0,
-    "sold": 2,
-    "gross": 30,
-    "gross_with_tax": 30,
+    "sold": 4,
+    "gross": 60,
+    "gross_with_tax": 60,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -595,11 +595,11 @@
     "date": "2026-06-18",
     "time": "18:45",
     "total": 263,
-    "available": 256,
+    "available": 253,
     "blocked": 0,
-    "sold": 7,
-    "gross": 112.0,
-    "gross_with_tax": 112.0,
+    "sold": 10,
+    "gross": 160.0,
+    "gross_with_tax": 160.0,
     "per_ticket": {
       "net": 16.0,
       "tax": 0,
@@ -662,6 +662,139 @@
       "tax": 0,
       "fee": 0,
       "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Peddi - Telugu",
+    "perfIx": "38944",
+    "date": "2026-06-18",
+    "time": "18:30",
+    "total": 282,
+    "available": 263,
+    "blocked": 0,
+    "sold": 19,
+    "gross": 361.0,
+    "gross_with_tax": 361.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Maa Inti Bangaaram- Telugu",
+    "perfIx": "38945",
+    "date": "2026-06-18",
+    "time": "22:00",
+    "total": 282,
+    "available": 261,
+    "blocked": 0,
+    "sold": 21,
+    "gross": 399.0,
+    "gross_with_tax": 399.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Haunted 3D Echoes of the past- Hindi",
+    "perfIx": "38948",
+    "date": "2026-06-18",
+    "time": "22:00",
+    "total": 235,
+    "available": 205,
+    "blocked": 0,
+    "sold": 30,
+    "gross": 360.0,
+    "gross_with_tax": 360.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Haunted 3D Echoes of the past- Hindi",
+    "perfIx": "38949",
+    "date": "2026-06-18",
+    "time": "22:00",
+    "total": 188,
+    "available": 12,
+    "blocked": 0,
+    "sold": 176,
+    "gross": 2992.0,
+    "gross_with_tax": 2992.0,
+    "per_ticket": {
+      "net": 17.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 17.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Governor: The Silent Saviour- Hindi",
+    "perfIx": "38947",
+    "date": "2026-06-18",
+    "time": "18:30",
+    "total": 235,
+    "available": 205,
+    "blocked": 0,
+    "sold": 30,
+    "gross": 360.0,
+    "gross_with_tax": 360.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Parimala and Co- Tamil",
+    "perfIx": "38946",
+    "date": "2026-06-18",
+    "time": "22:30",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 817.0,
+    "gross_with_tax": 817.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Peddi - Telugu",
+    "perfIx": "16571",
+    "date": "2026-06-18",
+    "time": "22:00",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
     }
   }
 ]
