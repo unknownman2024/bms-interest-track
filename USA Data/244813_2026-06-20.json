@@ -10,11 +10,11 @@
     "date": "2026-06-20+09:55",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 2,
-    "occupancy": 1.55,
-    "totalAvailableSeatCount": 127,
+    "totalSeatSold": 5,
+    "occupancy": 3.88,
+    "totalAvailableSeatCount": 124,
     "totalSeatCount": 129,
-    "grossRevenueUSD": 24.5,
+    "grossRevenueUSD": 61.25,
     "adultTicketPrice": 12.25
   },
   {
@@ -28,11 +28,11 @@
     "date": "2026-06-20+13:50",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 7,
-    "occupancy": 5.43,
-    "totalAvailableSeatCount": 122,
+    "totalSeatSold": 4,
+    "occupancy": 3.1,
+    "totalAvailableSeatCount": 125,
     "totalSeatCount": 129,
-    "grossRevenueUSD": 85.75,
+    "grossRevenueUSD": 49.0,
     "adultTicketPrice": 12.25
   },
   {
@@ -46,11 +46,11 @@
     "date": "2026-06-20+18:10",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 9,
-    "occupancy": 6.98,
-    "totalAvailableSeatCount": 120,
+    "totalSeatSold": 14,
+    "occupancy": 10.85,
+    "totalAvailableSeatCount": 115,
     "totalSeatCount": 129,
-    "grossRevenueUSD": 139.05,
+    "grossRevenueUSD": 216.3,
     "adultTicketPrice": 15.45
   },
   {
@@ -226,11 +226,11 @@
     "date": "2026-06-20+17:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 15,
-    "occupancy": 15.79,
-    "totalAvailableSeatCount": 80,
+    "totalSeatSold": 17,
+    "occupancy": 17.89,
+    "totalAvailableSeatCount": 78,
     "totalSeatCount": 95,
-    "grossRevenueUSD": 274.65,
+    "grossRevenueUSD": 311.27,
     "adultTicketPrice": 18.31
   },
   {
@@ -262,11 +262,11 @@
     "date": "2026-06-20+21:55",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 5,
-    "occupancy": 5.26,
-    "totalAvailableSeatCount": 90,
+    "totalSeatSold": 15,
+    "occupancy": 15.79,
+    "totalAvailableSeatCount": 80,
     "totalSeatCount": 95,
-    "grossRevenueUSD": 91.55,
+    "grossRevenueUSD": 274.65,
     "adultTicketPrice": 18.31
   },
   {
@@ -280,11 +280,11 @@
     "date": "2026-06-20+21:15",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 1,
-    "occupancy": 0.8,
-    "totalAvailableSeatCount": 124,
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 125,
     "totalSeatCount": 125,
-    "grossRevenueUSD": 16.87,
+    "grossRevenueUSD": 0.0,
     "adultTicketPrice": 16.87
   },
   {
@@ -550,11 +550,11 @@
     "date": "2026-06-20+19:35",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 1,
-    "occupancy": 1.82,
-    "totalAvailableSeatCount": 54,
+    "totalSeatSold": 4,
+    "occupancy": 7.27,
+    "totalAvailableSeatCount": 51,
     "totalSeatCount": 55,
-    "grossRevenueUSD": 14.61,
+    "grossRevenueUSD": 58.44,
     "adultTicketPrice": 14.61
   },
   {
@@ -610,5 +610,21 @@
     "totalSeatCount": 191,
     "grossRevenueUSD": 31.42,
     "adultTicketPrice": 15.71
+  },
+  {
+    "state": "KS",
+    "city": "Overland Park",
+    "zip": "66223",
+    "theater_name": "AMC Prairiefire 17",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": null,
+    "date": "2026-06-20+13:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
   }
 ]
