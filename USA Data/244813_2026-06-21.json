@@ -100,11 +100,11 @@
     "date": "2026-06-21+09:25",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 95,
+    "totalSeatSold": 1,
+    "occupancy": 1.05,
+    "totalAvailableSeatCount": 94,
     "totalSeatCount": 95,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 14.54,
     "adultTicketPrice": 14.54
   },
   {
@@ -136,11 +136,11 @@
     "date": "2026-06-21+17:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 8,
-    "occupancy": 8.42,
-    "totalAvailableSeatCount": 87,
+    "totalSeatSold": 14,
+    "occupancy": 14.74,
+    "totalAvailableSeatCount": 81,
     "totalSeatCount": 95,
-    "grossRevenueUSD": 146.48,
+    "grossRevenueUSD": 256.34,
     "adultTicketPrice": 18.31
   },
   {
@@ -514,11 +514,11 @@
     "date": "2026-06-21+11:15",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 78,
+    "totalSeatSold": 7,
+    "occupancy": 8.97,
+    "totalAvailableSeatCount": 71,
     "totalSeatCount": 78,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 62.65,
     "adultTicketPrice": 8.95
   },
   {
@@ -538,5 +538,39 @@
     "totalSeatCount": 191,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 15.71
+  },
+  {
+    "state": "VA",
+    "city": "Ashburn",
+    "zip": "20148",
+    "theater_name": "Regal Fox 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 552243788,
+    "date": "2026-06-21+13:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 2,
+    "occupancy": 3.33,
+    "totalAvailableSeatCount": 58,
+    "totalSeatCount": 60,
+    "grossRevenueUSD": 26.98,
+    "adultTicketPrice": 13.49
+  },
+  {
+    "state": "KS",
+    "city": "Overland Park",
+    "zip": "66223",
+    "theater_name": "AMC Prairiefire 17",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": null,
+    "date": "2026-06-21+13:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
   }
 ]
