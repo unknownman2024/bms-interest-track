@@ -1,4 +1,21 @@
 {
-  "last_updated": "2026-06-21 08:12:12 PM",
-  "errors": []
+  "last_updated": "2026-06-21 10:35:15 PM",
+  "errors": [
+    {
+      "state": "KS",
+      "city": "Overland Park",
+      "zip": "66223",
+      "theater_name": "AMC Prairiefire 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-06-22+13:35",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
 }

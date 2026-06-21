@@ -190,11 +190,11 @@
     "date": "2026-06-22+13:40",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 17,
-    "occupancy": 17.89,
-    "totalAvailableSeatCount": 78,
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 95,
     "totalSeatCount": 95,
-    "grossRevenueUSD": 247.18,
+    "grossRevenueUSD": 0.0,
     "adultTicketPrice": 14.54
   },
   {
@@ -538,5 +538,21 @@
     "totalSeatCount": 141,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 15.71
+  },
+  {
+    "state": "KS",
+    "city": "Overland Park",
+    "zip": "66223",
+    "theater_name": "AMC Prairiefire 17",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": null,
+    "date": "2026-06-22+13:35",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
   }
 ]
