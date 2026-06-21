@@ -3,7 +3,7 @@ name: USA Peddi Premieres Scraper
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 */2 * * *"
+    - cron: "30 */3 * * *"
 
 jobs:
   run-scraper:
