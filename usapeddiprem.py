@@ -14,12 +14,12 @@ from zoneinfo import ZoneInfo
 
 # CONFIG
 
-RELEASE_DATE = date(2026, 6, 3)
-TARGET_MOVIE_ID = 244813
+RELEASE_DATE = date(2026, 6, 26)
+TARGET_MOVIE_ID = 246018
 
 # Change for different movie
 # CODE BY BFILMY - DONT REMOVE
-
+#246018for W T T J 3
 # Get current date in USA Pacific Time
 now_pst = datetime.now(ZoneInfo("America/Los_Angeles")).date()
 # Logic for DATE
