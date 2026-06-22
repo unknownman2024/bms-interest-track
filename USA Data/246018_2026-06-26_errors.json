@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23 02:50:05 AM",
+  "last_updated": "2026-06-23 04:31:02 AM",
   "errors": [
     {
       "state": "NY",
@@ -42,6 +42,38 @@
       "chainCode": "AMC",
       "showtime_id": 552593531,
       "date": "2026-06-26+19:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Terre Haute",
+      "zip": "47802",
+      "theater_name": "AMC CLASSIC Terre Haute 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 552700291,
+      "date": "2026-06-26+12:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Terre Haute",
+      "zip": "47802",
+      "theater_name": "AMC CLASSIC Terre Haute 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 552700289,
+      "date": "2026-06-26+20:00",
       "format": "Standard",
       "language": "Hindi",
       "error": {
