@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24 02:01:54 AM",
+  "last_updated": "2026-06-24 04:15:56 AM",
   "errors": [
     {
       "state": "NY",
@@ -162,21 +162,6 @@
       }
     },
     {
-      "state": "VA",
-      "city": "Roanoke",
-      "zip": "24012",
-      "theater_name": "Regal Valley View Grande",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 553127275,
-      "date": "2026-06-26+10:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "GA",
       "city": "Atlanta",
       "zip": "30338",
@@ -270,6 +255,53 @@
       "error": {
         "status": 500,
         "reason": "No seats"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Johnson City",
+      "zip": "37601",
+      "theater_name": "AMC Johnson City 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 553192032,
+      "date": "2026-06-26+14:40",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 552969227,
+      "date": "2026-06-26+21:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Crestwood",
+      "zip": "60148",
+      "theater_name": "AMC Crestwood 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 552947753,
+      "date": "2026-06-26+18:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500
       }
     }
   ]
