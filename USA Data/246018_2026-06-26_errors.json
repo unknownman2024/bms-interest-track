@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23 09:01:45 PM",
+  "last_updated": "2026-06-23 10:59:11 PM",
   "errors": [
     {
       "state": "NY",
@@ -106,6 +106,54 @@
       "chainCode": "REGL",
       "showtime_id": 552922092,
       "date": "2026-06-26+21:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema D-Box & OCX",
+      "chainName": "INDY Cinema Group",
+      "chainCode": "INDY",
+      "showtime_id": 552987040,
+      "date": "2026-06-26+12:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema D-Box & OCX",
+      "chainName": "INDY Cinema Group",
+      "chainCode": "INDY",
+      "showtime_id": 552987041,
+      "date": "2026-06-26+19:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Fort Worth",
+      "zip": "76135",
+      "theater_name": "AMC Lake Worth 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 552958761,
+      "date": "2026-06-26+15:45",
       "format": "Standard",
       "language": "Hindi",
       "error": {
