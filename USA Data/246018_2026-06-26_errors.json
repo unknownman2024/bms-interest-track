@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23 03:40:27 PM",
+  "last_updated": "2026-06-23 09:01:45 PM",
   "errors": [
     {
       "state": "NY",
@@ -82,16 +82,32 @@
       }
     },
     {
-      "state": "IL",
-      "city": "Naperville",
-      "zip": "60564",
-      "theater_name": "AMC Naperville 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552803354,
-      "date": "2026-06-26+21:00",
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 552922042,
+      "date": "2026-06-26+17:40",
       "format": "Standard",
-      "language": "Unknown",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 552922092,
+      "date": "2026-06-26+21:45",
+      "format": "Standard",
+      "language": "Hindi",
       "error": {
         "status": 500,
         "reason": "No seats"
