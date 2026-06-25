@@ -10,7 +10,9 @@ import re
 # ---------------- DATE LOGIC ---------------- #
 
 CINEPLEX_FILMS = {
-    61236: {"atp": 15, "name": "Peddi - Hindi"},
+    61570: {"atp": 15, "name": "Welcome to the Jungle- Hindi"},
+    61465: {"atp": 15, "name": "Carry On Jatta 4- Punjabi"},
+    
 }
 
 
