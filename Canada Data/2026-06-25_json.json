@@ -25,11 +25,11 @@
     "date": "2026-06-25",
     "time": "18:30",
     "total": 158,
-    "available": 158,
+    "available": 153,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0.0,
-    "gross_with_tax": 0.0,
+    "sold": 5,
+    "gross": 55.0,
+    "gross_with_tax": 55.0,
     "per_ticket": {
       "net": 11.0,
       "tax": 0,
@@ -177,11 +177,11 @@
     "date": "2026-06-25",
     "time": "18:45",
     "total": 282,
-    "available": 263,
+    "available": 261,
     "blocked": 0,
-    "sold": 19,
-    "gross": 361.0,
-    "gross_with_tax": 361.0,
+    "sold": 21,
+    "gross": 399.0,
+    "gross_with_tax": 399.0,
     "per_ticket": {
       "net": 19.0,
       "tax": 0,
@@ -313,13 +313,13 @@
     "available": 224,
     "blocked": 0,
     "sold": 43,
-    "gross": 903.0,
-    "gross_with_tax": 903.0,
+    "gross": 817.0,
+    "gross_with_tax": 817.0,
     "per_ticket": {
-      "net": 21.0,
+      "net": 19.0,
       "tax": 0,
       "fee": 0,
-      "grand": 21.0
+      "grand": 19.0
     }
   },
   {
@@ -332,13 +332,13 @@
     "available": 224,
     "blocked": 0,
     "sold": 43,
-    "gross": 903.0,
-    "gross_with_tax": 903.0,
+    "gross": 817.0,
+    "gross_with_tax": 817.0,
     "per_ticket": {
-      "net": 21.0,
+      "net": 19.0,
       "tax": 0,
       "fee": 0,
-      "grand": 21.0
+      "grand": 19.0
     }
   },
   {
@@ -499,12 +499,12 @@
     "perfIx": "40365",
     "date": "2026-06-25",
     "time": "18:15",
-    "total": 183,
-    "available": 183,
+    "total": 141,
+    "available": 139,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0.0,
-    "gross_with_tax": 0.0,
+    "sold": 2,
+    "gross": 32.0,
+    "gross_with_tax": 32.0,
     "per_ticket": {
       "net": 16.0,
       "tax": 0,
@@ -662,6 +662,25 @@
       "tax": 0,
       "fee": 0,
       "grand": 18.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Balan: The Boy- Malayalam",
+    "perfIx": "40408",
+    "date": "2026-06-25",
+    "time": "18:15",
+    "total": 183,
+    "available": 183,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
     }
   }
 ]
