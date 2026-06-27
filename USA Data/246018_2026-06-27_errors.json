@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-06-27 02:41:48 PM",
+  "last_updated": "2026-06-27 04:41:13 PM",
   "errors": [
-    {
-      "state": "NJ",
-      "city": "North Brunswick",
-      "zip": "08902",
-      "theater_name": "Regal Commerce Center",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 553436229,
-      "date": "2026-06-27+20:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "PA",
       "city": "Oaks",
@@ -49,66 +34,6 @@
       }
     },
     {
-      "state": "MD",
-      "city": "Hanover",
-      "zip": "21076",
-      "theater_name": "Cinemark Egyptian 24 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 553360194,
-      "date": "2026-06-27+21:55",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Hampton",
-      "zip": "23666",
-      "theater_name": "AMC Hampton Towne Centre 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 553184157,
-      "date": "2026-06-27+18:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Charlotte",
-      "zip": "28277",
-      "theater_name": "Regal Stonecrest at Piper Glen",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 553173215,
-      "date": "2026-06-27+15:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Charlotte",
-      "zip": "28277",
-      "theater_name": "Regal Stonecrest at Piper Glen",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 553173170,
-      "date": "2026-06-27+22:35",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "GA",
       "city": "Augusta",
       "zip": "30909",
@@ -122,36 +47,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Atlanta",
-      "zip": "30338",
-      "theater_name": "Regal Perimeter Pointe",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 553190200,
-      "date": "2026-06-27+17:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Gainesville",
-      "zip": "32608",
-      "theater_name": "Regal Butler Town Center",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 552540036,
-      "date": "2026-06-27+14:25",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -344,37 +239,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "MO",
-      "city": "Saint Peters",
-      "zip": "63376",
-      "theater_name": "Marcus Mid Rivers Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 552686778,
-      "date": "2026-06-27+21:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Frisco",
-      "zip": "75034",
-      "theater_name": "Cinemark Frisco Square and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552996478,
-      "date": "2026-06-27+12:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
