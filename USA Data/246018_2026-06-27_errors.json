@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27 10:07:59 PM",
+  "last_updated": "2026-06-28 01:22:43 AM",
   "errors": [
     {
       "state": "PA",
@@ -287,21 +287,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Tucson",
-      "zip": "85716",
-      "theater_name": "Cinemark Century El Con 20 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 553139442,
-      "date": "2026-06-27+18:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
       }
     }
   ]
