@@ -1,36 +1,6 @@
 {
-  "last_updated": "2026-06-28 03:12:05 PM",
+  "last_updated": "2026-06-28 07:52:35 PM",
   "errors": [
-    {
-      "state": "MA",
-      "city": "Cambridge",
-      "zip": "02138",
-      "theater_name": "Apple Cinemas Cambridge",
-      "chainName": "Apple Cinemas",
-      "chainCode": "APPL",
-      "showtime_id": 552916306,
-      "date": "2026-06-28+21:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Secaucus",
-      "zip": "07094",
-      "theater_name": "Regal Secaucus ShowPlace 14",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 553081462,
-      "date": "2026-06-28+18:25",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "PA",
       "city": "Oaks",
@@ -104,22 +74,6 @@
       "chainCode": "AMC",
       "showtime_id": 551921407,
       "date": "2026-06-28+20:20",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Davie",
-      "zip": "33331",
-      "theater_name": "Cinemark Paradise 24 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 553321273,
-      "date": "2026-06-28+14:45",
       "format": "Standard",
       "language": "Hindi",
       "error": {
@@ -288,51 +242,6 @@
       }
     },
     {
-      "state": "KS",
-      "city": "Wichita",
-      "zip": "67206",
-      "theater_name": "Regal Warren East",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 552880932,
-      "date": "2026-06-28+20:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Plano",
-      "zip": "75025",
-      "theater_name": "Cinemark Legacy and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 553204339,
-      "date": "2026-06-28+11:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CO",
-      "city": "Westminster",
-      "zip": "80020",
-      "theater_name": "AMC Westminster Promenade 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 553228904,
-      "date": "2026-06-28+18:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "AZ",
       "city": "Phoenix",
       "zip": "85027",
@@ -346,66 +255,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Peoria",
-      "zip": "85382",
-      "theater_name": "Harkins Arrowhead Fountains 18",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 553271668,
-      "date": "2026-06-28+17:35",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Torrance",
-      "zip": "90505",
-      "theater_name": "AMC Rolling Hills 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552857713,
-      "date": "2026-06-28+17:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Orange",
-      "zip": "92868",
-      "theater_name": "AMC Orange 30 (AMC Block 30)",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552771529,
-      "date": "2026-06-28+12:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Folsom",
-      "zip": "95630",
-      "theater_name": "Cinemark Century Folsom 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 553200128,
-      "date": "2026-06-28+15:35",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     }
   ]
