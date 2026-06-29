@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-06-29 05:01:05 PM",
+  "last_updated": "2026-06-29 09:47:23 PM",
   "errors": [
-    {
-      "state": "NJ",
-      "city": "Burlington",
-      "zip": "08016",
-      "theater_name": "Regal Burlington",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 553106612,
-      "date": "2026-06-29+20:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "PA",
       "city": "Oaks",
@@ -82,21 +67,6 @@
     },
     {
       "state": "FL",
-      "city": "Jacksonville",
-      "zip": "32225",
-      "theater_name": "AMC Regency 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551415563,
-      "date": "2026-06-29+21:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
       "city": "Pensacola",
       "zip": "32505",
       "theater_name": "AMC CLASSIC Pensacola 18",
@@ -125,21 +95,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Nashville",
-      "zip": "37204",
-      "theater_name": "Regal Hollywood – Nashville",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 552912793,
-      "date": "2026-06-29+17:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -214,38 +169,6 @@
       "chainCode": "AMC",
       "showtime_id": 552593534,
       "date": "2026-06-29+17:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Grapevine",
-      "zip": "76051",
-      "theater_name": "AMC Grapevine Mills 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551872696,
-      "date": "2026-06-29+17:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Mesa",
-      "zip": "85201",
-      "theater_name": "Cinemark Mesa 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 553356169,
-      "date": "2026-06-29+09:50",
       "format": "Standard",
       "language": "Hindi",
       "error": {
