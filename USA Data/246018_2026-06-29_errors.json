@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30 04:06:36 AM",
+  "last_updated": "2026-06-30 10:12:44 AM",
   "errors": [
     {
       "state": "PA",
@@ -153,6 +153,22 @@
       "chainCode": "AMC",
       "showtime_id": 552593534,
       "date": "2026-06-29+17:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 552969351,
+      "date": "2026-06-29+21:00",
       "format": "Standard",
       "language": "Hindi",
       "error": {
