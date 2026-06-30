@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30 03:37:29 PM",
+  "last_updated": "2026-06-30 08:39:28 PM",
   "errors": [
     {
       "state": "PA",
@@ -34,21 +34,6 @@
       }
     },
     {
-      "state": "VA",
-      "city": "Newport News",
-      "zip": "23606",
-      "theater_name": "Cinemark City Center and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 553385542,
-      "date": "2026-06-30+19:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "NC",
       "city": "Fayetteville",
       "zip": "28314",
@@ -62,21 +47,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "SC",
-      "city": "Columbia",
-      "zip": "29212",
-      "theater_name": "AMC Harbison 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552828196,
-      "date": "2026-06-30+21:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -144,21 +114,6 @@
       }
     },
     {
-      "state": "AL",
-      "city": "Mobile",
-      "zip": "36695",
-      "theater_name": "AMC Mobile 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552571749,
-      "date": "2026-06-30+21:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "TN",
       "city": "Murfreesboro",
       "zip": "37128",
@@ -172,21 +127,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Mason",
-      "zip": "45040",
-      "theater_name": "Regal Deerfield Town Center & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 552995338,
-      "date": "2026-06-30+21:55",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -254,29 +194,14 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Fremont",
-      "zip": "94538",
-      "theater_name": "Cinemark Century at Pacific Commons and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 553463091,
-      "date": "2026-06-30+21:25",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Elk Grove",
-      "zip": "95758",
-      "theater_name": "Cinemark Century Laguna 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 553185953,
-      "date": "2026-06-30+21:05",
+      "state": "AZ",
+      "city": "Flagstaff",
+      "zip": "86004",
+      "theater_name": "Harkins Flagstaff 16",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 553272171,
+      "date": "2026-06-30+21:00",
       "format": "Standard",
       "language": "Hindi",
       "error": {
