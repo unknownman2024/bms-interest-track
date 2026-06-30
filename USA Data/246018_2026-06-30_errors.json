@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30 08:39:28 PM",
+  "last_updated": "2026-06-30 10:53:53 PM",
   "errors": [
     {
       "state": "PA",
@@ -191,21 +191,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Flagstaff",
-      "zip": "86004",
-      "theater_name": "Harkins Flagstaff 16",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 553272171,
-      "date": "2026-06-30+21:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     }
   ]
