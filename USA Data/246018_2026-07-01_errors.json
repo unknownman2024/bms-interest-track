@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01 03:59:19 PM",
+  "last_updated": "2026-07-01 08:50:29 PM",
   "errors": [
     {
       "state": "PA",
@@ -83,22 +83,6 @@
     },
     {
       "state": "GA",
-      "city": "Alpharetta",
-      "zip": "30022",
-      "theater_name": "AMC North Point Mall 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 552724598,
-      "date": "2026-07-01+22:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "GA",
       "city": "Columbus",
       "zip": "31904",
       "theater_name": "AMC Ritz 13",
@@ -131,21 +115,6 @@
     },
     {
       "state": "TN",
-      "city": "Nashville",
-      "zip": "37204",
-      "theater_name": "Regal Hollywood – Nashville",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 553420953,
-      "date": "2026-07-01+20:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TN",
       "city": "Murfreesboro",
       "zip": "37128",
       "theater_name": "AMC CLASSIC Murfreesboro 16",
@@ -174,52 +143,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "KS",
-      "city": "Wichita",
-      "zip": "67206",
-      "theater_name": "Regal Warren East",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 553365550,
-      "date": "2026-07-01+21:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Fremont",
-      "zip": "94538",
-      "theater_name": "Cinemark Century at Pacific Commons and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 553774503,
-      "date": "2026-07-01+21:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Dublin",
-      "zip": "94568",
-      "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 553477442,
-      "date": "2026-07-01+17:20",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     }
   ]
