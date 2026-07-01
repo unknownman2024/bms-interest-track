@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01 10:59:13 PM",
+  "last_updated": "2026-07-02 01:53:07 AM",
   "errors": [
     {
       "state": "PA",
@@ -130,14 +130,29 @@
       }
     },
     {
+      "state": "NJ",
+      "city": "North Brunswick",
+      "zip": "08902",
+      "theater_name": "Regal Commerce Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 554273000,
+      "date": "2026-07-01+21:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500
+      }
+    },
+    {
       "state": "IL",
-      "city": "South Barrington",
-      "zip": "60010",
-      "theater_name": "AMC South Barrington 24",
+      "city": "Schaumburg",
+      "zip": "60173",
+      "theater_name": "AMC Loews Streets Of Woodfield 20",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 554268840,
-      "date": "2026-07-01+22:25",
+      "showtime_id": 554268854,
+      "date": "2026-07-01+21:40",
       "format": "Standard",
       "language": "Hindi",
       "error": {
