@@ -975,11 +975,11 @@
     "date": "2026-07-04",
     "time": "00:00",
     "total": 227,
-    "available": 213,
+    "available": 210,
     "blocked": 0,
-    "sold": 14,
-    "gross": 210,
-    "gross_with_tax": 210,
+    "sold": 17,
+    "gross": 255,
+    "gross_with_tax": 255,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -2970,11 +2970,11 @@
     "date": "2026-07-04",
     "time": "00:00",
     "total": 146,
-    "available": 140,
+    "available": 136,
     "blocked": 0,
-    "sold": 6,
-    "gross": 90,
-    "gross_with_tax": 90,
+    "sold": 10,
+    "gross": 150,
+    "gross_with_tax": 150,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -4386,6 +4386,44 @@
       "tax": 0,
       "fee": 0,
       "grand": 15
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Nagabandham - The Secret Treasure- Telugu",
+    "perfIx": "16649",
+    "date": "2026-07-04",
+    "time": "15:30",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Alpha- Hindi",
+    "perfIx": "16654",
+    "date": "2026-07-04",
+    "time": "19:15",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
     }
   }
 ]
