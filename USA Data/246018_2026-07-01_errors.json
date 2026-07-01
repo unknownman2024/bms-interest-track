@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02 01:53:07 AM",
+  "last_updated": "2026-07-02 04:17:13 AM",
   "errors": [
     {
       "state": "PA",
@@ -130,33 +130,51 @@
       }
     },
     {
-      "state": "NJ",
-      "city": "North Brunswick",
-      "zip": "08902",
-      "theater_name": "Regal Commerce Center",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 554273000,
-      "date": "2026-07-01+21:50",
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 553681674,
+      "date": "2026-07-01+11:15",
       "format": "Standard",
       "language": "Hindi",
       "error": {
-        "status": 500
+        "status": 500,
+        "reason": "No seats"
       }
     },
     {
-      "state": "IL",
-      "city": "Schaumburg",
-      "zip": "60173",
-      "theater_name": "AMC Loews Streets Of Woodfield 20",
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 554268854,
-      "date": "2026-07-01+21:40",
+      "showtime_id": 554210770,
+      "date": "2026-07-01+15:10",
       "format": "Standard",
       "language": "Hindi",
       "error": {
-        "status": 500
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 553681650,
+      "date": "2026-07-01+16:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
       }
     }
   ]
