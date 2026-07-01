@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01 08:50:29 PM",
+  "last_updated": "2026-07-01 10:59:13 PM",
   "errors": [
     {
       "state": "PA",
@@ -58,22 +58,6 @@
       "chainCode": "REGL",
       "showtime_id": 553390673,
       "date": "2026-07-01+21:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Duluth",
-      "zip": "30097",
-      "theater_name": "Regal Medlock Crossing",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 553478288,
-      "date": "2026-07-01+13:55",
       "format": "Standard",
       "language": "Hindi",
       "error": {
@@ -143,6 +127,21 @@
       "error": {
         "status": 500,
         "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554268840,
+      "date": "2026-07-01+22:25",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500
       }
     }
   ]
