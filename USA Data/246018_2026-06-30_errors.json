@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01 04:20:37 AM",
+  "last_updated": "2026-07-01 10:32:04 AM",
   "errors": [
     {
       "state": "PA",
@@ -186,6 +186,70 @@
       "chainCode": "CNMK",
       "showtime_id": 553439928,
       "date": "2026-06-30+09:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Hanover",
+      "zip": "21076",
+      "theater_name": "Cinemark Egyptian 24 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 553921524,
+      "date": "2026-06-30+22:35",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Grapevine",
+      "zip": "76051",
+      "theater_name": "Cinemark Tinseltown Grapevine and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 554034456,
+      "date": "2026-06-30+21:10",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Grapevine",
+      "zip": "76051",
+      "theater_name": "Cinemark Tinseltown Grapevine and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 554129417,
+      "date": "2026-06-30+22:20",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Stafford",
+      "zip": "77477",
+      "theater_name": "AMC Loews Fountains 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554116110,
+      "date": "2026-06-30+22:15",
       "format": "Standard",
       "language": "Hindi",
       "error": {
