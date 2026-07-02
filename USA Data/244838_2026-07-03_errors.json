@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03 01:33:16 AM",
+  "last_updated": "2026-07-03 04:08:34 AM",
   "errors": [
     {
       "state": "PA",
@@ -175,66 +175,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Milpitas",
-      "zip": "95035",
-      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552860899,
-      "date": "2026-07-03+09:20",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Daly City",
-      "zip": "94015",
-      "theater_name": "Cinemark Century Daly City 20 XD and IMAX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 554015334,
-      "date": "2026-07-03+11:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OR",
-      "city": "Beaverton",
-      "zip": "97005",
-      "theater_name": "Cinemark Cedar Hills 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 553666852,
-      "date": "2026-07-03+18:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OR",
-      "city": "Clackamas",
-      "zip": "97086",
-      "theater_name": "Cinemark Clackamas Town Center and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 553695808,
-      "date": "2026-07-03+18:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
