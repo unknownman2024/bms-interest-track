@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-07-02 03:12:30 PM",
+  "last_updated": "2026-07-02 08:07:27 PM",
   "errors": [
-    {
-      "state": "GA",
-      "city": "Lawrenceville",
-      "zip": "30043",
-      "theater_name": "AMC Colonial 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 553614281,
-      "date": "2026-07-02+19:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "FL",
       "city": "Tampa",
@@ -33,34 +18,19 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Mountain View",
-      "zip": "94043",
-      "theater_name": "Cinemark Century Mountain View 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 553692070,
-      "date": "2026-07-02+18:00",
+      "state": "PA",
+      "city": "Bensalem",
+      "zip": "19020",
+      "theater_name": "AMC Neshaminy 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-07-02+11:30",
       "format": "Standard",
       "language": "Hindi",
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Elk Grove",
-      "zip": "95758",
-      "theater_name": "Cinemark Century Laguna 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 553837606,
-      "date": "2026-07-02+12:25",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     }
   ]
