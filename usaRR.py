@@ -13,11 +13,11 @@ from datetime import datetime, date, timedelta
 from zoneinfo import ZoneInfo
 # CONFIG
 
-RELEASE_DATE = date(2026, 6, 4)
-TARGET_MOVIE_ID = 244813
+RELEASE_DATE = date(2026, 7, 3)
+TARGET_MOVIE_ID = 244838
 
 # Change for different movie
-# 244813 Peddi
+# 244838 alpha
 # CODE BY BFILMY - DONT REMOVE
 
 # Get current date in USA Pacific Time (+1 day advance mode)
