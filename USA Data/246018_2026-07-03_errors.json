@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03 08:09:42 PM",
+  "last_updated": "2026-07-03 10:22:40 PM",
   "errors": [
     {
       "state": "PA",
@@ -26,6 +26,22 @@
       "chainCode": "AMC",
       "showtime_id": 554165243,
       "date": "2026-07-03+21:10",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Hanover",
+      "zip": "21076",
+      "theater_name": "Cinemark Egyptian 24 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": null,
+      "date": "2026-07-03+15:15",
       "format": "Standard",
       "language": "Hindi",
       "error": {
