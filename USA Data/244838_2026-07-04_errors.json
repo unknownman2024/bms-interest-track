@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03 03:14:08 PM",
+  "last_updated": "2026-07-03 08:12:31 PM",
   "errors": [
     {
       "state": "PA",
@@ -115,21 +115,6 @@
     },
     {
       "state": "FL",
-      "city": "Gainesville",
-      "zip": "32608",
-      "theater_name": "Regal Butler Town Center",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 554280304,
-      "date": "2026-07-04+20:40",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
       "city": "Tampa",
       "zip": "33647",
       "theater_name": "AMC Highwoods 20",
@@ -158,21 +143,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Nashville",
-      "zip": "37204",
-      "theater_name": "Regal Hollywood – Nashville",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 553875855,
-      "date": "2026-07-04+16:55",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -207,36 +177,6 @@
       }
     },
     {
-      "state": "IN",
-      "city": "Carmel",
-      "zip": "46033",
-      "theater_name": "Regal Village Park",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 553652373,
-      "date": "2026-07-04+10:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Niles",
-      "zip": "60714",
-      "theater_name": "Ciné Lounge at Niles",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "showtime_id": 553861123,
-      "date": "2026-07-04+19:25",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "TX",
       "city": "Garland",
       "zip": "75040",
@@ -250,96 +190,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Plano",
-      "zip": "75093",
-      "theater_name": "Cinemark West Plano and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552538612,
-      "date": "2026-07-04+22:25",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "McKinney",
-      "zip": "75071",
-      "theater_name": "Cinemark North McKinney and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 553697914,
-      "date": "2026-07-04+22:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Sugar Land",
-      "zip": "77479",
-      "theater_name": "AMC First Colony 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551255107,
-      "date": "2026-07-04+19:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Marcos",
-      "zip": "92069",
-      "theater_name": "Regal Edwards San Marcos",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 553824059,
-      "date": "2026-07-04+13:20",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Marcos",
-      "zip": "92069",
-      "theater_name": "Regal Edwards San Marcos",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 553824061,
-      "date": "2026-07-04+20:40",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Elk Grove",
-      "zip": "95758",
-      "theater_name": "Cinemark Century Laguna 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 553837748,
-      "date": "2026-07-04+11:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     }
   ]
