@@ -2609,11 +2609,11 @@
     "date": "2026-07-05",
     "time": "00:00",
     "total": 69,
-    "available": 69,
+    "available": 67,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
-    "gross_with_tax": 0,
+    "sold": 2,
+    "gross": 30,
+    "gross_with_tax": 30,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -4215,6 +4215,63 @@
       "tax": 0,
       "fee": 0,
       "grand": 15
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Maa Inti Bangaaram- Telugu",
+    "perfIx": "40467",
+    "date": "2026-07-05",
+    "time": "15:30",
+    "total": 183,
+    "available": 183,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Nagabandham - The Secret Treasure- Telugu",
+    "perfIx": "40469",
+    "date": "2026-07-05",
+    "time": "21:45",
+    "total": 263,
+    "available": 263,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Balan: The Boy- Malayalam",
+    "perfIx": "40465",
+    "date": "2026-07-05",
+    "time": "22:00",
+    "total": 183,
+    "available": 183,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
     }
   }
 ]
