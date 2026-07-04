@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04 04:02:57 AM",
+  "last_updated": "2026-07-04 09:40:31 AM",
   "errors": [
     {
       "state": "PA",
@@ -42,6 +42,38 @@
       "chainCode": "CNMK",
       "showtime_id": null,
       "date": "2026-07-03+15:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Union City",
+      "zip": "94587",
+      "theater_name": "Cinemark Century Union Landing 25 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 554352916,
+      "date": "2026-07-03+20:05",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Union City",
+      "zip": "94587",
+      "theater_name": "Cinemark Century Union Landing 25 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 554357620,
+      "date": "2026-07-03+20:25",
       "format": "Standard",
       "language": "Hindi",
       "error": {

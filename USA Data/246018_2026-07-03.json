@@ -2076,11 +2076,11 @@
     "date": "2026-07-03+21:30",
     "format": "Standard",
     "language": "Unknown",
-    "totalSeatSold": 10,
-    "occupancy": 11.36,
-    "totalAvailableSeatCount": 78,
+    "totalSeatSold": 29,
+    "occupancy": 32.95,
+    "totalAvailableSeatCount": 59,
     "totalSeatCount": 88,
-    "grossRevenueUSD": 155.0,
+    "grossRevenueUSD": 449.5,
     "adultTicketPrice": 15.5
   },
   {
@@ -2130,11 +2130,11 @@
     "date": "2026-07-03+22:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 16,
-    "occupancy": 32.65,
-    "totalAvailableSeatCount": 33,
+    "totalSeatSold": 29,
+    "occupancy": 59.18,
+    "totalAvailableSeatCount": 20,
     "totalSeatCount": 49,
-    "grossRevenueUSD": 287.84,
+    "grossRevenueUSD": 521.71,
     "adultTicketPrice": 17.99
   },
   {
@@ -2202,11 +2202,11 @@
     "date": "2026-07-03+22:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 3,
-    "occupancy": 2.27,
-    "totalAvailableSeatCount": 129,
+    "totalSeatSold": 22,
+    "occupancy": 16.67,
+    "totalAvailableSeatCount": 110,
     "totalSeatCount": 132,
-    "grossRevenueUSD": 48.75,
+    "grossRevenueUSD": 357.5,
     "adultTicketPrice": 16.25
   },
   {
@@ -2310,11 +2310,11 @@
     "date": "2026-07-03+22:45",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 51,
+    "totalSeatSold": 11,
+    "occupancy": 21.57,
+    "totalAvailableSeatCount": 40,
     "totalSeatCount": 51,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 159.5,
     "adultTicketPrice": 14.5
   },
   {
@@ -2508,11 +2508,11 @@
     "date": "2026-07-03+21:45",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 4,
-    "occupancy": 3.25,
-    "totalAvailableSeatCount": 119,
+    "totalSeatSold": 15,
+    "occupancy": 12.2,
+    "totalAvailableSeatCount": 108,
     "totalSeatCount": 123,
-    "grossRevenueUSD": 62.96,
+    "grossRevenueUSD": 236.1,
     "adultTicketPrice": 15.74
   },
   {
@@ -2602,5 +2602,37 @@
     "totalSeatCount": 78,
     "grossRevenueUSD": 493.0,
     "adultTicketPrice": 14.5
+  },
+  {
+    "state": "CA",
+    "city": "Union City",
+    "zip": "94587",
+    "theater_name": "Cinemark Century Union Landing 25 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 554352916,
+    "date": "2026-07-03+20:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Union City",
+    "zip": "94587",
+    "theater_name": "Cinemark Century Union Landing 25 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 554357620,
+    "date": "2026-07-03+20:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
   }
 ]
