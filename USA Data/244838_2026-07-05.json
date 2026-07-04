@@ -298,9 +298,12 @@
     "date": "2026-07-05+19:00",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 32,
+    "occupancy": 15.46,
+    "totalAvailableSeatCount": 175,
+    "totalSeatCount": 207,
+    "grossRevenueUSD": 511.68,
+    "adultTicketPrice": 15.99
   },
   {
     "state": "MA",
@@ -1555,11 +1558,11 @@
     "date": "2026-07-05+12:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 9,
-    "occupancy": 11.54,
-    "totalAvailableSeatCount": 69,
+    "totalSeatSold": 12,
+    "occupancy": 15.38,
+    "totalAvailableSeatCount": 66,
     "totalSeatCount": 78,
-    "grossRevenueUSD": 97.11,
+    "grossRevenueUSD": 129.48,
     "adultTicketPrice": 10.79
   },
   {
@@ -1699,9 +1702,12 @@
     "date": "2026-07-05+21:45",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 200,
+    "totalSeatCount": 200,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 15.98
   },
   {
     "state": "DE",
@@ -2092,9 +2098,12 @@
     "date": "2026-07-05+21:55",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 46,
+    "totalSeatCount": 46,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 13.5
   },
   {
     "state": "PA",
@@ -4003,9 +4012,12 @@
     "date": "2026-07-05+12:20",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 10,
+    "occupancy": 5.38,
+    "totalAvailableSeatCount": 176,
+    "totalSeatCount": 186,
+    "grossRevenueUSD": 145.4,
+    "adultTicketPrice": 14.54
   },
   {
     "state": "GA",
@@ -5394,9 +5406,12 @@
     "date": "2026-07-05+20:25",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 54,
+    "totalSeatCount": 54,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 13.11
   },
   {
     "state": "KY",
@@ -6270,9 +6285,12 @@
     "date": "2026-07-05+17:30",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 94,
+    "totalSeatCount": 94,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 12.99
   },
   {
     "state": "IN",
@@ -9361,9 +9379,12 @@
     "date": "2026-07-05+18:00",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 56,
+    "totalSeatCount": 56,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 16.23
   },
   {
     "state": "TX",
@@ -10744,9 +10765,12 @@
     "date": "2026-07-05+18:05",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 2,
+    "occupancy": 1.87,
+    "totalAvailableSeatCount": 105,
+    "totalSeatCount": 107,
+    "grossRevenueUSD": 31.0,
+    "adultTicketPrice": 15.5
   },
   {
     "state": "CA",
@@ -13323,8 +13347,65 @@
     "date": "2026-07-05+19:05",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 44,
+    "totalSeatCount": 44,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 13.25
+  },
+  {
+    "state": "GA",
+    "city": "Morrow",
+    "zip": "30260",
+    "theater_name": "AMC Southlake 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 554259383,
+    "date": "2026-07-05+14:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 37,
+    "totalSeatCount": 37,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 12.95
+  },
+  {
+    "state": "GA",
+    "city": "Morrow",
+    "zip": "30260",
+    "theater_name": "AMC Southlake 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 554259385,
+    "date": "2026-07-05+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 7,
+    "occupancy": 18.92,
+    "totalAvailableSeatCount": 30,
+    "totalSeatCount": 37,
+    "grossRevenueUSD": 113.33,
+    "adultTicketPrice": 16.19
+  },
+  {
+    "state": "CA",
+    "city": "Norwalk",
+    "zip": "90650",
+    "theater_name": "AMC Norwalk 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 553787167,
+    "date": "2026-07-05+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 19,
+    "occupancy": 46.34,
+    "totalAvailableSeatCount": 22,
+    "totalSeatCount": 41,
+    "grossRevenueUSD": 294.31,
+    "adultTicketPrice": 15.49
   }
 ]

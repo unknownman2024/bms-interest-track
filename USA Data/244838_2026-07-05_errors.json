@@ -1,51 +1,6 @@
 {
-  "last_updated": "2026-07-04 02:36:58 PM",
+  "last_updated": "2026-07-04 04:37:35 PM",
   "errors": [
-    {
-      "state": "MA",
-      "city": "Boston",
-      "zip": "02111",
-      "theater_name": "AMC Boston Common 19",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 551378291,
-      "date": "2026-07-05+19:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Mays Landing",
-      "zip": "08330",
-      "theater_name": "Regal Hamilton Commons",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 554145188,
-      "date": "2026-07-05+21:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Rochester",
-      "zip": "14624",
-      "theater_name": "Cinemark Tinseltown Rochester and IMAX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 553953037,
-      "date": "2026-07-05+21:55",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "PA",
       "city": "Oaks",
@@ -144,21 +99,6 @@
     },
     {
       "state": "GA",
-      "city": "Duluth",
-      "zip": "30097",
-      "theater_name": "Regal Medlock Crossing",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 554110956,
-      "date": "2026-07-05+12:20",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "GA",
       "city": "Morrow",
       "zip": "30260",
       "theater_name": "AMC Southlake 24",
@@ -238,21 +178,6 @@
       }
     },
     {
-      "state": "MS",
-      "city": "Pearl",
-      "zip": "39208",
-      "theater_name": "Cinemark Pearl 17 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 554238826,
-      "date": "2026-07-05+20:25",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "OH",
       "city": "Valley View",
       "zip": "44125",
@@ -265,21 +190,6 @@
       "language": "Hindi",
       "error": {
         "exception": ""
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Schererville",
-      "zip": "46375",
-      "theater_name": "AMC Schererville 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554121781,
-      "date": "2026-07-05+17:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -296,36 +206,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Tomball",
-      "zip": "77375",
-      "theater_name": "Regal Lone Star IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 552595726,
-      "date": "2026-07-05+18:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Cerritos",
-      "zip": "90703",
-      "theater_name": "Harkins Cerritos 16",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 554284308,
-      "date": "2026-07-05+18:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -406,21 +286,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "AK",
-      "city": "Anchorage",
-      "zip": "99503",
-      "theater_name": "Cinemark Century Anchorage 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 554106421,
-      "date": "2026-07-05+19:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     }
   ]
