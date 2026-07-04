@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04 04:35:41 PM",
+  "last_updated": "2026-07-04 07:37:51 PM",
   "errors": [
     {
       "state": "FL",
@@ -90,6 +90,22 @@
       "language": "Hindi",
       "error": {
         "exception": ""
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33634",
+      "theater_name": "AMC Veterans 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-07-04+21:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
       }
     }
   ]
