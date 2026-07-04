@@ -874,10 +874,12 @@
     "date": "2026-07-04+17:25",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 2,
+    "occupancy": 1.26,
+    "totalAvailableSeatCount": 157,
+    "totalSeatCount": 159,
+    "grossRevenueUSD": 21.38,
+    "adultTicketPrice": 10.69
   },
   {
     "state": "FL",
@@ -2241,11 +2243,11 @@
     "date": "2026-07-04+21:20",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 111,
+    "totalSeatSold": 2,
+    "occupancy": 1.8,
+    "totalAvailableSeatCount": 109,
     "totalSeatCount": 111,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 18.5,
     "adultTicketPrice": 9.25
   },
   {
