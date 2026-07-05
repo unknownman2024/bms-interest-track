@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-07-05 02:57:20 PM",
+  "last_updated": "2026-07-05 04:48:02 PM",
   "errors": [
-    {
-      "state": "NJ",
-      "city": "New Brunswick",
-      "zip": "08901",
-      "theater_name": "AMC New Brunswick 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554011383,
-      "date": "2026-07-05+14:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "PA",
       "city": "Oaks",
@@ -41,22 +26,6 @@
       "chainCode": "AMC",
       "showtime_id": 554165351,
       "date": "2026-07-05+21:40",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Dublin",
-      "zip": "43017",
-      "theater_name": "AMC Dublin Village 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 553908533,
-      "date": "2026-07-05+17:30",
       "format": "Standard",
       "language": "Hindi",
       "error": {

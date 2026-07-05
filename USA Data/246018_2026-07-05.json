@@ -208,9 +208,12 @@
     "date": "2026-07-05+14:30",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 9,
+    "occupancy": 8.74,
+    "totalAvailableSeatCount": 94,
+    "totalSeatCount": 103,
+    "grossRevenueUSD": 95.85,
+    "adultTicketPrice": 10.65
   },
   {
     "state": "NJ",
@@ -367,11 +370,11 @@
     "date": "2026-07-05+12:15",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 29,
-    "occupancy": 40.28,
-    "totalAvailableSeatCount": 43,
+    "totalSeatSold": 31,
+    "occupancy": 43.06,
+    "totalAvailableSeatCount": 41,
     "totalSeatCount": 72,
-    "grossRevenueUSD": 475.31,
+    "grossRevenueUSD": 508.09,
     "adultTicketPrice": 16.39
   },
   {
@@ -707,11 +710,11 @@
     "date": "2026-07-05+19:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 9,
-    "occupancy": 17.31,
-    "totalAvailableSeatCount": 43,
+    "totalSeatSold": 11,
+    "occupancy": 21.15,
+    "totalAvailableSeatCount": 41,
     "totalSeatCount": 52,
-    "grossRevenueUSD": 129.87,
+    "grossRevenueUSD": 158.73,
     "adultTicketPrice": 14.43
   },
   {
@@ -1209,10 +1212,12 @@
     "date": "2026-07-05+17:30",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 2,
+    "occupancy": 4.26,
+    "totalAvailableSeatCount": 45,
+    "totalSeatCount": 47,
+    "grossRevenueUSD": 25.98,
+    "adultTicketPrice": 12.99
   },
   {
     "state": "OH",
@@ -2159,11 +2164,11 @@
     "date": "2026-07-05+21:15",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 2,
-    "occupancy": 4.26,
-    "totalAvailableSeatCount": 45,
+    "totalSeatSold": 3,
+    "occupancy": 6.38,
+    "totalAvailableSeatCount": 44,
     "totalSeatCount": 47,
-    "grossRevenueUSD": 34.98,
+    "grossRevenueUSD": 52.47,
     "adultTicketPrice": 17.49
   },
   {
@@ -2579,5 +2584,23 @@
     "totalSeatCount": 123,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 15.74
+  },
+  {
+    "state": "CA",
+    "city": "Clovis",
+    "zip": "93612",
+    "theater_name": "Sierra Vista Cinemas 16",
+    "chainName": "SR Entertainment Group",
+    "chainCode": "SREG",
+    "showtime_id": 554137724,
+    "date": "2026-07-05+21:30",
+    "format": "Standard",
+    "language": "Unknown",
+    "totalSeatSold": 7,
+    "occupancy": 7.95,
+    "totalAvailableSeatCount": 81,
+    "totalSeatCount": 88,
+    "grossRevenueUSD": 108.5,
+    "adultTicketPrice": 15.5
   }
 ]
