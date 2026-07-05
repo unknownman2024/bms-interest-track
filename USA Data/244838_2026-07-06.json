@@ -2690,11 +2690,11 @@
     "date": "2026-07-06+17:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 51,
+    "totalSeatSold": 1,
+    "occupancy": 1.96,
+    "totalAvailableSeatCount": 50,
     "totalSeatCount": 51,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 17.59,
     "adultTicketPrice": 17.59
   },
   {
@@ -5752,11 +5752,11 @@
     "date": "2026-07-06+19:45",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 6,
-    "occupancy": 12.77,
-    "totalAvailableSeatCount": 41,
+    "totalSeatSold": 7,
+    "occupancy": 14.89,
+    "totalAvailableSeatCount": 40,
     "totalSeatCount": 47,
-    "grossRevenueUSD": 77.94,
+    "grossRevenueUSD": 90.93,
     "adultTicketPrice": 12.99
   },
   {
@@ -5842,11 +5842,11 @@
     "date": "2026-07-06+19:15",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 49,
+    "totalSeatSold": 2,
+    "occupancy": 4.08,
+    "totalAvailableSeatCount": 47,
     "totalSeatCount": 49,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 23.0,
     "adultTicketPrice": 11.5
   },
   {
@@ -6167,9 +6167,9 @@
     "format": "Standard",
     "language": "Hindi",
     "totalSeatSold": 2,
-    "occupancy": 4.08,
-    "totalAvailableSeatCount": 47,
-    "totalSeatCount": 49,
+    "occupancy": 1.29,
+    "totalAvailableSeatCount": 153,
+    "totalSeatCount": 155,
     "grossRevenueUSD": 29.98,
     "adultTicketPrice": 14.99
   },
@@ -9368,11 +9368,11 @@
     "date": "2026-07-06+14:45",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 1,
-    "occupancy": 1.79,
-    "totalAvailableSeatCount": 55,
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 56,
     "totalSeatCount": 56,
-    "grossRevenueUSD": 12.98,
+    "grossRevenueUSD": 0.0,
     "adultTicketPrice": 12.98
   },
   {
@@ -12685,7 +12685,7 @@
     "totalAvailableSeatCount": 106,
     "totalSeatCount": 106,
     "grossRevenueUSD": 0.0,
-    "adultTicketPrice": 11.75
+    "adultTicketPrice": 7.95
   },
   {
     "state": "CA",
@@ -12703,7 +12703,7 @@
     "totalAvailableSeatCount": 106,
     "totalSeatCount": 106,
     "grossRevenueUSD": 0.0,
-    "adultTicketPrice": 11.75
+    "adultTicketPrice": 11.5
   },
   {
     "state": "CA",
@@ -14028,5 +14028,23 @@
     "totalSeatCount": 65,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 9.0
+  },
+  {
+    "state": "MO",
+    "city": "Chesterfield",
+    "zip": "63005",
+    "theater_name": "Marcus Chesterfield Cinema",
+    "chainName": "Marcus Theatres",
+    "chainCode": "MRCS",
+    "showtime_id": 554370722,
+    "date": "2026-07-06+22:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 66,
+    "totalSeatCount": 66,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 13.59
   }
 ]
