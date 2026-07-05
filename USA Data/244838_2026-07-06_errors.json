@@ -1,36 +1,6 @@
 {
-  "last_updated": "2026-07-05 02:59:04 PM",
+  "last_updated": "2026-07-05 04:49:12 PM",
   "errors": [
-    {
-      "state": "NY",
-      "city": "Westbury",
-      "zip": "11590",
-      "theater_name": "AMC Raceway 10",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 553660454,
-      "date": "2026-07-06+21:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Erie",
-      "zip": "16509",
-      "theater_name": "Cinemark Tinseltown Erie",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 554067030,
-      "date": "2026-07-06+22:20",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "PA",
       "city": "Oaks",
@@ -176,51 +146,6 @@
       }
     },
     {
-      "state": "IN",
-      "city": "Evansville",
-      "zip": "47712",
-      "theater_name": "AMC Evansville 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554053078,
-      "date": "2026-07-06+14:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Woodridge",
-      "zip": "60517",
-      "theater_name": "Cinemark Seven Bridges and IMAX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 554278770,
-      "date": "2026-07-06+16:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "LA",
-      "city": "Baton Rouge",
-      "zip": "70810",
-      "theater_name": "Cinemark Perkins Rowe and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 554105809,
-      "date": "2026-07-06+22:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
       "state": "OK",
       "city": "Tulsa",
       "zip": "74135",
@@ -234,51 +159,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Katy",
-      "zip": "77449",
-      "theater_name": "Cinemark Katy and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552546819,
-      "date": "2026-07-06+15:55",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Phoenix",
-      "zip": "85044",
-      "theater_name": "AMC Ahwatukee 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554078857,
-      "date": "2026-07-06+14:40",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Elk Grove",
-      "zip": "95758",
-      "theater_name": "Cinemark Century Laguna 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 553837877,
-      "date": "2026-07-06+09:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {

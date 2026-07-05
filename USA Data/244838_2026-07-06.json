@@ -802,11 +802,11 @@
     "date": "2026-07-06+15:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 1,
-    "occupancy": 0.85,
-    "totalAvailableSeatCount": 116,
+    "totalSeatSold": 2,
+    "occupancy": 1.71,
+    "totalAvailableSeatCount": 115,
     "totalSeatCount": 117,
-    "grossRevenueUSD": 13.32,
+    "grossRevenueUSD": 26.64,
     "adultTicketPrice": 13.32
   },
   {
@@ -1864,9 +1864,12 @@
     "date": "2026-07-06+21:30",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "exception": ""
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 285,
+    "totalSeatCount": 285,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 13.99
   },
   {
     "state": "NY",
@@ -2005,9 +2008,12 @@
     "date": "2026-07-06+22:20",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 223,
+    "totalSeatCount": 223,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 10.5
   },
   {
     "state": "NY",
@@ -3918,11 +3924,11 @@
     "date": "2026-07-06+15:50",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 186,
+    "totalSeatSold": 2,
+    "occupancy": 1.08,
+    "totalAvailableSeatCount": 184,
     "totalSeatCount": 186,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 36.62,
     "adultTicketPrice": 18.31
   },
   {
@@ -5674,9 +5680,12 @@
     "date": "2026-07-06+14:00",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 35,
+    "totalSeatCount": 35,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 8.79
   },
   {
     "state": "IN",
@@ -7273,9 +7282,12 @@
     "date": "2026-07-06+16:15",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 158,
+    "totalSeatCount": 158,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 8.0
   },
   {
     "state": "IL",
@@ -7900,9 +7912,12 @@
     "date": "2026-07-06+22:10",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "exception": ""
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 78,
+    "totalSeatCount": 78,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 12.71
   },
   {
     "state": "LA",
@@ -9245,9 +9260,12 @@
     "date": "2026-07-06+15:55",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 73,
+    "totalSeatCount": 73,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 10.55
   },
   {
     "state": "TX",
@@ -10646,9 +10664,12 @@
     "date": "2026-07-06+14:40",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 41,
+    "totalSeatCount": 41,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 11.34
   },
   {
     "state": "AZ",
@@ -12839,9 +12860,12 @@
     "date": "2026-07-06+09:05",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 68,
+    "totalSeatCount": 68,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 11.0
   },
   {
     "state": "CA",
@@ -13914,5 +13938,95 @@
     "totalSeatCount": 44,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 13.0
+  },
+  {
+    "state": "GA",
+    "city": "Alpharetta",
+    "zip": "30022",
+    "theater_name": "AMC North Point Mall 12",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 553918935,
+    "date": "2026-07-06+22:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 64,
+    "totalSeatCount": 64,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 18.31
+  },
+  {
+    "state": "TX",
+    "city": "Sherman",
+    "zip": "75092",
+    "theater_name": "Cinemark Sherman",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 553570169,
+    "date": "2026-07-06+21:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 46,
+    "totalSeatCount": 46,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 10.28
+  },
+  {
+    "state": "TX",
+    "city": "Amarillo",
+    "zip": "79119",
+    "theater_name": "Cinemark Amarillo Hollywood 16 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 554016516,
+    "date": "2026-07-06+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 49,
+    "totalSeatCount": 49,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 10.28
+  },
+  {
+    "state": "OR",
+    "city": "Medford",
+    "zip": "97501",
+    "theater_name": "Cinemark Tinseltown Medford 15",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 554091524,
+    "date": "2026-07-06+09:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 65,
+    "totalSeatCount": 65,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 9.0
+  },
+  {
+    "state": "OR",
+    "city": "Medford",
+    "zip": "97501",
+    "theater_name": "Cinemark Tinseltown Medford 15",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 554091525,
+    "date": "2026-07-06+15:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 65,
+    "totalSeatCount": 65,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 9.0
   }
 ]
