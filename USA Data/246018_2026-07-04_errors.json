@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05 03:56:47 AM",
+  "last_updated": "2026-07-05 10:09:36 AM",
   "errors": [
     {
       "state": "FL",
@@ -56,6 +56,38 @@
       "chainCode": "AMC",
       "showtime_id": null,
       "date": "2026-07-04+21:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554361378,
+      "date": "2026-07-04+21:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554361457,
+      "date": "2026-07-04+22:15",
       "format": "Standard",
       "language": "Hindi",
       "error": {

@@ -1910,11 +1910,11 @@
     "date": "2026-07-04+21:30",
     "format": "Standard",
     "language": "Unknown",
-    "totalSeatSold": 9,
-    "occupancy": 10.23,
-    "totalAvailableSeatCount": 79,
+    "totalSeatSold": 29,
+    "occupancy": 32.95,
+    "totalAvailableSeatCount": 59,
     "totalSeatCount": 88,
-    "grossRevenueUSD": 139.5,
+    "grossRevenueUSD": 449.5,
     "adultTicketPrice": 15.5
   },
   {
@@ -1964,11 +1964,11 @@
     "date": "2026-07-04+21:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 15,
-    "occupancy": 16.3,
-    "totalAvailableSeatCount": 77,
+    "totalSeatSold": 24,
+    "occupancy": 26.09,
+    "totalAvailableSeatCount": 68,
     "totalSeatCount": 92,
-    "grossRevenueUSD": 269.85,
+    "grossRevenueUSD": 431.76,
     "adultTicketPrice": 17.99
   },
   {
@@ -2018,11 +2018,11 @@
     "date": "2026-07-04+22:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 48,
+    "totalSeatSold": 14,
+    "occupancy": 29.17,
+    "totalAvailableSeatCount": 34,
     "totalSeatCount": 48,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 238.0,
     "adultTicketPrice": 17.0
   },
   {
@@ -2234,11 +2234,11 @@
     "date": "2026-07-04+22:25",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 12,
-    "occupancy": 20.69,
-    "totalAvailableSeatCount": 46,
+    "totalSeatSold": 17,
+    "occupancy": 29.31,
+    "totalAvailableSeatCount": 41,
     "totalSeatCount": 58,
-    "grossRevenueUSD": 165.0,
+    "grossRevenueUSD": 233.75,
     "adultTicketPrice": 13.75
   },
   {
@@ -2252,11 +2252,11 @@
     "date": "2026-07-04+21:20",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 2,
-    "occupancy": 1.8,
-    "totalAvailableSeatCount": 109,
+    "totalSeatSold": 27,
+    "occupancy": 24.32,
+    "totalAvailableSeatCount": 84,
     "totalSeatCount": 111,
-    "grossRevenueUSD": 18.5,
+    "grossRevenueUSD": 249.75,
     "adultTicketPrice": 9.25
   },
   {
@@ -2324,11 +2324,11 @@
     "date": "2026-07-04+22:55",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 4,
-    "occupancy": 0.9,
-    "totalAvailableSeatCount": 440,
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 444,
     "totalSeatCount": 444,
-    "grossRevenueUSD": 62.84,
+    "grossRevenueUSD": 0.0,
     "adultTicketPrice": 15.71
   },
   {
@@ -2360,11 +2360,11 @@
     "date": "2026-07-04+21:45",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 123,
+    "totalSeatSold": 2,
+    "occupancy": 1.63,
+    "totalAvailableSeatCount": 121,
     "totalSeatCount": 123,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 31.48,
     "adultTicketPrice": 15.74
   },
   {
@@ -2436,5 +2436,37 @@
     "totalSeatCount": 346,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 16.25
+  },
+  {
+    "state": "IL",
+    "city": "South Barrington",
+    "zip": "60010",
+    "theater_name": "AMC South Barrington 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 554361378,
+    "date": "2026-07-04+21:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
+  },
+  {
+    "state": "IL",
+    "city": "South Barrington",
+    "zip": "60010",
+    "theater_name": "AMC South Barrington 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 554361457,
+    "date": "2026-07-04+22:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
   }
 ]
