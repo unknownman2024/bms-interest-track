@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05 10:05:41 PM",
+  "last_updated": "2026-07-06 04:01:40 AM",
   "errors": [
     {
       "state": "PA",
@@ -223,6 +223,21 @@
       "error": {
         "status": 500,
         "reason": "No seats"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Lansing",
+      "zip": "48917",
+      "theater_name": "Regal Lansing Mall & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 554372676,
+      "date": "2026-07-06+16:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500
       }
     }
   ]
