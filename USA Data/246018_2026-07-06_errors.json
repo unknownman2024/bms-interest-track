@@ -1,0 +1,115 @@
+{
+  "last_updated": "2026-07-06 04:42:17 PM",
+  "errors": [
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema D-Box & OCX",
+      "chainName": "INDY Cinema Group",
+      "chainCode": "INDY",
+      "showtime_id": 554332391,
+      "date": "2026-07-06+11:00",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Ashburn",
+      "zip": "20148",
+      "theater_name": "Regal Fox 4DX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 554369920,
+      "date": "2026-07-06+20:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Ashburn",
+      "zip": "20148",
+      "theater_name": "Regal Fox 4DX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 554359295,
+      "date": "2026-07-06+22:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554165447,
+      "date": "2026-07-06+21:35",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Gahanna",
+      "zip": "43230",
+      "theater_name": "Cinemark Stoneridge Plaza Movies 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 554105647,
+      "date": "2026-07-06+18:20",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Livonia",
+      "zip": "48152",
+      "theater_name": "AMC Livonia 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 553750293,
+      "date": "2026-07-06+16:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-07-06+14:10",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
+}
