@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06 04:44:05 PM",
+  "last_updated": "2026-07-06 09:31:56 PM",
   "errors": [
     {
       "state": "PA",
@@ -131,22 +131,6 @@
     },
     {
       "state": "FL",
-      "city": "West Melbourne",
-      "zip": "32904",
-      "theater_name": "AMC West Melbourne 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 553560812,
-      "date": "2026-07-07+19:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "FL",
       "city": "Tampa",
       "zip": "33647",
       "theater_name": "AMC Highwoods 20",
@@ -159,21 +143,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "AL",
-      "city": "Huntsville",
-      "zip": "35806",
-      "theater_name": "Cinemark Bridge Street and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 554065127,
-      "date": "2026-07-07+21:55",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -208,21 +177,6 @@
       }
     },
     {
-      "state": "IL",
-      "city": "Chicago",
-      "zip": "60611",
-      "theater_name": "AMC River East 21",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 553865846,
-      "date": "2026-07-07+20:40",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "TX",
       "city": "Frisco",
       "zip": "75034",
@@ -236,81 +190,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "El Paso",
-      "zip": "79936",
-      "theater_name": "Cinemark Tinseltown Las Palmas XD and ScreenX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 554262066,
-      "date": "2026-07-07+21:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Simi Valley",
-      "zip": "93063",
-      "theater_name": "Regal Simi Valley Civic Center",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 553730302,
-      "date": "2026-07-07+18:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Bruno",
-      "zip": "94066",
-      "theater_name": "Cinemark Century at Tanforan and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 552636530,
-      "date": "2026-07-07+15:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Redwood City",
-      "zip": "94063",
-      "theater_name": "Cinemark Century Redwood Downtown 20 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 553713971,
-      "date": "2026-07-07+09:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Redwood City",
-      "zip": "94063",
-      "theater_name": "Cinemark Century Redwood Downtown 20 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 553713974,
-      "date": "2026-07-07+19:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
