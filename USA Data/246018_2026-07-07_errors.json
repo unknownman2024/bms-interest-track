@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-07-07 03:36:04 PM",
+  "last_updated": "2026-07-07 08:54:53 PM",
   "errors": [
-    {
-      "state": "MA",
-      "city": "Marlborough",
-      "zip": "01752",
-      "theater_name": "Regal Solomon Pond",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 553848847,
-      "date": "2026-07-07+21:25",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "FL",
       "city": "Tampa",
@@ -25,22 +10,6 @@
       "chainCode": "AMC",
       "showtime_id": 554165514,
       "date": "2026-07-07+21:35",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "TN",
-      "city": "Nashville",
-      "zip": "37204",
-      "theater_name": "Regal Hollywood – Nashville",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 553877968,
-      "date": "2026-07-07+18:25",
       "format": "Standard",
       "language": "Hindi",
       "error": {
