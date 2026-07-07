@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07 04:17:38 AM",
+  "last_updated": "2026-07-07 10:04:38 AM",
   "errors": [
     {
       "state": "PA",
@@ -234,6 +234,22 @@
       "chainCode": "REGL",
       "showtime_id": 553827968,
       "date": "2026-07-07+21:05",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Wilmington",
+      "zip": "19803",
+      "theater_name": "Regal Brandywine Town Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 554512926,
+      "date": "2026-07-07+13:30",
       "format": "Standard",
       "language": "Hindi",
       "error": {
