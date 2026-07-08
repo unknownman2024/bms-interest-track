@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08 02:35:44 PM",
+  "last_updated": "2026-07-08 04:52:44 PM",
   "errors": [
     {
       "state": "PA",
@@ -34,21 +34,6 @@
       }
     },
     {
-      "state": "OH",
-      "city": "Gahanna",
-      "zip": "43230",
-      "theater_name": "Cinemark Stoneridge Plaza Movies 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 554151942,
-      "date": "2026-07-08+21:55",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "TX",
       "city": "Frisco",
       "zip": "75034",
@@ -57,22 +42,6 @@
       "chainCode": "AMC",
       "showtime_id": null,
       "date": "2026-07-08+18:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Pflugerville",
-      "zip": "78660",
-      "theater_name": "Cinemark Pflugerville 20 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 554243452,
-      "date": "2026-07-08+15:50",
       "format": "Standard",
       "language": "Hindi",
       "error": {
