@@ -118,11 +118,11 @@
     "date": "2026-07-08+14:20",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 48,
+    "totalSeatSold": 2,
+    "occupancy": 4.17,
+    "totalAvailableSeatCount": 46,
     "totalSeatCount": 48,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 26.64,
     "adultTicketPrice": 13.32
   },
   {
@@ -262,11 +262,11 @@
     "date": "2026-07-08+11:50",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 57,
+    "totalSeatSold": 1,
+    "occupancy": 1.75,
+    "totalAvailableSeatCount": 56,
     "totalSeatCount": 57,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 12.0,
     "adultTicketPrice": 12.0
   },
   {
@@ -1536,11 +1536,11 @@
     "date": "2026-07-08+18:25",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 9,
-    "occupancy": 16.98,
-    "totalAvailableSeatCount": 44,
+    "totalSeatSold": 11,
+    "occupancy": 20.75,
+    "totalAvailableSeatCount": 42,
     "totalSeatCount": 53,
-    "grossRevenueUSD": 129.06,
+    "grossRevenueUSD": 157.74,
     "adultTicketPrice": 14.34
   },
   {
@@ -1660,11 +1660,11 @@
     "date": "2026-07-08+19:10",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 2,
-    "occupancy": 2.04,
-    "totalAvailableSeatCount": 96,
+    "totalSeatSold": 4,
+    "occupancy": 4.08,
+    "totalAvailableSeatCount": 94,
     "totalSeatCount": 98,
-    "grossRevenueUSD": 21.62,
+    "grossRevenueUSD": 43.24,
     "adultTicketPrice": 10.81
   },
   {
@@ -1822,11 +1822,11 @@
     "date": "2026-07-08+17:10",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 18,
-    "occupancy": 36.0,
-    "totalAvailableSeatCount": 32,
+    "totalSeatSold": 20,
+    "occupancy": 40.0,
+    "totalAvailableSeatCount": 30,
     "totalSeatCount": 50,
-    "grossRevenueUSD": 253.08,
+    "grossRevenueUSD": 281.2,
     "adultTicketPrice": 14.06
   },
   {
@@ -2332,5 +2332,23 @@
     "totalSeatCount": 45,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 12.5
+  },
+  {
+    "state": "PA",
+    "city": "Bensalem",
+    "zip": "19020",
+    "theater_name": "AMC Neshaminy 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 555108368,
+    "date": "2026-07-08+12:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 77,
+    "totalSeatCount": 77,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 10.79
   }
 ]
