@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08 10:27:18 PM",
+  "last_updated": "2026-07-09 01:32:03 AM",
   "errors": [
     {
       "state": "CT",
@@ -174,21 +174,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "CO",
-      "city": "Westminster",
-      "zip": "80020",
-      "theater_name": "AMC Westminster Promenade 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554681520,
-      "date": "2026-07-10+19:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
       }
     }
   ]
