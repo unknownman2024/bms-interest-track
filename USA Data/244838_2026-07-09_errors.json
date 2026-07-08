@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08 04:53:50 PM",
+  "last_updated": "2026-07-08 08:26:53 PM",
   "errors": [
     {
       "state": "NC",
@@ -47,21 +47,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Kirkland",
-      "zip": "98034",
-      "theater_name": "Cinemark Totem Lake Kirkland and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 554559861,
-      "date": "2026-07-09+11:40",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     }
   ]
