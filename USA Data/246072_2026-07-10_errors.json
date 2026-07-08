@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09 01:32:03 AM",
+  "last_updated": "2026-07-09 04:02:37 AM",
   "errors": [
     {
       "state": "CT",
@@ -169,6 +169,38 @@
       "chainCode": "AMC",
       "showtime_id": 554588797,
       "date": "2026-07-10+18:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Roswell",
+      "zip": "30076",
+      "theater_name": "Aurora Cineplex",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 555128213,
+      "date": "2026-07-10+10:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Roswell",
+      "zip": "30076",
+      "theater_name": "Aurora Cineplex",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 555128214,
+      "date": "2026-07-10+12:50",
       "format": "Standard",
       "language": "Hindi",
       "error": {
