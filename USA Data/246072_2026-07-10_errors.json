@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08 08:38:56 PM",
+  "last_updated": "2026-07-08 10:27:18 PM",
   "errors": [
     {
       "state": "CT",
@@ -15,51 +15,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "CT",
-      "city": "Waterbury",
-      "zip": "06706",
-      "theater_name": "Apple Cinemas Brass Mill",
-      "chainName": "Apple Cinemas",
-      "chainCode": "APPL",
-      "showtime_id": 554677671,
-      "date": "2026-07-10+18:25",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Lowell",
-      "zip": "01851",
-      "theater_name": "Showcase Cinema de Lux Lowell",
-      "chainName": "National Amusement",
-      "chainCode": "NATA",
-      "showtime_id": 554958706,
-      "date": "2026-07-10+21:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "South Plainfield",
-      "zip": "07080",
-      "theater_name": "Regal Hadley",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 554891688,
-      "date": "2026-07-10+08:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -142,22 +97,6 @@
       }
     },
     {
-      "state": "GA",
-      "city": "Duluth",
-      "zip": "30097",
-      "theater_name": "Regal Medlock Crossing",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 554895675,
-      "date": "2026-07-10+15:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
       "state": "FL",
       "city": "Pensacola",
       "zip": "32505",
@@ -190,21 +129,6 @@
       }
     },
     {
-      "state": "AL",
-      "city": "Montgomery",
-      "zip": "36116",
-      "theater_name": "AMC Festival Plaza 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554640146,
-      "date": "2026-07-10+19:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "TN",
       "city": "Murfreesboro",
       "zip": "37128",
@@ -218,21 +142,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Crestwood",
-      "zip": "60148",
-      "theater_name": "AMC Crestwood 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554829985,
-      "date": "2026-07-10+19:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -269,17 +178,17 @@
     },
     {
       "state": "CO",
-      "city": "Aurora",
-      "zip": "80012",
-      "theater_name": "Cinemark Century Aurora and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 555012364,
-      "date": "2026-07-10+19:10",
+      "city": "Westminster",
+      "zip": "80020",
+      "theater_name": "AMC Westminster Promenade 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554681520,
+      "date": "2026-07-10+19:50",
       "format": "Standard",
       "language": "Hindi",
       "error": {
-        "status": 500
+        "exception": ""
       }
     }
   ]
