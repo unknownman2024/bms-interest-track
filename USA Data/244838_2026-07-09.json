@@ -352,11 +352,11 @@
     "date": "2026-07-09+15:15",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 3,
-    "occupancy": 4.92,
-    "totalAvailableSeatCount": 58,
+    "totalSeatSold": 5,
+    "occupancy": 8.2,
+    "totalAvailableSeatCount": 56,
     "totalSeatCount": 61,
-    "grossRevenueUSD": 49.17,
+    "grossRevenueUSD": 81.95,
     "adultTicketPrice": 16.39
   },
   {
@@ -4234,9 +4234,12 @@
     "date": "2026-07-09+11:30",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 41,
+    "totalSeatCount": 41,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 10.46
   },
   {
     "state": "AZ",
@@ -4321,9 +4324,12 @@
     "date": "2026-07-09+16:35",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 2,
+    "occupancy": 3.03,
+    "totalAvailableSeatCount": 64,
+    "totalSeatCount": 66,
+    "grossRevenueUSD": 21.5,
+    "adultTicketPrice": 10.75
   },
   {
     "state": "AZ",
@@ -4498,11 +4504,11 @@
     "date": "2026-07-09+11:45",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 44,
+    "totalSeatSold": 1,
+    "occupancy": 2.27,
+    "totalAvailableSeatCount": 43,
     "totalSeatCount": 44,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 13.59,
     "adultTicketPrice": 13.59
   },
   {
@@ -5653,5 +5659,41 @@
     "totalSeatCount": 184,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 17.31
+  },
+  {
+    "state": "CA",
+    "city": "Milpitas",
+    "zip": "95035",
+    "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 555015411,
+    "date": "2026-07-09+09:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 76,
+    "totalSeatCount": 76,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 12.5
+  },
+  {
+    "state": "CA",
+    "city": "Milpitas",
+    "zip": "95035",
+    "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 555015412,
+    "date": "2026-07-09+12:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 76,
+    "totalSeatCount": 76,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 12.5
   }
 ]

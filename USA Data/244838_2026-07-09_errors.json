@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08 02:37:48 PM",
+  "last_updated": "2026-07-08 04:53:50 PM",
   "errors": [
     {
       "state": "NC",
@@ -47,36 +47,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Phoenix",
-      "zip": "85027",
-      "theater_name": "AMC Deer Valley 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 555041410,
-      "date": "2026-07-09+11:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Tempe",
-      "zip": "85281",
-      "theater_name": "Harkins Tempe Marketplace 16",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "showtime_id": 554288006,
-      "date": "2026-07-09+16:35",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
