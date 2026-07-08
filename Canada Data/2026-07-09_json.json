@@ -1981,8 +1981,8 @@
     "perfIx": 518888,
     "date": "2026-07-09",
     "time": "00:00",
-    "total": 90,
-    "available": 90,
+    "total": 88,
+    "available": 88,
     "blocked": 0,
     "sold": 0,
     "gross": 0,
@@ -2000,12 +2000,12 @@
     "perfIx": 518901,
     "date": "2026-07-09",
     "time": "00:00",
-    "total": 90,
-    "available": 90,
+    "total": 88,
+    "available": 84,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
-    "gross_with_tax": 0,
+    "sold": 4,
+    "gross": 60,
+    "gross_with_tax": 60,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -2019,8 +2019,8 @@
     "perfIx": 518902,
     "date": "2026-07-09",
     "time": "00:00",
-    "total": 90,
-    "available": 90,
+    "total": 88,
+    "available": 88,
     "blocked": 0,
     "sold": 0,
     "gross": 0,
@@ -2038,8 +2038,8 @@
     "perfIx": 518903,
     "date": "2026-07-09",
     "time": "00:00",
-    "total": 90,
-    "available": 90,
+    "total": 88,
+    "available": 88,
     "blocked": 0,
     "sold": 0,
     "gross": 0,
@@ -2628,11 +2628,11 @@
     "date": "2026-07-09",
     "time": "00:00",
     "total": 146,
-    "available": 146,
+    "available": 145,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
-    "gross_with_tax": 0,
+    "sold": 1,
+    "gross": 15,
+    "gross_with_tax": 15,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -2790,6 +2790,500 @@
       "tax": 0,
       "fee": 0,
       "grand": 15
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Rao Bahadur- Telugu",
+    "perfIx": "39481",
+    "date": "2026-07-09",
+    "time": "18:45",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 817.0,
+    "gross_with_tax": 817.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Rao Bahadur- Telugu",
+    "perfIx": "39482",
+    "date": "2026-07-09",
+    "time": "22:15",
+    "total": 171,
+    "available": 164,
+    "blocked": 0,
+    "sold": 7,
+    "gross": 112.0,
+    "gross_with_tax": 112.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Balan: The Boy- Malayalam",
+    "perfIx": "39475",
+    "date": "2026-07-09",
+    "time": "18:45",
+    "total": 171,
+    "available": 164,
+    "blocked": 0,
+    "sold": 7,
+    "gross": 112.0,
+    "gross_with_tax": 112.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Baby Do Die Do- Hindi",
+    "perfIx": "39484",
+    "date": "2026-07-09",
+    "time": "18:30",
+    "total": 195,
+    "available": 187,
+    "blocked": 0,
+    "sold": 8,
+    "gross": 96.0,
+    "gross_with_tax": 96.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Alpha- Hindi",
+    "perfIx": "39483",
+    "date": "2026-07-09",
+    "time": "21:45",
+    "total": 195,
+    "available": 187,
+    "blocked": 0,
+    "sold": 8,
+    "gross": 96.0,
+    "gross_with_tax": 96.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Dark- Tamil",
+    "perfIx": "39477",
+    "date": "2026-07-09",
+    "time": "18:15",
+    "total": 235,
+    "available": 205,
+    "blocked": 0,
+    "sold": 30,
+    "gross": 480.0,
+    "gross_with_tax": 480.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Dark- Tamil",
+    "perfIx": "39479",
+    "date": "2026-07-09",
+    "time": "18:15",
+    "total": 188,
+    "available": 12,
+    "blocked": 0,
+    "sold": 176,
+    "gross": 3696.0,
+    "gross_with_tax": 3696.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Dark- Tamil",
+    "perfIx": "39478",
+    "date": "2026-07-09",
+    "time": "21:30",
+    "total": 235,
+    "available": 205,
+    "blocked": 0,
+    "sold": 30,
+    "gross": 480.0,
+    "gross_with_tax": 480.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Dark- Tamil",
+    "perfIx": "39480",
+    "date": "2026-07-09",
+    "time": "21:30",
+    "total": 188,
+    "available": 12,
+    "blocked": 0,
+    "sold": 176,
+    "gross": 3696.0,
+    "gross_with_tax": 3696.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "I, Nobody - Malayalam",
+    "perfIx": "39485",
+    "date": "2026-07-09",
+    "time": "19:00",
+    "total": 282,
+    "available": 261,
+    "blocked": 0,
+    "sold": 21,
+    "gross": 441.0,
+    "gross_with_tax": 441.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "I, Nobody - Malayalam",
+    "perfIx": "39486",
+    "date": "2026-07-09",
+    "time": "22:30",
+    "total": 282,
+    "available": 263,
+    "blocked": 0,
+    "sold": 19,
+    "gross": 399.0,
+    "gross_with_tax": 399.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Gatta Kusthi 2- Tamil",
+    "perfIx": "39469",
+    "date": "2026-07-09",
+    "time": "19:15",
+    "total": 211,
+    "available": 132,
+    "blocked": 0,
+    "sold": 79,
+    "gross": 1264.0,
+    "gross_with_tax": 1264.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Gatta Kusthi 2- Tamil",
+    "perfIx": "39470",
+    "date": "2026-07-09",
+    "time": "19:15",
+    "total": 240,
+    "available": 36,
+    "blocked": 0,
+    "sold": 204,
+    "gross": 4284.0,
+    "gross_with_tax": 4284.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Gatta Kusthi 2- Tamil",
+    "perfIx": "39471",
+    "date": "2026-07-09",
+    "time": "22:15",
+    "total": 211,
+    "available": 132,
+    "blocked": 0,
+    "sold": 79,
+    "gross": 1264.0,
+    "gross_with_tax": 1264.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Gatta Kusthi 2- Tamil",
+    "perfIx": "39472",
+    "date": "2026-07-09",
+    "time": "22:15",
+    "total": 240,
+    "available": 36,
+    "blocked": 0,
+    "sold": 204,
+    "gross": 4284.0,
+    "gross_with_tax": 4284.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Nagabandham - The Secret Treasure- Telugu",
+    "perfIx": "16704",
+    "date": "2026-07-09",
+    "time": "18:45",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 19.0,
+    "gross_with_tax": 19.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Alpha- Hindi",
+    "perfIx": "16703",
+    "date": "2026-07-09",
+    "time": "15:45",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 9.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Dark- Tamil",
+    "perfIx": "16707",
+    "date": "2026-07-09",
+    "time": "15:30",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 19.0,
+    "gross_with_tax": 19.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "I, Nobody - Malayalam",
+    "perfIx": "16749",
+    "date": "2026-07-09",
+    "time": "19:00",
+    "total": 412,
+    "available": 411,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 21.0,
+    "gross_with_tax": 21.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "I, Nobody - Malayalam",
+    "perfIx": "16750",
+    "date": "2026-07-09",
+    "time": "22:15",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Gatta Kusthi 2- Tamil",
+    "perfIx": "16705",
+    "date": "2026-07-09",
+    "time": "22:00",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 19.0,
+    "gross_with_tax": 19.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Con City- Tamil",
+    "perfIx": "40553",
+    "date": "2026-07-09",
+    "time": "18:00",
+    "total": 141,
+    "available": 141,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "I, Nobody - Malayalam",
+    "perfIx": "40546",
+    "date": "2026-07-09",
+    "time": "18:30",
+    "total": 263,
+    "available": 263,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 18.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 18.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "I, Nobody - Malayalam",
+    "perfIx": "40547",
+    "date": "2026-07-09",
+    "time": "21:45",
+    "total": 263,
+    "available": 263,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 18.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 18.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Gatta Kusthi 2- Tamil",
+    "perfIx": "40545",
+    "date": "2026-07-09",
+    "time": "18:30",
+    "total": 183,
+    "available": 183,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Gatta Kusthi 2- Tamil",
+    "perfIx": "40552",
+    "date": "2026-07-09",
+    "time": "21:30",
+    "total": 141,
+    "available": 141,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
     }
   }
 ]
