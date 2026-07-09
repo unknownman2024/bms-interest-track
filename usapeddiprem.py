@@ -18,7 +18,6 @@ RELEASE_DATE = date(2026, 7, 10)
 TARGET_MOVIE_ID = 246072
 
 # Change for different movie
-# CODE BY BFILMY - DONT REMOVE
 #246072 for D4
 #246018for W T T J 3
 # Get current date in USA Pacific Time
