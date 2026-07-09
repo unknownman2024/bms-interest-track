@@ -1,7 +1,6 @@
 ###############################################################
 #  USA Movie Advance Show Scraper (Production Ready)
 #  Designed for daily run — tracks NEXT 5 days continuously
-#  Author: BFilmy Automation
 ###############################################################
 
 import requests, json, os, random, time
