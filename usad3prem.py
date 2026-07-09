@@ -18,7 +18,6 @@ RELEASE_DATE = date(2026, 5, 20)
 TARGET_MOVIE_ID = 244690
 
 # Change for different movie
-# CODE BY BFILMY - DONT REMOVE
 
 # Get current date in USA Pacific Time
 now_pst = datetime.now(ZoneInfo("America/Los_Angeles")).date()
