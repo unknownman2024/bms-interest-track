@@ -18,7 +18,6 @@ TARGET_MOVIE_ID = 244838
 
 # Change for different movie
 # 244838 alpha
-# CODE BY BFILMY - DONT REMOVE
 
 # Get current date in USA Pacific Time (+1 day advance mode)
 now_pst = datetime.now(
