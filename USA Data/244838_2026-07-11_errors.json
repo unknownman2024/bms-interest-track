@@ -1,0 +1,37 @@
+{
+  "last_updated": "2026-07-10 03:30:51 PM",
+  "errors": [
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-07-11+11:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Downingtown",
+      "zip": "19335",
+      "theater_name": "Regal Downingtown",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 554500788,
+      "date": "2026-07-11+21:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
+}
