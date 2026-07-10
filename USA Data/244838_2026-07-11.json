@@ -64,11 +64,11 @@
     "date": "2026-07-11+18:40",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 2,
-    "occupancy": 1.57,
-    "totalAvailableSeatCount": 125,
+    "totalSeatSold": 4,
+    "occupancy": 3.15,
+    "totalAvailableSeatCount": 123,
     "totalSeatCount": 127,
-    "grossRevenueUSD": 34.1,
+    "grossRevenueUSD": 68.2,
     "adultTicketPrice": 17.05
   },
   {
@@ -221,13 +221,15 @@
     "chainName": "Regal",
     "chainCode": "REGL",
     "showtime_id": 554500788,
-    "date": "2026-07-11+21:50",
+    "date": "2026-07-11+12:15",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 60,
+    "totalSeatCount": 60,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 13.49
   },
   {
     "state": "MD",
@@ -312,11 +314,11 @@
     "date": "2026-07-11+15:55",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 50,
+    "totalSeatSold": 2,
+    "occupancy": 4.0,
+    "totalAvailableSeatCount": 48,
     "totalSeatCount": 50,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 34.62,
     "adultTicketPrice": 17.31
   },
   {
@@ -402,11 +404,11 @@
     "date": "2026-07-11+19:05",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 97,
+    "totalSeatSold": 9,
+    "occupancy": 9.28,
+    "totalAvailableSeatCount": 88,
     "totalSeatCount": 97,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 164.79,
     "adultTicketPrice": 18.31
   },
   {
@@ -546,11 +548,11 @@
     "date": "2026-07-11+18:45",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 1,
-    "occupancy": 2.78,
-    "totalAvailableSeatCount": 35,
+    "totalSeatSold": 9,
+    "occupancy": 25.0,
+    "totalAvailableSeatCount": 27,
     "totalSeatCount": 36,
-    "grossRevenueUSD": 18.47,
+    "grossRevenueUSD": 166.23,
     "adultTicketPrice": 18.47
   },
   {
@@ -798,11 +800,11 @@
     "date": "2026-07-11+12:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 19,
-    "occupancy": 36.54,
-    "totalAvailableSeatCount": 33,
+    "totalSeatSold": 20,
+    "occupancy": 38.46,
+    "totalAvailableSeatCount": 32,
     "totalSeatCount": 52,
-    "grossRevenueUSD": 213.75,
+    "grossRevenueUSD": 225.0,
     "adultTicketPrice": 11.25
   },
   {
@@ -816,11 +818,11 @@
     "date": "2026-07-11+18:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 6,
-    "occupancy": 11.54,
-    "totalAvailableSeatCount": 46,
+    "totalSeatSold": 9,
+    "occupancy": 17.31,
+    "totalAvailableSeatCount": 43,
     "totalSeatCount": 52,
-    "grossRevenueUSD": 84.36,
+    "grossRevenueUSD": 126.54,
     "adultTicketPrice": 14.06
   },
   {
@@ -870,11 +872,11 @@
     "date": "2026-07-11+20:20",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 14,
-    "occupancy": 35.0,
-    "totalAvailableSeatCount": 26,
+    "totalSeatSold": 15,
+    "occupancy": 37.5,
+    "totalAvailableSeatCount": 25,
     "totalSeatCount": 40,
-    "grossRevenueUSD": 196.84,
+    "grossRevenueUSD": 210.9,
     "adultTicketPrice": 14.06
   },
   {
@@ -942,11 +944,11 @@
     "date": "2026-07-11+13:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 14,
-    "occupancy": 15.56,
-    "totalAvailableSeatCount": 76,
+    "totalSeatSold": 15,
+    "occupancy": 16.67,
+    "totalAvailableSeatCount": 75,
     "totalSeatCount": 90,
-    "grossRevenueUSD": 195.86,
+    "grossRevenueUSD": 209.85,
     "adultTicketPrice": 13.99
   },
   {
@@ -960,11 +962,11 @@
     "date": "2026-07-11+18:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 8,
-    "occupancy": 17.02,
-    "totalAvailableSeatCount": 39,
+    "totalSeatSold": 12,
+    "occupancy": 25.53,
+    "totalAvailableSeatCount": 35,
     "totalSeatCount": 47,
-    "grossRevenueUSD": 139.92,
+    "grossRevenueUSD": 209.88,
     "adultTicketPrice": 17.49
   },
   {
@@ -1182,5 +1184,23 @@
     "totalSeatCount": 141,
     "grossRevenueUSD": 47.13,
     "adultTicketPrice": 15.71
+  },
+  {
+    "state": "NY",
+    "city": "New York",
+    "zip": "10036",
+    "theater_name": "AMC Empire 25",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 554983708,
+    "date": "2026-07-11+11:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 21,
+    "occupancy": 8.57,
+    "totalAvailableSeatCount": 224,
+    "totalSeatCount": 245,
+    "grossRevenueUSD": 344.19,
+    "adultTicketPrice": 16.39
   }
 ]
