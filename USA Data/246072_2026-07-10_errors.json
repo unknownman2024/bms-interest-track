@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11 01:29:06 AM",
+  "last_updated": "2026-07-11 04:03:03 AM",
   "errors": [
     {
       "state": "CT",
@@ -206,6 +206,21 @@
       "error": {
         "status": 500,
         "reason": "No seats"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Moosic",
+      "zip": "18507",
+      "theater_name": "Cinemark Montage Mountain 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555200737,
+      "date": "2026-07-10+22:35",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500
       }
     }
   ]
