@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11 01:49:48 PM",
+  "last_updated": "2026-07-11 04:10:59 PM",
   "errors": [
     {
       "state": "CT",
@@ -15,51 +15,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Secaucus",
-      "zip": "07094",
-      "theater_name": "Regal Secaucus ShowPlace 14",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 554857721,
-      "date": "2026-07-11+13:20",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Dickson City",
-      "zip": "18519",
-      "theater_name": "Regal Dickson City",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 554933290,
-      "date": "2026-07-11+10:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Harrisburg",
-      "zip": "17112",
-      "theater_name": "Regal Harrisburg",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 554757699,
-      "date": "2026-07-11+20:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -160,21 +115,6 @@
     },
     {
       "state": "FL",
-      "city": "Jacksonville",
-      "zip": "32225",
-      "theater_name": "AMC Regency 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554744619,
-      "date": "2026-07-11+22:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
       "city": "Pensacola",
       "zip": "32505",
       "theater_name": "AMC CLASSIC Pensacola 18",
@@ -222,51 +162,6 @@
       }
     },
     {
-      "state": "OH",
-      "city": "Pickerington",
-      "zip": "43147",
-      "theater_name": "Marcus Pickerington Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 554627869,
-      "date": "2026-07-11+21:35",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IA",
-      "city": "West Des Moines",
-      "zip": "50266",
-      "theater_name": "Cinemark Century Jordan Creek 20 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 554988545,
-      "date": "2026-07-11+14:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "WI",
-      "city": "Appleton",
-      "zip": "54914",
-      "theater_name": "Marcus Hollywood Cinemas",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 554543475,
-      "date": "2026-07-11+12:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "OK",
       "city": "Tulsa",
       "zip": "74135",
@@ -283,64 +178,19 @@
       }
     },
     {
-      "state": "TX",
-      "city": "Grapevine",
-      "zip": "76051",
-      "theater_name": "Cinemark Tinseltown Grapevine and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 555081646,
-      "date": "2026-07-11+21:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Katy",
-      "zip": "77449",
-      "theater_name": "Cinemark Katy and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 554933770,
-      "date": "2026-07-11+15:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "AZ",
-      "city": "Phoenix",
-      "zip": "85027",
-      "theater_name": "AMC Deer Valley 17",
+      "state": "GA",
+      "city": "Morrow",
+      "zip": "30260",
+      "theater_name": "AMC Southlake 24",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "showtime_id": 555041520,
-      "date": "2026-07-11+19:00",
+      "showtime_id": 555210961,
+      "date": "2026-07-11+22:45",
       "format": "Standard",
       "language": "Hindi",
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Yuba City",
-      "zip": "95993",
-      "theater_name": "Cinemark Yuba City",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 554517979,
-      "date": "2026-07-11+22:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     }
   ]
