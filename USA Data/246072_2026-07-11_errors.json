@@ -1,22 +1,6 @@
 {
-  "last_updated": "2026-07-11 09:46:31 PM",
+  "last_updated": "2026-07-12 01:10:45 AM",
   "errors": [
-    {
-      "state": "CT",
-      "city": "Danbury",
-      "zip": "06810",
-      "theater_name": "AMC Danbury 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554982314,
-      "date": "2026-07-11+20:55",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
     {
       "state": "GA",
       "city": "Pooler",
@@ -188,6 +172,22 @@
       "date": "2026-07-11+22:45",
       "format": "Standard",
       "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555231447,
+      "date": "2026-07-11+22:40",
+      "format": "Standard",
+      "language": "Unknown",
       "error": {
         "status": 500,
         "reason": "No seats"
