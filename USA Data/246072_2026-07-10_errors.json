@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11 04:03:03 AM",
+  "last_updated": "2026-07-11 09:21:30 AM",
   "errors": [
     {
       "state": "CT",
@@ -221,6 +221,38 @@
       "language": "Hindi",
       "error": {
         "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Morrow",
+      "zip": "30260",
+      "theater_name": "AMC Southlake 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555210958,
+      "date": "2026-07-10+22:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Grapevine",
+      "zip": "76051",
+      "theater_name": "Cinemark Tinseltown Grapevine and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555190537,
+      "date": "2026-07-10+21:20",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
       }
     }
   ]
