@@ -208,9 +208,12 @@
     "date": "2026-07-12+16:50",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 99,
+    "totalSeatCount": 99,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 15.99
   },
   {
     "state": "RI",
@@ -583,9 +586,12 @@
     "date": "2026-07-12+18:00",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 3,
+    "occupancy": 2.91,
+    "totalAvailableSeatCount": 100,
+    "totalSeatCount": 103,
+    "grossRevenueUSD": 39.96,
+    "adultTicketPrice": 13.32
   },
   {
     "state": "NJ",
@@ -1066,10 +1072,12 @@
     "date": "2026-07-12+21:30",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 79,
+    "totalSeatCount": 79,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 16.52
   },
   {
     "state": "NJ",
@@ -1154,10 +1162,12 @@
     "date": "2026-07-12+13:55",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 123,
+    "totalSeatCount": 123,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 10.65
   },
   {
     "state": "NJ",
@@ -1566,9 +1576,12 @@
     "date": "2026-07-12+19:10",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 25,
+    "occupancy": 44.64,
+    "totalAvailableSeatCount": 31,
+    "totalSeatCount": 56,
+    "grossRevenueUSD": 418.75,
+    "adultTicketPrice": 16.75
   },
   {
     "state": "NY",
@@ -1743,9 +1756,12 @@
     "date": "2026-07-12+21:30",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 16,
+    "occupancy": 27.12,
+    "totalAvailableSeatCount": 43,
+    "totalSeatCount": 59,
+    "grossRevenueUSD": 200.0,
+    "adultTicketPrice": 12.5
   },
   {
     "state": "PA",
@@ -1812,11 +1828,11 @@
     "date": "2026-07-12+20:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 4,
-    "occupancy": 3.12,
-    "totalAvailableSeatCount": 124,
+    "totalSeatSold": 5,
+    "occupancy": 3.91,
+    "totalAvailableSeatCount": 123,
     "totalSeatCount": 128,
-    "grossRevenueUSD": 53.96,
+    "grossRevenueUSD": 67.45,
     "adultTicketPrice": 13.49
   },
   {
@@ -3136,11 +3152,11 @@
     "date": "2026-07-12+19:15",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 19,
-    "occupancy": 19.59,
-    "totalAvailableSeatCount": 78,
+    "totalSeatSold": 24,
+    "occupancy": 24.74,
+    "totalAvailableSeatCount": 73,
     "totalSeatCount": 97,
-    "grossRevenueUSD": 347.89,
+    "grossRevenueUSD": 439.44,
     "adultTicketPrice": 18.31
   },
   {
@@ -5558,9 +5574,12 @@
     "date": "2026-07-12+21:00",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 3,
+    "occupancy": 5.0,
+    "totalAvailableSeatCount": 57,
+    "totalSeatCount": 60,
+    "grossRevenueUSD": 43.47,
+    "adultTicketPrice": 14.49
   },
   {
     "state": "IN",
@@ -5663,11 +5682,11 @@
     "date": "2026-07-12+12:45",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 17,
-    "occupancy": 13.71,
-    "totalAvailableSeatCount": 107,
+    "totalSeatSold": 19,
+    "occupancy": 15.32,
+    "totalAvailableSeatCount": 105,
     "totalSeatCount": 124,
-    "grossRevenueUSD": 251.09,
+    "grossRevenueUSD": 280.63,
     "adultTicketPrice": 14.77
   },
   {
@@ -6095,9 +6114,12 @@
     "date": "2026-07-12+16:30",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 100,
+    "totalSeatCount": 100,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 12.99
   },
   {
     "state": "IL",
@@ -6254,9 +6276,12 @@
     "date": "2026-07-12+12:15",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 24,
+    "occupancy": 36.36,
+    "totalAvailableSeatCount": 42,
+    "totalSeatCount": 66,
+    "grossRevenueUSD": 300.48,
+    "adultTicketPrice": 12.52
   },
   {
     "state": "IL",
@@ -7619,11 +7644,11 @@
     "date": "2026-07-12+21:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 6,
-    "occupancy": 10.0,
-    "totalAvailableSeatCount": 54,
+    "totalSeatSold": 8,
+    "occupancy": 13.33,
+    "totalAvailableSeatCount": 52,
     "totalSeatCount": 60,
-    "grossRevenueUSD": 84.36,
+    "grossRevenueUSD": 112.48,
     "adultTicketPrice": 14.06
   },
   {
@@ -8339,11 +8364,11 @@
     "date": "2026-07-12+16:50",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 34,
-    "occupancy": 18.18,
-    "totalAvailableSeatCount": 153,
+    "totalSeatSold": 42,
+    "occupancy": 22.46,
+    "totalAvailableSeatCount": 145,
     "totalSeatCount": 187,
-    "grossRevenueUSD": 478.04,
+    "grossRevenueUSD": 590.52,
     "adultTicketPrice": 14.06
   },
   {
@@ -9419,11 +9444,11 @@
     "date": "2026-07-12+21:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 5,
-    "occupancy": 14.71,
-    "totalAvailableSeatCount": 29,
+    "totalSeatSold": 9,
+    "occupancy": 26.47,
+    "totalAvailableSeatCount": 25,
     "totalSeatCount": 34,
-    "grossRevenueUSD": 97.45,
+    "grossRevenueUSD": 175.41,
     "adultTicketPrice": 19.49
   },
   {
@@ -9743,11 +9768,11 @@
     "date": "2026-07-12+21:45",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 4,
-    "occupancy": 5.13,
-    "totalAvailableSeatCount": 74,
+    "totalSeatSold": 10,
+    "occupancy": 12.82,
+    "totalAvailableSeatCount": 68,
     "totalSeatCount": 78,
-    "grossRevenueUSD": 67.96,
+    "grossRevenueUSD": 169.9,
     "adultTicketPrice": 16.99
   },
   {
@@ -11057,9 +11082,12 @@
     "date": "2026-07-12+12:35",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 9,
+    "occupancy": 7.38,
+    "totalAvailableSeatCount": 113,
+    "totalSeatCount": 122,
+    "grossRevenueUSD": 72.0,
+    "adultTicketPrice": 8.0
   },
   {
     "state": "CA",
@@ -11690,5 +11718,21 @@
     "totalSeatCount": 74,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 15.95
+  },
+  {
+    "state": "IL",
+    "city": "Niles",
+    "zip": "60714",
+    "theater_name": "Cin\u00e9 Lounge at Niles",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": null,
+    "date": "2026-07-12+15:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
   }
 ]

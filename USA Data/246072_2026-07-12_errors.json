@@ -1,98 +1,6 @@
 {
-  "last_updated": "2026-07-12 02:08:14 PM",
+  "last_updated": "2026-07-12 04:22:51 PM",
   "errors": [
-    {
-      "state": "MA",
-      "city": "Bellingham",
-      "zip": "02019",
-      "theater_name": "Regal Bellingham",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 554896452,
-      "date": "2026-07-12+16:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "New Brunswick",
-      "zip": "08901",
-      "theater_name": "AMC New Brunswick 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554401006,
-      "date": "2026-07-12+18:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Freehold",
-      "zip": "07728",
-      "theater_name": "AMC Freehold 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554943919,
-      "date": "2026-07-12+21:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Voorhees",
-      "zip": "08043",
-      "theater_name": "AMC Voorhees 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554695147,
-      "date": "2026-07-12+13:55",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "NY",
-      "city": "Farmingdale",
-      "zip": "11735",
-      "theater_name": "Showcase Cinema de lux Farmingdale",
-      "chainName": "National Amusement",
-      "chainCode": "NATA",
-      "showtime_id": 554964535,
-      "date": "2026-07-12+19:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Pittsburgh",
-      "zip": "15205",
-      "theater_name": "Cinemark Robinson Township and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 554907518,
-      "date": "2026-07-12+21:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "GA",
       "city": "Augusta",
@@ -222,63 +130,19 @@
       }
     },
     {
-      "state": "IN",
-      "city": "Greenwood",
-      "zip": "46142",
-      "theater_name": "Regal Greenwood & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 554753412,
-      "date": "2026-07-12+21:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "IL",
-      "city": "Rockford",
-      "zip": "61108",
-      "theater_name": "AMC Rockford 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554708601,
-      "date": "2026-07-12+16:30",
+      "city": "Niles",
+      "zip": "60714",
+      "theater_name": "Ciné Lounge at Niles",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": null,
+      "date": "2026-07-12+15:25",
       "format": "Standard",
       "language": "Hindi",
       "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Schaumburg",
-      "zip": "60173",
-      "theater_name": "AMC Loews Streets Of Woodfield 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554681349,
-      "date": "2026-07-12+12:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Folsom",
-      "zip": "95630",
-      "theater_name": "Cinemark Century Folsom 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 555008668,
-      "date": "2026-07-12+12:35",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
+        "status": 500,
+        "reason": "No seats"
       }
     }
   ]
