@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12 03:42:48 AM",
+  "last_updated": "2026-07-12 09:36:38 AM",
   "errors": [
     {
       "state": "GA",
@@ -188,6 +188,38 @@
       "date": "2026-07-11+22:40",
       "format": "Standard",
       "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555237467,
+      "date": "2026-07-11+22:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Chesterfield",
+      "zip": "63005",
+      "theater_name": "Marcus Chesterfield Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 555238839,
+      "date": "2026-07-11+22:10",
+      "format": "Standard",
+      "language": "Hindi",
       "error": {
         "status": 500,
         "reason": "No seats"
