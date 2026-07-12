@@ -728,11 +728,11 @@
     "date": "2026-07-14",
     "time": "00:00",
     "total": 94,
-    "available": 94,
+    "available": 92,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
-    "gross_with_tax": 0,
+    "sold": 2,
+    "gross": 30,
+    "gross_with_tax": 30,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -1099,6 +1099,120 @@
       "tax": 0,
       "fee": 0,
       "grand": 15
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Idhayam Murali - Tamil",
+    "perfIx": "40574",
+    "date": "2026-07-14",
+    "time": "18:15",
+    "total": 263,
+    "available": 263,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Idhayam Murali - Tamil",
+    "perfIx": "40575",
+    "date": "2026-07-14",
+    "time": "21:30",
+    "total": 263,
+    "available": 263,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "I, Nobody - Malayalam",
+    "perfIx": "40572",
+    "date": "2026-07-14",
+    "time": "18:15",
+    "total": 183,
+    "available": 183,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "I, Nobody - Malayalam",
+    "perfIx": "40573",
+    "date": "2026-07-14",
+    "time": "21:45",
+    "total": 183,
+    "available": 183,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Gatta Kusthi 2- Tamil",
+    "perfIx": "40571",
+    "date": "2026-07-14",
+    "time": "18:30",
+    "total": 141,
+    "available": 141,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Love Oh Love - Tamil",
+    "perfIx": "40576",
+    "date": "2026-07-14",
+    "time": "22:00",
+    "total": 141,
+    "available": 141,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
     }
   }
 ]
