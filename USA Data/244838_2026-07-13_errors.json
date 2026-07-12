@@ -1,4 +1,21 @@
 {
-  "last_updated": "2026-07-12 04:24:39 PM",
-  "errors": []
+  "last_updated": "2026-07-12 07:34:05 PM",
+  "errors": [
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-07-13+11:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
 }
