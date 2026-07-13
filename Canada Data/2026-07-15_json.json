@@ -924,10 +924,10 @@
     "gross": 0.0,
     "gross_with_tax": 0.0,
     "per_ticket": {
-      "net": 18.0,
+      "net": 16.0,
       "tax": 0,
       "fee": 0,
-      "grand": 18.0
+      "grand": 16.0
     }
   },
   {
@@ -943,10 +943,10 @@
     "gross": 0.0,
     "gross_with_tax": 0.0,
     "per_ticket": {
-      "net": 18.0,
+      "net": 16.0,
       "tax": 0,
       "fee": 0,
-      "grand": 18.0
+      "grand": 16.0
     }
   },
   {
@@ -1187,13 +1187,13 @@
     "available": 263,
     "blocked": 0,
     "sold": 19,
-    "gross": 399.0,
-    "gross_with_tax": 399.0,
+    "gross": 361.0,
+    "gross_with_tax": 361.0,
     "per_ticket": {
-      "net": 21.0,
+      "net": 19.0,
       "tax": 0,
       "fee": 0,
-      "grand": 21.0
+      "grand": 19.0
     }
   },
   {
@@ -1206,13 +1206,13 @@
     "available": 263,
     "blocked": 0,
     "sold": 19,
-    "gross": 399.0,
-    "gross_with_tax": 399.0,
+    "gross": 361.0,
+    "gross_with_tax": 361.0,
     "per_ticket": {
-      "net": 21.0,
+      "net": 19.0,
       "tax": 0,
       "fee": 0,
-      "grand": 21.0
+      "grand": 19.0
     }
   },
   {
@@ -1289,6 +1289,120 @@
       "tax": 0,
       "fee": 0,
       "grand": 21.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Dhamaal 4 - Hindi",
+    "perfIx": "16743",
+    "date": "2026-07-15",
+    "time": "15:45",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 9.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Dhamaal 4 - Hindi",
+    "perfIx": "16748",
+    "date": "2026-07-15",
+    "time": "22:00",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 12.0,
+    "gross_with_tax": 12.0,
+    "per_ticket": {
+      "net": 12.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 12.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Idhayam Murali - Tamil",
+    "perfIx": "16747",
+    "date": "2026-07-15",
+    "time": "18:45",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 19.0,
+    "gross_with_tax": 19.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "I, Nobody - Malayalam",
+    "perfIx": "16744",
+    "date": "2026-07-15",
+    "time": "19:00",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "I, Nobody - Malayalam",
+    "perfIx": "16745",
+    "date": "2026-07-15",
+    "time": "22:15",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Gatta Kusthi 2- Tamil",
+    "perfIx": "16746",
+    "date": "2026-07-15",
+    "time": "15:30",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 19.0,
+    "gross_with_tax": 19.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
     }
   }
 ]
