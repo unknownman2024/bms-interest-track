@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13 08:50:31 PM",
+  "last_updated": "2026-07-13 10:59:00 PM",
   "errors": [
     {
       "state": "NY",
@@ -143,21 +143,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "KY",
-      "city": "Lexington",
-      "zip": "40503",
-      "theater_name": "Cinemark Fayette Mall and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 554750158,
-      "date": "2026-07-13+21:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
