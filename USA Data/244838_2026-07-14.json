@@ -118,11 +118,11 @@
     "date": "2026-07-14+11:45",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 245,
+    "totalSeatSold": 1,
+    "occupancy": 0.41,
+    "totalAvailableSeatCount": 244,
     "totalSeatCount": 245,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 16.39,
     "adultTicketPrice": 16.39
   },
   {
@@ -442,11 +442,11 @@
     "date": "2026-07-14+21:15",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 4,
-    "occupancy": 4.12,
-    "totalAvailableSeatCount": 93,
+    "totalSeatSold": 7,
+    "occupancy": 7.22,
+    "totalAvailableSeatCount": 90,
     "totalSeatCount": 97,
-    "grossRevenueUSD": 73.24,
+    "grossRevenueUSD": 128.17,
     "adultTicketPrice": 18.31
   },
   {
@@ -1110,8 +1110,8 @@
     "occupancy": 6.12,
     "totalAvailableSeatCount": 46,
     "totalSeatCount": 49,
-    "grossRevenueUSD": 44.97,
-    "adultTicketPrice": 14.99
+    "grossRevenueUSD": 49.47,
+    "adultTicketPrice": 16.49
   },
   {
     "state": "CA",
@@ -1196,9 +1196,12 @@
     "date": "2026-07-14+11:50",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 141,
+    "totalSeatCount": 141,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 7.73
   },
   {
     "state": "WA",

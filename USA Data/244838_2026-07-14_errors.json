@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13 03:24:51 PM",
+  "last_updated": "2026-07-13 08:52:24 PM",
   "errors": [
     {
       "state": "IL",
@@ -15,21 +15,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Bellevue",
-      "zip": "98004",
-      "theater_name": "Cinemark Lincoln Square",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 554475972,
-      "date": "2026-07-14+11:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     }
   ]
