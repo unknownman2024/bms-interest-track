@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13 03:43:53 AM",
+  "last_updated": "2026-07-13 09:39:10 AM",
   "errors": [
     {
       "state": "GA",
@@ -138,6 +138,54 @@
       "chainCode": "RTSIND",
       "showtime_id": null,
       "date": "2026-07-12+15:25",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Crestwood",
+      "zip": "60148",
+      "theater_name": "AMC Crestwood 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555251587,
+      "date": "2026-07-12+21:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Auburn Hills",
+      "zip": "48326",
+      "theater_name": "AMC Star Great Lakes 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554806972,
+      "date": "2026-07-12+17:40",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Auburn Hills",
+      "zip": "48326",
+      "theater_name": "AMC Star Great Lakes 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 554806964,
+      "date": "2026-07-12+21:00",
       "format": "Standard",
       "language": "Hindi",
       "error": {
