@@ -334,11 +334,11 @@
     "date": "2026-07-14+15:55",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 50,
+    "totalSeatSold": 2,
+    "occupancy": 4.0,
+    "totalAvailableSeatCount": 48,
     "totalSeatCount": 50,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 34.62,
     "adultTicketPrice": 17.31
   },
   {
@@ -424,11 +424,11 @@
     "date": "2026-07-14+17:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 9,
-    "occupancy": 9.28,
-    "totalAvailableSeatCount": 88,
+    "totalSeatSold": 12,
+    "occupancy": 12.37,
+    "totalAvailableSeatCount": 85,
     "totalSeatCount": 97,
-    "grossRevenueUSD": 164.79,
+    "grossRevenueUSD": 219.72,
     "adultTicketPrice": 18.31
   },
   {
@@ -836,11 +836,11 @@
     "date": "2026-07-14+14:20",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 126,
+    "totalSeatSold": 3,
+    "occupancy": 2.38,
+    "totalAvailableSeatCount": 123,
     "totalSeatCount": 126,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 33.75,
     "adultTicketPrice": 11.25
   },
   {
@@ -854,11 +854,11 @@
     "date": "2026-07-14+21:55",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 1,
-    "occupancy": 0.79,
-    "totalAvailableSeatCount": 125,
+    "totalSeatSold": 2,
+    "occupancy": 1.59,
+    "totalAvailableSeatCount": 124,
     "totalSeatCount": 126,
-    "grossRevenueUSD": 14.06,
+    "grossRevenueUSD": 28.12,
     "adultTicketPrice": 14.06
   },
   {
@@ -1110,8 +1110,8 @@
     "occupancy": 6.12,
     "totalAvailableSeatCount": 46,
     "totalSeatCount": 49,
-    "grossRevenueUSD": 49.47,
-    "adultTicketPrice": 16.49
+    "grossRevenueUSD": 44.97,
+    "adultTicketPrice": 14.99
   },
   {
     "state": "CA",
@@ -1256,5 +1256,39 @@
     "totalSeatCount": 123,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 15.74
+  },
+  {
+    "state": "IL",
+    "city": "Niles",
+    "zip": "60714",
+    "theater_name": "Cin\u00e9 Lounge at Niles",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 555252427,
+    "date": "2026-07-14+17:55",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Niles",
+    "zip": "60714",
+    "theater_name": "Cin\u00e9 Lounge at Niles",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 555252437,
+    "date": "2026-07-14+15:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 94,
+    "totalSeatCount": 94,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 6.1
   }
 ]

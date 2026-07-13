@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13 08:52:24 PM",
+  "last_updated": "2026-07-13 11:01:25 PM",
   "errors": [
     {
       "state": "IL",
@@ -9,6 +9,22 @@
       "chainName": "RTSIND",
       "chainCode": "RTSIND",
       "showtime_id": null,
+      "date": "2026-07-14+17:55",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Niles",
+      "zip": "60714",
+      "theater_name": "Ciné Lounge at Niles",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 555252427,
       "date": "2026-07-14+17:55",
       "format": "Standard",
       "language": "Hindi",
