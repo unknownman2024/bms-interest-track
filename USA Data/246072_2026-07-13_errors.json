@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-07-13 03:23:56 PM",
+  "last_updated": "2026-07-13 08:50:31 PM",
   "errors": [
-    {
-      "state": "NJ",
-      "city": "Elizabeth",
-      "zip": "07201",
-      "theater_name": "AMC Jersey Gardens 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554832027,
-      "date": "2026-07-13+11:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "NY",
       "city": "New York",
@@ -30,21 +15,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "Somerdale",
-      "zip": "08083",
-      "theater_name": "Cinemark Somerdale 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 554775638,
-      "date": "2026-07-13+22:20",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -113,21 +83,6 @@
     },
     {
       "state": "GA",
-      "city": "Buford",
-      "zip": "30519",
-      "theater_name": "Regal Mall of Georgia",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 554714477,
-      "date": "2026-07-13+11:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "GA",
       "city": "Roswell",
       "zip": "30076",
       "theater_name": "Aurora Cineplex",
@@ -191,21 +146,6 @@
       }
     },
     {
-      "state": "TN",
-      "city": "Bartlett",
-      "zip": "38134",
-      "theater_name": "Hollywood 20 Cinema",
-      "chainName": "Bartlett Cinemas",
-      "chainCode": "BART",
-      "showtime_id": 555116304,
-      "date": "2026-07-13+16:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "KY",
       "city": "Lexington",
       "zip": "40503",
@@ -218,37 +158,6 @@
       "language": "Hindi",
       "error": {
         "status": 500
-      }
-    },
-    {
-      "state": "IN",
-      "city": "Indianapolis",
-      "zip": "46227",
-      "theater_name": "Cinemark Greenwood Corner",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 555081225,
-      "date": "2026-07-13+21:55",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "WI",
-      "city": "Fitchburg",
-      "zip": "53719",
-      "theater_name": "AMC Fitchburg 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554966846,
-      "date": "2026-07-13+18:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
       }
     },
     {
@@ -267,110 +176,19 @@
       }
     },
     {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78745",
-      "theater_name": "Regal Metropolitan",
+      "state": "DE",
+      "city": "Newark",
+      "zip": "19702",
+      "theater_name": "Regal Peoples Plaza",
       "chainName": "Regal",
       "chainCode": "REGL",
-      "showtime_id": 554525661,
-      "date": "2026-07-13+18:15",
+      "showtime_id": 555256829,
+      "date": "2026-07-13+10:50",
       "format": "Standard",
       "language": "Hindi",
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78745",
-      "theater_name": "Regal Metropolitan",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 554525660,
-      "date": "2026-07-13+21:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Fullerton",
-      "zip": "92832",
-      "theater_name": "AMC Fullerton 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554694432,
-      "date": "2026-07-13+16:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Santa Clara",
-      "zip": "95054",
-      "theater_name": "AMC Mercado 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554897441,
-      "date": "2026-07-13+15:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Dublin",
-      "zip": "94568",
-      "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 555104479,
-      "date": "2026-07-13+17:40",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Tracy",
-      "zip": "95376",
-      "theater_name": "Cinemark Tracy 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 554514926,
-      "date": "2026-07-13+15:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OR",
-      "city": "Hillsboro",
-      "zip": "97123",
-      "theater_name": "Regal Movies On TV",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 554682534,
-      "date": "2026-07-13+13:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     }
   ]
