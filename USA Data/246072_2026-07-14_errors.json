@@ -1,37 +1,6 @@
 {
-  "last_updated": "2026-07-14 02:04:59 PM",
+  "last_updated": "2026-07-14 04:33:35 PM",
   "errors": [
-    {
-      "state": "MD",
-      "city": "Hanover",
-      "zip": "21076",
-      "theater_name": "Cinemark Egyptian 24 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 554905097,
-      "date": "2026-07-14+15:20",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Charlotte",
-      "zip": "28216",
-      "theater_name": "AMC Northlake 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554719466,
-      "date": "2026-07-14+15:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
     {
       "state": "GA",
       "city": "Roswell",
@@ -129,21 +98,6 @@
       }
     },
     {
-      "state": "AL",
-      "city": "Mobile",
-      "zip": "36695",
-      "theater_name": "AMC Mobile 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554850433,
-      "date": "2026-07-14+12:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "TN",
       "city": "Murfreesboro",
       "zip": "37128",
@@ -152,22 +106,6 @@
       "chainCode": "AMC",
       "showtime_id": 554510412,
       "date": "2026-07-14+20:20",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Sterling Heights",
-      "zip": "48314",
-      "theater_name": "AMC Forum 30",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 554726301,
-      "date": "2026-07-14+18:20",
       "format": "Standard",
       "language": "Hindi",
       "error": {
@@ -223,22 +161,6 @@
       }
     },
     {
-      "state": "TX",
-      "city": "The Woodlands",
-      "zip": "77380",
-      "theater_name": "Cinemark The Woodlands and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 555254274,
-      "date": "2026-07-14+21:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
       "state": "CA",
       "city": "Simi Valley",
       "zip": "93063",
@@ -255,63 +177,19 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Modesto",
-      "zip": "95354",
-      "theater_name": "Brenden Modesto 18 & JBX",
-      "chainName": "Brenden Theatres",
-      "chainCode": "BRND",
-      "showtime_id": 554881187,
-      "date": "2026-07-14+17:30",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Folsom",
-      "zip": "95630",
-      "theater_name": "Cinemark Century Folsom 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 555008736,
-      "date": "2026-07-14+14:55",
+      "state": "FL",
+      "city": "Brandon",
+      "zip": "33511",
+      "theater_name": "AMC The Regency 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-07-14+21:30",
       "format": "Standard",
       "language": "Hindi",
       "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "OR",
-      "city": "Hillsboro",
-      "zip": "97123",
-      "theater_name": "Regal Movies On TV",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 554682578,
-      "date": "2026-07-14+13:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Bellevue",
-      "zip": "98004",
-      "theater_name": "Cinemark Lincoln Square",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 554475957,
-      "date": "2026-07-14+15:35",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
+        "status": 500,
+        "reason": "No seats"
       }
     }
   ]
