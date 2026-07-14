@@ -375,7 +375,7 @@
     "totalAvailableSeatCount": 97,
     "totalSeatCount": 97,
     "grossRevenueUSD": 0.0,
-    "adultTicketPrice": 18.31
+    "adultTicketPrice": 14.54
   },
   {
     "state": "GA",
@@ -964,11 +964,11 @@
     "date": "2026-07-15+18:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 9,
-    "occupancy": 7.89,
-    "totalAvailableSeatCount": 105,
+    "totalSeatSold": 11,
+    "occupancy": 9.65,
+    "totalAvailableSeatCount": 103,
     "totalSeatCount": 114,
-    "grossRevenueUSD": 157.41,
+    "grossRevenueUSD": 192.39,
     "adultTicketPrice": 17.49
   },
   {
@@ -982,9 +982,12 @@
     "date": "2026-07-15+22:00",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 6,
+    "occupancy": 12.77,
+    "totalAvailableSeatCount": 41,
+    "totalSeatCount": 47,
+    "grossRevenueUSD": 104.94,
+    "adultTicketPrice": 17.49
   },
   {
     "state": "CA",
