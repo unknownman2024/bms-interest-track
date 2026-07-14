@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-07-14 02:06:51 PM",
+  "last_updated": "2026-07-14 04:37:57 PM",
   "errors": [
-    {
-      "state": "GA",
-      "city": "Duluth",
-      "zip": "30097",
-      "theater_name": "Regal Medlock Crossing",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 554895971,
-      "date": "2026-07-15+13:55",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "CA",
       "city": "Santa Clara",
@@ -29,6 +14,22 @@
       "language": "Hindi",
       "error": {
         "status": 500
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Niles",
+      "zip": "60714",
+      "theater_name": "Ciné Lounge at Niles",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": null,
+      "date": "2026-07-15+17:55",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
       }
     }
   ]
