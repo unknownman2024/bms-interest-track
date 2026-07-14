@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15 01:22:22 AM",
+  "last_updated": "2026-07-15 03:59:27 AM",
   "errors": [
     {
       "state": "GA",
@@ -172,22 +172,6 @@
       "date": "2026-07-14+21:30",
       "format": "Standard",
       "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "OK",
-      "city": "Tulsa",
-      "zip": "74135",
-      "theater_name": "AMC Southroads 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 555639409,
-      "date": "2026-07-14+19:45",
-      "format": "Standard",
-      "language": "Unknown",
       "error": {
         "status": 500,
         "reason": "No seats"
