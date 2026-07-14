@@ -190,11 +190,11 @@
     "date": "2026-07-15+23:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 7,
-    "occupancy": 9.46,
-    "totalAvailableSeatCount": 67,
+    "totalSeatSold": 12,
+    "occupancy": 16.22,
+    "totalAvailableSeatCount": 62,
     "totalSeatCount": 74,
-    "grossRevenueUSD": 143.43,
+    "grossRevenueUSD": 245.88,
     "adultTicketPrice": 20.49
   },
   {
@@ -1184,5 +1184,23 @@
       "status": 500,
       "reason": "No seats"
     }
+  },
+  {
+    "state": "IL",
+    "city": "South Barrington",
+    "zip": "60010",
+    "theater_name": "AMC South Barrington 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 555708207,
+    "date": "2026-07-15+21:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 4,
+    "occupancy": 11.43,
+    "totalAvailableSeatCount": 31,
+    "totalSeatCount": 35,
+    "grossRevenueUSD": 61.48,
+    "adultTicketPrice": 15.37
   }
 ]
