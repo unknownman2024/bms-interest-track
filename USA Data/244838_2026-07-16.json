@@ -118,9 +118,12 @@
     "date": "2026-07-16+08:05",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 50,
+    "totalSeatCount": 50,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 13.52
   },
   {
     "state": "GA",
@@ -623,5 +626,23 @@
     "totalSeatCount": 121,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 12.62
+  },
+  {
+    "state": "CA",
+    "city": "Santa Clara",
+    "zip": "95054",
+    "theater_name": "AMC Mercado 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 555846319,
+    "date": "2026-07-16+12:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 114,
+    "totalSeatCount": 114,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 13.99
   }
 ]
