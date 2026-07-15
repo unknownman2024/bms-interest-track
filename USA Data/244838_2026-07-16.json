@@ -316,11 +316,11 @@
     "date": "2026-07-16+20:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 6,
-    "occupancy": 17.65,
-    "totalAvailableSeatCount": 28,
+    "totalSeatSold": 10,
+    "occupancy": 29.41,
+    "totalAvailableSeatCount": 24,
     "totalSeatCount": 34,
-    "grossRevenueUSD": 92.22,
+    "grossRevenueUSD": 153.7,
     "adultTicketPrice": 15.37
   },
   {
@@ -644,5 +644,23 @@
     "totalSeatCount": 114,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 13.99
+  },
+  {
+    "state": "NY",
+    "city": "Farmingdale",
+    "zip": "11735",
+    "theater_name": "Showcase Cinema de lux Farmingdale",
+    "chainName": "National Amusement",
+    "chainCode": "NATA",
+    "showtime_id": 556035907,
+    "date": "2026-07-16+09:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 57,
+    "totalSeatCount": 57,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 13.5
   }
 ]
