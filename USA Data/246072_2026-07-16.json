@@ -3636,9 +3636,12 @@
     "date": "2026-07-16+13:00",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 52,
+    "totalSeatCount": 52,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 10.28
   },
   {
     "state": "TX",
@@ -5415,11 +5418,11 @@
     "date": "2026-07-16+12:45",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 1,
-    "occupancy": 1.02,
-    "totalAvailableSeatCount": 97,
+    "totalSeatSold": 5,
+    "occupancy": 5.1,
+    "totalAvailableSeatCount": 93,
     "totalSeatCount": 98,
-    "grossRevenueUSD": 11.75,
+    "grossRevenueUSD": 58.75,
     "adultTicketPrice": 11.75
   },
   {
@@ -5691,5 +5694,21 @@
     "totalSeatCount": 99,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 16.26
+  },
+  {
+    "state": "IL",
+    "city": "Niles",
+    "zip": "60714",
+    "theater_name": "Cin\u00e9 Lounge at Niles",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": null,
+    "date": "2026-07-16+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
   }
 ]

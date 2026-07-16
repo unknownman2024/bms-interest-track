@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16 02:10:30 PM",
+  "last_updated": "2026-07-16 04:47:23 PM",
   "errors": [
     {
       "state": "VA",
@@ -82,18 +82,19 @@
       }
     },
     {
-      "state": "TX",
-      "city": "Roanoke",
-      "zip": "76262",
-      "theater_name": "Cinemark Roanoke and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 555980415,
-      "date": "2026-07-16+13:00",
+      "state": "IL",
+      "city": "Niles",
+      "zip": "60714",
+      "theater_name": "Ciné Lounge at Niles",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": null,
+      "date": "2026-07-16+18:00",
       "format": "Standard",
       "language": "Hindi",
       "error": {
-        "status": 500
+        "status": 500,
+        "reason": "No seats"
       }
     }
   ]
