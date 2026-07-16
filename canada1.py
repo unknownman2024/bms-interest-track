@@ -16,7 +16,7 @@ CINEPLEX_FILMS = {
 }
 
 
-TARGET_START="2026-06-03"
+TARGET_START="2026-06-22"
 
 today=datetime.now(ZoneInfo("America/Toronto")).date()
 target=datetime.fromisoformat(TARGET_START).date()
