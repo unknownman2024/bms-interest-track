@@ -1,0 +1,100 @@
+{
+  "last_updated": "2026-07-16 02:10:30 PM",
+  "errors": [
+    {
+      "state": "VA",
+      "city": "Harrisonburg",
+      "zip": "22801",
+      "theater_name": "Regal Harrisonburg",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 555764232,
+      "date": "2026-07-16+13:35",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 555626146,
+      "date": "2026-07-16+14:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 555626139,
+      "date": "2026-07-16+18:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Roswell",
+      "zip": "30076",
+      "theater_name": "Aurora Cineplex",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 555128225,
+      "date": "2026-07-16+10:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555963715,
+      "date": "2026-07-16+22:25",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Roanoke",
+      "zip": "76262",
+      "theater_name": "Cinemark Roanoke and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 555980415,
+      "date": "2026-07-16+13:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500
+      }
+    }
+  ]
+}
