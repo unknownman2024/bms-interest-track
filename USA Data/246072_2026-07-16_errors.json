@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17 01:10:15 AM",
+  "last_updated": "2026-07-17 03:58:55 AM",
   "errors": [
     {
       "state": "GA",
@@ -74,6 +74,22 @@
       "chainCode": "RTSIND",
       "showtime_id": null,
       "date": "2026-07-16+18:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Simi Valley",
+      "zip": "93063",
+      "theater_name": "Regal Simi Valley Civic Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 556092963,
+      "date": "2026-07-16+14:25",
       "format": "Standard",
       "language": "Hindi",
       "error": {
