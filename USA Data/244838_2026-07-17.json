@@ -172,8 +172,27 @@
     "date": "2026-07-17+15:00",
     "format": "Standard",
     "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 51,
+    "totalSeatCount": 51,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 13.5
+  },
+  {
+    "state": "IL",
+    "city": "Niles",
+    "zip": "60714",
+    "theater_name": "Cin\u00e9 Lounge at Niles",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": null,
+    "date": "2026-07-17+15:25",
+    "format": "Standard",
+    "language": "Hindi",
     "error": {
-      "status": 500
+      "status": 500,
+      "reason": "No seats"
     }
   }
 ]
