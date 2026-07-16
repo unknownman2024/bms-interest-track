@@ -253,11 +253,11 @@
     "date": "2026-07-18",
     "time": "19:15",
     "total": 267,
-    "available": 224,
+    "available": 222,
     "blocked": 0,
-    "sold": 43,
-    "gross": 817.0,
-    "gross_with_tax": 817.0,
+    "sold": 45,
+    "gross": 855.0,
+    "gross_with_tax": 855.0,
     "per_ticket": {
       "net": 19.0,
       "tax": 0,
@@ -1450,11 +1450,11 @@
     "date": "2026-07-18",
     "time": "00:00",
     "total": 66,
-    "available": 64,
+    "available": 62,
     "blocked": 0,
-    "sold": 2,
-    "gross": 30,
-    "gross_with_tax": 30,
+    "sold": 4,
+    "gross": 60,
+    "gross_with_tax": 60,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -1659,11 +1659,11 @@
     "date": "2026-07-18",
     "time": "18:00",
     "total": 107,
-    "available": 107,
+    "available": 105,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0.0,
-    "gross_with_tax": 0.0,
+    "sold": 2,
+    "gross": 21.5,
+    "gross_with_tax": 21.5,
     "per_ticket": {
       "net": 10.75,
       "tax": 0,
@@ -1783,6 +1783,63 @@
       "tax": 0,
       "fee": 0,
       "grand": 10.75
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Idhayam Murali - Tamil",
+    "perfIx": "40600",
+    "date": "2026-07-18",
+    "time": "12:00",
+    "total": 183,
+    "available": 183,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Idhayam Murali - Tamil",
+    "perfIx": "40601",
+    "date": "2026-07-18",
+    "time": "22:00",
+    "total": 141,
+    "available": 141,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Varavu- Malayalam",
+    "perfIx": "40604",
+    "date": "2026-07-18",
+    "time": "21:45",
+    "total": 263,
+    "available": 263,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
     }
   }
 ]
