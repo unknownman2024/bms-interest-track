@@ -1,4 +1,21 @@
 {
-  "last_updated": "2026-07-17 04:36:54 PM",
-  "errors": []
+  "last_updated": "2026-07-17 07:43:03 PM",
+  "errors": [
+    {
+      "state": "MI",
+      "city": "Sterling Heights",
+      "zip": "48314",
+      "theater_name": "AMC Forum 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-07-18+10:05",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
 }
