@@ -1146,11 +1146,11 @@
     "date": "2026-07-17",
     "time": "16:00",
     "total": 129,
-    "available": 121,
+    "available": 119,
     "blocked": 0,
-    "sold": 8,
-    "gross": 76.0,
-    "gross_with_tax": 76.0,
+    "sold": 10,
+    "gross": 95.0,
+    "gross_with_tax": 95.0,
     "per_ticket": {
       "net": 9.5,
       "tax": 0,
@@ -1222,11 +1222,11 @@
     "date": "2026-07-17",
     "time": "18:00",
     "total": 107,
-    "available": 107,
+    "available": 105,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0.0,
-    "gross_with_tax": 0.0,
+    "sold": 2,
+    "gross": 21.5,
+    "gross_with_tax": 21.5,
     "per_ticket": {
       "net": 10.75,
       "tax": 0,
@@ -1260,11 +1260,11 @@
     "date": "2026-07-17",
     "time": "21:00",
     "total": 116,
-    "available": 116,
+    "available": 114,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0.0,
-    "gross_with_tax": 0.0,
+    "sold": 2,
+    "gross": 32.0,
+    "gross_with_tax": 32.0,
     "per_ticket": {
       "net": 16.0,
       "tax": 0,
@@ -1346,6 +1346,44 @@
       "tax": 0,
       "fee": 0,
       "grand": 10.75
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Idhayam Murali - Tamil",
+    "perfIx": "39641",
+    "date": "2026-07-17",
+    "time": "15:00",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 817.0,
+    "gross_with_tax": 817.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Varavu- Malayalam",
+    "perfIx": "39642",
+    "date": "2026-07-17",
+    "time": "15:15",
+    "total": 282,
+    "available": 263,
+    "blocked": 0,
+    "sold": 19,
+    "gross": 361.0,
+    "gross_with_tax": 361.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
     }
   }
 ]
