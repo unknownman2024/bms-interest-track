@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17 10:10:28 PM",
+  "last_updated": "2026-07-18 01:09:43 AM",
   "errors": [
     {
       "state": "NY",
@@ -26,6 +26,22 @@
       "chainCode": "AMC",
       "showtime_id": 555963778,
       "date": "2026-07-17+22:35",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Elizabeth",
+      "zip": "07201",
+      "theater_name": "AMC Jersey Gardens 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 556125985,
+      "date": "2026-07-17+13:15",
       "format": "Standard",
       "language": "Hindi",
       "error": {
