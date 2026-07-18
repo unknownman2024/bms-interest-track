@@ -118,9 +118,12 @@
     "date": "2026-07-18+16:25",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 192,
+    "totalSeatCount": 192,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 13.32
   },
   {
     "state": "NJ",
@@ -151,9 +154,12 @@
     "date": "2026-07-18+09:20",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 129,
+    "totalSeatCount": 129,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 12.25
   },
   {
     "state": "NJ",
@@ -362,11 +368,11 @@
     "date": "2026-07-18+16:35",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 5,
-    "occupancy": 3.91,
-    "totalAvailableSeatCount": 123,
+    "totalSeatSold": 7,
+    "occupancy": 5.47,
+    "totalAvailableSeatCount": 121,
     "totalSeatCount": 128,
-    "grossRevenueUSD": 52.45,
+    "grossRevenueUSD": 73.43,
     "adultTicketPrice": 10.49
   },
   {
@@ -1044,9 +1050,12 @@
     "date": "2026-07-18+11:05",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 5,
+    "occupancy": 10.87,
+    "totalAvailableSeatCount": 41,
+    "totalSeatCount": 46,
+    "grossRevenueUSD": 55.95,
+    "adultTicketPrice": 11.19
   },
   {
     "state": "OH",
@@ -1455,9 +1464,12 @@
     "date": "2026-07-18+16:50",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 74,
+    "totalSeatCount": 74,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 14.41
   },
   {
     "state": "IL",
@@ -1540,11 +1552,11 @@
     "date": "2026-07-18+14:55",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 7,
-    "occupancy": 13.73,
-    "totalAvailableSeatCount": 44,
+    "totalSeatSold": 8,
+    "occupancy": 15.69,
+    "totalAvailableSeatCount": 43,
     "totalSeatCount": 51,
-    "grossRevenueUSD": 79.59,
+    "grossRevenueUSD": 90.96,
     "adultTicketPrice": 11.37
   },
   {
@@ -2464,5 +2476,59 @@
     "totalSeatCount": 129,
     "grossRevenueUSD": 47.22,
     "adultTicketPrice": 15.74
+  },
+  {
+    "state": "NY",
+    "city": "New York",
+    "zip": "10036",
+    "theater_name": "AMC Empire 25",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 555912976,
+    "date": "2026-07-18+11:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 27,
+    "occupancy": 65.85,
+    "totalAvailableSeatCount": 14,
+    "totalSeatCount": 41,
+    "grossRevenueUSD": 442.53,
+    "adultTicketPrice": 16.39
+  },
+  {
+    "state": "PA",
+    "city": "Homestead",
+    "zip": "15120",
+    "theater_name": "AMC Waterfront 22",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 555844865,
+    "date": "2026-07-18+18:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 80,
+    "totalSeatCount": 80,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 11.99
+  },
+  {
+    "state": "PA",
+    "city": "Homestead",
+    "zip": "15120",
+    "theater_name": "AMC Waterfront 22",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 555844867,
+    "date": "2026-07-18+20:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 80,
+    "totalSeatCount": 80,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 11.99
   }
 ]

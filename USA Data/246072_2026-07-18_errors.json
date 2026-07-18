@@ -1,36 +1,6 @@
 {
-  "last_updated": "2026-07-18 01:46:52 PM",
+  "last_updated": "2026-07-18 04:16:32 PM",
   "errors": [
-    {
-      "state": "NJ",
-      "city": "New Brunswick",
-      "zip": "08901",
-      "theater_name": "AMC New Brunswick 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 555362416,
-      "date": "2026-07-18+16:25",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NJ",
-      "city": "North Brunswick",
-      "zip": "08902",
-      "theater_name": "Regal Commerce Center",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 555966130,
-      "date": "2026-07-18+09:20",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "NY",
       "city": "New York",
@@ -61,36 +31,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "West Chester",
-      "zip": "45069",
-      "theater_name": "AMC West Chester 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 555386446,
-      "date": "2026-07-18+11:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Bolingbrook",
-      "zip": "60440",
-      "theater_name": "Regal Bolingbrook",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 555609930,
-      "date": "2026-07-18+16:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
