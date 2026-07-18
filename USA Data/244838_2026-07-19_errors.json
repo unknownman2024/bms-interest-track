@@ -1,4 +1,21 @@
 {
-  "last_updated": "2026-07-18 01:49:58 PM",
-  "errors": []
+  "last_updated": "2026-07-18 04:17:28 PM",
+  "errors": [
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-07-19+21:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
 }
