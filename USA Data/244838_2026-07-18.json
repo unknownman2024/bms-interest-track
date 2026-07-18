@@ -10,11 +10,11 @@
     "date": "2026-07-18+13:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 2,
-    "occupancy": 5.13,
-    "totalAvailableSeatCount": 37,
+    "totalSeatSold": 5,
+    "occupancy": 12.82,
+    "totalAvailableSeatCount": 34,
     "totalSeatCount": 39,
-    "grossRevenueUSD": 26.64,
+    "grossRevenueUSD": 66.6,
     "adultTicketPrice": 13.32
   },
   {
@@ -46,11 +46,11 @@
     "date": "2026-07-18+14:50",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 129,
+    "totalSeatSold": 3,
+    "occupancy": 2.33,
+    "totalAvailableSeatCount": 126,
     "totalSeatCount": 129,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 36.75,
     "adultTicketPrice": 12.25
   },
   {
@@ -118,11 +118,11 @@
     "date": "2026-07-18+15:20",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 10,
-    "occupancy": 23.26,
-    "totalAvailableSeatCount": 33,
+    "totalSeatSold": 17,
+    "occupancy": 39.53,
+    "totalAvailableSeatCount": 26,
     "totalSeatCount": 43,
-    "grossRevenueUSD": 112.5,
+    "grossRevenueUSD": 191.25,
     "adultTicketPrice": 11.25
   },
   {
@@ -169,15 +169,15 @@
     "chainName": "RTSIND",
     "chainCode": "RTSIND",
     "showtime_id": 556060187,
-    "date": "2026-07-18+15:00",
+    "date": "2026-07-18+18:15",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 51,
+    "totalSeatSold": 3,
+    "occupancy": 5.88,
+    "totalAvailableSeatCount": 48,
     "totalSeatCount": 51,
-    "grossRevenueUSD": 0.0,
-    "adultTicketPrice": 13.5
+    "grossRevenueUSD": 43.5,
+    "adultTicketPrice": 14.5
   },
   {
     "state": "MI",
@@ -194,5 +194,23 @@
       "status": 500,
       "reason": "No seats"
     }
+  },
+  {
+    "state": "TX",
+    "city": "Frisco",
+    "zip": "75034",
+    "theater_name": "AMC Stonebriar 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 556177978,
+    "date": "2026-07-18+22:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 3,
+    "occupancy": 6.0,
+    "totalAvailableSeatCount": 47,
+    "totalSeatCount": 50,
+    "grossRevenueUSD": 42.18,
+    "adultTicketPrice": 14.06
   }
 ]
