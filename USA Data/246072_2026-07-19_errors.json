@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19 09:56:42 PM",
+  "last_updated": "2026-07-20 01:09:51 AM",
   "errors": [
     {
       "state": "FL",
@@ -9,6 +9,22 @@
       "chainName": "AMC",
       "chainCode": "AMC",
       "showtime_id": null,
+      "date": "2026-07-19+22:35",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555963918,
       "date": "2026-07-19+22:35",
       "format": "Standard",
       "language": "Hindi",
