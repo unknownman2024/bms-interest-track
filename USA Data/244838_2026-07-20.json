@@ -64,9 +64,12 @@
     "date": "2026-07-20+11:50",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 2,
+    "occupancy": 2.63,
+    "totalAvailableSeatCount": 74,
+    "totalSeatCount": 76,
+    "grossRevenueUSD": 14.38,
+    "adultTicketPrice": 7.19
   },
   {
     "state": "IL",
@@ -79,9 +82,12 @@
     "date": "2026-07-20+21:00",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "exception": ""
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 112,
+    "totalSeatCount": 112,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 12.75
   },
   {
     "state": "TX",
