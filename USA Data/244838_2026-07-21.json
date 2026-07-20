@@ -28,9 +28,12 @@
     "date": "2026-07-21+14:50",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 129,
+    "totalSeatCount": 129,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 12.25
   },
   {
     "state": "MI",
@@ -157,5 +160,21 @@
     "totalSeatCount": 51,
     "grossRevenueUSD": 13.9,
     "adultTicketPrice": 6.95
+  },
+  {
+    "state": "MI",
+    "city": "Sterling Heights",
+    "zip": "48314",
+    "theater_name": "AMC Forum 30",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": null,
+    "date": "2026-07-21+11:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
   }
 ]
