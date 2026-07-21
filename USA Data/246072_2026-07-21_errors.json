@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21 02:39:19 PM",
+  "last_updated": "2026-07-21 04:53:32 PM",
   "errors": [
     {
       "state": "MA",
@@ -15,53 +15,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Lawrenceville",
-      "zip": "30043",
-      "theater_name": "AMC Sugarloaf Mills 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 555898627,
-      "date": "2026-07-21+17:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Buford",
-      "zip": "30519",
-      "theater_name": "Regal Mall of Georgia",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 555628545,
-      "date": "2026-07-21+11:55",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Columbus",
-      "zip": "43219",
-      "theater_name": "AMC Easton Town Center 30",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 555449071,
-      "date": "2026-07-21+14:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
