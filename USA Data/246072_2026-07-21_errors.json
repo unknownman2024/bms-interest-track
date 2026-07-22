@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22 03:56:42 AM",
+  "last_updated": "2026-07-22 09:26:24 AM",
   "errors": [
     {
       "state": "MA",
@@ -42,6 +42,38 @@
       "chainCode": "AMC",
       "showtime_id": 555431712,
       "date": "2026-07-21+11:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "theater_name": "AMC Regency 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555949848,
+      "date": "2026-07-21+18:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "theater_name": "AMC Regency 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 555949849,
+      "date": "2026-07-21+22:00",
       "format": "Standard",
       "language": "Hindi",
       "error": {
