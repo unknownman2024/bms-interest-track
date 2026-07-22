@@ -1,22 +1,6 @@
 {
-  "last_updated": "2026-07-22 02:37:57 PM",
+  "last_updated": "2026-07-22 04:55:49 PM",
   "errors": [
-    {
-      "state": "MA",
-      "city": "Methuen",
-      "zip": "01844",
-      "theater_name": "AMC Methuen 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 555895613,
-      "date": "2026-07-22+21:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
     {
       "state": "FL",
       "city": "Tampa",
@@ -31,21 +15,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Dublin",
-      "zip": "94568",
-      "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 556023287,
-      "date": "2026-07-22+21:40",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     }
   ]

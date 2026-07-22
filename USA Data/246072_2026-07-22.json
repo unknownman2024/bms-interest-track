@@ -46,10 +46,12 @@
     "date": "2026-07-22+21:45",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 58,
+    "totalSeatCount": 58,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 14.49
   },
   {
     "state": "NJ",
@@ -314,11 +316,11 @@
     "date": "2026-07-22+17:40",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 3,
-    "occupancy": 2.34,
-    "totalAvailableSeatCount": 125,
+    "totalSeatSold": 4,
+    "occupancy": 3.12,
+    "totalAvailableSeatCount": 124,
     "totalSeatCount": 128,
-    "grossRevenueUSD": 31.47,
+    "grossRevenueUSD": 41.96,
     "adultTicketPrice": 10.49
   },
   {
@@ -1446,9 +1448,12 @@
     "date": "2026-07-22+21:40",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 104,
+    "totalSeatCount": 104,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 17.99
   },
   {
     "state": "CA",
