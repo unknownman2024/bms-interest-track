@@ -64,11 +64,11 @@
     "date": "2026-07-22+13:05",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 135,
+    "totalSeatSold": 2,
+    "occupancy": 1.48,
+    "totalAvailableSeatCount": 133,
     "totalSeatCount": 135,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 26.64,
     "adultTicketPrice": 13.32
   },
   {
@@ -226,11 +226,11 @@
     "date": "2026-07-22+19:15",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 186,
+    "totalSeatSold": 2,
+    "occupancy": 1.08,
+    "totalAvailableSeatCount": 184,
     "totalSeatCount": 186,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 26.98,
     "adultTicketPrice": 13.49
   },
   {
@@ -334,11 +334,11 @@
     "date": "2026-07-22+09:55",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 1,
-    "occupancy": 0.76,
-    "totalAvailableSeatCount": 131,
+    "totalSeatSold": 2,
+    "occupancy": 1.52,
+    "totalAvailableSeatCount": 130,
     "totalSeatCount": 132,
-    "grossRevenueUSD": 13.49,
+    "grossRevenueUSD": 26.98,
     "adultTicketPrice": 13.49
   },
   {
@@ -370,11 +370,11 @@
     "date": "2026-07-22+21:20",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 132,
+    "totalSeatSold": 1,
+    "occupancy": 0.76,
+    "totalAvailableSeatCount": 131,
     "totalSeatCount": 132,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 16.99,
     "adultTicketPrice": 16.99
   },
   {
@@ -424,11 +424,11 @@
     "date": "2026-07-22+17:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 3,
-    "occupancy": 6.12,
-    "totalAvailableSeatCount": 46,
+    "totalSeatSold": 5,
+    "occupancy": 10.2,
+    "totalAvailableSeatCount": 44,
     "totalSeatCount": 49,
-    "grossRevenueUSD": 50.97,
+    "grossRevenueUSD": 84.95,
     "adultTicketPrice": 16.99
   },
   {
@@ -1652,5 +1652,57 @@
     "totalSeatCount": 129,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 15.74
+  },
+  {
+    "state": "FL",
+    "city": "Tampa",
+    "zip": "33647",
+    "theater_name": "AMC Highwoods 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 555964167,
+    "date": "2026-07-22+22:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Frisco",
+    "zip": "75034",
+    "theater_name": "AMC Stonebriar 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 555871231,
+    "date": "2026-07-22+14:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 1,
+    "occupancy": 1.92,
+    "totalAvailableSeatCount": 51,
+    "totalSeatCount": 52,
+    "grossRevenueUSD": 11.25,
+    "adultTicketPrice": 11.25
+  },
+  {
+    "state": "TX",
+    "city": "Frisco",
+    "zip": "75034",
+    "theater_name": "AMC Stonebriar 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 555871230,
+    "date": "2026-07-22+17:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 16,
+    "occupancy": 30.77,
+    "totalAvailableSeatCount": 36,
+    "totalSeatCount": 52,
+    "grossRevenueUSD": 224.96,
+    "adultTicketPrice": 14.06
   }
 ]
