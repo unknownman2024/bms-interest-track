@@ -28,11 +28,11 @@
     "date": "2026-07-24+18:45",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 5,
-    "occupancy": 11.63,
-    "totalAvailableSeatCount": 38,
+    "totalSeatSold": 10,
+    "occupancy": 23.26,
+    "totalAvailableSeatCount": 33,
     "totalSeatCount": 43,
-    "grossRevenueUSD": 85.25,
+    "grossRevenueUSD": 170.5,
     "adultTicketPrice": 17.05
   },
   {
@@ -520,5 +520,21 @@
     "totalSeatCount": 46,
     "grossRevenueUSD": 178.75,
     "adultTicketPrice": 13.75
+  },
+  {
+    "state": "NJ",
+    "city": "New Brunswick",
+    "zip": "08901",
+    "theater_name": "AMC New Brunswick 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": null,
+    "date": "2026-07-24+10:25",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
   }
 ]
