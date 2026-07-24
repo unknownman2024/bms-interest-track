@@ -82,11 +82,11 @@
     "date": "2026-07-24+16:20",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 8,
-    "occupancy": 9.52,
-    "totalAvailableSeatCount": 76,
+    "totalSeatSold": 12,
+    "occupancy": 14.29,
+    "totalAvailableSeatCount": 72,
     "totalSeatCount": 84,
-    "grossRevenueUSD": 123.6,
+    "grossRevenueUSD": 185.4,
     "adultTicketPrice": 15.45
   },
   {
@@ -298,11 +298,11 @@
     "date": "2026-07-24+21:20",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 4,
-    "occupancy": 5.88,
-    "totalAvailableSeatCount": 64,
+    "totalSeatSold": 14,
+    "occupancy": 20.59,
+    "totalAvailableSeatCount": 54,
     "totalSeatCount": 68,
-    "grossRevenueUSD": 58.44,
+    "grossRevenueUSD": 204.54,
     "adultTicketPrice": 14.61
   },
   {
@@ -496,11 +496,11 @@
     "date": "2026-07-24+21:15",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 104,
+    "totalSeatSold": 2,
+    "occupancy": 1.92,
+    "totalAvailableSeatCount": 102,
     "totalSeatCount": 104,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 35.98,
     "adultTicketPrice": 17.99
   },
   {
@@ -536,5 +536,23 @@
       "status": 500,
       "reason": "No seats"
     }
+  },
+  {
+    "state": "CA",
+    "city": "Fremont",
+    "zip": "94538",
+    "theater_name": "Cin\u00e9 Lounge Fremont 7",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 557251451,
+    "date": "2026-07-24+22:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 52,
+    "totalSeatCount": 52,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 14.5
   }
 ]
