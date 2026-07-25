@@ -7,7 +7,7 @@
     "chainName": "Regal",
     "chainCode": "REGL",
     "showtime_id": 556927958,
-    "date": "2026-07-25+12:05",
+    "date": "2026-07-25+12:15",
     "format": "Standard",
     "language": "Hindi",
     "totalSeatSold": 3,
@@ -64,11 +64,11 @@
     "date": "2026-07-25+13:55",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 7,
-    "occupancy": 3.68,
-    "totalAvailableSeatCount": 183,
+    "totalSeatSold": 5,
+    "occupancy": 2.63,
+    "totalAvailableSeatCount": 185,
     "totalSeatCount": 190,
-    "grossRevenueUSD": 74.55,
+    "grossRevenueUSD": 53.25,
     "adultTicketPrice": 10.65
   },
   {
@@ -82,11 +82,11 @@
     "date": "2026-07-25+16:20",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 84,
+    "totalSeatSold": 2,
+    "occupancy": 2.38,
+    "totalAvailableSeatCount": 82,
     "totalSeatCount": 84,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 30.9,
     "adultTicketPrice": 15.45
   },
   {
@@ -332,11 +332,11 @@
     "date": "2026-07-25+15:15",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 8,
-    "occupancy": 20.0,
-    "totalAvailableSeatCount": 32,
+    "totalSeatSold": 10,
+    "occupancy": 25.0,
+    "totalAvailableSeatCount": 30,
     "totalSeatCount": 40,
-    "grossRevenueUSD": 90.0,
+    "grossRevenueUSD": 112.5,
     "adultTicketPrice": 11.25
   },
   {
@@ -350,11 +350,11 @@
     "date": "2026-07-25+19:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 15,
-    "occupancy": 14.56,
-    "totalAvailableSeatCount": 88,
+    "totalSeatSold": 17,
+    "occupancy": 16.5,
+    "totalAvailableSeatCount": 86,
     "totalSeatCount": 103,
-    "grossRevenueUSD": 210.9,
+    "grossRevenueUSD": 239.02,
     "adultTicketPrice": 14.06
   },
   {
@@ -404,10 +404,12 @@
     "date": "2026-07-25+18:45",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 52,
+    "totalSeatCount": 52,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 14.5
   },
   {
     "state": "CA",
@@ -492,11 +494,11 @@
     "date": "2026-07-25+18:55",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 8,
-    "occupancy": 17.39,
-    "totalAvailableSeatCount": 38,
+    "totalSeatSold": 12,
+    "occupancy": 26.09,
+    "totalAvailableSeatCount": 34,
     "totalSeatCount": 46,
-    "grossRevenueUSD": 110.0,
+    "grossRevenueUSD": 165.0,
     "adultTicketPrice": 13.75
   }
 ]
