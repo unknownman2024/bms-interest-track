@@ -614,11 +614,11 @@
     "date": "2026-07-28",
     "time": "18:30",
     "total": 129,
-    "available": 128,
+    "available": 125,
     "blocked": 0,
-    "sold": 1,
-    "gross": 10.0,
-    "gross_with_tax": 10.0,
+    "sold": 4,
+    "gross": 40.0,
+    "gross_with_tax": 40.0,
     "per_ticket": {
       "net": 10.0,
       "tax": 0,
@@ -652,11 +652,11 @@
     "date": "2026-07-28",
     "time": "18:00",
     "total": 263,
-    "available": 261,
+    "available": 250,
     "blocked": 0,
-    "sold": 2,
-    "gross": 20.0,
-    "gross_with_tax": 20.0,
+    "sold": 13,
+    "gross": 130.0,
+    "gross_with_tax": 130.0,
     "per_ticket": {
       "net": 10.0,
       "tax": 0,
@@ -671,11 +671,11 @@
     "date": "2026-07-28",
     "time": "18:45",
     "total": 141,
-    "available": 141,
+    "available": 125,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0.0,
-    "gross_with_tax": 0.0,
+    "sold": 16,
+    "gross": 160.0,
+    "gross_with_tax": 160.0,
     "per_ticket": {
       "net": 10.0,
       "tax": 0,
@@ -690,11 +690,11 @@
     "date": "2026-07-28",
     "time": "21:30",
     "total": 183,
-    "available": 183,
+    "available": 174,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0.0,
-    "gross_with_tax": 0.0,
+    "sold": 9,
+    "gross": 90.0,
+    "gross_with_tax": 90.0,
     "per_ticket": {
       "net": 10.0,
       "tax": 0,
@@ -757,6 +757,519 @@
       "tax": 0,
       "fee": 0,
       "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "The India Story- Hindi",
+    "perfIx": "39915",
+    "date": "2026-07-28",
+    "time": "18:30",
+    "total": 195,
+    "available": 187,
+    "blocked": 0,
+    "sold": 8,
+    "gross": 72.0,
+    "gross_with_tax": 72.0,
+    "per_ticket": {
+      "net": 9.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "39897",
+    "date": "2026-07-28",
+    "time": "14:00",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 559.0,
+    "gross_with_tax": 559.0,
+    "per_ticket": {
+      "net": 13.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 13.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "39902",
+    "date": "2026-07-28",
+    "time": "15:00",
+    "total": 282,
+    "available": 263,
+    "blocked": 0,
+    "sold": 19,
+    "gross": 247.0,
+    "gross_with_tax": 247.0,
+    "per_ticket": {
+      "net": 13.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 13.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "39905",
+    "date": "2026-07-28",
+    "time": "16:00",
+    "total": 211,
+    "available": 132,
+    "blocked": 0,
+    "sold": 79,
+    "gross": 790.0,
+    "gross_with_tax": 790.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "39906",
+    "date": "2026-07-28",
+    "time": "16:00",
+    "total": 240,
+    "available": 36,
+    "blocked": 0,
+    "sold": 204,
+    "gross": 3060.0,
+    "gross_with_tax": 3060.0,
+    "per_ticket": {
+      "net": 15.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "39900",
+    "date": "2026-07-28",
+    "time": "17:00",
+    "total": 171,
+    "available": 164,
+    "blocked": 0,
+    "sold": 7,
+    "gross": 70.0,
+    "gross_with_tax": 70.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "39898",
+    "date": "2026-07-28",
+    "time": "18:00",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 559.0,
+    "gross_with_tax": 559.0,
+    "per_ticket": {
+      "net": 13.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 13.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "39903",
+    "date": "2026-07-28",
+    "time": "18:45",
+    "total": 282,
+    "available": 261,
+    "blocked": 0,
+    "sold": 21,
+    "gross": 273.0,
+    "gross_with_tax": 273.0,
+    "per_ticket": {
+      "net": 13.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 13.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "39907",
+    "date": "2026-07-28",
+    "time": "20:00",
+    "total": 211,
+    "available": 132,
+    "blocked": 0,
+    "sold": 79,
+    "gross": 790.0,
+    "gross_with_tax": 790.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "39908",
+    "date": "2026-07-28",
+    "time": "20:00",
+    "total": 240,
+    "available": 36,
+    "blocked": 0,
+    "sold": 204,
+    "gross": 3060.0,
+    "gross_with_tax": 3060.0,
+    "per_ticket": {
+      "net": 15.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "39901",
+    "date": "2026-07-28",
+    "time": "21:00",
+    "total": 171,
+    "available": 164,
+    "blocked": 0,
+    "sold": 7,
+    "gross": 70.0,
+    "gross_with_tax": 70.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "39899",
+    "date": "2026-07-28",
+    "time": "22:00",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 559.0,
+    "gross_with_tax": 559.0,
+    "per_ticket": {
+      "net": 13.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 13.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "39904",
+    "date": "2026-07-28",
+    "time": "22:30",
+    "total": 282,
+    "available": 263,
+    "blocked": 0,
+    "sold": 19,
+    "gross": 247.0,
+    "gross_with_tax": 247.0,
+    "per_ticket": {
+      "net": 13.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 13.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Chennai Love Story- Telugu",
+    "perfIx": "39909",
+    "date": "2026-07-28",
+    "time": "14:00",
+    "total": 235,
+    "available": 205,
+    "blocked": 0,
+    "sold": 30,
+    "gross": 300.0,
+    "gross_with_tax": 300.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Chennai Love Story- Telugu",
+    "perfIx": "39910",
+    "date": "2026-07-28",
+    "time": "14:00",
+    "total": 188,
+    "available": 12,
+    "blocked": 0,
+    "sold": 176,
+    "gross": 2640.0,
+    "gross_with_tax": 2640.0,
+    "per_ticket": {
+      "net": 15.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Chennai Love Story- Telugu",
+    "perfIx": "39911",
+    "date": "2026-07-28",
+    "time": "18:45",
+    "total": 235,
+    "available": 205,
+    "blocked": 0,
+    "sold": 30,
+    "gross": 300.0,
+    "gross_with_tax": 300.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Chennai Love Story- Telugu",
+    "perfIx": "39912",
+    "date": "2026-07-28",
+    "time": "18:45",
+    "total": 188,
+    "available": 12,
+    "blocked": 0,
+    "sold": 176,
+    "gross": 2640.0,
+    "gross_with_tax": 2640.0,
+    "per_ticket": {
+      "net": 15.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Chennai Love Story- Telugu",
+    "perfIx": "39913",
+    "date": "2026-07-28",
+    "time": "22:30",
+    "total": 235,
+    "available": 205,
+    "blocked": 0,
+    "sold": 30,
+    "gross": 300.0,
+    "gross_with_tax": 300.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Chennai Love Story- Telugu",
+    "perfIx": "39914",
+    "date": "2026-07-28",
+    "time": "22:30",
+    "total": 188,
+    "available": 12,
+    "blocked": 0,
+    "sold": 176,
+    "gross": 2640.0,
+    "gross_with_tax": 2640.0,
+    "per_ticket": {
+      "net": 15.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Ishqnama- Punjabi",
+    "perfIx": "39916",
+    "date": "2026-07-28",
+    "time": "15:00",
+    "total": 195,
+    "available": 187,
+    "blocked": 0,
+    "sold": 8,
+    "gross": 72.0,
+    "gross_with_tax": 72.0,
+    "per_ticket": {
+      "net": 9.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Ishqnama- Punjabi",
+    "perfIx": "39917",
+    "date": "2026-07-28",
+    "time": "21:30",
+    "total": 195,
+    "available": 187,
+    "blocked": 0,
+    "sold": 8,
+    "gross": 72.0,
+    "gross_with_tax": 72.0,
+    "per_ticket": {
+      "net": 9.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "The India Story- Hindi",
+    "perfIx": "16858",
+    "date": "2026-07-28",
+    "time": "14:00",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 9.0,
+    "gross_with_tax": 9.0,
+    "per_ticket": {
+      "net": 9.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "16855",
+    "date": "2026-07-28",
+    "time": "14:15",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 13.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 13.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "16856",
+    "date": "2026-07-28",
+    "time": "18:15",
+    "total": 412,
+    "available": 410,
+    "blocked": 0,
+    "sold": 2,
+    "gross": 26.0,
+    "gross_with_tax": 26.0,
+    "per_ticket": {
+      "net": 13.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 13.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "16857",
+    "date": "2026-07-28",
+    "time": "22:30",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 13.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 13.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Chennai Love Story- Telugu",
+    "perfIx": "16860",
+    "date": "2026-07-28",
+    "time": "21:45",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 13.0,
+    "gross_with_tax": 13.0,
+    "per_ticket": {
+      "net": 13.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 13.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Ishqnama- Punjabi",
+    "perfIx": "16859",
+    "date": "2026-07-28",
+    "time": "17:45",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 9.0,
+    "gross_with_tax": 9.0,
+    "per_ticket": {
+      "net": 9.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.0
     }
   }
 ]
