@@ -10,11 +10,11 @@
     "date": "2026-07-26+12:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 43,
+    "totalSeatSold": 4,
+    "occupancy": 9.3,
+    "totalAvailableSeatCount": 39,
     "totalSeatCount": 43,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 53.28,
     "adultTicketPrice": 13.32
   },
   {
@@ -280,11 +280,11 @@
     "date": "2026-07-26+21:20",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 5,
-    "occupancy": 7.35,
-    "totalAvailableSeatCount": 63,
+    "totalSeatSold": 7,
+    "occupancy": 10.29,
+    "totalAvailableSeatCount": 61,
     "totalSeatCount": 68,
-    "grossRevenueUSD": 71.7,
+    "grossRevenueUSD": 100.38,
     "adultTicketPrice": 14.34
   },
   {
@@ -334,11 +334,11 @@
     "date": "2026-07-26+12:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 2,
-    "occupancy": 5.0,
-    "totalAvailableSeatCount": 38,
+    "totalSeatSold": 3,
+    "occupancy": 7.5,
+    "totalAvailableSeatCount": 37,
     "totalSeatCount": 40,
-    "grossRevenueUSD": 22.5,
+    "grossRevenueUSD": 33.75,
     "adultTicketPrice": 11.25
   },
   {
@@ -352,10 +352,12 @@
     "date": "2026-07-26+19:30",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 19,
+    "occupancy": 18.45,
+    "totalAvailableSeatCount": 84,
+    "totalSeatCount": 103,
+    "grossRevenueUSD": 267.14,
+    "adultTicketPrice": 14.06
   },
   {
     "state": "TX",
@@ -500,5 +502,21 @@
     "totalSeatCount": 46,
     "grossRevenueUSD": 110.0,
     "adultTicketPrice": 13.75
+  },
+  {
+    "state": "IL",
+    "city": "South Barrington",
+    "zip": "60010",
+    "theater_name": "AMC South Barrington 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": null,
+    "date": "2026-07-26+12:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
   }
 ]
