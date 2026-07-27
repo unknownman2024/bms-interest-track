@@ -177,11 +177,11 @@
     "date": "2026-07-30",
     "time": "21:55",
     "total": 129,
-    "available": 111,
+    "available": 110,
     "blocked": 0,
-    "sold": 18,
-    "gross": 193.5,
-    "gross_with_tax": 193.5,
+    "sold": 19,
+    "gross": 204.25,
+    "gross_with_tax": 204.25,
     "per_ticket": {
       "net": 10.75,
       "tax": 0,
@@ -196,11 +196,11 @@
     "date": "2026-07-30",
     "time": "19:00",
     "total": 129,
-    "available": 125,
+    "available": 123,
     "blocked": 0,
-    "sold": 4,
-    "gross": 55.0,
-    "gross_with_tax": 55.0,
+    "sold": 6,
+    "gross": 82.5,
+    "gross_with_tax": 82.5,
     "per_ticket": {
       "net": 13.75,
       "tax": 0,
@@ -320,6 +320,25 @@
       "tax": 0,
       "fee": 0,
       "grand": 15
+    }
+  },
+  {
+    "venue": "York Garden City",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "3310",
+    "date": "2026-07-30",
+    "time": "21:00",
+    "total": 201,
+    "available": 198,
+    "blocked": 0,
+    "sold": 3,
+    "gross": 48.0,
+    "gross_with_tax": 48.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
     }
   }
 ]
