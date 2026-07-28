@@ -158,11 +158,11 @@
     "date": "2026-07-30",
     "time": "16:00",
     "total": 129,
-    "available": 100,
+    "available": 94,
     "blocked": 0,
-    "sold": 29,
-    "gross": 275.5,
-    "gross_with_tax": 275.5,
+    "sold": 35,
+    "gross": 332.5,
+    "gross_with_tax": 332.5,
     "per_ticket": {
       "net": 9.5,
       "tax": 0,
@@ -196,11 +196,11 @@
     "date": "2026-07-30",
     "time": "19:00",
     "total": 129,
-    "available": 106,
+    "available": 103,
     "blocked": 0,
-    "sold": 23,
-    "gross": 316.25,
-    "gross_with_tax": 316.25,
+    "sold": 26,
+    "gross": 357.5,
+    "gross_with_tax": 357.5,
     "per_ticket": {
       "net": 13.75,
       "tax": 0,
@@ -746,12 +746,12 @@
     "perfIx": "16924",
     "date": "2026-07-30",
     "time": "14:00",
-    "total": 256,
-    "available": 255,
+    "total": 412,
+    "available": 412,
     "blocked": 0,
-    "sold": 1,
-    "gross": 9.0,
-    "gross_with_tax": 9.0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
     "per_ticket": {
       "net": 9.0,
       "tax": 0,
@@ -765,12 +765,12 @@
     "perfIx": "16921",
     "date": "2026-07-30",
     "time": "14:15",
-    "total": 412,
-    "available": 412,
+    "total": 256,
+    "available": 255,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0.0,
-    "gross_with_tax": 0.0,
+    "sold": 1,
+    "gross": 19.0,
+    "gross_with_tax": 19.0,
     "per_ticket": {
       "net": 19.0,
       "tax": 0,
@@ -852,6 +852,158 @@
       "tax": 0,
       "fee": 0,
       "grand": 9.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "16925",
+    "date": "2026-07-30",
+    "time": "18:15",
+    "total": 256,
+    "available": 250,
+    "blocked": 0,
+    "sold": 6,
+    "gross": 114.0,
+    "gross_with_tax": 114.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "16926",
+    "date": "2026-07-30",
+    "time": "22:15",
+    "total": 256,
+    "available": 243,
+    "blocked": 0,
+    "sold": 13,
+    "gross": 247.0,
+    "gross_with_tax": 247.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Chennai Love Story- Telugu",
+    "perfIx": "16923",
+    "date": "2026-07-30",
+    "time": "21:45",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Ishqnama- Punjabi",
+    "perfIx": "16922",
+    "date": "2026-07-30",
+    "time": "18:00",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 9.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.0
+    }
+  },
+  {
+    "venue": "Hollywood Cinema Caprice",
+    "movie": "Jana Nayagan (Tamil)",
+    "perfIx": "75835",
+    "date": "2026-07-30",
+    "time": "11:30",
+    "total": 129,
+    "available": 128,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 16.0,
+    "gross_with_tax": 16.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Hollywood Cinema Caprice",
+    "movie": "Jana Nayagan (Tamil)",
+    "perfIx": "75836",
+    "date": "2026-07-30",
+    "time": "15:00",
+    "total": 129,
+    "available": 128,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 16.0,
+    "gross_with_tax": 16.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Hollywood Cinema Caprice",
+    "movie": "Jana Nayagan (Tamil)",
+    "perfIx": "75837",
+    "date": "2026-07-30",
+    "time": "18:30",
+    "total": 129,
+    "available": 128,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 16.0,
+    "gross_with_tax": 16.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Hollywood Cinema Caprice",
+    "movie": "Jana Nayagan (Tamil)",
+    "perfIx": "75838",
+    "date": "2026-07-30",
+    "time": "22:00",
+    "total": 129,
+    "available": 128,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 16.0,
+    "gross_with_tax": 16.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
     }
   }
 ]
