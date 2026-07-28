@@ -64,11 +64,11 @@
     "date": "2026-07-28+13:50",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 190,
+    "totalSeatSold": 1,
+    "occupancy": 0.53,
+    "totalAvailableSeatCount": 189,
     "totalSeatCount": 190,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 10.65,
     "adultTicketPrice": 10.65
   },
   {
@@ -136,10 +136,12 @@
     "date": "2026-07-28+15:15",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 2,
+    "occupancy": 2.9,
+    "totalAvailableSeatCount": 67,
+    "totalSeatCount": 69,
+    "grossRevenueUSD": 36.62,
+    "adultTicketPrice": 18.31
   },
   {
     "state": "TN",
@@ -224,10 +226,12 @@
     "date": "2026-07-28+18:20",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 8,
+    "occupancy": 15.09,
+    "totalAvailableSeatCount": 45,
+    "totalSeatCount": 53,
+    "grossRevenueUSD": 122.96,
+    "adultTicketPrice": 15.37
   },
   {
     "state": "IL",
@@ -240,10 +244,12 @@
     "date": "2026-07-28+21:20",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 7,
+    "occupancy": 21.21,
+    "totalAvailableSeatCount": 26,
+    "totalSeatCount": 33,
+    "grossRevenueUSD": 107.59,
+    "adultTicketPrice": 15.37
   },
   {
     "state": "IL",
@@ -548,5 +554,23 @@
     "totalSeatCount": 46,
     "grossRevenueUSD": 166.75,
     "adultTicketPrice": 7.25
+  },
+  {
+    "state": "TX",
+    "city": "Frisco",
+    "zip": "75034",
+    "theater_name": "AMC Stonebriar 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 556560385,
+    "date": "2026-07-28+18:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 17,
+    "occupancy": 28.33,
+    "totalAvailableSeatCount": 43,
+    "totalSeatCount": 60,
+    "grossRevenueUSD": 239.02,
+    "adultTicketPrice": 14.06
   }
 ]
