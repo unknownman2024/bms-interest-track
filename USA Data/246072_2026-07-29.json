@@ -496,11 +496,29 @@
     "date": "2026-07-29+19:20",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 22,
-    "occupancy": 47.83,
-    "totalAvailableSeatCount": 24,
+    "totalSeatSold": 23,
+    "occupancy": 50.0,
+    "totalAvailableSeatCount": 23,
     "totalSeatCount": 46,
-    "grossRevenueUSD": 302.5,
+    "grossRevenueUSD": 316.25,
+    "adultTicketPrice": 13.75
+  },
+  {
+    "state": "CA",
+    "city": "Elk Grove",
+    "zip": "95758",
+    "theater_name": "Cinemark Century Laguna 16 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 557994223,
+    "date": "2026-07-29+19:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 58,
+    "totalSeatCount": 58,
+    "grossRevenueUSD": 0.0,
     "adultTicketPrice": 13.75
   }
 ]
