@@ -139,11 +139,11 @@
     "date": "2026-07-30",
     "time": "13:00",
     "total": 129,
-    "available": 114,
+    "available": 107,
     "blocked": 0,
-    "sold": 15,
-    "gross": 142.5,
-    "gross_with_tax": 142.5,
+    "sold": 22,
+    "gross": 209.0,
+    "gross_with_tax": 209.0,
     "per_ticket": {
       "net": 9.5,
       "tax": 0,
@@ -196,11 +196,11 @@
     "date": "2026-07-30",
     "time": "19:00",
     "total": 129,
-    "available": 58,
+    "available": 57,
     "blocked": 0,
-    "sold": 71,
-    "gross": 976.25,
-    "gross_with_tax": 976.25,
+    "sold": 72,
+    "gross": 990.0,
+    "gross_with_tax": 990.0,
     "per_ticket": {
       "net": 13.75,
       "tax": 0,
@@ -1118,6 +1118,63 @@
       "tax": 0,
       "fee": 0,
       "grand": 16.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Pluto- Malayalam",
+    "perfIx": "16939",
+    "date": "2026-07-30",
+    "time": "22:00",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 19.0,
+    "gross_with_tax": 19.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Chennai Love Story- Telugu",
+    "perfIx": "16926",
+    "date": "2026-07-30",
+    "time": "17:45",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 19.0,
+    "gross_with_tax": 19.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Ishqnama- Punjabi",
+    "perfIx": "16925",
+    "date": "2026-07-30",
+    "time": "14:00",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 9.0,
+    "gross_with_tax": 9.0,
+    "per_ticket": {
+      "net": 9.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.0
     }
   }
 ]
