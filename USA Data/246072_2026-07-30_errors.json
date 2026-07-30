@@ -1,4 +1,21 @@
 {
-  "last_updated": "2026-07-30 08:10:39 PM",
-  "errors": []
+  "last_updated": "2026-07-30 10:28:34 PM",
+  "errors": [
+    {
+      "state": "CA",
+      "city": "Elk Grove",
+      "zip": "95758",
+      "theater_name": "Cinemark Century Laguna 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": null,
+      "date": "2026-07-30+09:55",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
 }
