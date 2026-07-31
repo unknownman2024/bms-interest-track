@@ -28,10 +28,12 @@
     "date": "2026-07-31+22:45",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 2,
+    "occupancy": 5.56,
+    "totalAvailableSeatCount": 34,
+    "totalSeatCount": 36,
+    "grossRevenueUSD": 30.74,
+    "adultTicketPrice": 15.37
   },
   {
     "state": "IL",
