@@ -10,11 +10,11 @@
     "date": "2026-08-01+15:45",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 112,
+    "totalSeatSold": 6,
+    "occupancy": 5.36,
+    "totalAvailableSeatCount": 106,
     "totalSeatCount": 112,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 78.9,
     "adultTicketPrice": 13.15
   },
   {
@@ -79,7 +79,7 @@
     "chainName": "RTSIND",
     "chainCode": "RTSIND",
     "showtime_id": 558027945,
-    "date": "2026-08-01+21:30",
+    "date": "2026-08-01+22:00",
     "format": "Standard",
     "language": "Hindi",
     "totalSeatSold": 0,
@@ -88,5 +88,21 @@
     "totalSeatCount": 49,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 14.5
+  },
+  {
+    "state": "IL",
+    "city": "South Barrington",
+    "zip": "60010",
+    "theater_name": "AMC South Barrington 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": null,
+    "date": "2026-08-01+11:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
   }
 ]

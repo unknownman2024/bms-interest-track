@@ -1,4 +1,21 @@
 {
-  "last_updated": "2026-08-01 09:59:15 PM",
-  "errors": []
+  "last_updated": "2026-08-02 01:11:57 AM",
+  "errors": [
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-08-01+11:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
 }
