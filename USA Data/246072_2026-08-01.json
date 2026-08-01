@@ -79,12 +79,14 @@
     "chainName": "RTSIND",
     "chainCode": "RTSIND",
     "showtime_id": 558027945,
-    "date": "2026-08-01+21:00",
+    "date": "2026-08-01+21:30",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 49,
+    "totalSeatCount": 49,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 14.5
   }
 ]
