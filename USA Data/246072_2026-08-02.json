@@ -64,11 +64,11 @@
     "date": "2026-08-02+15:40",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 12,
-    "occupancy": 23.08,
-    "totalAvailableSeatCount": 40,
+    "totalSeatSold": 25,
+    "occupancy": 48.08,
+    "totalAvailableSeatCount": 27,
     "totalSeatCount": 52,
-    "grossRevenueUSD": 174.0,
+    "grossRevenueUSD": 362.5,
     "adultTicketPrice": 14.5
   },
   {
@@ -98,9 +98,11 @@
     "date": "2026-08-02+21:00",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 49,
+    "totalSeatCount": 49,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 14.5
   }
 ]
