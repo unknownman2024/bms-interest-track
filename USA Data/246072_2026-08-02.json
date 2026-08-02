@@ -1,0 +1,72 @@
+[
+  {
+    "state": "IL",
+    "city": "South Barrington",
+    "zip": "60010",
+    "theater_name": "AMC South Barrington 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 557525715,
+    "date": "2026-08-02+19:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 1,
+    "occupancy": 2.78,
+    "totalAvailableSeatCount": 35,
+    "totalSeatCount": 36,
+    "grossRevenueUSD": 15.37,
+    "adultTicketPrice": 15.37
+  },
+  {
+    "state": "IL",
+    "city": "Niles",
+    "zip": "60714",
+    "theater_name": "Cin\u00e9 Lounge at Niles",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 558041447,
+    "date": "2026-08-02+15:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 112,
+    "totalSeatCount": 112,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 13.95
+  },
+  {
+    "state": "IL",
+    "city": "Niles",
+    "zip": "60714",
+    "theater_name": "Cin\u00e9 Lounge at Niles",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 558041442,
+    "date": "2026-08-02+22:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 2,
+    "occupancy": 1.31,
+    "totalAvailableSeatCount": 151,
+    "totalSeatCount": 153,
+    "grossRevenueUSD": 27.9,
+    "adultTicketPrice": 13.95
+  },
+  {
+    "state": "CA",
+    "city": "Fremont",
+    "zip": "94538",
+    "theater_name": "Cin\u00e9 Lounge Fremont 7",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 558124896,
+    "date": "2026-08-02+15:40",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
+  }
+]
