@@ -64,9 +64,11 @@
     "date": "2026-08-02+15:40",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 12,
+    "occupancy": 23.08,
+    "totalAvailableSeatCount": 40,
+    "totalSeatCount": 52,
+    "grossRevenueUSD": 174.0,
+    "adultTicketPrice": 14.5
   }
 ]
