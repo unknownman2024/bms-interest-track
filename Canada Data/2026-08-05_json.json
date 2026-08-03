@@ -291,11 +291,11 @@
     "date": "2026-08-05",
     "time": "19:00",
     "total": 129,
-    "available": 122,
+    "available": 119,
     "blocked": 0,
-    "sold": 7,
-    "gross": 96.25,
-    "gross_with_tax": 96.25,
+    "sold": 10,
+    "gross": 137.5,
+    "gross_with_tax": 137.5,
     "per_ticket": {
       "net": 13.75,
       "tax": 0,
@@ -947,6 +947,139 @@
       "tax": 0,
       "fee": 0,
       "grand": 12.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "16897",
+    "date": "2026-08-05",
+    "time": "14:00",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "16898",
+    "date": "2026-08-05",
+    "time": "18:00",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "16899",
+    "date": "2026-08-05",
+    "time": "22:00",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Unmadham- Malayalam",
+    "perfIx": "16901",
+    "date": "2026-08-05",
+    "time": "18:45",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 19.0,
+    "gross_with_tax": 19.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Pluto- Malayalam",
+    "perfIx": "16902",
+    "date": "2026-08-05",
+    "time": "22:00",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 19.0,
+    "gross_with_tax": 19.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Chennai Love Story- Telugu",
+    "perfIx": "16900",
+    "date": "2026-08-05",
+    "time": "15:00",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 19.0,
+    "gross_with_tax": 19.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Unmadham- Malayalam",
+    "perfIx": "40854",
+    "date": "2026-08-05",
+    "time": "18:15",
+    "total": 183,
+    "available": 183,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
     }
   }
 ]
