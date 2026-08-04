@@ -348,11 +348,11 @@
     "date": "2026-08-06",
     "time": "18:00",
     "total": 267,
-    "available": 224,
+    "available": 218,
     "blocked": 0,
-    "sold": 43,
-    "gross": 817.0,
-    "gross_with_tax": 817.0,
+    "sold": 49,
+    "gross": 931.0,
+    "gross_with_tax": 931.0,
     "per_ticket": {
       "net": 19.0,
       "tax": 0,
@@ -472,6 +472,82 @@
       "tax": 0,
       "fee": 0,
       "grand": 21.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "G.D.N.- Tamil",
+    "perfIx": "16943",
+    "date": "2026-08-06",
+    "time": "18:45",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Korean Kanakaraju- Telugu",
+    "perfIx": "40855",
+    "date": "2026-08-06",
+    "time": "18:00",
+    "total": 141,
+    "available": 141,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Korean Kanakaraju- Telugu",
+    "perfIx": "40856",
+    "date": "2026-08-06",
+    "time": "21:30",
+    "total": 141,
+    "available": 141,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Hollywood Cinema Caprice",
+    "movie": "GDN (Tamil)",
+    "perfIx": "75860",
+    "date": "2026-08-06",
+    "time": "18:00",
+    "total": 129,
+    "available": 128,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 16.0,
+    "gross_with_tax": 16.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
     }
   }
 ]
