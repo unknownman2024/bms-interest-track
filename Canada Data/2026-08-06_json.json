@@ -215,11 +215,11 @@
     "date": "2026-08-06",
     "time": "16:00",
     "total": 129,
-    "available": 128,
+    "available": 125,
     "blocked": 0,
-    "sold": 1,
-    "gross": 9.5,
-    "gross_with_tax": 9.5,
+    "sold": 4,
+    "gross": 38.0,
+    "gross_with_tax": 38.0,
     "per_ticket": {
       "net": 9.5,
       "tax": 0,
@@ -339,6 +339,63 @@
       "tax": 0,
       "fee": 0,
       "grand": 10.75
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Korean Kanakaraju- Telugu",
+    "perfIx": "40135",
+    "date": "2026-08-06",
+    "time": "18:00",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 817.0,
+    "gross_with_tax": 817.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Korean Kanakaraju- Telugu",
+    "perfIx": "40136",
+    "date": "2026-08-06",
+    "time": "21:30",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 817.0,
+    "gross_with_tax": 817.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Korean Kanakaraju- Telugu",
+    "perfIx": "16942",
+    "date": "2026-08-06",
+    "time": "18:15",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 19.0,
+    "gross_with_tax": 19.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
     }
   }
 ]
