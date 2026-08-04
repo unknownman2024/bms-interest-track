@@ -1,0 +1,36 @@
+[
+  {
+    "state": "IL",
+    "city": "South Barrington",
+    "zip": "60010",
+    "theater_name": "AMC South Barrington 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 557525834,
+    "date": "2026-08-04+18:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 3,
+    "occupancy": 9.09,
+    "totalAvailableSeatCount": 30,
+    "totalSeatCount": 33,
+    "grossRevenueUSD": 46.11,
+    "adultTicketPrice": 15.37
+  },
+  {
+    "state": "CA",
+    "city": "Fremont",
+    "zip": "94538",
+    "theater_name": "Cin\u00e9 Lounge Fremont 7",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 558193770,
+    "date": "2026-08-04+22:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
+  }
+]
