@@ -50,5 +50,20 @@
       "status": 500,
       "reason": "No seats"
     }
+  },
+  {
+    "state": "CA",
+    "city": "Fremont",
+    "zip": "94538",
+    "theater_name": "Cin\u00e9 Lounge Fremont 7",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 558193777,
+    "date": "2026-08-04+21:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 500
+    }
   }
 ]
