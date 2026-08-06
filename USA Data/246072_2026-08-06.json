@@ -88,5 +88,21 @@
     "totalSeatCount": 52,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 12.75
+  },
+  {
+    "state": "IL",
+    "city": "South Barrington",
+    "zip": "60010",
+    "theater_name": "AMC South Barrington 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": null,
+    "date": "2026-08-06+09:20",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
   }
 ]
