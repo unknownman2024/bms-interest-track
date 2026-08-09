@@ -63,11 +63,11 @@
     "date": "2026-08-11",
     "time": "12:45",
     "total": 116,
-    "available": 116,
+    "available": 114,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0.0,
-    "gross_with_tax": 0.0,
+    "sold": 2,
+    "gross": 17.0,
+    "gross_with_tax": 17.0,
     "per_ticket": {
       "net": 8.5,
       "tax": 0,
@@ -586,6 +586,519 @@
       "tax": 0,
       "fee": 0,
       "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "G.D.N.- Tamil",
+    "perfIx": "40305",
+    "date": "2026-08-11",
+    "time": "15:30",
+    "total": 235,
+    "available": 205,
+    "blocked": 0,
+    "sold": 30,
+    "gross": 300.0,
+    "gross_with_tax": 300.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "G.D.N.- Tamil",
+    "perfIx": "40307",
+    "date": "2026-08-11",
+    "time": "15:30",
+    "total": 188,
+    "available": 12,
+    "blocked": 0,
+    "sold": 176,
+    "gross": 2640.0,
+    "gross_with_tax": 2640.0,
+    "per_ticket": {
+      "net": 15.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "G.D.N.- Tamil",
+    "perfIx": "40306",
+    "date": "2026-08-11",
+    "time": "18:45",
+    "total": 235,
+    "available": 205,
+    "blocked": 0,
+    "sold": 30,
+    "gross": 300.0,
+    "gross_with_tax": 300.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "G.D.N.- Tamil",
+    "perfIx": "40308",
+    "date": "2026-08-11",
+    "time": "18:45",
+    "total": 188,
+    "available": 12,
+    "blocked": 0,
+    "sold": 176,
+    "gross": 2640.0,
+    "gross_with_tax": 2640.0,
+    "per_ticket": {
+      "net": 15.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "DC-Telugu",
+    "perfIx": "40316",
+    "date": "2026-08-11",
+    "time": "22:00",
+    "total": 195,
+    "available": 187,
+    "blocked": 0,
+    "sold": 8,
+    "gross": 80.0,
+    "gross_with_tax": 80.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Yaar Jigree Kasooti Degree- Punjabi",
+    "perfIx": "40309",
+    "date": "2026-08-11",
+    "time": "15:00",
+    "total": 195,
+    "available": 187,
+    "blocked": 0,
+    "sold": 8,
+    "gross": 72.0,
+    "gross_with_tax": 72.0,
+    "per_ticket": {
+      "net": 9.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "DC.- Tamil",
+    "perfIx": "40314",
+    "date": "2026-08-11",
+    "time": "19:00",
+    "total": 171,
+    "available": 164,
+    "blocked": 0,
+    "sold": 7,
+    "gross": 70.0,
+    "gross_with_tax": 70.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "DC.- Tamil",
+    "perfIx": "40315",
+    "date": "2026-08-11",
+    "time": "22:30",
+    "total": 171,
+    "available": 164,
+    "blocked": 0,
+    "sold": 7,
+    "gross": 70.0,
+    "gross_with_tax": 70.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "40293",
+    "date": "2026-08-11",
+    "time": "15:00",
+    "total": 211,
+    "available": 132,
+    "blocked": 0,
+    "sold": 79,
+    "gross": 790.0,
+    "gross_with_tax": 790.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "40294",
+    "date": "2026-08-11",
+    "time": "15:00",
+    "total": 240,
+    "available": 36,
+    "blocked": 0,
+    "sold": 204,
+    "gross": 3060.0,
+    "gross_with_tax": 3060.0,
+    "per_ticket": {
+      "net": 15.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "40295",
+    "date": "2026-08-11",
+    "time": "22:00",
+    "total": 235,
+    "available": 205,
+    "blocked": 0,
+    "sold": 30,
+    "gross": 300.0,
+    "gross_with_tax": 300.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Jana Nayagan - Tamil",
+    "perfIx": "40296",
+    "date": "2026-08-11",
+    "time": "22:00",
+    "total": 188,
+    "available": 12,
+    "blocked": 0,
+    "sold": 176,
+    "gross": 2640.0,
+    "gross_with_tax": 2640.0,
+    "per_ticket": {
+      "net": 15.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Thudakkam- Malayalam",
+    "perfIx": "40303",
+    "date": "2026-08-11",
+    "time": "15:45",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 559.0,
+    "gross_with_tax": 559.0,
+    "per_ticket": {
+      "net": 13.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 13.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Thudakkam- Malayalam",
+    "perfIx": "40301",
+    "date": "2026-08-11",
+    "time": "19:00",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 559.0,
+    "gross_with_tax": 559.0,
+    "per_ticket": {
+      "net": 13.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 13.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Thudakkam- Malayalam",
+    "perfIx": "40302",
+    "date": "2026-08-11",
+    "time": "22:15",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 559.0,
+    "gross_with_tax": 559.0,
+    "per_ticket": {
+      "net": 13.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 13.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Korean Kanakaraju- Telugu",
+    "perfIx": "40297",
+    "date": "2026-08-11",
+    "time": "18:45",
+    "total": 211,
+    "available": 132,
+    "blocked": 0,
+    "sold": 79,
+    "gross": 790.0,
+    "gross_with_tax": 790.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Korean Kanakaraju- Telugu",
+    "perfIx": "40298",
+    "date": "2026-08-11",
+    "time": "18:45",
+    "total": 240,
+    "available": 36,
+    "blocked": 0,
+    "sold": 204,
+    "gross": 3060.0,
+    "gross_with_tax": 3060.0,
+    "per_ticket": {
+      "net": 15.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Korean Kanakaraju- Telugu",
+    "perfIx": "40299",
+    "date": "2026-08-11",
+    "time": "22:15",
+    "total": 211,
+    "available": 132,
+    "blocked": 0,
+    "sold": 79,
+    "gross": 790.0,
+    "gross_with_tax": 790.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Korean Kanakaraju- Telugu",
+    "perfIx": "40300",
+    "date": "2026-08-11",
+    "time": "22:15",
+    "total": 240,
+    "available": 36,
+    "blocked": 0,
+    "sold": 204,
+    "gross": 3060.0,
+    "gross_with_tax": 3060.0,
+    "per_ticket": {
+      "net": 15.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Unmadham- Malayalam",
+    "perfIx": "40304",
+    "date": "2026-08-11",
+    "time": "15:30",
+    "total": 171,
+    "available": 164,
+    "blocked": 0,
+    "sold": 7,
+    "gross": 70.0,
+    "gross_with_tax": 70.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "DC- Tamil",
+    "perfIx": "40311",
+    "date": "2026-08-11",
+    "time": "15:00",
+    "total": 282,
+    "available": 262,
+    "blocked": 0,
+    "sold": 20,
+    "gross": 260.0,
+    "gross_with_tax": 260.0,
+    "per_ticket": {
+      "net": 13.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 13.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "DC- Tamil",
+    "perfIx": "40312",
+    "date": "2026-08-11",
+    "time": "18:15",
+    "total": 282,
+    "available": 262,
+    "blocked": 0,
+    "sold": 20,
+    "gross": 260.0,
+    "gross_with_tax": 260.0,
+    "per_ticket": {
+      "net": 13.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 13.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "DC- Tamil",
+    "perfIx": "40313",
+    "date": "2026-08-11",
+    "time": "21:30",
+    "total": 282,
+    "available": 262,
+    "blocked": 0,
+    "sold": 20,
+    "gross": 260.0,
+    "gross_with_tax": 260.0,
+    "per_ticket": {
+      "net": 13.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 13.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "KJQ- Telugu",
+    "perfIx": "40310",
+    "date": "2026-08-11",
+    "time": "18:30",
+    "total": 195,
+    "available": 187,
+    "blocked": 0,
+    "sold": 8,
+    "gross": 80.0,
+    "gross_with_tax": 80.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "Hollywood Cinema Caprice",
+    "movie": "Thudakkam (Malayalam)",
+    "perfIx": "75948",
+    "date": "2026-08-11",
+    "time": "18:00",
+    "total": 129,
+    "available": 128,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 10.0,
+    "gross_with_tax": 10.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "Hollywood Cinema Caprice",
+    "movie": "Thudakkam (Malayalam)",
+    "perfIx": "75949",
+    "date": "2026-08-11",
+    "time": "21:00",
+    "total": 129,
+    "available": 128,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 10.0,
+    "gross_with_tax": 10.0,
+    "per_ticket": {
+      "net": 10.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.0
+    }
+  },
+  {
+    "venue": "Hollywood Cinema Caprice",
+    "movie": "Spider-Man: Brand New Day",
+    "perfIx": "75947",
+    "date": "2026-08-11",
+    "time": "14:00",
+    "total": 129,
+    "available": 128,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 8.5,
+    "gross_with_tax": 8.5,
+    "per_ticket": {
+      "net": 8.5,
+      "tax": 0,
+      "fee": 0,
+      "grand": 8.5
     }
   }
 ]
