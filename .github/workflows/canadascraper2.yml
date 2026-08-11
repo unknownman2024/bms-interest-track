@@ -30,7 +30,7 @@ jobs:
           AUTHORIZATION_TOKEN: ${{ secrets.AUTHORIZATION_TOKEN }}
           SESSION_ID: ${{ secrets.SESSION_ID }}
         run: |
-          python canada2.py
+          python -u canada2.py   # unbuffered for live logs
 
       - name: Commit & Push results
         run: |
