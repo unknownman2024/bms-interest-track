@@ -158,11 +158,11 @@
     "date": "2026-08-14",
     "time": "18:15",
     "total": 282,
-    "available": 262,
+    "available": 257,
     "blocked": 0,
-    "sold": 20,
-    "gross": 460.0,
-    "gross_with_tax": 460.0,
+    "sold": 25,
+    "gross": 575.0,
+    "gross_with_tax": 575.0,
     "per_ticket": {
       "net": 23.0,
       "tax": 0,
@@ -500,11 +500,11 @@
     "date": "2026-08-14",
     "time": "18:30",
     "total": 412,
-    "available": 412,
+    "available": 411,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0.0,
-    "gross_with_tax": 0.0,
+    "sold": 1,
+    "gross": 23.0,
+    "gross_with_tax": 23.0,
     "per_ticket": {
       "net": 23.0,
       "tax": 0,
@@ -1099,6 +1099,82 @@
       "tax": 0,
       "fee": 0,
       "grand": 13.75
+    }
+  },
+  {
+    "venue": "Cineplex Odeon Niagara Square Cinemas",
+    "movie": "Batwara 1947 (Hindi w/e.s.t.)",
+    "perfIx": 256797,
+    "date": "2026-08-14",
+    "time": "00:00",
+    "total": 165,
+    "available": 165,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Odeon Niagara Square Cinemas",
+    "movie": "Batwara 1947 (Hindi w/e.s.t.)",
+    "perfIx": 256798,
+    "date": "2026-08-14",
+    "time": "00:00",
+    "total": 165,
+    "available": 165,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Galaxy Cinemas Guelph",
+    "movie": "Batwara 1947 (Hindi w/e.s.t.)",
+    "perfIx": 242194,
+    "date": "2026-08-14",
+    "time": "00:00",
+    "total": 189,
+    "available": 189,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Galaxy Cinemas Guelph",
+    "movie": "Batwara 1947 (Hindi w/e.s.t.)",
+    "perfIx": 242195,
+    "date": "2026-08-14",
+    "time": "00:00",
+    "total": 189,
+    "available": 189,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
     }
   }
 ]
