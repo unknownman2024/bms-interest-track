@@ -25,11 +25,11 @@
     "date": "2026-08-19",
     "time": "22:45",
     "total": 412,
-    "available": 310,
+    "available": 315,
     "blocked": 0,
-    "sold": 102,
-    "gross": 2346.0,
-    "gross_with_tax": 2346.0,
+    "sold": 97,
+    "gross": 2231.0,
+    "gross_with_tax": 2231.0,
     "per_ticket": {
       "net": 23.0,
       "tax": 0,
@@ -424,11 +424,11 @@
     "date": "2026-08-19",
     "time": "00:00",
     "total": 126,
-    "available": 125,
+    "available": 123,
     "blocked": 0,
-    "sold": 1,
-    "gross": 15,
-    "gross_with_tax": 15,
+    "sold": 3,
+    "gross": 45,
+    "gross_with_tax": 45,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -2381,11 +2381,11 @@
     "date": "2026-08-19",
     "time": "23:00",
     "total": 267,
-    "available": 197,
+    "available": 194,
     "blocked": 0,
-    "sold": 70,
-    "gross": 1610.0,
-    "gross_with_tax": 1610.0,
+    "sold": 73,
+    "gross": 1679.0,
+    "gross_with_tax": 1679.0,
     "per_ticket": {
       "net": 23.0,
       "tax": 0,
@@ -2410,6 +2410,196 @@
       "tax": 0,
       "fee": 0,
       "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Vishwanath and Sons - Tamil",
+    "perfIx": "40516",
+    "date": "2026-08-19",
+    "time": "15:00",
+    "total": 282,
+    "available": 262,
+    "blocked": 0,
+    "sold": 20,
+    "gross": 380.0,
+    "gross_with_tax": 380.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Vishwanath and Sons - Tamil",
+    "perfIx": "40517",
+    "date": "2026-08-19",
+    "time": "18:45",
+    "total": 282,
+    "available": 262,
+    "blocked": 0,
+    "sold": 20,
+    "gross": 380.0,
+    "gross_with_tax": 380.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Vishwanath and Sons - Telugu",
+    "perfIx": "40520",
+    "date": "2026-08-19",
+    "time": "15:00",
+    "total": 235,
+    "available": 205,
+    "blocked": 0,
+    "sold": 30,
+    "gross": 480.0,
+    "gross_with_tax": 480.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Vishwanath and Sons - Telugu",
+    "perfIx": "40523",
+    "date": "2026-08-19",
+    "time": "15:00",
+    "total": 188,
+    "available": 12,
+    "blocked": 0,
+    "sold": 176,
+    "gross": 3696.0,
+    "gross_with_tax": 3696.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Vishwanath and Sons - Telugu",
+    "perfIx": "40521",
+    "date": "2026-08-19",
+    "time": "18:30",
+    "total": 235,
+    "available": 205,
+    "blocked": 0,
+    "sold": 30,
+    "gross": 480.0,
+    "gross_with_tax": 480.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Vishwanath and Sons - Telugu",
+    "perfIx": "40524",
+    "date": "2026-08-19",
+    "time": "18:30",
+    "total": 188,
+    "available": 12,
+    "blocked": 0,
+    "sold": 176,
+    "gross": 3696.0,
+    "gross_with_tax": 3696.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Vishwanath and Sons - Telugu",
+    "perfIx": "40522",
+    "date": "2026-08-19",
+    "time": "22:15",
+    "total": 235,
+    "available": 205,
+    "blocked": 0,
+    "sold": 30,
+    "gross": 480.0,
+    "gross_with_tax": 480.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Vishwanath and Sons - Telugu",
+    "perfIx": "40525",
+    "date": "2026-08-19",
+    "time": "22:15",
+    "total": 188,
+    "available": 12,
+    "blocked": 0,
+    "sold": 176,
+    "gross": 3696.0,
+    "gross_with_tax": 3696.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "DC- Tamil",
+    "perfIx": "40518",
+    "date": "2026-08-19",
+    "time": "15:00",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 817.0,
+    "gross_with_tax": 817.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "DC- Tamil",
+    "perfIx": "40519",
+    "date": "2026-08-19",
+    "time": "19:00",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 817.0,
+    "gross_with_tax": 817.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
     }
   }
 ]
