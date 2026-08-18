@@ -291,16 +291,35 @@
     "date": "2026-08-26",
     "time": "18:00",
     "total": 129,
-    "available": 105,
+    "available": 99,
     "blocked": 0,
-    "sold": 24,
-    "gross": 672.0,
-    "gross_with_tax": 672.0,
+    "sold": 30,
+    "gross": 840.0,
+    "gross_with_tax": 840.0,
     "per_ticket": {
       "net": 28.0,
       "tax": 0,
       "fee": 0,
       "grand": 28.0
+    }
+  },
+  {
+    "venue": "Galaxy Cinemas Guelph",
+    "movie": "Awarapan 2 (Hindi w/e.s.t.)",
+    "perfIx": 242672,
+    "date": "2026-08-26",
+    "time": "00:00",
+    "total": 234,
+    "available": 234,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
     }
   }
 ]
