@@ -975,11 +975,11 @@
     "date": "2026-08-21",
     "time": "00:00",
     "total": 151,
-    "available": 148,
+    "available": 151,
     "blocked": 0,
-    "sold": 3,
-    "gross": 45,
-    "gross_with_tax": 45,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -1764,6 +1764,614 @@
       "tax": 0,
       "fee": 0,
       "grand": 15
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Awarapan 2- Hindi",
+    "perfIx": "40556",
+    "date": "2026-08-21",
+    "time": "15:15",
+    "total": 195,
+    "available": 187,
+    "blocked": 0,
+    "sold": 8,
+    "gross": 72.0,
+    "gross_with_tax": 72.0,
+    "per_ticket": {
+      "net": 9.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Ram in Leela - Tamil",
+    "perfIx": "40558",
+    "date": "2026-08-21",
+    "time": "18:30",
+    "total": 195,
+    "available": 187,
+    "blocked": 0,
+    "sold": 8,
+    "gross": 128.0,
+    "gross_with_tax": 128.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "DC.- Tamil",
+    "perfIx": "40547",
+    "date": "2026-08-21",
+    "time": "22:00",
+    "total": 188,
+    "available": 12,
+    "blocked": 0,
+    "sold": 176,
+    "gross": 3696.0,
+    "gross_with_tax": 3696.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Vishwanath and Sons - Tamil",
+    "perfIx": "40538",
+    "date": "2026-08-21",
+    "time": "18:30",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 817.0,
+    "gross_with_tax": 817.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Vishwanath and Sons - Telugu",
+    "perfIx": "40553",
+    "date": "2026-08-21",
+    "time": "19:00",
+    "total": 240,
+    "available": 36,
+    "blocked": 0,
+    "sold": 204,
+    "gross": 4284.0,
+    "gross_with_tax": 4284.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Khalifa - Malayalam",
+    "perfIx": "40549",
+    "date": "2026-08-21",
+    "time": "15:30",
+    "total": 282,
+    "available": 262,
+    "blocked": 0,
+    "sold": 20,
+    "gross": 460.0,
+    "gross_with_tax": 460.0,
+    "per_ticket": {
+      "net": 23.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 23.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Bethlehem Kudumba Unit- Malayalam",
+    "perfIx": "40541",
+    "date": "2026-08-21",
+    "time": "18:45",
+    "total": 171,
+    "available": 164,
+    "blocked": 0,
+    "sold": 7,
+    "gross": 140.0,
+    "gross_with_tax": 140.0,
+    "per_ticket": {
+      "net": 20.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 20.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Vishwanath and Sons - Tamil",
+    "perfIx": "17068",
+    "date": "2026-08-21",
+    "time": "21:45",
+    "total": 412,
+    "available": 408,
+    "blocked": 0,
+    "sold": 4,
+    "gross": 76.0,
+    "gross_with_tax": 76.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Khalifa - Malayalam",
+    "perfIx": "17071",
+    "date": "2026-08-21",
+    "time": "22:15",
+    "total": 256,
+    "available": 250,
+    "blocked": 0,
+    "sold": 6,
+    "gross": 138.0,
+    "gross_with_tax": 138.0,
+    "per_ticket": {
+      "net": 23.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 23.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Bethlehem Kudumba Unit- Malayalam",
+    "perfIx": "17070",
+    "date": "2026-08-21",
+    "time": "18:45",
+    "total": 256,
+    "available": 240,
+    "blocked": 0,
+    "sold": 16,
+    "gross": 368.0,
+    "gross_with_tax": 368.0,
+    "per_ticket": {
+      "net": 23.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 23.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Vishwanath and Sons - Tamil",
+    "perfIx": "41059",
+    "date": "2026-08-21",
+    "time": "15:15",
+    "total": 263,
+    "available": 263,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Vishwanath and Sons - Tamil",
+    "perfIx": "41053",
+    "date": "2026-08-21",
+    "time": "18:30",
+    "total": 263,
+    "available": 254,
+    "blocked": 0,
+    "sold": 9,
+    "gross": 144.0,
+    "gross_with_tax": 144.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Khalifa - Malayalam",
+    "perfIx": "41057",
+    "date": "2026-08-21",
+    "time": "15:00",
+    "total": 183,
+    "available": 183,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 20.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 20.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Bethlehem Kudumba Unit- Malayalam",
+    "perfIx": "41061",
+    "date": "2026-08-21",
+    "time": "18:45",
+    "total": 141,
+    "available": 136,
+    "blocked": 0,
+    "sold": 5,
+    "gross": 100.0,
+    "gross_with_tax": 100.0,
+    "per_ticket": {
+      "net": 20.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 20.0
+    }
+  },
+  {
+    "venue": "York Garden City",
+    "movie": "Irumudi- Telugu",
+    "perfIx": "3464",
+    "date": "2026-08-21",
+    "time": "18:15",
+    "total": 201,
+    "available": 195,
+    "blocked": 0,
+    "sold": 6,
+    "gross": 108.0,
+    "gross_with_tax": 108.0,
+    "per_ticket": {
+      "net": 18.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 18.0
+    }
+  },
+  {
+    "venue": "York Garden City",
+    "movie": "Vishwanath and Sons - Tamil",
+    "perfIx": "3463",
+    "date": "2026-08-21",
+    "time": "15:00",
+    "total": 201,
+    "available": 195,
+    "blocked": 0,
+    "sold": 6,
+    "gross": 96.0,
+    "gross_with_tax": 96.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Garden City",
+    "movie": "Spider-Man: Brand New Day - English",
+    "perfIx": "3460",
+    "date": "2026-08-21",
+    "time": "14:30",
+    "total": 158,
+    "available": 158,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 8.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 8.0
+    }
+  },
+  {
+    "venue": "York Garden City",
+    "movie": "Spider-Man: Brand New Day - English",
+    "perfIx": "3461",
+    "date": "2026-08-21",
+    "time": "18:00",
+    "total": 158,
+    "available": 158,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 11.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 11.0
+    }
+  },
+  {
+    "venue": "York Garden City",
+    "movie": "Spider-Man: Brand New Day - English",
+    "perfIx": "3462",
+    "date": "2026-08-21",
+    "time": "21:30",
+    "total": 158,
+    "available": 158,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 11.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 11.0
+    }
+  },
+  {
+    "venue": "Hollywood Cinema Caprice",
+    "movie": "The Odyssey",
+    "perfIx": "76062",
+    "date": "2026-08-21",
+    "time": "12:45",
+    "total": 116,
+    "available": 116,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 9.5,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.5
+    }
+  },
+  {
+    "venue": "Hollywood Cinema Caprice",
+    "movie": "The Odyssey",
+    "perfIx": "76063",
+    "date": "2026-08-21",
+    "time": "16:15",
+    "total": 116,
+    "available": 116,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 9.5,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.5
+    }
+  },
+  {
+    "venue": "Hollywood Cinema Caprice",
+    "movie": "The Odyssey",
+    "perfIx": "76064",
+    "date": "2026-08-21",
+    "time": "19:45",
+    "total": 116,
+    "available": 116,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 10.75,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.75
+    }
+  },
+  {
+    "venue": "Hollywood Cinema Caprice",
+    "movie": "PAW Patrol: The Dino Movie",
+    "perfIx": "76065",
+    "date": "2026-08-21",
+    "time": "13:15",
+    "total": 107,
+    "available": 107,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 9.5,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.5
+    }
+  },
+  {
+    "venue": "Hollywood Cinema Caprice",
+    "movie": "PAW Patrol: The Dino Movie",
+    "perfIx": "76066",
+    "date": "2026-08-21",
+    "time": "15:15",
+    "total": 107,
+    "available": 107,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 9.5,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.5
+    }
+  },
+  {
+    "venue": "Hollywood Cinema Caprice",
+    "movie": "PAW Patrol: The Dino Movie",
+    "perfIx": "76067",
+    "date": "2026-08-21",
+    "time": "17:15",
+    "total": 107,
+    "available": 107,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 9.5,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.5
+    }
+  },
+  {
+    "venue": "Hollywood Cinema Caprice",
+    "movie": "PAW Patrol: The Dino Movie",
+    "perfIx": "76068",
+    "date": "2026-08-21",
+    "time": "19:30",
+    "total": 107,
+    "available": 107,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 10.75,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.75
+    }
+  },
+  {
+    "venue": "Hollywood Cinema Caprice",
+    "movie": "Spider-Man: Brand New Day",
+    "perfIx": "76059",
+    "date": "2026-08-21",
+    "time": "16:00",
+    "total": 129,
+    "available": 128,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 9.5,
+    "gross_with_tax": 9.5,
+    "per_ticket": {
+      "net": 9.5,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.5
+    }
+  },
+  {
+    "venue": "Hollywood Cinema Caprice",
+    "movie": "Spider-Man: Brand New Day",
+    "perfIx": "76069",
+    "date": "2026-08-21",
+    "time": "21:30",
+    "total": 107,
+    "available": 105,
+    "blocked": 0,
+    "sold": 2,
+    "gross": 21.5,
+    "gross_with_tax": 21.5,
+    "per_ticket": {
+      "net": 10.75,
+      "tax": 0,
+      "fee": 0,
+      "grand": 10.75
+    }
+  },
+  {
+    "venue": "Hollywood Cinema Caprice",
+    "movie": "Irumudi (Telugu)",
+    "perfIx": "76163",
+    "date": "2026-08-21",
+    "time": "18:00",
+    "total": 129,
+    "available": 128,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 18.0,
+    "gross_with_tax": 18.0,
+    "per_ticket": {
+      "net": 18.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 18.0
+    }
+  },
+  {
+    "venue": "Hollywood Cinema Caprice",
+    "movie": "Vishwanath & Sons (Tamil)",
+    "perfIx": "76162",
+    "date": "2026-08-21",
+    "time": "14:00",
+    "total": 129,
+    "available": 128,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 16.0,
+    "gross_with_tax": 16.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Hollywood Cinema Caprice",
+    "movie": "Spider-Man: Brand New Day (3D)",
+    "perfIx": "76060",
+    "date": "2026-08-21",
+    "time": "19:00",
+    "total": 129,
+    "available": 128,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 13.75,
+    "gross_with_tax": 13.75,
+    "per_ticket": {
+      "net": 13.75,
+      "tax": 0,
+      "fee": 0,
+      "grand": 13.75
+    }
+  },
+  {
+    "venue": "Hollywood Cinema Caprice",
+    "movie": "Khalifa (Malayalam)",
+    "perfIx": "76164",
+    "date": "2026-08-21",
+    "time": "21:45",
+    "total": 129,
+    "available": 123,
+    "blocked": 0,
+    "sold": 6,
+    "gross": 120.0,
+    "gross_with_tax": 120.0,
+    "per_ticket": {
+      "net": 20.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 20.0
     }
   }
 ]
