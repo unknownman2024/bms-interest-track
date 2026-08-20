@@ -11,7 +11,7 @@ import re
 
 # CINEPLEX_FILMS is now fetched dynamically – removed static mapping
 
-TARGET_START="2026-07-01"
+TARGET_START="2026-08-25"
 
 today=datetime.now(ZoneInfo("America/Toronto")).date()
 target=datetime.fromisoformat(TARGET_START).date()
