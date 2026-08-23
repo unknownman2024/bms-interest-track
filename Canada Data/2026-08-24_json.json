@@ -6,11 +6,11 @@
     "date": "2026-08-24",
     "time": "15:00",
     "total": 141,
-    "available": 141,
+    "available": 138,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0.0,
-    "gross_with_tax": 0.0,
+    "sold": 3,
+    "gross": 54.0,
+    "gross_with_tax": 54.0,
     "per_ticket": {
       "net": 18.0,
       "tax": 0,
@@ -63,11 +63,11 @@
     "date": "2026-08-24",
     "time": "21:45",
     "total": 183,
-    "available": 180,
+    "available": 177,
     "blocked": 0,
-    "sold": 3,
-    "gross": 48.0,
-    "gross_with_tax": 48.0,
+    "sold": 6,
+    "gross": 96.0,
+    "gross_with_tax": 96.0,
     "per_ticket": {
       "net": 16.0,
       "tax": 0,
@@ -139,11 +139,11 @@
     "date": "2026-08-24",
     "time": "22:00",
     "total": 263,
-    "available": 254,
+    "available": 253,
     "blocked": 0,
-    "sold": 9,
-    "gross": 180.0,
-    "gross_with_tax": 180.0,
+    "sold": 10,
+    "gross": 200.0,
+    "gross_with_tax": 200.0,
     "per_ticket": {
       "net": 20.0,
       "tax": 0,
@@ -1697,11 +1697,11 @@
     "date": "2026-08-24",
     "time": "18:45",
     "total": 256,
-    "available": 172,
+    "available": 170,
     "blocked": 0,
-    "sold": 84,
-    "gross": 1932.0,
-    "gross_with_tax": 1932.0,
+    "sold": 86,
+    "gross": 1978.0,
+    "gross_with_tax": 1978.0,
     "per_ticket": {
       "net": 23.0,
       "tax": 0,
@@ -1745,6 +1745,405 @@
       "tax": 0,
       "fee": 0,
       "grand": 18.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Awarapan 2- Hindi",
+    "perfIx": "40770",
+    "date": "2026-08-24",
+    "time": "15:15",
+    "total": 195,
+    "available": 187,
+    "blocked": 0,
+    "sold": 8,
+    "gross": 72.0,
+    "gross_with_tax": 72.0,
+    "per_ticket": {
+      "net": 9.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 9.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Irumudi- Telugu",
+    "perfIx": "40776",
+    "date": "2026-08-24",
+    "time": "18:30",
+    "total": 211,
+    "available": 132,
+    "blocked": 0,
+    "sold": 79,
+    "gross": 1422.0,
+    "gross_with_tax": 1422.0,
+    "per_ticket": {
+      "net": 18.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 18.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Irumudi- Telugu",
+    "perfIx": "40777",
+    "date": "2026-08-24",
+    "time": "18:30",
+    "total": 240,
+    "available": 36,
+    "blocked": 0,
+    "sold": 204,
+    "gross": 4692.0,
+    "gross_with_tax": 4692.0,
+    "per_ticket": {
+      "net": 23.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 23.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Irumudi- Telugu",
+    "perfIx": "40768",
+    "date": "2026-08-24",
+    "time": "22:00",
+    "total": 211,
+    "available": 132,
+    "blocked": 0,
+    "sold": 79,
+    "gross": 1422.0,
+    "gross_with_tax": 1422.0,
+    "per_ticket": {
+      "net": 18.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 18.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Irumudi- Telugu",
+    "perfIx": "40769",
+    "date": "2026-08-24",
+    "time": "22:00",
+    "total": 240,
+    "available": 36,
+    "blocked": 0,
+    "sold": 204,
+    "gross": 4692.0,
+    "gross_with_tax": 4692.0,
+    "per_ticket": {
+      "net": 23.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 23.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Ram in Leela - Tamil",
+    "perfIx": "40772",
+    "date": "2026-08-24",
+    "time": "18:30",
+    "total": 195,
+    "available": 187,
+    "blocked": 0,
+    "sold": 8,
+    "gross": 128.0,
+    "gross_with_tax": 128.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "DC.- Tamil",
+    "perfIx": "40761",
+    "date": "2026-08-24",
+    "time": "22:00",
+    "total": 235,
+    "available": 205,
+    "blocked": 0,
+    "sold": 30,
+    "gross": 480.0,
+    "gross_with_tax": 480.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "DC.- Tamil",
+    "perfIx": "40762",
+    "date": "2026-08-24",
+    "time": "22:00",
+    "total": 188,
+    "available": 12,
+    "blocked": 0,
+    "sold": 176,
+    "gross": 3696.0,
+    "gross_with_tax": 3696.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Vishwanath and Sons - Tamil",
+    "perfIx": "40752",
+    "date": "2026-08-24",
+    "time": "15:00",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 817.0,
+    "gross_with_tax": 817.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Vishwanath and Sons - Tamil",
+    "perfIx": "40753",
+    "date": "2026-08-24",
+    "time": "18:30",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 817.0,
+    "gross_with_tax": 817.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Vishwanath and Sons - Tamil",
+    "perfIx": "40754",
+    "date": "2026-08-24",
+    "time": "22:15",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 817.0,
+    "gross_with_tax": 817.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Modha Rathiri - Tamil",
+    "perfIx": "40758",
+    "date": "2026-08-24",
+    "time": "15:15",
+    "total": 235,
+    "available": 205,
+    "blocked": 0,
+    "sold": 30,
+    "gross": 480.0,
+    "gross_with_tax": 480.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Modha Rathiri - Tamil",
+    "perfIx": "40763",
+    "date": "2026-08-24",
+    "time": "15:15",
+    "total": 188,
+    "available": 12,
+    "blocked": 0,
+    "sold": 176,
+    "gross": 3696.0,
+    "gross_with_tax": 3696.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Khalifa - Malayalam",
+    "perfIx": "40759",
+    "date": "2026-08-24",
+    "time": "18:30",
+    "total": 235,
+    "available": 205,
+    "blocked": 0,
+    "sold": 30,
+    "gross": 540.0,
+    "gross_with_tax": 540.0,
+    "per_ticket": {
+      "net": 18.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 18.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Khalifa - Malayalam",
+    "perfIx": "40760",
+    "date": "2026-08-24",
+    "time": "18:30",
+    "total": 188,
+    "available": 12,
+    "blocked": 0,
+    "sold": 176,
+    "gross": 4048.0,
+    "gross_with_tax": 4048.0,
+    "per_ticket": {
+      "net": 23.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 23.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Khalifa - Malayalam",
+    "perfIx": "40778",
+    "date": "2026-08-24",
+    "time": "22:15",
+    "total": 171,
+    "available": 164,
+    "blocked": 0,
+    "sold": 7,
+    "gross": 126.0,
+    "gross_with_tax": 126.0,
+    "per_ticket": {
+      "net": 18.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 18.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Bethlehem Kudumba Unit- Malayalam",
+    "perfIx": "40773",
+    "date": "2026-08-24",
+    "time": "15:00",
+    "total": 282,
+    "available": 261,
+    "blocked": 0,
+    "sold": 21,
+    "gross": 483.0,
+    "gross_with_tax": 483.0,
+    "per_ticket": {
+      "net": 23.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 23.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Bethlehem Kudumba Unit- Malayalam",
+    "perfIx": "40756",
+    "date": "2026-08-24",
+    "time": "18:45",
+    "total": 171,
+    "available": 160,
+    "blocked": 0,
+    "sold": 11,
+    "gross": 220.0,
+    "gross_with_tax": 220.0,
+    "per_ticket": {
+      "net": 20.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 20.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Bethlehem Kudumba Unit- Malayalam",
+    "perfIx": "40774",
+    "date": "2026-08-24",
+    "time": "18:45",
+    "total": 282,
+    "available": 257,
+    "blocked": 0,
+    "sold": 25,
+    "gross": 575.0,
+    "gross_with_tax": 575.0,
+    "per_ticket": {
+      "net": 23.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 23.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Bethlehem Kudumba Unit- Malayalam",
+    "perfIx": "40779",
+    "date": "2026-08-24",
+    "time": "22:00",
+    "total": 195,
+    "available": 178,
+    "blocked": 0,
+    "sold": 17,
+    "gross": 340.0,
+    "gross_with_tax": 340.0,
+    "per_ticket": {
+      "net": 20.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 20.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Bethlehem Kudumba Unit- Malayalam",
+    "perfIx": "40775",
+    "date": "2026-08-24",
+    "time": "22:30",
+    "total": 282,
+    "available": 261,
+    "blocked": 0,
+    "sold": 21,
+    "gross": 483.0,
+    "gross_with_tax": 483.0,
+    "per_ticket": {
+      "net": 23.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 23.0
     }
   }
 ]
