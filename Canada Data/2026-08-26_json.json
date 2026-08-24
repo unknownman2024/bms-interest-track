@@ -1298,11 +1298,11 @@
     "date": "2026-08-26",
     "time": "00:00",
     "total": 407,
-    "available": 384,
+    "available": 383,
     "blocked": 0,
-    "sold": 23,
-    "gross": 345,
-    "gross_with_tax": 345,
+    "sold": 24,
+    "gross": 360,
+    "gross_with_tax": 360,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -1925,11 +1925,11 @@
     "date": "2026-08-26",
     "time": "00:00",
     "total": 387,
-    "available": 351,
+    "available": 349,
     "blocked": 0,
-    "sold": 36,
-    "gross": 540,
-    "gross_with_tax": 540,
+    "sold": 38,
+    "gross": 570,
+    "gross_with_tax": 570,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -2847,6 +2847,44 @@
       "tax": 0,
       "fee": 0,
       "grand": 15
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Vishwanath and Sons - Tamil",
+    "perfIx": "41117",
+    "date": "2026-08-26",
+    "time": "18:30",
+    "total": 263,
+    "available": 263,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Bethlehem Kudumba Unit- Malayalam",
+    "perfIx": "41174",
+    "date": "2026-08-26",
+    "time": "15:00",
+    "total": 263,
+    "available": 258,
+    "blocked": 0,
+    "sold": 5,
+    "gross": 100.0,
+    "gross_with_tax": 100.0,
+    "per_ticket": {
+      "net": 20.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 20.0
     }
   }
 ]
