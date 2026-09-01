@@ -708,8 +708,8 @@
     "perfIx": 479649,
     "date": "2026-09-03",
     "time": "00:00",
-    "total": 290,
-    "available": 290,
+    "total": 105,
+    "available": 105,
     "blocked": 0,
     "sold": 0,
     "gross": 0,
@@ -2894,11 +2894,11 @@
     "date": "2026-09-03",
     "time": "00:00",
     "total": 75,
-    "available": 73,
+    "available": 71,
     "blocked": 0,
-    "sold": 2,
-    "gross": 30,
-    "gross_with_tax": 30,
+    "sold": 4,
+    "gross": 60,
+    "gross_with_tax": 60,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -2970,11 +2970,11 @@
     "date": "2026-09-03",
     "time": "00:00",
     "total": 66,
-    "available": 64,
+    "available": 62,
     "blocked": 0,
-    "sold": 2,
-    "gross": 30,
-    "gross_with_tax": 30,
+    "sold": 4,
+    "gross": 60,
+    "gross_with_tax": 60,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -3037,6 +3037,25 @@
       "tax": 0,
       "fee": 0,
       "grand": 15
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Dharmasthala Niyojakavargam - Telugu",
+    "perfIx": "41035",
+    "date": "2026-09-03",
+    "time": "19:00",
+    "total": 195,
+    "available": 187,
+    "blocked": 0,
+    "sold": 8,
+    "gross": 128.0,
+    "gross_with_tax": 128.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
     }
   }
 ]
