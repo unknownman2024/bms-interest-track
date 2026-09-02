@@ -177,11 +177,11 @@
     "date": "2026-09-03",
     "time": "19:00",
     "total": 129,
-    "available": 128,
+    "available": 122,
     "blocked": 0,
-    "sold": 1,
-    "gross": 10.75,
-    "gross_with_tax": 10.75,
+    "sold": 7,
+    "gross": 75.25,
+    "gross_with_tax": 75.25,
     "per_ticket": {
       "net": 10.75,
       "tax": 0,
@@ -1792,11 +1792,11 @@
     "date": "2026-09-03",
     "time": "00:00",
     "total": 111,
-    "available": 111,
+    "available": 109,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
-    "gross_with_tax": 0,
+    "sold": 2,
+    "gross": 30,
+    "gross_with_tax": 30,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -2210,11 +2210,11 @@
     "date": "2026-09-03",
     "time": "00:00",
     "total": 264,
-    "available": 264,
+    "available": 262,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
-    "gross_with_tax": 0,
+    "sold": 2,
+    "gross": 30,
+    "gross_with_tax": 30,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -2875,11 +2875,11 @@
     "date": "2026-09-03",
     "time": "00:00",
     "total": 252,
-    "available": 251,
+    "available": 249,
     "blocked": 0,
-    "sold": 1,
-    "gross": 15,
-    "gross_with_tax": 15,
+    "sold": 3,
+    "gross": 45,
+    "gross_with_tax": 45,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -3255,6 +3255,519 @@
     "date": "2026-09-03",
     "time": "18:30",
     "total": 263,
+    "available": 261,
+    "blocked": 0,
+    "sold": 2,
+    "gross": 32.0,
+    "gross_with_tax": 32.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Hi - Tamil",
+    "perfIx": "41152",
+    "date": "2026-09-03",
+    "time": "15:15",
+    "total": 171,
+    "available": 164,
+    "blocked": 0,
+    "sold": 7,
+    "gross": 112.0,
+    "gross_with_tax": 112.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Hi - Tamil",
+    "perfIx": "41151",
+    "date": "2026-09-03",
+    "time": "18:30",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 817.0,
+    "gross_with_tax": 817.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Hi - Tamil",
+    "perfIx": "41172",
+    "date": "2026-09-03",
+    "time": "22:15",
+    "total": 171,
+    "available": 164,
+    "blocked": 0,
+    "sold": 7,
+    "gross": 112.0,
+    "gross_with_tax": 112.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Bethlehem Kudumba Unit- Telugu",
+    "perfIx": "41167",
+    "date": "2026-09-03",
+    "time": "18:45",
+    "total": 235,
+    "available": 205,
+    "blocked": 0,
+    "sold": 30,
+    "gross": 480.0,
+    "gross_with_tax": 480.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Bethlehem Kudumba Unit- Telugu",
+    "perfIx": "41168",
+    "date": "2026-09-03",
+    "time": "18:45",
+    "total": 188,
+    "available": 12,
+    "blocked": 0,
+    "sold": 176,
+    "gross": 3696.0,
+    "gross_with_tax": 3696.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Once more- Tamil",
+    "perfIx": "41163",
+    "date": "2026-09-03",
+    "time": "15:00",
+    "total": 195,
+    "available": 187,
+    "blocked": 0,
+    "sold": 8,
+    "gross": 128.0,
+    "gross_with_tax": 128.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Dharmasthala Niyojakavargam - Telugu",
+    "perfIx": "41166",
+    "date": "2026-09-03",
+    "time": "19:00",
+    "total": 195,
+    "available": 187,
+    "blocked": 0,
+    "sold": 8,
+    "gross": 128.0,
+    "gross_with_tax": 128.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Vishwanath and Sons - Tamil",
+    "perfIx": "41149",
+    "date": "2026-09-03",
+    "time": "15:00",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 817.0,
+    "gross_with_tax": 817.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Vishwanath and Sons - Tamil",
+    "perfIx": "41147",
+    "date": "2026-09-03",
+    "time": "18:45",
+    "total": 211,
+    "available": 132,
+    "blocked": 0,
+    "sold": 79,
+    "gross": 1264.0,
+    "gross_with_tax": 1264.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Vishwanath and Sons - Tamil",
+    "perfIx": "41148",
+    "date": "2026-09-03",
+    "time": "18:45",
+    "total": 240,
+    "available": 36,
+    "blocked": 0,
+    "sold": 204,
+    "gross": 4284.0,
+    "gross_with_tax": 4284.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Vishwanath and Sons - Tamil",
+    "perfIx": "41150",
+    "date": "2026-09-03",
+    "time": "22:00",
+    "total": 267,
+    "available": 224,
+    "blocked": 0,
+    "sold": 43,
+    "gross": 817.0,
+    "gross_with_tax": 817.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Khalifa - Malayalam",
+    "perfIx": "41170",
+    "date": "2026-09-03",
+    "time": "22:00",
+    "total": 195,
+    "available": 187,
+    "blocked": 0,
+    "sold": 8,
+    "gross": 128.0,
+    "gross_with_tax": 128.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "DC- Tamil",
+    "perfIx": "41161",
+    "date": "2026-09-03",
+    "time": "22:15",
+    "total": 211,
+    "available": 132,
+    "blocked": 0,
+    "sold": 79,
+    "gross": 1264.0,
+    "gross_with_tax": 1264.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "DC- Tamil",
+    "perfIx": "41162",
+    "date": "2026-09-03",
+    "time": "22:15",
+    "total": 240,
+    "available": 36,
+    "blocked": 0,
+    "sold": 204,
+    "gross": 4284.0,
+    "gross_with_tax": 4284.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Toxic: A Fairy Tale for Grown-Ups - Tamil",
+    "perfIx": "41142",
+    "date": "2026-09-03",
+    "time": "14:45",
+    "total": 211,
+    "available": 132,
+    "blocked": 0,
+    "sold": 79,
+    "gross": 1264.0,
+    "gross_with_tax": 1264.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Toxic: A Fairy Tale for Grown-Ups - Tamil",
+    "perfIx": "41143",
+    "date": "2026-09-03",
+    "time": "14:45",
+    "total": 240,
+    "available": 36,
+    "blocked": 0,
+    "sold": 204,
+    "gross": 4284.0,
+    "gross_with_tax": 4284.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Romanchakam- Telugu",
+    "perfIx": "41171",
+    "date": "2026-09-03",
+    "time": "19:00",
+    "total": 171,
+    "available": 164,
+    "blocked": 0,
+    "sold": 7,
+    "gross": 112.0,
+    "gross_with_tax": 112.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Romanchakam- Telugu",
+    "perfIx": "41164",
+    "date": "2026-09-03",
+    "time": "22:15",
+    "total": 235,
+    "available": 205,
+    "blocked": 0,
+    "sold": 30,
+    "gross": 480.0,
+    "gross_with_tax": 480.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Romanchakam- Telugu",
+    "perfIx": "41165",
+    "date": "2026-09-03",
+    "time": "22:15",
+    "total": 188,
+    "available": 12,
+    "blocked": 0,
+    "sold": 176,
+    "gross": 3696.0,
+    "gross_with_tax": 3696.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Toxic: A Fairy Tale for Grown-Ups- Telugu",
+    "perfIx": "41144",
+    "date": "2026-09-03",
+    "time": "14:45",
+    "total": 235,
+    "available": 205,
+    "blocked": 0,
+    "sold": 30,
+    "gross": 480.0,
+    "gross_with_tax": 480.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Toxic: A Fairy Tale for Grown-Ups- Telugu",
+    "perfIx": "41145",
+    "date": "2026-09-03",
+    "time": "14:45",
+    "total": 188,
+    "available": 12,
+    "blocked": 0,
+    "sold": 176,
+    "gross": 3696.0,
+    "gross_with_tax": 3696.0,
+    "per_ticket": {
+      "net": 21.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 21.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Bethlehem Kudumba Unit- Malayalam",
+    "perfIx": "41173",
+    "date": "2026-09-03",
+    "time": "15:00",
+    "total": 282,
+    "available": 261,
+    "blocked": 0,
+    "sold": 21,
+    "gross": 399.0,
+    "gross_with_tax": 399.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Bethlehem Kudumba Unit- Malayalam",
+    "perfIx": "41174",
+    "date": "2026-09-03",
+    "time": "18:45",
+    "total": 282,
+    "available": 261,
+    "blocked": 0,
+    "sold": 21,
+    "gross": 399.0,
+    "gross_with_tax": 399.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "York Cinemas",
+    "movie": "Bethlehem Kudumba Unit- Malayalam",
+    "perfIx": "41175",
+    "date": "2026-09-03",
+    "time": "22:15",
+    "total": 282,
+    "available": 261,
+    "blocked": 0,
+    "sold": 21,
+    "gross": 399.0,
+    "gross_with_tax": 399.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Once more- Tamil",
+    "perfIx": "41324",
+    "date": "2026-09-03",
+    "time": "15:00",
+    "total": 141,
+    "available": 141,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Vishwanath and Sons - Tamil",
+    "perfIx": "41318",
+    "date": "2026-09-03",
+    "time": "15:00",
+    "total": 183,
+    "available": 183,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Bethlehem Kudumba Unit- Malayalam",
+    "perfIx": "41321",
+    "date": "2026-09-03",
+    "time": "15:15",
+    "total": 263,
     "available": 263,
     "blocked": 0,
     "sold": 0,
@@ -3265,6 +3778,82 @@
       "tax": 0,
       "fee": 0,
       "grand": 16.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Bethlehem Kudumba Unit- Malayalam",
+    "perfIx": "41325",
+    "date": "2026-09-03",
+    "time": "21:45",
+    "total": 263,
+    "available": 263,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Hollywood Cinema Caprice",
+    "movie": "Bethlehem Kudumba Unit (Malayalam)",
+    "perfIx": "76381",
+    "date": "2026-09-03",
+    "time": "14:00",
+    "total": 129,
+    "available": 125,
+    "blocked": 0,
+    "sold": 4,
+    "gross": 64.0,
+    "gross_with_tax": 64.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Hollywood Cinema Caprice",
+    "movie": "Bethlehem Kudumba Unit (Malayalam)",
+    "perfIx": "76382",
+    "date": "2026-09-03",
+    "time": "18:00",
+    "total": 129,
+    "available": 118,
+    "blocked": 0,
+    "sold": 11,
+    "gross": 176.0,
+    "gross_with_tax": 176.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Park Lane",
+    "movie": "Toxic (Hindi w/e.s.t.)",
+    "perfIx": 128008,
+    "date": "2026-09-03",
+    "time": "00:00",
+    "total": 166,
+    "available": 166,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
     }
   }
 ]
