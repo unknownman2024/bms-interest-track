@@ -937,11 +937,11 @@
     "date": "2026-09-03",
     "time": "00:00",
     "total": 223,
-    "available": 223,
+    "available": 220,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
-    "gross_with_tax": 0,
+    "sold": 3,
+    "gross": 45,
+    "gross_with_tax": 45,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -1374,11 +1374,11 @@
     "date": "2026-09-03",
     "time": "00:00",
     "total": 140,
-    "available": 133,
+    "available": 140,
     "blocked": 0,
-    "sold": 7,
-    "gross": 105,
-    "gross_with_tax": 105,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -1393,11 +1393,11 @@
     "date": "2026-09-03",
     "time": "00:00",
     "total": 140,
-    "available": 140,
+    "available": 138,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
-    "gross_with_tax": 0,
+    "sold": 2,
+    "gross": 30,
+    "gross_with_tax": 30,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -3051,6 +3051,215 @@
     "sold": 8,
     "gross": 128.0,
     "gross_with_tax": 128.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Hi - Tamil",
+    "perfIx": "17179",
+    "date": "2026-09-03",
+    "time": "21:45",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Irumudi- Telugu",
+    "perfIx": "17180",
+    "date": "2026-09-03",
+    "time": "15:15",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 19.0,
+    "gross_with_tax": 19.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Vishwanath and Sons - Tamil",
+    "perfIx": "17177",
+    "date": "2026-09-03",
+    "time": "15:00",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Toxic: A Fairy Tale for Grown-Ups - Tamil",
+    "perfIx": "17181",
+    "date": "2026-09-03",
+    "time": "18:30",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 19.0,
+    "gross_with_tax": 19.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Bethlehem Kudumba Unit- Malayalam",
+    "perfIx": "17178",
+    "date": "2026-09-03",
+    "time": "18:30",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Bethlehem Kudumba Unit- Malayalam",
+    "perfIx": "17182",
+    "date": "2026-09-03",
+    "time": "22:15",
+    "total": 256,
+    "available": 255,
+    "blocked": 0,
+    "sold": 1,
+    "gross": 19.0,
+    "gross_with_tax": 19.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Hi - Tamil",
+    "perfIx": "41320",
+    "date": "2026-09-03",
+    "time": "18:15",
+    "total": 183,
+    "available": 183,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Bethlehem Kudumba Unit- Telugu",
+    "perfIx": "41327",
+    "date": "2026-09-03",
+    "time": "21:15",
+    "total": 183,
+    "available": 183,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Vishwanath and Sons - Tamil",
+    "perfIx": "41319",
+    "date": "2026-09-03",
+    "time": "21:30",
+    "total": 141,
+    "available": 141,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Romanchakam- Telugu",
+    "perfIx": "41328",
+    "date": "2026-09-03",
+    "time": "18:00",
+    "total": 141,
+    "available": 141,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 16.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 16.0
+    }
+  },
+  {
+    "venue": "Woodside Cinemas",
+    "movie": "Bethlehem Kudumba Unit- Malayalam",
+    "perfIx": "41322",
+    "date": "2026-09-03",
+    "time": "18:30",
+    "total": 263,
+    "available": 263,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
     "per_ticket": {
       "net": 16.0,
       "tax": 0,
