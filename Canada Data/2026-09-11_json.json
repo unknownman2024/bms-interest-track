@@ -25,11 +25,11 @@
     "date": "2026-09-11",
     "time": "18:30",
     "total": 267,
-    "available": 224,
+    "available": 222,
     "blocked": 0,
-    "sold": 43,
-    "gross": 817.0,
-    "gross_with_tax": 817.0,
+    "sold": 45,
+    "gross": 855.0,
+    "gross_with_tax": 855.0,
     "per_ticket": {
       "net": 19.0,
       "tax": 0,
@@ -975,11 +975,11 @@
     "date": "2026-09-11",
     "time": "00:00",
     "total": 354,
-    "available": 354,
+    "available": 349,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
-    "gross_with_tax": 0,
+    "sold": 5,
+    "gross": 75,
+    "gross_with_tax": 75,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -994,11 +994,11 @@
     "date": "2026-09-11",
     "time": "00:00",
     "total": 354,
-    "available": 351,
+    "available": 321,
     "blocked": 0,
-    "sold": 3,
-    "gross": 45,
-    "gross_with_tax": 45,
+    "sold": 33,
+    "gross": 495,
+    "gross_with_tax": 495,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -1108,11 +1108,11 @@
     "date": "2026-09-11",
     "time": "00:00",
     "total": 200,
-    "available": 200,
+    "available": 198,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
-    "gross_with_tax": 0,
+    "sold": 2,
+    "gross": 30,
+    "gross_with_tax": 30,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -1127,11 +1127,11 @@
     "date": "2026-09-11",
     "time": "00:00",
     "total": 200,
-    "available": 200,
+    "available": 196,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
-    "gross_with_tax": 0,
+    "sold": 4,
+    "gross": 60,
+    "gross_with_tax": 60,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -1260,11 +1260,11 @@
     "date": "2026-09-11",
     "time": "00:00",
     "total": 252,
-    "available": 243,
+    "available": 203,
     "blocked": 0,
-    "sold": 9,
-    "gross": 135,
-    "gross_with_tax": 135,
+    "sold": 49,
+    "gross": 735,
+    "gross_with_tax": 735,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -1336,11 +1336,11 @@
     "date": "2026-09-11",
     "time": "00:00",
     "total": 71,
-    "available": 71,
+    "available": 70,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
-    "gross_with_tax": 0,
+    "sold": 1,
+    "gross": 15,
+    "gross_with_tax": 15,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -1355,7 +1355,938 @@
     "date": "2026-09-11",
     "time": "00:00",
     "total": 71,
-    "available": 71,
+    "available": 68,
+    "blocked": 0,
+    "sold": 3,
+    "gross": 45,
+    "gross_with_tax": 45,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Albion Cinemas",
+    "movie": "Sardar 2 - Tamil",
+    "perfIx": "17245",
+    "date": "2026-09-11",
+    "time": "21:45",
+    "total": 412,
+    "available": 412,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0.0,
+    "gross_with_tax": 0.0,
+    "per_ticket": {
+      "net": 19.0,
+      "tax": 0,
+      "fee": 0,
+      "grand": 19.0
+    }
+  },
+  {
+    "venue": "Cineplex Odeon South Keys Cinemas",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 410908,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 128,
+    "available": 128,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Odeon Gardiners Road Cinemas",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 300810,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 89,
+    "available": 89,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Odeon Gardiners Road Cinemas",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 300808,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 89,
+    "available": 89,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Odeon Gardiners Road Cinemas",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 300809,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 89,
+    "available": 89,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cin\u00e9ma Cineplex Forum et VIP",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 492999,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 132,
+    "available": 130,
+    "blocked": 0,
+    "sold": 2,
+    "gross": 30,
+    "gross_with_tax": 30,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cin\u00e9ma Cineplex Forum et VIP",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 493000,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 132,
+    "available": 132,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cin\u00e9ma Cineplex Forum et VIP",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 493001,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 132,
+    "available": 132,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Odeon Morningside Cinemas",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 299308,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 320,
+    "available": 314,
+    "blocked": 0,
+    "sold": 6,
+    "gross": 90,
+    "gross_with_tax": 90,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Scarborough",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 375014,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 424,
+    "available": 424,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Scarborough",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 374905,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 424,
+    "available": 424,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Scarborough",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 375013,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 407,
+    "available": 407,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Galaxy Cinemas Barrie",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 330194,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 311,
+    "available": 311,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Galaxy Cinemas Barrie",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 330206,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 311,
+    "available": 311,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Vaughan",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 542529,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 344,
+    "available": 344,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Vaughan",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 542570,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 344,
+    "available": 344,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Vaughan",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 542571,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 344,
+    "available": 344,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Courtney Park",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 319626,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 387,
+    "available": 387,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Courtney Park",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 319627,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 387,
+    "available": 385,
+    "blocked": 0,
+    "sold": 2,
+    "gross": 30,
+    "gross_with_tax": 30,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Courtney Park",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 319628,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 387,
+    "available": 385,
+    "blocked": 0,
+    "sold": 2,
+    "gross": 30,
+    "gross_with_tax": 30,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Courtney Park",
+    "movie": "Toxic (Hindi w/e.s.t.)",
+    "perfIx": 319648,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 268,
+    "available": 268,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Courtney Park",
+    "movie": "Toxic (Hindi w/e.s.t.)",
+    "perfIx": 319649,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 268,
+    "available": 268,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Courtney Park",
+    "movie": "Toxic (Hindi w/e.s.t.)",
+    "perfIx": 319650,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 268,
+    "available": 268,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Courtney Park",
+    "movie": "Awarapan 2 (Hindi w/e.s.t.)",
+    "perfIx": 319633,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 117,
+    "available": 117,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Courtney Park",
+    "movie": "Awarapan 2 (Hindi w/e.s.t.)",
+    "perfIx": 319634,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 117,
+    "available": 117,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Winston Churchill & VIP",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 438328,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 85,
+    "available": 83,
+    "blocked": 0,
+    "sold": 2,
+    "gross": 30,
+    "gross_with_tax": 30,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Winston Churchill & VIP",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 438293,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 85,
+    "available": 83,
+    "blocked": 0,
+    "sold": 2,
+    "gross": 30,
+    "gross_with_tax": 30,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "SilverCity London Cinemas",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 367111,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 97,
+    "available": 97,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "SilverCity London Cinemas",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 367112,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 97,
+    "available": 97,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "SilverCity London Cinemas",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 367113,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 97,
+    "available": 89,
+    "blocked": 0,
+    "sold": 8,
+    "gross": 120,
+    "gross_with_tax": 120,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Odeon Devonshire Mall Cinemas",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 347985,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 110,
+    "available": 110,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Odeon Devonshire Mall Cinemas",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 347990,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 110,
+    "available": 110,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Park Lane",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 128218,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 341,
+    "available": 341,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "SilverCity Thunder Bay Cinemas",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 297866,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 224,
+    "available": 224,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Sydney",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 148022,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 128,
+    "available": 128,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Southland",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 268491,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 86,
+    "available": 86,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Southland",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 268501,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 119,
+    "available": 119,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Manning Town Centre",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 134404,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 219,
+    "available": 219,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Manning Town Centre",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 134415,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 219,
+    "available": 219,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Scotiabank Theatre Chinook",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 527568,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 161,
+    "available": 161,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Scotiabank Theatre Chinook",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 527570,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 162,
+    "available": 162,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Scotiabank Theatre Chinook",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 527605,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 162,
+    "available": 160,
+    "blocked": 0,
+    "sold": 2,
+    "gross": 30,
+    "gross_with_tax": 30,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "SilverCity Mission Cinemas",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 284256,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 205,
+    "available": 205,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "SilverCity Mission Cinemas",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 284243,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 205,
+    "available": 205,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Langley",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 540620,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 342,
+    "available": 342,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Langley",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 540621,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 342,
+    "available": 342,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Cineplex Cinemas Langley",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 540622,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 342,
+    "available": 342,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Galaxy Cinemas Nanaimo",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 217880,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 69,
+    "available": 69,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 15,
+      "tax": 0,
+      "fee": 0,
+      "grand": 15
+    }
+  },
+  {
+    "venue": "Galaxy Cinemas Nanaimo",
+    "movie": "Mirzapur: The Movie (Hindi w/e.s.t.)",
+    "perfIx": 217894,
+    "date": "2026-09-11",
+    "time": "00:00",
+    "total": 76,
+    "available": 76,
     "blocked": 0,
     "sold": 0,
     "gross": 0,
