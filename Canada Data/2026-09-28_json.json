@@ -614,11 +614,11 @@
     "date": "2026-09-28",
     "time": "00:00",
     "total": 223,
-    "available": 223,
+    "available": 205,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
-    "gross_with_tax": 0,
+    "sold": 18,
+    "gross": 270,
+    "gross_with_tax": 270,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -1450,11 +1450,11 @@
     "date": "2026-09-28",
     "time": "00:00",
     "total": 188,
-    "available": 188,
+    "available": 186,
     "blocked": 0,
-    "sold": 0,
-    "gross": 0,
-    "gross_with_tax": 0,
+    "sold": 2,
+    "gross": 30,
+    "gross_with_tax": 30,
     "per_ticket": {
       "net": 15,
       "tax": 0,
@@ -3032,6 +3032,120 @@
     "sold": 3,
     "gross": 42,
     "gross_with_tax": 42,
+    "per_ticket": {
+      "net": 14,
+      "tax": 0,
+      "fee": 0,
+      "grand": 14
+    }
+  },
+  {
+    "venue": "Calgary Country Hills",
+    "movie": "Vvaan: Force of the Forrest (Hindi w EST), The",
+    "perfIx": "11606166",
+    "date": "2026-09-28",
+    "time": "9:15 PM",
+    "total": 66,
+    "available": 62,
+    "blocked": 0,
+    "sold": 4,
+    "gross": 56,
+    "gross_with_tax": 56,
+    "per_ticket": {
+      "net": 14,
+      "tax": 0,
+      "fee": 0,
+      "grand": 14
+    }
+  },
+  {
+    "venue": "Calgary Country Hills",
+    "movie": "Hanuman Ansh (Hindi w EST)",
+    "perfIx": "11606173",
+    "date": "2026-09-28",
+    "time": "10:10 PM",
+    "total": 104,
+    "available": 102,
+    "blocked": 0,
+    "sold": 2,
+    "gross": 28,
+    "gross_with_tax": 28,
+    "per_ticket": {
+      "net": 14,
+      "tax": 0,
+      "fee": 0,
+      "grand": 14
+    }
+  },
+  {
+    "venue": "London",
+    "movie": "Hanuman Ansh (Hindi w EST)",
+    "perfIx": "11600669",
+    "date": "2026-09-28",
+    "time": "10:00 PM",
+    "total": 99,
+    "available": 99,
+    "blocked": 0,
+    "sold": 0,
+    "gross": 0,
+    "gross_with_tax": 0,
+    "per_ticket": {
+      "net": 14,
+      "tax": 0,
+      "fee": 0,
+      "grand": 14
+    }
+  },
+  {
+    "venue": "Whitby",
+    "movie": "Hanuman Ansh (Hindi w EST)",
+    "perfIx": "11604668",
+    "date": "2026-09-28",
+    "time": "9:55 PM",
+    "total": 95,
+    "available": 91,
+    "blocked": 0,
+    "sold": 4,
+    "gross": 56,
+    "gross_with_tax": 56,
+    "per_ticket": {
+      "net": 14,
+      "tax": 0,
+      "fee": 0,
+      "grand": 14
+    }
+  },
+  {
+    "venue": "Whitby",
+    "movie": "Hanuman Ansh (Hindi w EST)",
+    "perfIx": "11604644",
+    "date": "2026-09-28",
+    "time": "6:20 PM",
+    "total": 62,
+    "available": 59,
+    "blocked": 0,
+    "sold": 3,
+    "gross": 42,
+    "gross_with_tax": 42,
+    "per_ticket": {
+      "net": 14,
+      "tax": 0,
+      "fee": 0,
+      "grand": 14
+    }
+  },
+  {
+    "venue": "Whitby",
+    "movie": "Mirzapur (Hindi w EST)",
+    "perfIx": "11604667",
+    "date": "2026-09-28",
+    "time": "9:50 PM",
+    "total": 65,
+    "available": 61,
+    "blocked": 0,
+    "sold": 4,
+    "gross": 56,
+    "gross_with_tax": 56,
     "per_ticket": {
       "net": 14,
       "tax": 0,
